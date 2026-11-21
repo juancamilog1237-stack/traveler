@@ -1,0 +1,3332 @@
+{
+  "meta": {
+    "titulo": "Países Bajos en 12 días",
+    "resumen": "Ámsterdam, Utrecht, Róterdam, La Haya y Haarlem, con excursiones a Zaanse Schans, Keukenhof, el castillo de Haar, Kinderdijk y Delft. Pensado para principios de mayo, en plena temporada de tulipanes.",
+    "destino": "Holanda y principales ciudades de los Países Bajos",
+    "pais": "Países Bajos",
+    "region": "Europa",
+    "duracionDias": 12,
+    "mesesIdeales": [
+      4,
+      5
+    ],
+    "temporadaRecomendada": "Finales de abril y primera semana de mayo, cuando Keukenhof está en flor.",
+    "estilo": "medio",
+    "dificultad": "moderada",
+    "idealPara": [
+      "Grupos de amigos",
+      "Parejas",
+      "Viajeros interesados en cultura, arquitectura y gastronomía"
+    ],
+    "etiquetas": [
+      "historia",
+      "cultura",
+      "canales",
+      "tulipanes",
+      "molinos",
+      "gastronomía",
+      "arquitectura",
+      "viaje grupal"
+    ],
+    "fechaInvestigacion": "2026-11-21",
+    "colorAcento": "#164D44",
+    "portada": {
+      "url": "paises-bajos-12-dias/canal-prinsengracht-de-amsterdam-con-edi-8ebe96.jpg",
+      "alt": "Canal Prinsengracht de Ámsterdam con edificios históricos reflejados en el agua",
+      "credito": "Aforaseem",
+      "licencia": "CC BY-SA 4.0",
+      "fuente": "https://commons.wikimedia.org/wiki/File:Prinsengracht_Amsterdam.jpg"
+    },
+    "galeria": [
+      {
+        "url": "paises-bajos-12-dias/tulipanes-en-flor-en-los-jardines-de-keu-567d54.jpg",
+        "alt": "Tulipanes en flor en los jardines de Keukenhof",
+        "credito": "Elena.laps",
+        "licencia": "CC BY-SA 4.0",
+        "fuente": "https://commons.wikimedia.org/wiki/File:Tulips_at_Keukenhof_gardens.jpg"
+      },
+      {
+        "url": "paises-bajos-12-dias/molinos-tradicionales-en-zaanse-schans-fcd1d1.jpg",
+        "alt": "Molinos tradicionales en Zaanse Schans",
+        "credito": "Gokul Ganesh Murali",
+        "licencia": "CC BY-SA 4.0",
+        "fuente": "https://commons.wikimedia.org/wiki/File:Zaanse_Schans_windmills.jpg"
+      },
+      {
+        "url": "paises-bajos-12-dias/canal-oudegracht-y-torre-dom-de-utrecht-0eaa9d.jpg",
+        "alt": "Canal Oudegracht y torre Dom de Utrecht",
+        "credito": "Ad Meskens",
+        "licencia": "CC BY-SA 3.0",
+        "fuente": "https://commons.wikimedia.org/wiki/File:Utrecht_Dom.JPG"
+      },
+      {
+        "url": "paises-bajos-12-dias/molinos-historicos-alineados-junto-a-los-b4f578.jpg",
+        "alt": "Molinos históricos alineados junto a los canales de Kinderdijk",
+        "credito": "Nachosan",
+        "licencia": "CC BY-SA 3.0",
+        "fuente": "https://commons.wikimedia.org/wiki/File:Kinderdijk_windmills.jpg"
+      },
+      {
+        "url": "paises-bajos-12-dias/panorama-urbano-moderno-de-roterdam-b010b3.jpg",
+        "alt": "Panorama urbano moderno de Róterdam",
+        "credito": "acediscovery",
+        "licencia": "CC BY 4.0",
+        "fuente": "https://commons.wikimedia.org/wiki/File:Rotterdam-Skyline.jpg"
+      },
+      {
+        "url": "paises-bajos-12-dias/iglesia-de-san-bavon-y-centro-historico-3dd8c6.jpg",
+        "alt": "Iglesia de San Bavón y centro histórico de Haarlem",
+        "credito": "René Cortin",
+        "licencia": "CC BY-SA 4.0",
+        "fuente": "https://commons.wikimedia.org/wiki/File:The_Grote_Kerk_or_St.-Bavokerk,_Haarlem,_The_Netherlands.jpg"
+      }
+    ]
+  },
+  "moneda": {
+    "codigo": "EUR",
+    "simbolo": "€",
+    "localPorUSD": 0.91135,
+    "copPorUSD": 3427.69,
+    "fechaTasa": "2026-11-21"
+  },
+  "comoLlegar": {
+    "resumen": "Desde Medellín se conecta por Madrid o Bogotá; desde Bogotá hay vuelo directo de KLM a Ámsterdam.",
+    "aeropuertoLlegada": "Aeropuerto de Ámsterdam-Schiphol (AMS), Países Bajos",
+    "delAeropuertoAlCentro": "Tren NS de Schiphol a Amsterdam Centraal en 15–20 min (5–7 €). El regreso del día 12 sale desde Haarlem.",
+    "rutas": [
+      {
+        "origen": "Medellín, aeropuerto José María Córdova (MDE)",
+        "ruta": "MDE → MAD → AMS",
+        "aerolineas": [
+          "Air Europa"
+        ],
+        "duracion": "13 a 17 h por trayecto, según conexión",
+        "escalas": 1,
+        "precioUSD": {
+          "min": 950,
+          "max": 1650
+        }
+      },
+      {
+        "origen": "Medellín, aeropuerto José María Córdova (MDE)",
+        "ruta": "MDE → BOG → AMS",
+        "aerolineas": [
+          "Avianca",
+          "KLM"
+        ],
+        "duracion": "15 a 20 h por trayecto, según conexión",
+        "escalas": 1,
+        "precioUSD": {
+          "min": 1100,
+          "max": 1800
+        }
+      },
+      {
+        "origen": "Bogotá, aeropuerto El Dorado (BOG)",
+        "ruta": "BOG → AMS",
+        "aerolineas": [
+          "KLM"
+        ],
+        "duracion": "10 h 30 min a 12 h 30 min por trayecto",
+        "escalas": 0,
+        "precioUSD": {
+          "min": 850,
+          "max": 1500
+        }
+      }
+    ]
+  },
+  "itinerario": [
+    {
+      "dia": 1,
+      "titulo": "Primera inmersión en Ámsterdam",
+      "ciudad": "Ámsterdam",
+      "coords": {
+        "lat": 52.3676,
+        "lng": 4.9041
+      },
+      "resumen": "Llegada a Schiphol, registro o almacenamiento de equipaje y primer recorrido por plazas, callejones y canales. En los niveles medio y alto, la tarde termina con una navegación.",
+      "imagenes": [
+        {
+          "url": "paises-bajos-12-dias/canal-prinsengracht-de-amsterdam-con-edi-8ebe96.jpg",
+          "alt": "Canal Prinsengracht entre casas tradicionales de Ámsterdam",
+          "credito": "Aforaseem",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Prinsengracht_Amsterdam.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "12:00",
+          "nombre": "Plaza Dam y Palacio Real por fuera",
+          "descripcion": "Reconocimiento del centro histórico, monumento nacional y fachada del Palacio Real.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 52.3731,
+            "lng": 4.8932
+          },
+          "link": "https://www.iamsterdam.com/",
+          "consejo": "La plaza suele estar llena; mantén el teléfono y la billetera protegidos."
+        },
+        {
+          "hora": "14:45",
+          "nombre": "Begijnhof y callejones históricos",
+          "descripcion": "Paseo tranquilo por el patio histórico y las calles tradicionales del centro.",
+          "duracion": "45 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 52.369,
+            "lng": 4.8896
+          },
+          "consejo": "Begijnhof es un espacio residencial; respeta el silencio y las restricciones de acceso."
+        },
+        {
+          "hora": "16:00",
+          "nombre": "Barrio de Jordaan",
+          "descripcion": "Exploración de canales pequeños, puentes, tiendas independientes y fachadas históricas.",
+          "duracion": "1 h 30 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 52.3746,
+            "lng": 4.8808
+          }
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "18:00",
+          "nombre": "Ruta fotográfica a pie por Prinsengracht",
+          "descripcion": "Recorrido autoguiado por puentes y canales al atardecer.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "naturaleza",
+          "coords": {
+            "lat": 52.3718,
+            "lng": 4.8863
+          }
+        },
+        {
+          "niveles": [
+            "medio",
+            "alto"
+          ],
+          "hora": "18:00",
+          "nombre": "Crucero vespertino por los canales",
+          "descripcion": "Navegación al atardecer por el cinturón de canales: compartida en medio, en barco pequeño y más privado en alto.",
+          "duracion": "1 h",
+          "costo": 38,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 52.374,
+            "lng": 4.8888
+          },
+          "link": "https://www.lovers.nl/",
+          "consejo": "Reserva la salida exacta después de confirmar la hora real de llegada del vuelo."
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "09:15",
+            "momento": "desayuno",
+            "lugar": "Albert Heijn to go, Schiphol",
+            "plato": "Sándwich de queso y café",
+            "costo": 9,
+            "link": "https://www.ah.nl/"
+          },
+          {
+            "hora": "13:15",
+            "momento": "almuerzo",
+            "lugar": "FEBO, centro de Ámsterdam",
+            "plato": "Kroket, papas fritas y bebida",
+            "costo": 13,
+            "link": "https://www.febo.nl/"
+          },
+          {
+            "hora": "19:45",
+            "momento": "cena",
+            "lugar": "Foodhallen Amsterdam",
+            "plato": "Hamburguesa y papas",
+            "costo": 17,
+            "link": "https://foodhallen.nl/"
+          }
+        ],
+        "medio": [
+          {
+            "hora": "09:15",
+            "momento": "desayuno",
+            "lugar": "Cafetería de Schiphol Plaza",
+            "plato": "Croissant, yogur y capuchino",
+            "costo": 16,
+            "link": "https://www.schiphol.nl/en/"
+          },
+          {
+            "hora": "13:15",
+            "momento": "almuerzo",
+            "lugar": "Bagels & Beans, centro de Ámsterdam",
+            "plato": "Bagel de salmón ahumado con bebida",
+            "costo": 22,
+            "link": "https://www.bagelsbeans.nl/"
+          },
+          {
+            "hora": "19:45",
+            "momento": "cena",
+            "lugar": "Foodhallen Amsterdam",
+            "plato": "Cena de dos puestos gastronómicos y bebida",
+            "costo": 32,
+            "link": "https://foodhallen.nl/"
+          }
+        ],
+        "alto": [
+          {
+            "hora": "09:15",
+            "momento": "desayuno",
+            "lugar": "Cafetería de Schiphol Plaza",
+            "plato": "Desayuno completo con huevos, pan artesanal y café",
+            "costo": 28,
+            "link": "https://www.schiphol.nl/en/"
+          },
+          {
+            "hora": "13:15",
+            "momento": "almuerzo",
+            "lugar": "Jansz., Pulitzer Amsterdam",
+            "plato": "Pescado del día con guarnición",
+            "costo": 48,
+            "link": "https://www.pulitzeramsterdam.com/en/"
+          },
+          {
+            "hora": "20:00",
+            "momento": "cena",
+            "lugar": "Restaurant De Kas",
+            "plato": "Menú de temporada basado en productos de huerta",
+            "costo": 110,
+            "link": "https://restaurantdekas.com/"
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "niveles": [
+            "economico",
+            "medio"
+          ],
+          "hora": "10:00",
+          "de": "Aeropuerto Schiphol",
+          "a": "Amsterdam Centraal",
+          "medio": "Tren NS de segunda clase",
+          "duracion": "20 min",
+          "costo": 6,
+          "consejo": "La estación ferroviaria se encuentra debajo de la terminal."
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "10:00",
+          "de": "Aeropuerto Schiphol",
+          "a": "Pulitzer Amsterdam",
+          "medio": "Vehículo privado compartido entre cuatro personas",
+          "duracion": "35 min",
+          "costo": 25
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "19:10",
+          "de": "Prinsengracht",
+          "a": "Foodhallen",
+          "medio": "Tranvía GVB",
+          "duracion": "20 min",
+          "costo": 3.4
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "19:15",
+          "de": "Embarcadero del crucero",
+          "a": "Restaurant De Kas",
+          "medio": "Taxi compartido entre cuatro personas",
+          "duracion": "20 min",
+          "costo": 12
+        }
+      ],
+      "planB": "Si el vuelo se retrasa o llueve intensamente, reducir la visita a Dam y Jordaan y concentrar la tarde en Foodhallen. El crucero se reprograma si el operador lo permite."
+    },
+    {
+      "dia": 2,
+      "titulo": "Los grandes museos y el Ámsterdam verde",
+      "ciudad": "Ámsterdam",
+      "coords": {
+        "lat": 52.3676,
+        "lng": 4.9041
+      },
+      "resumen": "Día dedicado al arte neerlandés, el Rijksmuseum, el Vondelpark y los alrededores de Museumplein. El nivel económico explora un mercado y los otros dos visitan el Museo Van Gogh.",
+      "imagenes": [
+        {
+          "url": "paises-bajos-12-dias/canal-prinsengracht-de-amsterdam-con-edi-8ebe96.jpg",
+          "alt": "Arquitectura de los canales históricos de Ámsterdam",
+          "credito": "Aforaseem",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Prinsengracht_Amsterdam.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "09:30",
+          "nombre": "Rijksmuseum",
+          "descripcion": "Visita a las colecciones del Siglo de Oro neerlandés, con obras de Rembrandt y Vermeer.",
+          "duracion": "2 h 30 min",
+          "costo": 26.5,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 52.36,
+            "lng": 4.8852
+          },
+          "link": "https://www.rijksmuseum.nl/en",
+          "consejo": "Reserva la franja horaria con anticipación."
+        },
+        {
+          "hora": "14:00",
+          "nombre": "Vondelpark",
+          "descripcion": "Paseo por el parque urbano más emblemático de Ámsterdam.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "naturaleza",
+          "coords": {
+            "lat": 52.358,
+            "lng": 4.8686
+          }
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "16:00",
+          "nombre": "Mercado Albert Cuyp",
+          "descripcion": "Recorrido por puestos populares y ambiente cotidiano del barrio De Pijp.",
+          "duracion": "1 h 15 min",
+          "costo": 0,
+          "tipo": "compras",
+          "coords": {
+            "lat": 52.3559,
+            "lng": 4.8954
+          }
+        },
+        {
+          "niveles": [
+            "medio",
+            "alto"
+          ],
+          "hora": "16:00",
+          "nombre": "Museo Van Gogh",
+          "descripcion": "Recorrido por pinturas, dibujos y cartas de Vincent van Gogh.",
+          "duracion": "1 h 45 min",
+          "costo": 26,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 52.3584,
+            "lng": 4.8811
+          },
+          "link": "https://www.vangoghmuseum.nl/en",
+          "consejo": "Se requiere reserva previa con hora de entrada."
+        },
+        {
+          "hora": "18:00",
+          "nombre": "Museumplein y arquitectura del barrio de museos",
+          "descripcion": "Paseo por los espacios públicos de Museumplein.",
+          "duracion": "45 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 52.3579,
+            "lng": 4.8837
+          }
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "08:00",
+            "momento": "desayuno",
+            "lugar": "ClinkNOORD, cafetería del hostal",
+            "plato": "Tostadas, fruta y café",
+            "costo": 10,
+            "link": "https://www.clinkhostels.com/"
+          },
+          {
+            "hora": "12:30",
+            "momento": "almuerzo",
+            "lugar": "Albert Heijn, zona Museumplein",
+            "plato": "Ensalada preparada, pan y bebida",
+            "costo": 11,
+            "link": "https://www.ah.nl/"
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "FEBO, centro de Ámsterdam",
+            "plato": "Kroketten, papas y refresco",
+            "costo": 14,
+            "link": "https://www.febo.nl/"
+          }
+        ],
+        "medio": [
+          {
+            "hora": "08:00",
+            "momento": "desayuno",
+            "lugar": "ibis Amsterdam Centre",
+            "plato": "Desayuno bufé incluido",
+            "costo": 0,
+            "link": "https://all.accor.com/hotel/1556/index.es.shtml"
+          },
+          {
+            "hora": "12:30",
+            "momento": "almuerzo",
+            "lugar": "RIJKS Café, Rijksmuseum",
+            "plato": "Sándwich caliente, sopa y café",
+            "costo": 27,
+            "link": "https://www.rijksmuseum.nl/en"
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Foodhallen Amsterdam",
+            "plato": "Plato asiático y postre",
+            "costo": 35,
+            "link": "https://foodhallen.nl/"
+          }
+        ],
+        "alto": [
+          {
+            "hora": "08:00",
+            "momento": "desayuno",
+            "lugar": "Pulitzer Amsterdam",
+            "plato": "Desayuno completo incluido en el paquete de alojamiento",
+            "costo": 0,
+            "link": "https://www.pulitzeramsterdam.com/en/"
+          },
+          {
+            "hora": "12:30",
+            "momento": "almuerzo",
+            "lugar": "RIJKS Café, Rijksmuseum",
+            "plato": "Almuerzo de dos tiempos con bebida",
+            "costo": 48,
+            "link": "https://www.rijksmuseum.nl/en"
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Restaurant De Kas",
+            "plato": "Menú degustación de temporada",
+            "costo": 125,
+            "link": "https://restaurantdekas.com/"
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "niveles": [
+            "economico",
+            "medio"
+          ],
+          "hora": "08:45",
+          "de": "Alojamiento en Ámsterdam",
+          "a": "Museumplein",
+          "medio": "Transporte urbano GVB",
+          "duracion": "25 min",
+          "costo": 3.4
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "08:45",
+          "de": "Pulitzer Amsterdam",
+          "a": "Rijksmuseum",
+          "medio": "Taxi compartido",
+          "duracion": "15 min",
+          "costo": 10
+        },
+        {
+          "niveles": [
+            "economico",
+            "medio"
+          ],
+          "hora": "18:55",
+          "de": "Museumplein",
+          "a": "Centro de Ámsterdam",
+          "medio": "Tranvía GVB",
+          "duracion": "20 min",
+          "costo": 3.4
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "18:55",
+          "de": "Museumplein",
+          "a": "Restaurant De Kas",
+          "medio": "Taxi compartido",
+          "duracion": "20 min",
+          "costo": 12
+        }
+      ],
+      "planB": "Si llueve, dedicar más tiempo a las salas del Rijksmuseum y al Museo Van Gogh en los niveles medio y alto. El nivel económico puede visitar la biblioteca pública OBA en lugar del mercado."
+    },
+    {
+      "dia": 3,
+      "titulo": "Molinos y artesanía en Zaanse Schans",
+      "ciudad": "Ámsterdam",
+      "coords": {
+        "lat": 52.4729,
+        "lng": 4.8167
+      },
+      "resumen": "Excursión desde Ámsterdam a un paisaje de molinos, casas de madera y talleres tradicionales. Regreso a dormir a Ámsterdam.",
+      "imagenes": [
+        {
+          "url": "paises-bajos-12-dias/molinos-tradicionales-en-zaanse-schans-fcd1d1.jpg",
+          "alt": "Molinos y casas tradicionales de Zaanse Schans",
+          "credito": "Gokul Ganesh Murali",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Zaanse_Schans_windmills.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "09:45",
+          "nombre": "Panorama de molinos junto al río Zaan",
+          "descripcion": "Paseo por los caminos públicos con vistas a los molinos y las casas históricas.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 52.474,
+            "lng": 4.8162
+          },
+          "link": "https://www.dezaanseschans.nl/en/"
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "11:00",
+          "nombre": "Demostración de zuecos tradicionales",
+          "descripcion": "Observación de la fabricación artesanal de zuecos de madera en una demostración gratuita, cuando esté disponible.",
+          "duracion": "45 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 52.4731,
+            "lng": 4.8171
+          }
+        },
+        {
+          "niveles": [
+            "medio",
+            "alto"
+          ],
+          "hora": "11:00",
+          "nombre": "Visita interior a un molino histórico",
+          "descripcion": "Entrada a un molino visitable y explicación de su maquinaria.",
+          "duracion": "1 h",
+          "costo": 7.5,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 52.4763,
+            "lng": 4.814
+          },
+          "link": "https://www.dezaanseschans.nl/en/",
+          "consejo": "Confirma qué molino está abierto el día de la excursión."
+        },
+        {
+          "hora": "14:00",
+          "nombre": "Demostración de quesos neerlandeses",
+          "descripcion": "Visita a una tienda o taller de quesos con explicaciones y degustaciones de cortesía cuando estén disponibles.",
+          "duracion": "45 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 52.4735,
+            "lng": 4.8181
+          }
+        },
+        {
+          "hora": "15:30",
+          "nombre": "Paseo ribereño por Zaandijk",
+          "descripcion": "Recorrido fotográfico por la orilla opuesta y las fachadas históricas.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "naturaleza",
+          "coords": {
+            "lat": 52.4742,
+            "lng": 4.812
+          }
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "07:45",
+            "momento": "desayuno",
+            "lugar": "ClinkNOORD, cafetería",
+            "plato": "Pan con queso y café",
+            "costo": 9
+          },
+          {
+            "hora": "12:30",
+            "momento": "almuerzo",
+            "lugar": "Puesto de comida de Zaanse Schans",
+            "plato": "Sándwich de queso Gouda y bebida",
+            "costo": 13,
+            "link": "https://www.dezaanseschans.nl/en/"
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "FEBO, Ámsterdam",
+            "plato": "Hamburguesa, croqueta y papas",
+            "costo": 15,
+            "link": "https://www.febo.nl/"
+          }
+        ],
+        "medio": [
+          {
+            "hora": "07:45",
+            "momento": "desayuno",
+            "lugar": "ibis Amsterdam Centre",
+            "plato": "Desayuno bufé incluido",
+            "costo": 0
+          },
+          {
+            "hora": "12:30",
+            "momento": "almuerzo",
+            "lugar": "Restaurante de Zaanse Schans",
+            "plato": "Sopa neerlandesa y sándwich artesanal",
+            "costo": 25,
+            "link": "https://www.dezaanseschans.nl/en/"
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Foodhallen Amsterdam",
+            "plato": "Dos platos para compartir y bebida",
+            "costo": 34,
+            "link": "https://foodhallen.nl/"
+          }
+        ],
+        "alto": [
+          {
+            "hora": "07:45",
+            "momento": "desayuno",
+            "lugar": "Pulitzer Amsterdam",
+            "plato": "Desayuno incluido",
+            "costo": 0
+          },
+          {
+            "hora": "12:30",
+            "momento": "almuerzo",
+            "lugar": "Restaurante de Zaanse Schans",
+            "plato": "Almuerzo de dos platos con especialidades locales",
+            "costo": 42,
+            "link": "https://www.dezaanseschans.nl/en/"
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Jansz., Pulitzer Amsterdam",
+            "plato": "Pescado fresco con entrada y postre",
+            "costo": 85,
+            "link": "https://www.pulitzeramsterdam.com/en/"
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "niveles": [
+            "economico",
+            "medio"
+          ],
+          "hora": "08:35",
+          "de": "Amsterdam Centraal",
+          "a": "Zaandijk Zaanse Schans",
+          "medio": "Tren NS de segunda clase",
+          "duracion": "20 min",
+          "costo": 5.5,
+          "consejo": "Desde la estación se camina aproximadamente 15 minutos hasta los molinos."
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "08:35",
+          "de": "Pulitzer Amsterdam",
+          "a": "Zaanse Schans",
+          "medio": "Vehículo privado compartido",
+          "duracion": "35 min",
+          "costo": 40
+        },
+        {
+          "niveles": [
+            "economico",
+            "medio"
+          ],
+          "hora": "17:00",
+          "de": "Zaandijk Zaanse Schans",
+          "a": "Amsterdam Centraal",
+          "medio": "Tren NS de segunda clase",
+          "duracion": "20 min",
+          "costo": 5.5
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "17:00",
+          "de": "Zaanse Schans",
+          "a": "Pulitzer Amsterdam",
+          "medio": "Vehículo privado compartido",
+          "duracion": "40 min",
+          "costo": 40
+        }
+      ],
+      "planB": "Con lluvia o vientos fuertes, priorizar los talleres cubiertos y las tiendas de artesanía. Si cierran los molinos, reemplazar su interior por el Zaans Museum, consultando la tarifa vigente."
+    },
+    {
+      "dia": 4,
+      "titulo": "Keukenhof: el espectáculo de los tulipanes",
+      "ciudad": "Ámsterdam",
+      "coords": {
+        "lat": 52.269,
+        "lng": 4.5465
+      },
+      "resumen": "Excursión de día completo a los jardines de Keukenhof, en Lisse. La visita depende de que la apertura de 2028 incluya la fecha prevista; aún no existe un calendario oficial publicado para ese año.",
+      "imagenes": [
+        {
+          "url": "paises-bajos-12-dias/tulipanes-en-flor-en-los-jardines-de-keu-567d54.jpg",
+          "alt": "Coloridos macizos de tulipanes en Keukenhof",
+          "credito": "Elena.laps",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Tulips_at_Keukenhof_gardens.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "09:45",
+          "nombre": "Entrada y recorrido central por Keukenhof",
+          "descripcion": "Visita a los jardines de temporada con tulipanes, jacintos y otras flores primaverales.",
+          "duracion": "1 h 45 min",
+          "costo": 22,
+          "tipo": "naturaleza",
+          "coords": {
+            "lat": 52.269,
+            "lng": 4.5465
+          },
+          "link": "https://keukenhof.nl/en/",
+          "consejo": "Verifica las fechas de apertura de la temporada antes de comprar vuelos."
+        },
+        {
+          "hora": "11:45",
+          "nombre": "Pabellones florales y exhibiciones",
+          "descripcion": "Exploración de exhibiciones cubiertas dentro del parque. No se vuelve a cobrar entrada.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "naturaleza",
+          "coords": {
+            "lat": 52.2708,
+            "lng": 4.5476
+          }
+        },
+        {
+          "hora": "14:30",
+          "nombre": "Senderos arbolados y jardines temáticos",
+          "descripcion": "Recorrido por sectores menos concurridos del parque.",
+          "duracion": "1 h 15 min",
+          "costo": 0,
+          "tipo": "naturaleza",
+          "coords": {
+            "lat": 52.2711,
+            "lng": 4.545
+          }
+        },
+        {
+          "hora": "16:00",
+          "nombre": "Miradores de jardines y fotografías finales",
+          "descripcion": "Último paseo por los macizos florales y áreas panorámicas de Keukenhof.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "naturaleza",
+          "coords": {
+            "lat": 52.2674,
+            "lng": 4.5448
+          }
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "07:15",
+            "momento": "desayuno",
+            "lugar": "ClinkNOORD, cafetería",
+            "plato": "Sándwich y café",
+            "costo": 9
+          },
+          {
+            "hora": "13:00",
+            "momento": "almuerzo",
+            "lugar": "Área de restauración de Keukenhof",
+            "plato": "Sándwich, fruta y agua",
+            "costo": 16,
+            "link": "https://keukenhof.nl/en/"
+          },
+          {
+            "hora": "20:00",
+            "momento": "cena",
+            "lugar": "FEBO, Ámsterdam",
+            "plato": "Kroketten y papas fritas",
+            "costo": 14,
+            "link": "https://www.febo.nl/"
+          }
+        ],
+        "medio": [
+          {
+            "hora": "07:15",
+            "momento": "desayuno",
+            "lugar": "ibis Amsterdam Centre",
+            "plato": "Desayuno bufé incluido",
+            "costo": 0
+          },
+          {
+            "hora": "13:00",
+            "momento": "almuerzo",
+            "lugar": "Restaurante de Keukenhof",
+            "plato": "Sopa, plato caliente y bebida",
+            "costo": 29,
+            "link": "https://keukenhof.nl/en/"
+          },
+          {
+            "hora": "20:00",
+            "momento": "cena",
+            "lugar": "Foodhallen Amsterdam",
+            "plato": "Plato principal y postre",
+            "costo": 35,
+            "link": "https://foodhallen.nl/"
+          }
+        ],
+        "alto": [
+          {
+            "hora": "07:15",
+            "momento": "desayuno",
+            "lugar": "Pulitzer Amsterdam",
+            "plato": "Desayuno incluido",
+            "costo": 0
+          },
+          {
+            "hora": "13:00",
+            "momento": "almuerzo",
+            "lugar": "Restaurante de Keukenhof",
+            "plato": "Almuerzo completo con especialidades de primavera",
+            "costo": 42,
+            "link": "https://keukenhof.nl/en/"
+          },
+          {
+            "hora": "20:00",
+            "momento": "cena",
+            "lugar": "Jansz., Pulitzer Amsterdam",
+            "plato": "Cena de tres tiempos",
+            "costo": 90,
+            "link": "https://www.pulitzeramsterdam.com/en/"
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "niveles": [
+            "economico",
+            "medio"
+          ],
+          "hora": "07:50",
+          "de": "Centro de Ámsterdam",
+          "a": "Amsterdam RAI",
+          "medio": "Metro GVB",
+          "duracion": "20 min",
+          "costo": 3.4
+        },
+        {
+          "niveles": [
+            "economico",
+            "medio"
+          ],
+          "hora": "08:20",
+          "de": "Amsterdam RAI",
+          "a": "Keukenhof",
+          "medio": "Autobús expreso de temporada",
+          "duracion": "40 min",
+          "costo": 10,
+          "consejo": "Confirma ruta y horario del bus de temporada."
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "08:20",
+          "de": "Pulitzer Amsterdam",
+          "a": "Keukenhof",
+          "medio": "Vehículo privado compartido",
+          "duracion": "45 min",
+          "costo": 45
+        },
+        {
+          "niveles": [
+            "economico",
+            "medio"
+          ],
+          "hora": "17:15",
+          "de": "Keukenhof",
+          "a": "Amsterdam RAI",
+          "medio": "Autobús expreso de temporada",
+          "duracion": "40 min",
+          "costo": 10
+        },
+        {
+          "niveles": [
+            "economico",
+            "medio"
+          ],
+          "hora": "18:05",
+          "de": "Amsterdam RAI",
+          "a": "Centro de Ámsterdam",
+          "medio": "Metro GVB",
+          "duracion": "20 min",
+          "costo": 3.4
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "17:15",
+          "de": "Keukenhof",
+          "a": "Pulitzer Amsterdam",
+          "medio": "Vehículo privado compartido",
+          "duracion": "55 min",
+          "costo": 45
+        }
+      ],
+      "planB": "Si Keukenhof ya cerró, sustituir la excursión por los jardines y museos de Leiden."
+    },
+    {
+      "dia": 5,
+      "titulo": "Utrecht: canales de dos niveles y torre medieval",
+      "ciudad": "Utrecht",
+      "coords": {
+        "lat": 52.0907,
+        "lng": 5.1214
+      },
+      "resumen": "Traslado a Utrecht y exploración de Oudegracht, Domplein y sus plazas. Los viajeros de nivel medio y alto suben a la torre Dom; el económico visita la iglesia y disfruta de más tiempo libre.",
+      "imagenes": [
+        {
+          "url": "paises-bajos-12-dias/canal-oudegracht-y-torre-dom-de-utrecht-0eaa9d.jpg",
+          "alt": "Vista de la torre Dom desde el canal Oudegracht",
+          "credito": "Ad Meskens",
+          "licencia": "CC BY-SA 3.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Utrecht_Dom.JPG"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "11:00",
+          "nombre": "Paseo por Oudegracht",
+          "descripcion": "Recorrido por el canal de dos niveles y sus muelles históricos.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 52.0904,
+            "lng": 5.1194
+          }
+        },
+        {
+          "hora": "12:15",
+          "nombre": "Domplein y centro medieval",
+          "descripcion": "Visita exterior a la plaza de la catedral y explicación de la historia romana y medieval de Utrecht.",
+          "duracion": "45 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 52.0907,
+            "lng": 5.1214
+          }
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "15:00",
+          "nombre": "Iglesia Domkerk",
+          "descripcion": "Visita al interior gratuito de la iglesia, si no hay un evento que limite el acceso.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 52.0905,
+            "lng": 5.1218
+          }
+        },
+        {
+          "niveles": [
+            "medio",
+            "alto"
+          ],
+          "hora": "15:00",
+          "nombre": "Ascenso a la torre Dom",
+          "descripcion": "Recorrido guiado por la torre medieval con vistas de Utrecht.",
+          "duracion": "1 h 15 min",
+          "costo": 15,
+          "tipo": "aventura",
+          "coords": {
+            "lat": 52.0908,
+            "lng": 5.1212
+          },
+          "link": "https://www.domtoren.nl/en/",
+          "consejo": "La subida implica muchas escaleras y puede no ser conveniente para personas con movilidad reducida."
+        },
+        {
+          "hora": "17:30",
+          "nombre": "Griftpark",
+          "descripcion": "Paseo por el parque urbano y descanso junto a las zonas verdes.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "naturaleza",
+          "coords": {
+            "lat": 52.1006,
+            "lng": 5.1281
+          }
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "07:45",
+            "momento": "desayuno",
+            "lugar": "ClinkNOORD",
+            "plato": "Tostadas y café",
+            "costo": 9
+          },
+          {
+            "hora": "13:15",
+            "momento": "almuerzo",
+            "lugar": "Broodje Mario, Utrecht",
+            "plato": "Broodje Mario tradicional",
+            "costo": 9,
+            "link": "https://www.ontdek-utrecht.nl/"
+          },
+          {
+            "hora": "19:45",
+            "momento": "cena",
+            "lugar": "Comedor de Stayokay Utrecht Centrum",
+            "plato": "Plato caliente sencillo",
+            "costo": 17,
+            "link": "https://www.stayokay.com/en/hostel/utrecht-centrum"
+          }
+        ],
+        "medio": [
+          {
+            "hora": "07:45",
+            "momento": "desayuno",
+            "lugar": "ibis Amsterdam Centre",
+            "plato": "Desayuno bufé incluido",
+            "costo": 0
+          },
+          {
+            "hora": "13:15",
+            "momento": "almuerzo",
+            "lugar": "Gys Utrecht",
+            "plato": "Plato de verduras de temporada y bebida",
+            "costo": 23,
+            "link": "https://gysutrecht.nl/"
+          },
+          {
+            "hora": "19:45",
+            "momento": "cena",
+            "lugar": "BUNK Hotel Utrecht",
+            "plato": "Plato principal, bebida y postre",
+            "costo": 34,
+            "link": "https://wearebunk.com/utrecht/"
+          }
+        ],
+        "alto": [
+          {
+            "hora": "07:45",
+            "momento": "desayuno",
+            "lugar": "Pulitzer Amsterdam",
+            "plato": "Desayuno incluido",
+            "costo": 0
+          },
+          {
+            "hora": "13:15",
+            "momento": "almuerzo",
+            "lugar": "Grand Hotel Karel V",
+            "plato": "Almuerzo de dos platos",
+            "costo": 49,
+            "link": "https://www.karelv.nl/en/"
+          },
+          {
+            "hora": "19:45",
+            "momento": "cena",
+            "lugar": "Hemel & Aarde, Utrecht",
+            "plato": "Menú gastronómico de temporada",
+            "costo": 115,
+            "link": "https://hemel-aarde.nl/"
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "niveles": [
+            "economico",
+            "medio"
+          ],
+          "hora": "09:00",
+          "de": "Amsterdam Centraal",
+          "a": "Utrecht Centraal",
+          "medio": "Tren NS de segunda clase",
+          "duracion": "30 min",
+          "costo": 10
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "09:00",
+          "de": "Amsterdam Centraal",
+          "a": "Utrecht Centraal",
+          "medio": "Tren NS de primera clase",
+          "duracion": "30 min",
+          "costo": 17
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "09:40",
+          "de": "Utrecht Centraal",
+          "a": "Grand Hotel Karel V",
+          "medio": "Taxi compartido",
+          "duracion": "10 min",
+          "costo": 8
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "18:45",
+          "de": "Griftpark",
+          "a": "BUNK Hotel Utrecht",
+          "medio": "Autobús urbano",
+          "duracion": "15 min",
+          "costo": 3
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "18:45",
+          "de": "Griftpark",
+          "a": "Hemel & Aarde",
+          "medio": "Taxi compartido",
+          "duracion": "15 min",
+          "costo": 10
+        }
+      ],
+      "planB": "Con lluvia, sustituir Griftpark por una visita a las tiendas y cafés junto a Oudegracht. Si no hay cupos para Domtoren, visitar la exposición DOMunder, sujeto a disponibilidad y ajuste de entrada."
+    },
+    {
+      "dia": 6,
+      "titulo": "Castillo de Haar y pueblos de cuento",
+      "ciudad": "Utrecht",
+      "coords": {
+        "lat": 52.1219,
+        "lng": 4.9845
+      },
+      "resumen": "Excursión al castillo de Haar y al pequeño pueblo de Haarzuilens. El nivel económico se concentra en los jardines, mientras que medio y alto visitan también el interior del castillo.",
+      "imagenes": [
+        {
+          "url": "paises-bajos-12-dias/castillo-de-haar-rodeado-de-jardines-y-a-af9470.jpg",
+          "alt": "Castillo de Haar rodeado de jardines y agua",
+          "credito": "acediscovery",
+          "licencia": "CC BY 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Kasteel-de-Haar.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "10:15",
+          "nombre": "Jardines de Kasteel de Haar",
+          "descripcion": "Visita a los senderos, jardines formales y vistas exteriores del castillo.",
+          "duracion": "2 h",
+          "costo": 13,
+          "tipo": "naturaleza",
+          "coords": {
+            "lat": 52.1219,
+            "lng": 4.9845
+          },
+          "link": "https://www.kasteeldehaar.nl/en/",
+          "consejo": "La tarifa de jardín es estimada; confirma qué áreas incluye."
+        },
+        {
+          "niveles": [
+            "medio",
+            "alto"
+          ],
+          "hora": "10:15",
+          "nombre": "Castillo de Haar: interiores y jardines",
+          "descripcion": "Interior del castillo y sus jardines con billete combinado.",
+          "duracion": "2 h",
+          "costo": 22,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 52.1219,
+            "lng": 4.9845
+          },
+          "link": "https://www.kasteeldehaar.nl/en/"
+        },
+        {
+          "hora": "14:15",
+          "nombre": "Pueblo de Haarzuilens",
+          "descripcion": "Paseo por las calles de casas pintorescas y los alrededores rurales.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 52.1185,
+            "lng": 4.9987
+          }
+        },
+        {
+          "hora": "17:45",
+          "nombre": "Canales del centro de Utrecht",
+          "descripcion": "Paseo de regreso por las terrazas bajas y puentes del Oudegracht.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 52.0911,
+            "lng": 5.1187
+          }
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "08:00",
+            "momento": "desayuno",
+            "lugar": "Stayokay Utrecht Centrum",
+            "plato": "Pan, queso y café",
+            "costo": 9
+          },
+          {
+            "hora": "12:45",
+            "momento": "almuerzo",
+            "lugar": "Cafetería del castillo de Haar",
+            "plato": "Sándwich con bebida",
+            "costo": 16,
+            "link": "https://www.kasteeldehaar.nl/en/"
+          },
+          {
+            "hora": "19:45",
+            "momento": "cena",
+            "lugar": "Comedor de Stayokay Utrecht Centrum",
+            "plato": "Pasta del día",
+            "costo": 17
+          }
+        ],
+        "medio": [
+          {
+            "hora": "08:00",
+            "momento": "desayuno",
+            "lugar": "BUNK Hotel Utrecht",
+            "plato": "Desayuno",
+            "costo": 0
+          },
+          {
+            "hora": "12:45",
+            "momento": "almuerzo",
+            "lugar": "Cafetería del castillo de Haar",
+            "plato": "Sopa, ensalada y bebida",
+            "costo": 27,
+            "link": "https://www.kasteeldehaar.nl/en/"
+          },
+          {
+            "hora": "19:45",
+            "momento": "cena",
+            "lugar": "Gys Utrecht",
+            "plato": "Plato principal y postre",
+            "costo": 33,
+            "link": "https://gysutrecht.nl/"
+          }
+        ],
+        "alto": [
+          {
+            "hora": "08:00",
+            "momento": "desayuno",
+            "lugar": "Grand Hotel Karel V",
+            "plato": "Desayuno incluido",
+            "costo": 0
+          },
+          {
+            "hora": "12:45",
+            "momento": "almuerzo",
+            "lugar": "Cafetería del castillo de Haar",
+            "plato": "Almuerzo completo con bebida y postre",
+            "costo": 42,
+            "link": "https://www.kasteeldehaar.nl/en/"
+          },
+          {
+            "hora": "19:45",
+            "momento": "cena",
+            "lugar": "Hemel & Aarde",
+            "plato": "Menú degustación con productos locales",
+            "costo": 120,
+            "link": "https://hemel-aarde.nl/"
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "08:45",
+          "de": "Utrecht Centraal",
+          "a": "Vleuten",
+          "medio": "Tren NS",
+          "duracion": "12 min",
+          "costo": 3.5
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "09:15",
+          "de": "Vleuten",
+          "a": "Acceso a Kasteel de Haar",
+          "medio": "Autobús regional; línea sujeta a horario vigente",
+          "duracion": "20 min",
+          "costo": 3.5
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "09:00",
+          "de": "BUNK Hotel Utrecht",
+          "a": "Kasteel de Haar",
+          "medio": "Taxi compartido",
+          "duracion": "35 min",
+          "costo": 20
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "09:00",
+          "de": "Grand Hotel Karel V",
+          "a": "Kasteel de Haar",
+          "medio": "Vehículo privado",
+          "duracion": "35 min",
+          "costo": 30
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "15:30",
+          "de": "Haarzuilens",
+          "a": "Vleuten",
+          "medio": "Autobús regional",
+          "duracion": "20 min",
+          "costo": 3.5
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "16:00",
+          "de": "Vleuten",
+          "a": "Utrecht Centraal",
+          "medio": "Tren NS",
+          "duracion": "12 min",
+          "costo": 3.5
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "15:45",
+          "de": "Haarzuilens",
+          "a": "Centro de Utrecht",
+          "medio": "Taxi compartido",
+          "duracion": "35 min",
+          "costo": 20
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "15:45",
+          "de": "Haarzuilens",
+          "a": "Grand Hotel Karel V",
+          "medio": "Vehículo privado",
+          "duracion": "35 min",
+          "costo": 30
+        }
+      ],
+      "planB": "Si el clima impide disfrutar de los jardines, los niveles medio y alto dedican más tiempo al interior del castillo; el económico puede cambiar la excursión por el Museum Speelklok en Utrecht, ajustando las entradas."
+    },
+    {
+      "dia": 7,
+      "titulo": "Róterdam futurista: mercados y arquitectura",
+      "ciudad": "Róterdam",
+      "coords": {
+        "lat": 51.9244,
+        "lng": 4.4777
+      },
+      "resumen": "Cambio de Utrecht a Róterdam para descubrir una ciudad contemporánea, con edificios experimentales, mercados y un espectacular puente sobre el río Mosa.",
+      "imagenes": [
+        {
+          "url": "paises-bajos-12-dias/panorama-urbano-moderno-de-roterdam-b010b3.jpg",
+          "alt": "Rascacielos de Róterdam junto al río",
+          "credito": "acediscovery",
+          "licencia": "CC BY 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Rotterdam-Skyline.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "11:00",
+          "nombre": "Markthal Rotterdam",
+          "descripcion": "Visita al mercado cubierto y observación de su gran bóveda ilustrada.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 51.9201,
+            "lng": 4.486
+          },
+          "link": "https://markthal.nl/"
+        },
+        {
+          "hora": "13:30",
+          "nombre": "Casas Cubo de Piet Blom",
+          "descripcion": "Exploración exterior del conjunto arquitectónico.",
+          "duracion": "40 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 51.9202,
+            "lng": 4.491
+          }
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "14:30",
+          "nombre": "Puerto Viejo de Róterdam",
+          "descripcion": "Paseo gratuito por Oude Haven con vistas a las casas cubo.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 51.919,
+            "lng": 4.492
+          }
+        },
+        {
+          "niveles": [
+            "medio",
+            "alto"
+          ],
+          "hora": "14:30",
+          "nombre": "Interior de Kijk-Kubus",
+          "descripcion": "Visita a una casa cubo acondicionada como museo.",
+          "duracion": "40 min",
+          "costo": 4,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 51.9202,
+            "lng": 4.491
+          },
+          "link": "https://www.kubuswoning.nl/"
+        },
+        {
+          "hora": "17:00",
+          "nombre": "Erasmusbrug y paseo del río",
+          "descripcion": "Recorrido a pie por el puente y su entorno, con vistas del perfil urbano.",
+          "duracion": "1 h 15 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 51.909,
+            "lng": 4.4866
+          }
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "07:45",
+            "momento": "desayuno",
+            "lugar": "Stayokay Utrecht Centrum",
+            "plato": "Pan y café",
+            "costo": 9
+          },
+          {
+            "hora": "12:15",
+            "momento": "almuerzo",
+            "lugar": "Markthal Rotterdam",
+            "plato": "Bocadillo caliente y bebida",
+            "costo": 14,
+            "link": "https://markthal.nl/"
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Hostel ROOM Rotterdam, área de comidas",
+            "plato": "Hamburguesa sencilla y papas",
+            "costo": 18,
+            "link": "https://www.roomrotterdam.nl/"
+          }
+        ],
+        "medio": [
+          {
+            "hora": "07:45",
+            "momento": "desayuno",
+            "lugar": "BUNK Hotel Utrecht",
+            "plato": "Desayuno incluido",
+            "costo": 0
+          },
+          {
+            "hora": "12:15",
+            "momento": "almuerzo",
+            "lugar": "Markthal Rotterdam",
+            "plato": "Tabla de quesos y plato caliente",
+            "costo": 29,
+            "link": "https://markthal.nl/"
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Restaurante de citizenM Rotterdam",
+            "plato": "Plato principal, bebida y postre",
+            "costo": 35,
+            "link": "https://www.marriott.com/en-us/hotels/rtmcm-citizenm-rotterdam/overview/"
+          }
+        ],
+        "alto": [
+          {
+            "hora": "07:45",
+            "momento": "desayuno",
+            "lugar": "Grand Hotel Karel V",
+            "plato": "Desayuno incluido",
+            "costo": 0
+          },
+          {
+            "hora": "12:15",
+            "momento": "almuerzo",
+            "lugar": "Markthal Rotterdam",
+            "plato": "Degustación de especialidades de varios puestos",
+            "costo": 45,
+            "link": "https://markthal.nl/"
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Restaurante del Mainport Hotel",
+            "plato": "Cena de tres tiempos con bebida",
+            "costo": 90,
+            "link": "https://www.hotelmainport.com/en/"
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "niveles": [
+            "economico",
+            "medio"
+          ],
+          "hora": "09:00",
+          "de": "Utrecht Centraal",
+          "a": "Rotterdam Centraal",
+          "medio": "Tren NS de segunda clase",
+          "duracion": "40 min",
+          "costo": 13.5
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "09:00",
+          "de": "Utrecht Centraal",
+          "a": "Rotterdam Centraal",
+          "medio": "Tren NS de primera clase",
+          "duracion": "40 min",
+          "costo": 23
+        },
+        {
+          "niveles": [
+            "economico",
+            "medio"
+          ],
+          "hora": "10:00",
+          "de": "Rotterdam Centraal",
+          "a": "Rotterdam Blaak",
+          "medio": "Metro o tren urbano",
+          "duracion": "10 min",
+          "costo": 3
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "10:00",
+          "de": "Rotterdam Centraal",
+          "a": "Mainport Hotel",
+          "medio": "Taxi compartido",
+          "duracion": "15 min",
+          "costo": 10
+        }
+      ],
+      "planB": "Si llueve, prolongar la visita cubierta a Markthal, conocer las casas cubo y sustituir Erasmusbrug por una visita interior a Kunsthal Rotterdam, con la entrada correspondiente."
+    },
+    {
+      "dia": 8,
+      "titulo": "Kinderdijk: patrimonio entre molinos y canales",
+      "ciudad": "Róterdam",
+      "coords": {
+        "lat": 51.8829,
+        "lng": 4.6337
+      },
+      "resumen": "Excursión al paisaje UNESCO de Kinderdijk. El nivel económico recorre los senderos gratuitos; los niveles medio y alto incorporan el acceso a molinos-museo.",
+      "imagenes": [
+        {
+          "url": "paises-bajos-12-dias/molinos-historicos-alineados-junto-a-los-b4f578.jpg",
+          "alt": "Molinos de viento reflejados en los canales de Kinderdijk",
+          "credito": "Nachosan",
+          "licencia": "CC BY-SA 3.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Kinderdijk_windmills.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "10:15",
+          "nombre": "Senderos panorámicos de Kinderdijk",
+          "descripcion": "Caminata por los caminos públicos que bordean los molinos y canales.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "naturaleza",
+          "coords": {
+            "lat": 51.8829,
+            "lng": 4.6337
+          },
+          "link": "https://kinderdijk.nl/en/"
+        },
+        {
+          "hora": "11:30",
+          "nombre": "Sistema histórico de canales y diques",
+          "descripcion": "Recorrido exterior para entender cómo los molinos ayudaban a controlar el agua.",
+          "duracion": "45 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 51.8845,
+            "lng": 4.638
+          }
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "13:45",
+          "nombre": "Caminata fotográfica entre molinos",
+          "descripcion": "Ruta libre por los senderos exteriores y miradores gratuitos.",
+          "duracion": "1 h 30 min",
+          "costo": 0,
+          "tipo": "naturaleza",
+          "coords": {
+            "lat": 51.8862,
+            "lng": 4.6455
+          }
+        },
+        {
+          "niveles": [
+            "medio",
+            "alto"
+          ],
+          "hora": "13:45",
+          "nombre": "Molinos-museo de Kinderdijk",
+          "descripcion": "Entrada al conjunto de visitas interiores y experiencias incluidas en el billete oficial disponible para la fecha.",
+          "duracion": "1 h 30 min",
+          "costo": 20,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 51.8835,
+            "lng": 4.6406
+          },
+          "link": "https://kinderdijk.nl/en/ticket-information/"
+        },
+        {
+          "hora": "18:30",
+          "nombre": "Witte de Withstraat al atardecer",
+          "descripcion": "Exploración del ambiente cultural y gastronómico de esta calle de Róterdam.",
+          "duracion": "45 min",
+          "costo": 0,
+          "tipo": "vida-nocturna",
+          "coords": {
+            "lat": 51.9152,
+            "lng": 4.4788
+          }
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "08:00",
+            "momento": "desayuno",
+            "lugar": "Hostel ROOM Rotterdam",
+            "plato": "Pan, fruta y café",
+            "costo": 9
+          },
+          {
+            "hora": "12:30",
+            "momento": "almuerzo",
+            "lugar": "Cafetería de Kinderdijk",
+            "plato": "Sándwich y refresco",
+            "costo": 15,
+            "link": "https://kinderdijk.nl/en/"
+          },
+          {
+            "hora": "20:00",
+            "momento": "cena",
+            "lugar": "Hostel ROOM Rotterdam",
+            "plato": "Plato caliente del día",
+            "costo": 18
+          }
+        ],
+        "medio": [
+          {
+            "hora": "08:00",
+            "momento": "desayuno",
+            "lugar": "citizenM Rotterdam",
+            "plato": "Desayuno",
+            "costo": 0
+          },
+          {
+            "hora": "12:30",
+            "momento": "almuerzo",
+            "lugar": "Cafetería de Kinderdijk",
+            "plato": "Sopa, sándwich y bebida",
+            "costo": 26,
+            "link": "https://kinderdijk.nl/en/"
+          },
+          {
+            "hora": "20:00",
+            "momento": "cena",
+            "lugar": "Restaurante de citizenM Rotterdam",
+            "plato": "Cena de dos platos",
+            "costo": 35
+          }
+        ],
+        "alto": [
+          {
+            "hora": "08:00",
+            "momento": "desayuno",
+            "lugar": "Mainport Rotterdam",
+            "plato": "Desayuno incluido",
+            "costo": 0
+          },
+          {
+            "hora": "12:30",
+            "momento": "almuerzo",
+            "lugar": "Cafetería de Kinderdijk",
+            "plato": "Almuerzo completo y postre",
+            "costo": 38,
+            "link": "https://kinderdijk.nl/en/"
+          },
+          {
+            "hora": "20:00",
+            "momento": "cena",
+            "lugar": "Restaurante del Mainport Hotel",
+            "plato": "Menú de tres tiempos",
+            "costo": 95,
+            "link": "https://www.hotelmainport.com/en/"
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "niveles": [
+            "economico",
+            "medio"
+          ],
+          "hora": "09:00",
+          "de": "Embarcadero de Róterdam",
+          "a": "Kinderdijk",
+          "medio": "Servicio fluvial WaterShuttle",
+          "duracion": "35 min",
+          "costo": 12,
+          "consejo": "Servicio y horario sujetos a la programación de 2028; confirmar la parada y operación vigentes."
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "09:00",
+          "de": "Mainport Hotel",
+          "a": "Kinderdijk",
+          "medio": "Vehículo privado compartido",
+          "duracion": "35 min",
+          "costo": 35
+        },
+        {
+          "niveles": [
+            "economico",
+            "medio"
+          ],
+          "hora": "16:30",
+          "de": "Kinderdijk",
+          "a": "Róterdam",
+          "medio": "Servicio fluvial WaterShuttle",
+          "duracion": "35 min",
+          "costo": 12
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "16:30",
+          "de": "Kinderdijk",
+          "a": "Mainport Hotel",
+          "medio": "Vehículo privado compartido",
+          "duracion": "35 min",
+          "costo": 35
+        }
+      ],
+      "planB": "Con lluvia intensa o suspensión del servicio fluvial, utilizar transporte terrestre y priorizar el centro de visitantes. Si Kinderdijk no puede visitarse, cambiar el día por el Museo Marítimo de Róterdam."
+    },
+    {
+      "dia": 9,
+      "titulo": "La Haya y Delft: arte, política y cerámica",
+      "ciudad": "La Haya",
+      "coords": {
+        "lat": 52.0801,
+        "lng": 4.3147
+      },
+      "resumen": "Traslado a la capital administrativa de los Países Bajos. Visita al Mauritshuis y al entorno del Binnenhof, seguida de una excursión a Delft.",
+      "imagenes": [
+        {
+          "url": "paises-bajos-12-dias/plaza-central-de-delft-con-edificios-tra-06b745.jpg",
+          "alt": "Plaza central de Delft con edificios tradicionales",
+          "credito": "Herebedug",
+          "licencia": "Public domain",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Delft_Central_Market_Square.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "10:15",
+          "nombre": "Mauritshuis",
+          "descripcion": "Visita al museo con obras maestras de pintura neerlandesa.",
+          "duracion": "1 h 45 min",
+          "costo": 22,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 52.0801,
+            "lng": 4.3147
+          },
+          "link": "https://www.mauritshuis.nl/en/",
+          "consejo": "Reserva la entrada con horario."
+        },
+        {
+          "hora": "12:15",
+          "nombre": "Binnenhof desde el exterior",
+          "descripcion": "Observación del conjunto parlamentario y su entorno, sin prometer acceso interior debido a las obras de renovación.",
+          "duracion": "40 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 52.0799,
+            "lng": 4.3136
+          }
+        },
+        {
+          "hora": "15:00",
+          "nombre": "Markt de Delft",
+          "descripcion": "Paseo por la gran plaza histórica, la fachada del ayuntamiento y los canales cercanos.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 52.0116,
+            "lng": 4.3571
+          }
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "16:15",
+          "nombre": "Canales tradicionales de Delft",
+          "descripcion": "Recorrido gratuito por los puentes y edificios antiguos.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 52.0122,
+            "lng": 4.3538
+          }
+        },
+        {
+          "niveles": [
+            "medio",
+            "alto"
+          ],
+          "hora": "16:15",
+          "nombre": "Royal Delft",
+          "descripcion": "Visita al museo y taller histórico de cerámica azul de Delft.",
+          "duracion": "1 h",
+          "costo": 18.5,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 52.001,
+            "lng": 4.3652
+          },
+          "link": "https://museum.royaldelft.com/en/",
+          "consejo": "Reservar una franja que permita completar la visita antes del cierre."
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "07:30",
+            "momento": "desayuno",
+            "lugar": "Hostel ROOM Rotterdam",
+            "plato": "Tostadas y café",
+            "costo": 9
+          },
+          {
+            "hora": "13:00",
+            "momento": "almuerzo",
+            "lugar": "Panadería del centro de La Haya",
+            "plato": "Bocadillo de queso y bebida",
+            "costo": 12
+          },
+          {
+            "hora": "19:45",
+            "momento": "cena",
+            "lugar": "Stayokay Den Haag, área de restauración",
+            "plato": "Cena sencilla con plato caliente",
+            "costo": 18,
+            "link": "https://www.stayokay.com/en/hostel/den-haag"
+          }
+        ],
+        "medio": [
+          {
+            "hora": "07:30",
+            "momento": "desayuno",
+            "lugar": "citizenM Rotterdam",
+            "plato": "Desayuno incluido",
+            "costo": 0
+          },
+          {
+            "hora": "13:00",
+            "momento": "almuerzo",
+            "lugar": "Cafetería del Mauritshuis",
+            "plato": "Sopa, sándwich y bebida",
+            "costo": 25,
+            "link": "https://www.mauritshuis.nl/en/"
+          },
+          {
+            "hora": "19:45",
+            "momento": "cena",
+            "lugar": "Full Moon City, La Haya",
+            "plato": "Dim sum y plato principal",
+            "costo": 37,
+            "link": "https://fullmooncity.nl/"
+          }
+        ],
+        "alto": [
+          {
+            "hora": "07:30",
+            "momento": "desayuno",
+            "lugar": "Mainport Rotterdam",
+            "plato": "Desayuno incluido",
+            "costo": 0
+          },
+          {
+            "hora": "13:00",
+            "momento": "almuerzo",
+            "lugar": "Cafetería del Mauritshuis",
+            "plato": "Almuerzo de dos platos con bebida",
+            "costo": 43,
+            "link": "https://www.mauritshuis.nl/en/"
+          },
+          {
+            "hora": "19:45",
+            "momento": "cena",
+            "lugar": "Hotel Des Indes, restaurante",
+            "plato": "Cena de tres tiempos",
+            "costo": 100,
+            "link": "https://www.hoteldesindesthehague.com/"
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "niveles": [
+            "economico",
+            "medio"
+          ],
+          "hora": "08:30",
+          "de": "Rotterdam Centraal",
+          "a": "Den Haag Centraal",
+          "medio": "Tren NS de segunda clase",
+          "duracion": "25 min",
+          "costo": 7.5
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "08:30",
+          "de": "Rotterdam Centraal",
+          "a": "Den Haag Centraal",
+          "medio": "Tren NS de primera clase",
+          "duracion": "25 min",
+          "costo": 14
+        },
+        {
+          "niveles": [
+            "economico",
+            "medio"
+          ],
+          "hora": "13:45",
+          "de": "Den Haag Centraal",
+          "a": "Delft",
+          "medio": "Tren NS de segunda clase",
+          "duracion": "15 min",
+          "costo": 4.5
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "13:45",
+          "de": "La Haya",
+          "a": "Delft",
+          "medio": "Taxi compartido",
+          "duracion": "25 min",
+          "costo": 20
+        },
+        {
+          "niveles": [
+            "economico",
+            "medio"
+          ],
+          "hora": "18:00",
+          "de": "Delft",
+          "a": "Den Haag Centraal",
+          "medio": "Tren NS de segunda clase",
+          "duracion": "15 min",
+          "costo": 4.5
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "18:00",
+          "de": "Delft",
+          "a": "Hotel Des Indes",
+          "medio": "Taxi compartido",
+          "duracion": "25 min",
+          "costo": 20
+        }
+      ],
+      "planB": "Si Royal Delft está cerrado, reemplazarlo por el Museo Prinsenhof cuando esté abierto o ampliar la visita al centro de Delft. Con lluvia, dar prioridad al Mauritshuis."
+    },
+    {
+      "dia": 10,
+      "titulo": "La Haya internacional y el mar del Norte",
+      "ciudad": "La Haya",
+      "coords": {
+        "lat": 52.0801,
+        "lng": 4.3147
+      },
+      "resumen": "Recorrido por el entorno del Palacio de la Paz y tarde frente al mar en Scheveningen. Los niveles medio y alto incluyen Madurodam.",
+      "imagenes": [
+        {
+          "url": "paises-bajos-12-dias/panoramica-de-la-playa-y-el-muelle-de-sc-342956.jpg",
+          "alt": "Panorámica de la playa y el muelle de Scheveningen",
+          "credito": "Till Niermann",
+          "licencia": "CC BY 3.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Scheveningen.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "09:30",
+          "nombre": "Palacio de la Paz desde el exterior",
+          "descripcion": "Visita exterior al edificio vinculado con la justicia internacional.",
+          "duracion": "45 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 52.0867,
+            "lng": 4.2959
+          },
+          "link": "https://www.vredespaleis.nl/"
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "11:15",
+          "nombre": "Westbroekpark",
+          "descripcion": "Paseo por senderos y zonas verdes próximas a Scheveningen.",
+          "duracion": "1 h 15 min",
+          "costo": 0,
+          "tipo": "naturaleza",
+          "coords": {
+            "lat": 52.1003,
+            "lng": 4.2915
+          }
+        },
+        {
+          "niveles": [
+            "medio",
+            "alto"
+          ],
+          "hora": "11:15",
+          "nombre": "Madurodam",
+          "descripcion": "Parque de miniaturas y experiencias interactivas de los Países Bajos.",
+          "duracion": "1 h 30 min",
+          "costo": 25,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 52.1007,
+            "lng": 4.2977
+          },
+          "link": "https://www.madurodam.nl/en/"
+        },
+        {
+          "hora": "15:00",
+          "nombre": "Playa de Scheveningen",
+          "descripcion": "Tarde de paseo por la playa y vistas del mar del Norte.",
+          "duracion": "2 h",
+          "costo": 0,
+          "tipo": "naturaleza",
+          "coords": {
+            "lat": 52.1099,
+            "lng": 4.2711
+          },
+          "consejo": "La temperatura del agua en mayo suele ser fría; la experiencia está planteada para caminar, no para nadar."
+        },
+        {
+          "hora": "18:00",
+          "nombre": "Muelle de Scheveningen",
+          "descripcion": "Recorrido por el muelle y observación de la costa al atardecer.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 52.1161,
+            "lng": 4.2807
+          }
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "08:00",
+            "momento": "desayuno",
+            "lugar": "Stayokay Den Haag",
+            "plato": "Pan con queso y café",
+            "costo": 9
+          },
+          {
+            "hora": "13:00",
+            "momento": "almuerzo",
+            "lugar": "Cafetería de la zona de Scheveningen",
+            "plato": "Sándwich de pescado y bebida",
+            "costo": 15
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Puesto de pescado de Scheveningen",
+            "plato": "Kibbeling con papas fritas",
+            "costo": 19
+          }
+        ],
+        "medio": [
+          {
+            "hora": "08:00",
+            "momento": "desayuno",
+            "lugar": "The Social Hub The Hague",
+            "plato": "Desayuno",
+            "costo": 0,
+            "link": "https://www.thesocialhub.co/"
+          },
+          {
+            "hora": "13:00",
+            "momento": "almuerzo",
+            "lugar": "Cafetería de Madurodam",
+            "plato": "Sándwich completo y bebida",
+            "costo": 24,
+            "link": "https://www.madurodam.nl/en/"
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Simonis, zona de Scheveningen",
+            "plato": "Pescado fresco con acompañamiento",
+            "costo": 38,
+            "link": "https://www.simonisvis.nl/"
+          }
+        ],
+        "alto": [
+          {
+            "hora": "08:00",
+            "momento": "desayuno",
+            "lugar": "Hotel Des Indes",
+            "plato": "Desayuno incluido",
+            "costo": 0
+          },
+          {
+            "hora": "13:00",
+            "momento": "almuerzo",
+            "lugar": "Cafetería de Madurodam",
+            "plato": "Almuerzo completo y postre",
+            "costo": 38,
+            "link": "https://www.madurodam.nl/en/"
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Simonis, zona de Scheveningen",
+            "plato": "Mariscos y pescado fresco con vino",
+            "costo": 75,
+            "link": "https://www.simonisvis.nl/"
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "niveles": [
+            "economico",
+            "medio"
+          ],
+          "hora": "08:55",
+          "de": "Centro de La Haya",
+          "a": "Palacio de la Paz",
+          "medio": "Tranvía HTM",
+          "duracion": "20 min",
+          "costo": 3
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "08:55",
+          "de": "Hotel Des Indes",
+          "a": "Palacio de la Paz",
+          "medio": "Taxi compartido",
+          "duracion": "15 min",
+          "costo": 10
+        },
+        {
+          "niveles": [
+            "economico",
+            "medio"
+          ],
+          "hora": "14:15",
+          "de": "Westbroekpark o Madurodam",
+          "a": "Scheveningen",
+          "medio": "Tranvía o autobús HTM",
+          "duracion": "20 min",
+          "costo": 3
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "14:15",
+          "de": "Madurodam",
+          "a": "Scheveningen",
+          "medio": "Taxi compartido",
+          "duracion": "15 min",
+          "costo": 12
+        },
+        {
+          "niveles": [
+            "economico",
+            "medio"
+          ],
+          "hora": "21:00",
+          "de": "Scheveningen",
+          "a": "Centro de La Haya",
+          "medio": "Tranvía HTM",
+          "duracion": "25 min",
+          "costo": 3
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "21:00",
+          "de": "Scheveningen",
+          "a": "Hotel Des Indes",
+          "medio": "Taxi compartido",
+          "duracion": "20 min",
+          "costo": 15
+        }
+      ],
+      "planB": "Con viento fuerte o lluvia intensa, reducir el tiempo en la playa y visitar museos interiores de La Haya. Madurodam puede seguir operando parcialmente al aire libre, por lo que debe comprobarse su política climática."
+    },
+    {
+      "dia": 11,
+      "titulo": "Haarlem: arte, plazas y calles tranquilas",
+      "ciudad": "Haarlem",
+      "coords": {
+        "lat": 52.3812,
+        "lng": 4.6368
+      },
+      "resumen": "Viaje hacia Haarlem para disfrutar de una ciudad histórica más tranquila, con una gran plaza central, la iglesia de San Bavón y el museo Teylers.",
+      "imagenes": [
+        {
+          "url": "paises-bajos-12-dias/iglesia-de-san-bavon-y-centro-historico-3dd8c6.jpg",
+          "alt": "Iglesia de San Bavón en el centro de Haarlem",
+          "credito": "René Cortin",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:The_Grote_Kerk_or_St.-Bavokerk,_Haarlem,_The_Netherlands.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "10:45",
+          "nombre": "Grote Markt de Haarlem",
+          "descripcion": "Exploración de la plaza central y su arquitectura histórica.",
+          "duracion": "45 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 52.3812,
+            "lng": 4.6368
+          }
+        },
+        {
+          "hora": "11:40",
+          "nombre": "Grote Kerk o iglesia de San Bavón",
+          "descripcion": "Visita al interior del templo gótico, su arquitectura y el órgano histórico.",
+          "duracion": "45 min",
+          "costo": 4,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 52.3808,
+            "lng": 4.6365
+          },
+          "link": "https://www.bavo.nl/",
+          "consejo": "Revisar disponibilidad de visitas, ya que puede haber servicios religiosos."
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "14:15",
+          "nombre": "Canales de Bakenessergracht",
+          "descripcion": "Paseo fotográfico gratuito por calles y canales tradicionales.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 52.382,
+            "lng": 4.6411
+          }
+        },
+        {
+          "niveles": [
+            "medio",
+            "alto"
+          ],
+          "hora": "14:15",
+          "nombre": "Teylers Museum",
+          "descripcion": "Visita a uno de los museos más antiguos de los Países Bajos, dedicado al arte y la ciencia.",
+          "duracion": "1 h 30 min",
+          "costo": 18.5,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 52.3801,
+            "lng": 4.6406
+          },
+          "link": "https://teylersmuseum.nl/en/"
+        },
+        {
+          "hora": "17:00",
+          "nombre": "Paseo junto al río Spaarne",
+          "descripcion": "Caminata entre puentes, embarcaciones y fachadas tradicionales.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "naturaleza",
+          "coords": {
+            "lat": 52.3818,
+            "lng": 4.6421
+          }
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "07:45",
+            "momento": "desayuno",
+            "lugar": "Stayokay Den Haag",
+            "plato": "Pan, fruta y café",
+            "costo": 9
+          },
+          {
+            "hora": "12:45",
+            "momento": "almuerzo",
+            "lugar": "Panadería del Grote Markt de Haarlem",
+            "plato": "Sándwich de queso y pastel",
+            "costo": 14
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Jopenkerk Haarlem",
+            "plato": "Hamburguesa con papas y bebida sin alcohol",
+            "costo": 24,
+            "link": "https://www.jopenkerk.nl/"
+          }
+        ],
+        "medio": [
+          {
+            "hora": "07:45",
+            "momento": "desayuno",
+            "lugar": "The Social Hub The Hague",
+            "plato": "Desayuno incluido",
+            "costo": 0
+          },
+          {
+            "hora": "12:45",
+            "momento": "almuerzo",
+            "lugar": "Cafetería del Teylers Museum",
+            "plato": "Sopa y sándwich con bebida",
+            "costo": 26,
+            "link": "https://teylersmuseum.nl/en/"
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Jopenkerk Haarlem",
+            "plato": "Plato principal y postre",
+            "costo": 39,
+            "link": "https://www.jopenkerk.nl/"
+          }
+        ],
+        "alto": [
+          {
+            "hora": "07:45",
+            "momento": "desayuno",
+            "lugar": "Hotel Des Indes",
+            "plato": "Desayuno incluido",
+            "costo": 0
+          },
+          {
+            "hora": "12:45",
+            "momento": "almuerzo",
+            "lugar": "Cafetería del Teylers Museum",
+            "plato": "Almuerzo de dos tiempos",
+            "costo": 42,
+            "link": "https://teylersmuseum.nl/en/"
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Restaurant ML Haarlem",
+            "plato": "Menú degustación de alta cocina",
+            "costo": 130,
+            "link": "https://www.mlinhaarlem.nl/en-gb/restaurant"
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "niveles": [
+            "economico",
+            "medio"
+          ],
+          "hora": "09:00",
+          "de": "Den Haag Centraal",
+          "a": "Haarlem",
+          "medio": "Tren NS de segunda clase; posible conexión",
+          "duracion": "45 min",
+          "costo": 14.5
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "09:00",
+          "de": "Hotel Des Indes",
+          "a": "Hotel Staats Haarlem",
+          "medio": "Vehículo privado compartido",
+          "duracion": "55 min",
+          "costo": 50
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "18:15",
+          "de": "Río Spaarne",
+          "a": "Amrâth Grand Hotel Frans Hals",
+          "medio": "Taxi local compartido",
+          "duracion": "10 min",
+          "costo": 7
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "18:15",
+          "de": "Río Spaarne",
+          "a": "Hotel Staats Haarlem",
+          "medio": "Taxi compartido",
+          "duracion": "10 min",
+          "costo": 8
+        }
+      ],
+      "planB": "Si llueve, los niveles medio y alto amplían la visita al Teylers Museum. El económico puede refugiarse en las galerías comerciales del centro o en la cafetería de Jopenkerk."
+    },
+    {
+      "dia": 12,
+      "titulo": "Últimas horas en Haarlem y regreso a Colombia",
+      "ciudad": "Haarlem",
+      "coords": {
+        "lat": 52.3812,
+        "lng": 4.6368
+      },
+      "resumen": "Mañana tranquila en Haarlem, almuerzo y traslado al aeropuerto Schiphol. Se presupone un vuelo de regreso al final de la tarde o por la noche; si el itinerario aéreo definitivo exige salir antes, habrá que acortar la mañana.",
+      "imagenes": [
+        {
+          "url": "paises-bajos-12-dias/iglesia-de-san-bavon-y-centro-historico-3dd8c6.jpg",
+          "alt": "Centro histórico de Haarlem y su iglesia principal",
+          "credito": "René Cortin",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:The_Grote_Kerk_or_St.-Bavokerk,_Haarlem,_The_Netherlands.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "09:00",
+          "nombre": "Último paseo por Grote Markt",
+          "descripcion": "Recorrido breve por las calles del centro y compra de pequeños recuerdos.",
+          "duracion": "45 min",
+          "costo": 0,
+          "tipo": "compras",
+          "coords": {
+            "lat": 52.3812,
+            "lng": 4.6368
+          }
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "10:15",
+          "nombre": "Molino De Adriaan por fuera",
+          "descripcion": "Fotografías gratuitas de uno de los símbolos de Haarlem.",
+          "duracion": "45 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 52.3845,
+            "lng": 4.6426
+          }
+        },
+        {
+          "niveles": [
+            "medio",
+            "alto"
+          ],
+          "hora": "10:15",
+          "nombre": "Visita interior al molino De Adriaan",
+          "descripcion": "Recorrido por la estructura y el mecanismo del molino.",
+          "duracion": "1 h",
+          "costo": 8,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 52.3845,
+            "lng": 4.6426
+          },
+          "link": "https://www.molenadriaan.nl/"
+        },
+        {
+          "hora": "11:30",
+          "nombre": "Grote Houtstraat",
+          "descripcion": "Último paseo por la calle comercial de Haarlem antes de recoger el equipaje.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "compras",
+          "coords": {
+            "lat": 52.379,
+            "lng": 4.6349
+          }
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "07:45",
+            "momento": "desayuno",
+            "lugar": "Hello I'm Local Boutique Hostel",
+            "plato": "Pan, queso y café",
+            "costo": 10,
+            "link": "https://helloimlocal.com/"
+          },
+          {
+            "hora": "13:00",
+            "momento": "almuerzo",
+            "lugar": "Panadería del centro de Haarlem",
+            "plato": "Bocadillo y bebida",
+            "costo": 13
+          },
+          {
+            "hora": "18:00",
+            "momento": "cena",
+            "lugar": "Albert Heijn to go, aeropuerto Schiphol",
+            "plato": "Sándwich, yogur y agua",
+            "costo": 14,
+            "link": "https://www.ah.nl/"
+          }
+        ],
+        "medio": [
+          {
+            "hora": "07:45",
+            "momento": "desayuno",
+            "lugar": "Amrâth Grand Hotel Frans Hals",
+            "plato": "Desayuno incluido",
+            "costo": 0,
+            "link": "https://www.amrathhotelhaarlem.nl/en/"
+          },
+          {
+            "hora": "13:00",
+            "momento": "almuerzo",
+            "lugar": "Jopenkerk Haarlem",
+            "plato": "Plato principal y bebida",
+            "costo": 29,
+            "link": "https://www.jopenkerk.nl/"
+          },
+          {
+            "hora": "18:00",
+            "momento": "cena",
+            "lugar": "Restaurante de Schiphol Plaza",
+            "plato": "Plato caliente y bebida",
+            "costo": 29,
+            "link": "https://www.schiphol.nl/en/"
+          }
+        ],
+        "alto": [
+          {
+            "hora": "07:45",
+            "momento": "desayuno",
+            "lugar": "Boutiquehotel STAATS",
+            "plato": "Desayuno incluido",
+            "costo": 0,
+            "link": "https://www.hotelstaats.nl/en/"
+          },
+          {
+            "hora": "13:00",
+            "momento": "almuerzo",
+            "lugar": "Restaurant ML Haarlem",
+            "plato": "Almuerzo gastronómico de dos o tres tiempos",
+            "costo": 75,
+            "link": "https://www.mlinhaarlem.nl/en-gb/restaurant"
+          },
+          {
+            "hora": "18:00",
+            "momento": "cena",
+            "lugar": "Restaurante de Schiphol Plaza",
+            "plato": "Cena completa previa al vuelo",
+            "costo": 48,
+            "link": "https://www.schiphol.nl/en/"
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "niveles": [
+            "economico",
+            "medio"
+          ],
+          "hora": "15:00",
+          "de": "Haarlem",
+          "a": "Aeropuerto Schiphol",
+          "medio": "Autobús regional 300",
+          "duracion": "40 min",
+          "costo": 7,
+          "consejo": "Confirmar la línea y horarios de 2028. Para vuelos intercontinentales se recomienda estar en el aeropuerto al menos tres horas antes de la salida, según la aerolínea."
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "15:00",
+          "de": "Boutiquehotel STAATS",
+          "a": "Aeropuerto Schiphol",
+          "medio": "Vehículo privado compartido",
+          "duracion": "30 min",
+          "costo": 25
+        }
+      ],
+      "planB": "Si llueve, visitar las cafeterías y comercios cubiertos de Haarlem. Si el vuelo sale antes de las 19:00, suspender las actividades matutinas necesarias y adelantar el traslado; la cena podrá realizarse a bordo según la tarifa aérea."
+    }
+  ],
+  "presupuesto": {
+    "notas": "Por persona, en habitación doble compartida (cama en dormitorio en económico). Vuelos y seguro en dólares; lo demás en euros. Los traslados privados se calculan divididos entre cuatro viajeros.",
+    "categorias": [
+      {
+        "categoria": "vuelos",
+        "descripcion": "Vuelo internacional de ida y regreso desde Medellín, con impuestos estimados. Económico en clase turista con conexión; medio en clase turista con mejores conexiones; alto en cabina superior o con mayor flexibilidad según disponibilidad.",
+        "moneda": "USD",
+        "economico": 1100,
+        "medio": 1450,
+        "alto": 2300
+      },
+      {
+        "categoria": "seguro",
+        "descripcion": "Seguro internacional para los días de viaje; coberturas progresivamente mayores para gastos médicos, equipaje y cancelaciones. Verificar límites y exclusiones reales de cada póliza.",
+        "moneda": "USD",
+        "economico": 55,
+        "medio": 95,
+        "alto": 180
+      },
+      {
+        "categoria": "visa",
+        "descripcion": "Colombianos no necesitan visa Schengen; se reservan 20 € para la autorización ETIAS si ya es obligatoria.",
+        "moneda": "local",
+        "economico": 20,
+        "medio": 20,
+        "alto": 20
+      },
+      {
+        "categoria": "conectividad",
+        "descripcion": "Paquete de datos eSIM para 12 días, con diferente capacidad de datos.",
+        "moneda": "local",
+        "economico": 20,
+        "medio": 30,
+        "alto": 45
+      },
+      {
+        "categoria": "compras",
+        "descripcion": "Recuerdos, quesos envasados y artículos personales.",
+        "moneda": "local",
+        "economico": 70,
+        "medio": 160,
+        "alto": 400
+      },
+      {
+        "categoria": "extras",
+        "descripcion": "Imprevistos y experiencias extra; en alto incluye guías privados y el suplemento del crucero privado.",
+        "moneda": "local",
+        "economico": 100,
+        "medio": 170,
+        "alto": 400
+      }
+    ]
+  },
+  "alojamiento": [
+    {
+      "ciudad": "Ámsterdam",
+      "noches": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "economico": {
+        "nombre": "ClinkNOORD",
+        "zona": "Amsterdam Noord, junto al ferry gratuito hacia Centraal",
+        "tipo": "Hostal, cama en dormitorio compartido",
+        "precioNoche": 50,
+        "incluye": "Cama individual en dormitorio compartido y acceso a zonas comunes; desayuno no incluido.",
+        "descripcion": "Hostal juvenil con ambiente social, adecuado para grupos que priorizan el presupuesto.",
+        "link": "https://www.clinkhostels.com/es/amsterdam/clink-noord/"
+      },
+      "medio": {
+        "nombre": "ibis Amsterdam Centre",
+        "zona": "Junto a Amsterdam Centraal",
+        "tipo": "Hotel de gama media, habitación doble",
+        "precioNoche": 115,
+        "incluye": "Habitación doble compartida, baño privado y desayuno.",
+        "descripcion": "Ubicación muy práctica para los trenes y las excursiones, con alojamiento funcional.",
+        "link": "https://all.accor.com/hotel/1556/index.es.shtml"
+      },
+      "alto": {
+        "nombre": "Pulitzer Amsterdam",
+        "zona": "Cinturón de canales, Prinsengracht",
+        "tipo": "Hotel de lujo, habitación doble",
+        "precioNoche": 285,
+        "incluye": "Habitación doble y desayuno.",
+        "descripcion": "Hotel de alta gama instalado en casas históricas del canal, con servicio y gastronomía de nivel superior.",
+        "link": "https://www.pulitzeramsterdam.com/en/"
+      }
+    },
+    {
+      "ciudad": "Utrecht",
+      "noches": [
+        5,
+        6
+      ],
+      "economico": {
+        "nombre": "Stayokay Utrecht Centrum",
+        "zona": "Neude, centro histórico",
+        "tipo": "Hostal, cama en dormitorio compartido",
+        "precioNoche": 48,
+        "incluye": "Cama en habitación compartida, espacios comunes y acceso a servicios del hostal; desayuno no incluido.",
+        "descripcion": "Hostal céntrico que permite explorar el casco antiguo a pie.",
+        "link": "https://www.stayokay.com/en/hostel/utrecht-centrum"
+      },
+      "medio": {
+        "nombre": "BUNK Hotel Utrecht",
+        "zona": "Centro de Utrecht, cerca de la estación",
+        "tipo": "Hotel de diseño, habitación doble",
+        "precioNoche": 100,
+        "incluye": "Habitación doble y desayuno.",
+        "descripcion": "Alojamiento contemporáneo en un edificio histórico reconvertido.",
+        "link": "https://wearebunk.com/utrecht/"
+      },
+      "alto": {
+        "nombre": "Grand Hotel Karel V",
+        "zona": "Centro histórico de Utrecht",
+        "tipo": "Hotel de lujo, habitación doble",
+        "precioNoche": 210,
+        "incluye": "Habitación doble compartida y desayuno.",
+        "descripcion": "Hotel de categoría superior con jardines y entorno monumental.",
+        "link": "https://www.karelv.nl/en/"
+      }
+    },
+    {
+      "ciudad": "Róterdam",
+      "noches": [
+        7,
+        8
+      ],
+      "economico": {
+        "nombre": "Hostel ROOM Rotterdam",
+        "zona": "Scheepvaartkwartier",
+        "tipo": "Hostal, cama compartida",
+        "precioNoche": 42,
+        "incluye": "Cama en dormitorio compartido y acceso a instalaciones del hostal; desayuno no incluido.",
+        "descripcion": "Hostal social en una zona agradable para recorrer la ciudad.",
+        "link": "https://www.roomrotterdam.nl/"
+      },
+      "medio": {
+        "nombre": "citizenM Rotterdam",
+        "zona": "Blaak, junto a Markthal",
+        "tipo": "Hotel moderno, habitación doble",
+        "precioNoche": 105,
+        "incluye": "Habitación doble compartida y desayuno.",
+        "descripcion": "Hotel de diseño muy bien conectado con el mercado y el casco antiguo.",
+        "link": "https://www.marriott.com/en-us/hotels/rtmcm-citizenm-rotterdam/overview/"
+      },
+      "alto": {
+        "nombre": "Mainport Rotterdam",
+        "zona": "Leuvehaven, frente al agua",
+        "tipo": "Hotel de lujo, habitación doble",
+        "precioNoche": 210,
+        "incluye": "Habitación doble y desayuno.",
+        "descripcion": "Hotel de alta gama junto al puerto, con vistas urbanas y servicios superiores.",
+        "link": "https://www.hotelmainport.com/en/"
+      }
+    },
+    {
+      "ciudad": "La Haya",
+      "noches": [
+        9,
+        10
+      ],
+      "economico": {
+        "nombre": "Stayokay Den Haag",
+        "zona": "Cerca de Den Haag HS",
+        "tipo": "Hostal, cama en dormitorio compartido",
+        "precioNoche": 48,
+        "incluye": "Cama individual en dormitorio compartido y acceso a zonas comunes; desayuno no incluido.",
+        "descripcion": "Alojamiento económico con buenas conexiones ferroviarias y urbanas.",
+        "link": "https://www.stayokay.com/en/hostel/den-haag"
+      },
+      "medio": {
+        "nombre": "The Social Hub The Hague",
+        "zona": "Área de Den Haag HS",
+        "tipo": "Hotel contemporáneo, habitación doble",
+        "precioNoche": 100,
+        "incluye": "Habitación doble compartida y desayuno.",
+        "descripcion": "Alojamiento moderno con espacios sociales y fácil acceso al transporte.",
+        "link": "https://www.thesocialhub.co/"
+      },
+      "alto": {
+        "nombre": "Hotel Des Indes",
+        "zona": "Lange Voorhout, centro de La Haya",
+        "tipo": "Hotel de lujo, habitación doble",
+        "precioNoche": 220,
+        "incluye": "Habitación doble de alta gama y desayuno.",
+        "descripcion": "Hotel histórico de lujo cercano a museos y edificios institucionales.",
+        "link": "https://www.hoteldesindesthehague.com/"
+      }
+    },
+    {
+      "ciudad": "Haarlem",
+      "noches": [
+        11
+      ],
+      "economico": {
+        "nombre": "Hello I'm Local Boutique Hostel",
+        "zona": "Centro histórico de Haarlem",
+        "tipo": "Hostal boutique, cama en dormitorio",
+        "precioNoche": 45,
+        "incluye": "Cama compartida y acceso a áreas comunes; desayuno no incluido.",
+        "descripcion": "Hostal de ambiente cuidado, apropiado para la última noche del recorrido.",
+        "link": "https://helloimlocal.com/"
+      },
+      "medio": {
+        "nombre": "Amrâth Grand Hotel Frans Hals",
+        "zona": "Centro de Haarlem, próximo a Spaarne",
+        "tipo": "Hotel de gama media-alta, habitación doble",
+        "precioNoche": 110,
+        "incluye": "Habitación doble compartida y desayuno.",
+        "descripcion": "Hotel céntrico, práctico para explorar la ciudad antes del regreso.",
+        "link": "https://www.amrathhotelhaarlem.nl/en/"
+      },
+      "alto": {
+        "nombre": "Boutiquehotel STAATS",
+        "zona": "Centro de Haarlem, cerca de la estación",
+        "tipo": "Hotel boutique de alta gama, habitación doble",
+        "precioNoche": 160,
+        "incluye": "Habitación doble compartida y desayuno.",
+        "descripcion": "Hotel boutique con decoración distintiva y servicio personalizado.",
+        "link": "https://www.hotelstaats.nl/en/"
+      }
+    }
+  ],
+  "comida": {
+    "platosTipicos": [
+      {
+        "nombre": "Stroopwafel",
+        "descripcion": "Dos obleas finas unidas por un relleno de caramelo y jarabe. Es un dulce popular para acompañar el café.",
+        "precioAprox": 4,
+        "imagen": {
+          "url": "paises-bajos-12-dias/stroopwafel-tradicional-neerlandes-5bd6a5.jpg",
+          "alt": "Stroopwafel tradicional neerlandés",
+          "credito": "Hortensja Bukietowa",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Eenstroopwafel.jpg"
+        }
+      },
+      {
+        "nombre": "Bitterballen",
+        "descripcion": "Pequeñas croquetas redondas fritas, habitualmente con relleno cremoso de carne y servidas con mostaza.",
+        "precioAprox": 9,
+        "imagen": {
+          "url": "paises-bajos-12-dias/variedad-de-bitterballen-servidas-como-a-1fe465.jpg",
+          "alt": "Variedad de bitterballen servidas como aperitivo",
+          "credito": "Ziko",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:20220602_bitterballen_different_types.jpg"
+        }
+      },
+      {
+        "nombre": "Poffertjes",
+        "descripcion": "Minipanqueques esponjosos que se sirven calientes con mantequilla y azúcar glas.",
+        "precioAprox": 8,
+        "imagen": {
+          "url": "paises-bajos-12-dias/preparacion-de-pequenos-panqueques-poffe-42e764.jpg",
+          "alt": "Preparación de pequeños panqueques poffertjes en una plancha",
+          "credito": "Photo by Peet Sneekes (that would be me)",
+          "licencia": "CC BY-SA 2.5",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Poffertjes.jpg"
+        }
+      },
+      {
+        "nombre": "Haring",
+        "descripcion": "Arenque curado al estilo neerlandés, servido frecuentemente con cebolla picada y pepinillos.",
+        "precioAprox": 7,
+        "imagen": {
+          "url": "paises-bajos-12-dias/arenque-neerlandes-con-cebolla-y-pepinil-58b473.jpg",
+          "alt": "Arenque neerlandés con cebolla y pepinillos",
+          "credito": "C van der",
+          "licencia": "CC BY 2.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Haring_met_zuur.jpeg"
+        }
+      },
+      {
+        "nombre": "Stamppot",
+        "descripcion": "Puré rústico de papa mezclado con verduras, frecuentemente acompañado de salchicha ahumada y trocitos de tocino.",
+        "precioAprox": 19,
+        "imagen": {
+          "url": "paises-bajos-12-dias/plato-de-stamppot-neerlandes-con-pure-de-65446c.jpg",
+          "alt": "Plato de stamppot neerlandés con puré de verduras y salchichas",
+          "credito": "Dutch Ministry of Foreign Affairs",
+          "licencia": "CC BY-SA 2.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Stamppot-01_(11993497346).jpg"
+        }
+      }
+    ]
+  },
+  "infoPractica": {
+    "visa": {
+      "requiere": false,
+      "tipo": "Exención de visa Schengen para turismo de corta duración; autorización ETIAS cuando resulte obligatoria",
+      "detalle": "Los titulares de pasaporte colombiano pueden viajar por turismo a los Países Bajos sin visa Schengen para estancias de hasta 90 días dentro de cualquier período de 180 días, siempre que cumplan las condiciones de entrada. El pasaporte debe haber sido expedido dentro de los diez años anteriores y normalmente conservar una validez mínima de tres meses después de la salida prevista del espacio Schengen. Llevar prueba de alojamiento, fondos suficientes, itinerario y billete de salida. ETIAS no constituye una visa; al 21 de noviembre de 2026 su exigencia futura debe verificarse en el portal oficial antes del viaje previsto para mayo de 2028.",
+      "link": "https://www.eeas.europa.eu/colombia/travel-study_en"
+    },
+    "clima": [
+      {
+        "mes": 1,
+        "tempMin": 1,
+        "tempMax": 6,
+        "lluviaMm": 67
+      },
+      {
+        "mes": 2,
+        "tempMin": 1,
+        "tempMax": 7,
+        "lluviaMm": 55
+      },
+      {
+        "mes": 3,
+        "tempMin": 3,
+        "tempMax": 10,
+        "lluviaMm": 52
+      },
+      {
+        "mes": 4,
+        "tempMin": 5,
+        "tempMax": 14,
+        "lluviaMm": 40
+      },
+      {
+        "mes": 5,
+        "tempMin": 9,
+        "tempMax": 18,
+        "lluviaMm": 54
+      },
+      {
+        "mes": 6,
+        "tempMin": 12,
+        "tempMax": 20,
+        "lluviaMm": 65
+      },
+      {
+        "mes": 7,
+        "tempMin": 14,
+        "tempMax": 23,
+        "lluviaMm": 82
+      },
+      {
+        "mes": 8,
+        "tempMin": 14,
+        "tempMax": 23,
+        "lluviaMm": 99
+      },
+      {
+        "mes": 9,
+        "tempMin": 12,
+        "tempMax": 20,
+        "lluviaMm": 84
+      },
+      {
+        "mes": 10,
+        "tempMin": 9,
+        "tempMax": 15,
+        "lluviaMm": 87
+      },
+      {
+        "mes": 11,
+        "tempMin": 5,
+        "tempMax": 10,
+        "lluviaMm": 85
+      },
+      {
+        "mes": 12,
+        "tempMin": 2,
+        "tempMax": 7,
+        "lluviaMm": 82
+      }
+    ],
+    "vacunas": [
+      "No se exige, de manera general, certificado de vacunación contra la fiebre amarilla para entrar a los Países Bajos desde Colombia; revisar requisitos de cualquier país de tránsito.",
+      "Mantener actualizado el esquema habitual de vacunación, incluida la vacuna contra sarampión, rubéola y paperas.",
+      "Revisar el refuerzo de tétanos y difteria según edad y antecedentes.",
+      "Considerar la vacunación estacional contra influenza conforme a recomendaciones médicas y condiciones personales.",
+      "Consultar fuentes sanitarias oficiales antes del viaje porque los requisitos pueden modificarse antes de mayo de 2028."
+    ],
+    "seguridad": "Los Países Bajos son, en general, un destino seguro para turistas. Los riesgos más habituales incluyen hurtos oportunistas en estaciones, tranvías, calles concurridas y zonas turísticas. Debe prestarse especial atención a ciclovías, tranvías y cruces. En zonas de vida nocturna, cuidar bebidas y pertenencias. Guardar copia del pasaporte y conocer el número europeo de emergencias 112.",
+    "enchufe": {
+      "tipo": "C y F",
+      "voltaje": "230 V, 50 Hz",
+      "necesitaAdaptador": true
+    },
+    "propinas": "La propina no es obligatoria. Es habitual redondear la cuenta o dejar aproximadamente un 5 % a 10 % por un servicio especialmente bueno. En taxis se puede redondear al euro más cercano.",
+    "idioma": "El idioma oficial es el neerlandés. El inglés se habla ampliamente en hoteles, comercios, museos y transporte. Para un viajero colombiano no suele ser imprescindible hablar neerlandés, aunque usar expresiones básicas es bien recibido.",
+    "conectividad": "Comprar una eSIM de datos europea o usar roaming internacional. Los hoteles, restaurantes y estaciones ofrecen Wi-Fi, aunque no conviene depender exclusivamente de redes públicas. Confirmar compatibilidad del teléfono con eSIM y revisar restricciones del plan de datos. Descargar mapas sin conexión antes de salir de Colombia.",
+    "transporteLocal": "Los trenes NS conectan las principales ciudades. En Ámsterdam funciona GVB, en La Haya HTM y en Róterdam RET. OVpay permite utilizar tarjetas bancarias compatibles o dispositivos móviles para registrar entrada y salida en muchos servicios; cada viajero debe usar su propio medio de pago y no alternar entre tarjeta física y móvil para un mismo trayecto. Para trenes de primera clase debe comprobarse y comprarse el producto adecuado. Los horarios y tarifas de 2028 aún no están publicados. El ferry gratuito entre Amsterdam Centraal y Buiksloterweg facilita el acceso a ClinkNOORD. Para Kinderdijk se ha previsto WaterShuttle, sujeto a confirmación operativa.",
+    "frases": [
+      {
+        "es": "Buenos días",
+        "local": "Goedemorgen",
+        "pronunciacion": "júde-mórjen"
+      },
+      {
+        "es": "Gracias",
+        "local": "Dank u wel",
+        "pronunciacion": "dank ü vel"
+      },
+      {
+        "es": "Por favor",
+        "local": "Alstublieft",
+        "pronunciacion": "als-tü-blíft"
+      },
+      {
+        "es": "¿Cuánto cuesta esto?",
+        "local": "Hoeveel kost dit?",
+        "pronunciacion": "jú-veel kost dit"
+      },
+      {
+        "es": "¿Dónde está la estación?",
+        "local": "Waar is het station?",
+        "pronunciacion": "vaar is jet sta-tsión"
+      },
+      {
+        "es": "¿Habla inglés?",
+        "local": "Spreekt u Engels?",
+        "pronunciacion": "spreikt ü énguels"
+      },
+      {
+        "es": "Tengo una reserva",
+        "local": "Ik heb een reservering",
+        "pronunciacion": "ik jep ein re-ser-vé-ring"
+      },
+      {
+        "es": "Adiós, hasta luego",
+        "local": "Tot ziens",
+        "pronunciacion": "tot sins"
+      }
+    ],
+    "apps": [
+      {
+        "nombre": "NS",
+        "para": "Consultar horarios, andenes, incidencias y viajes ferroviarios."
+      },
+      {
+        "nombre": "9292",
+        "para": "Planificar desplazamientos combinando trenes, autobuses, tranvías y metros."
+      },
+      {
+        "nombre": "Google Maps",
+        "para": "Navegación a pie, transporte público y descarga de mapas."
+      },
+      {
+        "nombre": "Buienradar",
+        "para": "Consultar previsiones de lluvia y radares meteorológicos locales."
+      },
+      {
+        "nombre": "Too Good To Go",
+        "para": "Buscar excedentes de comida a precio reducido cuando haya ofertas disponibles."
+      },
+      {
+        "nombre": "OVpay",
+        "para": "Consultar información sobre el pago sin contacto en transporte público."
+      }
+    ],
+    "consejos": [
+      "Programar el viaje alrededor de la apertura oficial de Keukenhof en 2028; no comprar vuelos irreembolsables basándose únicamente en fechas de temporadas anteriores.",
+      "Reservar con antelación Rijksmuseum, Museo Van Gogh, Domtoren, Mauritshuis y castillo de Haar.",
+      "Llevar chaqueta impermeable ligera, capas térmicas y calzado cómodo resistente al agua.",
+      "Usar la misma tarjeta o dispositivo al entrar y salir del transporte con OVpay.",
+      "Viajar con maleta pequeña o mediana facilita los desplazamientos entre ciudades.",
+      "Comparar tarifas de tren de primera y segunda clase porque los beneficios adicionales son principalmente de espacio y comodidad.",
+      "Verificar días de cierre de museos, especialmente cuando el itinerario se concrete para mayo de 2028.",
+      "No caminar sobre los carriles bici; los ciclistas suelen desplazarse a gran velocidad.",
+      "En comercios y restaurantes, pagar en euros y rechazar conversiones dinámicas a pesos colombianos o dólares si la tasa es desfavorable.",
+      "Comprobar condiciones de devolución y cambios de habitaciones y actividades antes de reservar.",
+      "Consultar la meteorología la noche anterior para invertir el orden de actividades abiertas y cerradas si fuera necesario."
+    ],
+    "estafas": [
+      "Carteristas y hurtos de teléfonos cerca de Amsterdam Centraal, Dam y medios de transporte concurridos.",
+      "Supuestos vendedores de billetes o guías no oficiales que cobran por servicios innecesarios.",
+      "Códigos QR falsificados o pegatinas superpuestas en terminales de estacionamiento y pagos.",
+      "Servicios de taxi sin identificación o viajes concertados sin precio claro.",
+      "Conversión de moneda desfavorable en terminales de pago o cajeros turísticos.",
+      "Anuncios fraudulentos de alojamientos y entradas para museos en páginas que imitan a los sitios oficiales."
+    ],
+    "checklist": [
+      "Pasaporte colombiano vigente y expedido dentro de los diez años anteriores.",
+      "Comprobación de las condiciones Schengen de entrada y de la posible exigencia de ETIAS.",
+      "Billetes internacionales de ida y regreso o salida del espacio Schengen.",
+      "Reservas de alojamiento de las once noches.",
+      "Seguro médico internacional y comprobante de cobertura.",
+      "Tarjetas bancarias habilitadas para compras internacionales y una reserva de efectivo en euros.",
+      "Reservas anticipadas de Rijksmuseum y Museo Van Gogh.",
+      "Confirmación de las fechas de apertura de Keukenhof para 2028.",
+      "Billetes y horarios de trenes, autobuses y excursiones.",
+      "Adaptador eléctrico europeo de tipos C o F.",
+      "Chaqueta impermeable, calzado cómodo y ropa para temperaturas variables.",
+      "eSIM o roaming configurado y mapas sin conexión.",
+      "Copias digitales de pasaporte, póliza, itinerario y reservas.",
+      "Comprobación de restricciones de equipaje, medicamentos y requisitos de tránsito aéreo."
+    ]
+  },
+  "fuentes": [
+    {
+      "titulo": "Unión Europea y Delegación en Colombia: viajes de corta estancia",
+      "url": "https://www.eeas.europa.eu/colombia/travel-study_en"
+    },
+    {
+      "titulo": "Unión Europea: preguntas frecuentes oficiales sobre ETIAS",
+      "url": "https://travel-europe.europa.eu/etias/faq"
+    },
+    {
+      "titulo": "Gobierno de Países Bajos: información oficial sobre ETIAS",
+      "url": "https://www.netherlandsworldwide.nl/travel-netherlands/etias-needed"
+    },
+    {
+      "titulo": "CDC: información sanitaria para viajeros a los Países Bajos",
+      "url": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/Netherlands"
+    },
+    {
+      "titulo": "Keukenhof: horarios, entradas y temporada de apertura",
+      "url": "https://keukenhof.nl/en/"
+    },
+    {
+      "titulo": "Nederlandse Spoorwegen: trenes y transporte ferroviario",
+      "url": "https://www.ns.nl/en/"
+    },
+    {
+      "titulo": "Kinderdijk: entradas y visitas oficiales",
+      "url": "https://kinderdijk.nl/en/ticket-information/"
+    },
+    {
+      "titulo": "KNMI: información climatológica de los Países Bajos",
+      "url": "https://www.knmi.nl/nederland-nu/klimatologie/maandgegevens"
+    }
+  ]
+}
