@@ -1,0 +1,96 @@
+---
+import type { Viaje } from '../../lib/viaje';
+interface Props { v: Viaje }
+const { v } = Astro.props;
+
+// Un punto por día (ciudad base) + actividades con coordenadas
+const puntos = v.itinerario.map((d) => ({ dia: d.dia, titulo: d.titulo, ciudad: d.ciudad, lat: d.coords.lat, lng: d.coords.lng }));
+const actividades = v.itinerario.flatMap((d) => d.actividades.filter((a) => a.coords).map((a) => ({ dia: d.dia, nombre: a.nombre, hora: a.hora, lat: a.coords!.lat, lng: a.coords!.lng })));
+---
+<figure class="mapa-wrap" data-reveal>
+  <div class="mapa" data-puntos={JSON.stringify(puntos)} data-actividades={JSON.stringify(actividades)} role="region" aria-label={`Mapa de la ruta por ${v.meta.destino}`}>
+    <p class="cargando muted">Cargando mapa…</p>
+  </div>
+</figure>
+
+<script>
+  import 'leaflet/dist/leaflet.css';
+
+  async function iniciarMapas() {
+    const contenedores = document.querySelectorAll<HTMLElement>('.mapa:not([data-ready])');
+    if (!contenedores.length) return;
+    const io = new IntersectionObserver(async (entradas) => {
+      for (const e of entradas) {
+        if (!e.isIntersecting) continue;
+        io.unobserve(e.target);
+        const el = e.target as HTMLElement;
+        try { await crearMapa(el); }
+        catch {
+          // Reintenta una vez (p. ej. si el módulo se recompiló); si falla, se oculta el mapa
+          await new Promise((r) => setTimeout(r, 1500));
+          try { await crearMapa(el); } catch { el.closest('figure')?.remove(); }
+        }
+      }
+    }, { rootMargin: '300px' });
+    contenedores.forEach((c) => io.observe(c));
+  }
+
+  async function crearMapa(el: HTMLElement) {
+    const L = (await import('leaflet')).default;
+    el.dataset.ready = '1';
+    const puntos: { dia: number; titulo: string; ciudad: string; lat: number; lng: number }[] = JSON.parse(el.dataset.puntos!);
+    const acts: { dia: number; nombre: string; hora: string; lat: number; lng: number }[] = JSON.parse(el.dataset.actividades!);
+    el.innerHTML = '';
+    const color = getComputedStyle(document.body).getPropertyValue('--trip').trim() || '#0f766e';
+    const mapa = L.map(el, { scrollWheelZoom: false, zoomControl: true, attributionControl: true });
+    // Teselas de OpenStreetMap: gratis y sin API key (requieren atribución)
+    L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      className: 'teselas',
+      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+    }).addTo(mapa);
+
+    // Ciudades únicas en orden para la línea de ruta
+    const ruta: [number, number][] = [];
+    puntos.forEach((p) => {
+      const ult = ruta[ruta.length - 1];
+      if (!ult || ult[0] !== p.lat || ult[1] !== p.lng) ruta.push([p.lat, p.lng]);
+    });
+    const linea = L.polyline(ruta, { color, weight: 3, opacity: 0.85, dashArray: '6 8', lineCap: 'round' }).addTo(mapa);
+
+    acts.forEach((a) => {
+      L.circleMarker([a.lat, a.lng], { radius: 5, color: '#fff', weight: 1.5, fillColor: color, fillOpacity: 0.9 })
+        .bindTooltip(`Día ${a.dia} · ${a.hora} — ${a.nombre}`)
+        .addTo(mapa);
+    });
+
+    // Agrupa días que comparten ciudad en un solo marcador
+    const grupos = new Map<string, typeof puntos>();
+    puntos.forEach((p) => { const k = `${p.lat},${p.lng}`; grupos.set(k, [...(grupos.get(k) ?? []), p]); });
+    grupos.forEach((dias) => {
+      const p = dias[0];
+      const etiqueta = dias.length > 1 ? `${dias[0].dia}–${dias[dias.length - 1].dia}` : `${p.dia}`;
+      const icono = L.divIcon({ className: 'pin-dia', html: `<span style="background:${color}">${etiqueta}</span>`, iconSize: [40, 40], iconAnchor: [20, 20] });
+      const m = L.marker([p.lat, p.lng], { icon: icono, keyboard: true, title: `${p.ciudad}: días ${etiqueta}` }).addTo(mapa);
+      m.bindPopup(`<strong>${p.ciudad}</strong><br>${dias.map((d) => `<a href="#dia-${d.dia}">Día ${d.dia}: ${d.titulo}</a>`).join('<br>')}`);
+    });
+
+    const bounds = L.latLngBounds([...ruta, ...acts.map((a) => [a.lat, a.lng] as [number, number])]);
+    mapa.fitBounds(bounds.isValid() ? bounds : linea.getBounds(), { padding: [40, 40] });
+    mapa.on('focus', () => mapa.scrollWheelZoom.enable());
+    mapa.on('blur', () => mapa.scrollWheelZoom.disable());
+  }
+
+  document.addEventListener('astro:page-load', iniciarMapas);
+</script>
+
+<style>
+  .mapa-wrap { margin: 0; }
+  .mapa { height: clamp(320px, 55vh, 520px); border-radius: var(--radius-lg); overflow: hidden; border: 1px solid var(--border); background: var(--surface-2); display: grid; place-items: center; z-index: 0; }
+  figcaption { font-size: var(--step--1); margin-top: var(--space-3); }
+  :global(.pin-dia span) { display: grid; place-items: center; width: 40px; height: 40px; border-radius: 999px; color: #fff; font: 600 0.85rem var(--font-sans); border: 3px solid #fff; box-shadow: 0 4px 14px rgb(0 0 0 / 0.25); transition: transform 200ms var(--ease-out); }
+  :global(.pin-dia:hover span) { transform: scale(1.12); }
+  .mapa :global(.teselas) { filter: saturate(0.6) sepia(0.15); }
+  :global([data-theme='dark']) .mapa :global(.teselas) { filter: invert(1) hue-rotate(180deg) brightness(0.9) saturate(0.4); }
+  :global(.leaflet-popup-content) { font-family: var(--font-sans); font-size: 0.9rem; line-height: 1.6; }
+</style>

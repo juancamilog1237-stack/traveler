@@ -1,0 +1,184 @@
+---
+import Icon from '../Icon.astro';
+import { MESES, MESES_LARGOS, type Viaje } from '../../lib/viaje';
+interface Props { v: Viaje; slug: string }
+const { v, slug } = Astro.props;
+const ip = v.infoPractica;
+const clima = [...ip.clima].sort((a, b) => a.mes - b.mes);
+const tMin = Math.min(...clima.map((c) => c.tempMin)) - 3;
+const tMax = Math.max(...clima.map((c) => c.tempMax)) + 3;
+const lluviaMax = Math.max(...clima.map((c) => c.lluviaMm), 1);
+const y = (t: number) => 100 - ((t - tMin) / (tMax - tMin)) * 100;
+
+const bloques = [
+  { icon: 'doc', titulo: 'Visa', texto: `${ip.visa.requiere ? `Sí: ${ip.visa.tipo}.` : 'No se necesita visa.'} ${ip.visa.detalle}`, link: ip.visa.link },
+  { icon: 'shield', titulo: 'Seguridad', texto: ip.seguridad },
+  { icon: 'plug', titulo: 'Enchufes', texto: `Tipo ${ip.enchufe.tipo}, ${ip.enchufe.voltaje}. ${ip.enchufe.necesitaAdaptador ? 'Lleva adaptador desde Colombia.' : 'Los enchufes colombianos sirven sin adaptador.'}` },
+  { icon: 'coins', titulo: 'Propinas', texto: ip.propinas },
+  { icon: 'languages', titulo: 'Idioma', texto: ip.idioma },
+  { icon: 'wifi', titulo: 'Internet y SIM', texto: ip.conectividad },
+  { icon: 'train', titulo: 'Moverse', texto: ip.transporteLocal },
+  ...(ip.vacunas.length ? [{ icon: 'shield', titulo: 'Salud y vacunas', texto: ip.vacunas.join('. ') }] : []),
+] as const;
+---
+<section id="info" class="section container" aria-labelledby="h-info">
+  <div class="section-head">
+    <h2 id="h-info" data-split>Info práctica</h2>
+  </div>
+
+  <div class="bloques" data-stagger>
+    {bloques.map((b) => (
+      <article class="bloque card" data-reveal>
+        <h3><Icon name={b.icon} /> {b.titulo}</h3>
+        <p>{b.texto}</p>
+        {'link' in b && b.link && <a href={b.link} target="_blank" rel="noopener">Fuente oficial <Icon name="external" /></a>}
+      </article>
+    ))}
+  </div>
+
+  <article class="clima card" data-reveal>
+    <h3><Icon name="thermometer" /> Clima</h3>
+    <p class="muted leyenda">
+      <span><i class="sw temp"></i> Temperatura mín–máx (°C)</span>
+      <span><i class="sw lluvia"></i> Lluvia (mm)</span>
+      <span><i class="sw ideal"></i> Mejor época</span>
+    </p>
+    <div class="chart" role="img" aria-label={`Clima: ${clima.map((c) => `${MESES_LARGOS[c.mes - 1]} ${c.tempMin} a ${c.tempMax} grados, ${c.lluviaMm} mm`).join('; ')}`}>
+      {clima.map((c) => {
+        const ideal = v.meta.mesesIdeales.includes(c.mes);
+        return (
+          <div class={`mes ${ideal ? 'ideal' : ''}`}>
+            <div class="area">
+              <span class="lluvia" style={`height:${(c.lluviaMm / lluviaMax) * 60}%`} title={`${c.lluviaMm} mm`}></span>
+              <span class="temp" style={`top:${y(c.tempMax)}%;bottom:${100 - y(c.tempMin)}%`}>
+                <b class="max num">{Math.round(c.tempMax)}°</b>
+                <b class="min num">{Math.round(c.tempMin)}°</b>
+              </span>
+            </div>
+            <span class="lbl">{MESES[c.mes - 1]}</span>
+          </div>
+        );
+      })}
+    </div>
+  </article>
+
+  <div class="dos">
+    {ip.frases.length > 0 && (
+      <article class="card pad" data-reveal>
+        <h3><Icon name="languages" /> Frases útiles</h3>
+        <table class="frases">
+          <thead><tr><th scope="col">Español</th><th scope="col">Local</th><th scope="col">Se dice</th></tr></thead>
+          <tbody>{ip.frases.map((f) => <tr><td>{f.es}</td><td lang="und">{f.local}</td><td class="muted"><em>{f.pronunciacion}</em></td></tr>)}</tbody>
+        </table>
+      </article>
+    )}
+    {ip.apps.length > 0 && (
+      <article class="card pad" data-reveal style="--delay:100ms">
+        <h3><Icon name="phone" /> Apps</h3>
+        <ul class="apps">{ip.apps.map((a) => <li><strong>{a.nombre}</strong><span class="muted">{a.para}</span></li>)}</ul>
+      </article>
+    )}
+  </div>
+
+  <div class="dos">
+    {ip.consejos.length > 0 && (
+      <article class="card pad" data-reveal>
+        <h3><Icon name="bulb" /> Consejos</h3>
+        <ul class="lista">{ip.consejos.map((c) => <li>{c}</li>)}</ul>
+      </article>
+    )}
+    {ip.estafas.length > 0 && (
+      <article class="card pad alerta" data-reveal style="--delay:100ms">
+        <h3><Icon name="alert" /> Estafas comunes</h3>
+        <ul class="lista">{ip.estafas.map((c) => <li>{c}</li>)}</ul>
+      </article>
+    )}
+  </div>
+
+  {ip.checklist.length > 0 && (
+    <article class="card pad checklist" data-reveal data-checklist={slug}>
+      <div class="check-head">
+        <h3><Icon name="checklist" /> Checklist</h3>
+        <p class="muted num" aria-live="polite"><span data-hechos>0</span> de {ip.checklist.length} listos</p>
+      </div>
+      <div class="progreso" aria-hidden="true"><span data-barra-check></span></div>
+      <ul>
+        {ip.checklist.map((c, i) => (
+          <li><label><input type="checkbox" data-i={i} /> <span>{c}</span></label></li>
+        ))}
+      </ul>
+    </article>
+  )}
+</section>
+
+<script>
+  function iniciarChecklist() {
+    document.querySelectorAll<HTMLElement>('[data-checklist]:not([data-ready])').forEach((el) => {
+      el.dataset.ready = '1';
+      const clave = `checklist:${el.dataset.checklist}`;
+      const cajas = [...el.querySelectorAll<HTMLInputElement>('input[type=checkbox]')];
+      let guardado: number[] = [];
+      try { guardado = JSON.parse(localStorage.getItem(clave) ?? '[]'); } catch {}
+      cajas.forEach((c) => { c.checked = guardado.includes(Number(c.dataset.i)); });
+      const actualizar = () => {
+        const hechos = cajas.filter((c) => c.checked);
+        el.querySelector('[data-hechos]')!.textContent = String(hechos.length);
+        el.querySelector<HTMLElement>('[data-barra-check]')!.style.transform = `scaleX(${hechos.length / cajas.length})`;
+        try { localStorage.setItem(clave, JSON.stringify(hechos.map((c) => Number(c.dataset.i)))); } catch {}
+      };
+      cajas.forEach((c) => c.addEventListener('change', actualizar));
+      actualizar();
+    });
+  }
+  document.addEventListener('astro:page-load', iniciarChecklist);
+</script>
+
+<style>
+  .bloques { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: var(--space-4); }
+  .bloque, .pad { padding: var(--space-5); }
+  h3 { display: flex; align-items: center; gap: 0.5rem; font-size: var(--step-1); margin-bottom: var(--space-3); }
+  h3 :global(.icon) { color: var(--trip); }
+  .bloque p { font-size: 0.95rem; margin-bottom: 0.5rem; }
+  .bloque a { font-size: var(--step--1); display: inline-flex; gap: 0.3rem; align-items: center; }
+
+  .clima { padding: var(--space-5); margin-top: var(--space-5); }
+  .leyenda { display: flex; flex-wrap: wrap; align-items: center; gap: 0.4rem 1.2rem; font-size: var(--step--1); }
+  .leyenda span { display: inline-flex; align-items: center; gap: 0.45rem; }
+  .sw { display: inline-block; width: 12px; height: 12px; border-radius: 3px; }
+  .sw.temp { background: var(--accent); }
+  .sw.lluvia { background: color-mix(in srgb, var(--secondary) 35%, transparent); }
+  .sw.ideal { background: color-mix(in srgb, var(--trip) 14%, transparent); border: 1px solid var(--trip); }
+  .chart { display: grid; grid-template-columns: repeat(12, minmax(0, 1fr)); gap: 4px; margin-top: var(--space-4); }
+  .mes { display: grid; grid-template-rows: 220px auto; border-radius: 8px; padding: 4px 2px; }
+  .mes.ideal { background: color-mix(in srgb, var(--trip) 10%, transparent); outline: 1px solid color-mix(in srgb, var(--trip) 40%, transparent); }
+  .area { position: relative; }
+  .lluvia { position: absolute; left: 15%; right: 15%; bottom: 0; background: color-mix(in srgb, var(--secondary) 30%, transparent); border-radius: 4px 4px 0 0; }
+  .temp { position: absolute; left: 50%; width: 10px; margin-left: -5px; background: var(--accent); border-radius: 999px; }
+  .temp b { position: absolute; left: 50%; transform: translateX(-50%); font-size: 0.72rem; font-weight: 600; white-space: nowrap; }
+  .temp .max { bottom: 100%; margin-bottom: 2px; }
+  .temp .min { top: 100%; margin-top: 2px; color: var(--fg); background: var(--surface); padding: 0 3px; border-radius: 4px; }
+  .temp .max { background: var(--surface); padding: 0 3px; border-radius: 4px; }
+  .temp { z-index: 1; }
+  .lbl { text-align: center; font-size: 0.75rem; color: var(--muted-fg); padding-top: 6px; }
+  @media (max-width: 640px) { .mes { grid-template-rows: 160px auto; } .temp b { font-size: 0.65rem; } .lbl { font-size: 0.68rem; } }
+
+  .dos { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: var(--space-5); margin-top: var(--space-5); }
+  .frases { width: 100%; border-collapse: collapse; font-size: 0.93rem; }
+  .frases th { text-align: left; font-size: var(--step--1); color: var(--muted-fg); font-weight: 600; padding-bottom: var(--space-2); }
+  .frases td { padding: 0.5rem 0.5rem 0.5rem 0; border-top: 1px solid var(--border); vertical-align: top; }
+  .apps { list-style: none; padding: 0; margin: 0; display: grid; gap: var(--space-3); }
+  .apps li { display: grid; font-size: 0.95rem; }
+  .lista { margin: 0; padding-left: 1.1rem; display: grid; gap: var(--space-2); font-size: 0.95rem; }
+  .alerta h3 :global(.icon) { color: var(--accent); }
+
+  .checklist { margin-top: var(--space-5); }
+  .check-head { display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap; gap: var(--space-3); }
+  .check-head p { margin: 0; }
+  .progreso { height: 6px; background: var(--border); border-radius: 999px; overflow: hidden; margin: var(--space-2) 0 var(--space-4); }
+  .progreso span { display: block; height: 100%; background: var(--trip); transform-origin: left; transform: scaleX(0); transition: transform 500ms var(--ease-out); }
+  .checklist ul { list-style: none; margin: 0; padding: 0; columns: 2 280px; column-gap: var(--space-6); }
+  .checklist li { break-inside: avoid; }
+  .checklist label { display: flex; gap: 0.7rem; align-items: flex-start; padding: 0.55rem 0; cursor: pointer; min-height: 44px; }
+  .checklist input { width: 20px; height: 20px; margin-top: 0.2rem; accent-color: var(--trip); flex: none; }
+  .checklist input:checked + span { color: var(--muted-fg); text-decoration: line-through; }
+</style>

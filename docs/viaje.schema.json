@@ -1,0 +1,957 @@
+{
+  "$ref": "#/definitions/viajes",
+  "definitions": {
+    "viajes": {
+      "type": "object",
+      "properties": {
+        "meta": {
+          "type": "object",
+          "properties": {
+            "titulo": {
+              "type": "string"
+            },
+            "resumen": {
+              "type": "string",
+              "description": "2-3 frases que venden el viaje",
+              "markdownDescription": "2-3 frases que venden el viaje"
+            },
+            "destino": {
+              "type": "string"
+            },
+            "pais": {
+              "type": "string"
+            },
+            "region": {
+              "type": "string",
+              "enum": [
+                "Asia",
+                "Europa",
+                "Sudamérica",
+                "Centroamérica y Caribe",
+                "Norteamérica",
+                "África",
+                "Oceanía",
+                "Medio Oriente"
+              ]
+            },
+            "duracionDias": {
+              "type": "integer",
+              "exclusiveMinimum": 0
+            },
+            "mesesIdeales": {
+              "type": "array",
+              "items": {
+                "type": "integer",
+                "minimum": 1,
+                "maximum": 12
+              },
+              "minItems": 1
+            },
+            "temporadaRecomendada": {
+              "type": "string"
+            },
+            "estilo": {
+              "type": "string",
+              "enum": [
+                "mochilero",
+                "medio",
+                "lujo"
+              ]
+            },
+            "dificultad": {
+              "type": "string",
+              "enum": [
+                "facil",
+                "moderada",
+                "exigente"
+              ]
+            },
+            "idealPara": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              },
+              "minItems": 1
+            },
+            "etiquetas": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              },
+              "default": []
+            },
+            "fechaInvestigacion": {
+              "type": "string",
+              "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+            },
+            "colorAcento": {
+              "type": "string",
+              "pattern": "^#[0-9a-fA-F]{6}$"
+            },
+            "portada": {
+              "type": "object",
+              "properties": {
+                "url": {
+                  "type": "string",
+                  "minLength": 1,
+                  "description": "URL https de Wikimedia Commons/Unsplash/Pexels, o ruta local tras `npm run imagenes`",
+                  "markdownDescription": "URL https de Wikimedia Commons/Unsplash/Pexels, o ruta local tras `npm run imagenes`"
+                },
+                "alt": {
+                  "type": "string",
+                  "minLength": 3,
+                  "description": "Descripción de la foto para accesibilidad",
+                  "markdownDescription": "Descripción de la foto para accesibilidad"
+                },
+                "credito": {
+                  "type": "string",
+                  "description": "Autor de la foto",
+                  "markdownDescription": "Autor de la foto"
+                },
+                "licencia": {
+                  "type": "string",
+                  "description": "CC BY-SA 4.0, Unsplash License, etc.",
+                  "markdownDescription": "CC BY-SA 4.0, Unsplash License, etc."
+                },
+                "fuente": {
+                  "type": "string",
+                  "format": "uri",
+                  "description": "Página de origen de la foto",
+                  "markdownDescription": "Página de origen de la foto"
+                }
+              },
+              "required": [
+                "url",
+                "alt",
+                "credito",
+                "licencia",
+                "fuente"
+              ],
+              "additionalProperties": false
+            },
+            "galeria": {
+              "type": "array",
+              "items": {
+                "$ref": "#/definitions/viajes/properties/meta/properties/portada"
+              },
+              "default": []
+            }
+          },
+          "required": [
+            "titulo",
+            "resumen",
+            "destino",
+            "pais",
+            "region",
+            "duracionDias",
+            "mesesIdeales",
+            "temporadaRecomendada",
+            "estilo",
+            "dificultad",
+            "idealPara",
+            "fechaInvestigacion",
+            "portada"
+          ],
+          "additionalProperties": false
+        },
+        "moneda": {
+          "type": "object",
+          "properties": {
+            "codigo": {
+              "type": "string",
+              "minLength": 3,
+              "maxLength": 3,
+              "description": "ISO 4217, p. ej. JPY",
+              "markdownDescription": "ISO 4217, p. ej. JPY"
+            },
+            "simbolo": {
+              "type": "string"
+            },
+            "localPorUSD": {
+              "type": "number",
+              "exclusiveMinimum": 0,
+              "description": "Cuántas unidades locales vale 1 USD",
+              "markdownDescription": "Cuántas unidades locales vale 1 USD"
+            },
+            "copPorUSD": {
+              "type": "number",
+              "exclusiveMinimum": 0,
+              "description": "Cuántos COP vale 1 USD",
+              "markdownDescription": "Cuántos COP vale 1 USD"
+            },
+            "fechaTasa": {
+              "type": "string",
+              "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+            }
+          },
+          "required": [
+            "codigo",
+            "simbolo",
+            "localPorUSD",
+            "copPorUSD",
+            "fechaTasa"
+          ],
+          "additionalProperties": false
+        },
+        "comoLlegar": {
+          "type": "object",
+          "properties": {
+            "resumen": {
+              "type": "string"
+            },
+            "aeropuertoLlegada": {
+              "type": "string"
+            },
+            "delAeropuertoAlCentro": {
+              "type": "string"
+            },
+            "rutas": {
+              "type": "array",
+              "items": {
+                "type": "object",
+                "properties": {
+                  "origen": {
+                    "type": "string",
+                    "description": "Ciudad de Colombia",
+                    "markdownDescription": "Ciudad de Colombia"
+                  },
+                  "ruta": {
+                    "type": "string",
+                    "description": "BOG → MAD → NRT",
+                    "markdownDescription": "BOG → MAD → NRT"
+                  },
+                  "aerolineas": {
+                    "type": "array",
+                    "items": {
+                      "type": "string"
+                    }
+                  },
+                  "duracion": {
+                    "type": "string"
+                  },
+                  "escalas": {
+                    "type": "integer",
+                    "minimum": 0
+                  },
+                  "precioUSD": {
+                    "type": "object",
+                    "properties": {
+                      "min": {
+                        "type": "number"
+                      },
+                      "max": {
+                        "type": "number"
+                      }
+                    },
+                    "required": [
+                      "min",
+                      "max"
+                    ],
+                    "additionalProperties": false,
+                    "description": "Ida y vuelta por persona",
+                    "markdownDescription": "Ida y vuelta por persona"
+                  }
+                },
+                "required": [
+                  "origen",
+                  "ruta",
+                  "aerolineas",
+                  "duracion",
+                  "escalas",
+                  "precioUSD"
+                ],
+                "additionalProperties": false
+              },
+              "minItems": 1
+            }
+          },
+          "required": [
+            "resumen",
+            "aeropuertoLlegada",
+            "delAeropuertoAlCentro",
+            "rutas"
+          ],
+          "additionalProperties": false
+        },
+        "itinerario": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "dia": {
+                "type": "integer",
+                "exclusiveMinimum": 0
+              },
+              "titulo": {
+                "type": "string"
+              },
+              "ciudad": {
+                "type": "string"
+              },
+              "coords": {
+                "type": "object",
+                "properties": {
+                  "lat": {
+                    "type": "number",
+                    "minimum": -90,
+                    "maximum": 90
+                  },
+                  "lng": {
+                    "type": "number",
+                    "minimum": -180,
+                    "maximum": 180
+                  }
+                },
+                "required": [
+                  "lat",
+                  "lng"
+                ],
+                "additionalProperties": false
+              },
+              "resumen": {
+                "type": "string"
+              },
+              "imagenes": {
+                "type": "array",
+                "items": {
+                  "$ref": "#/definitions/viajes/properties/meta/properties/portada"
+                },
+                "default": []
+              },
+              "actividades": {
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "properties": {
+                    "niveles": {
+                      "type": "array",
+                      "items": {
+                        "type": "string",
+                        "enum": [
+                          "economico",
+                          "medio",
+                          "alto"
+                        ]
+                      },
+                      "description": "Solo en estos niveles; si falta, aplica a todos",
+                      "markdownDescription": "Solo en estos niveles; si falta, aplica a todos"
+                    },
+                    "hora": {
+                      "type": "string",
+                      "pattern": "^\\d{2}:\\d{2}$",
+                      "errorMessage": {
+                        "pattern": "Formato HH:MM"
+                      }
+                    },
+                    "nombre": {
+                      "type": "string"
+                    },
+                    "descripcion": {
+                      "type": "string"
+                    },
+                    "duracion": {
+                      "type": "string",
+                      "description": "\"2 h\", \"45 min\"",
+                      "markdownDescription": "\"2 h\", \"45 min\""
+                    },
+                    "costo": {
+                      "type": "number",
+                      "minimum": 0,
+                      "description": "Moneda local por persona; 0 = gratis",
+                      "markdownDescription": "Moneda local por persona; 0 = gratis"
+                    },
+                    "tipo": {
+                      "type": "string",
+                      "enum": [
+                        "cultura",
+                        "naturaleza",
+                        "comida",
+                        "compras",
+                        "aventura",
+                        "vida-nocturna",
+                        "descanso",
+                        "transporte"
+                      ]
+                    },
+                    "coords": {
+                      "$ref": "#/definitions/viajes/properties/itinerario/items/properties/coords"
+                    },
+                    "link": {
+                      "type": "string",
+                      "format": "uri"
+                    },
+                    "imagen": {
+                      "$ref": "#/definitions/viajes/properties/meta/properties/portada"
+                    },
+                    "consejo": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "hora",
+                    "nombre",
+                    "descripcion",
+                    "duracion",
+                    "costo",
+                    "tipo"
+                  ],
+                  "additionalProperties": false
+                },
+                "minItems": 1
+              },
+              "comidas": {
+                "type": "object",
+                "properties": {
+                  "economico": {
+                    "type": "array",
+                    "items": {
+                      "type": "object",
+                      "properties": {
+                        "hora": {
+                          "type": "string",
+                          "pattern": "^\\d{2}:\\d{2}$",
+                          "errorMessage": {
+                            "pattern": "Formato HH:MM"
+                          }
+                        },
+                        "momento": {
+                          "type": "string",
+                          "enum": [
+                            "desayuno",
+                            "almuerzo",
+                            "cena",
+                            "snack"
+                          ]
+                        },
+                        "lugar": {
+                          "type": "string"
+                        },
+                        "plato": {
+                          "type": "string"
+                        },
+                        "costo": {
+                          "type": "number",
+                          "minimum": 0,
+                          "description": "Moneda local por persona; 0 si está incluida en el alojamiento",
+                          "markdownDescription": "Moneda local por persona; 0 si está incluida en el alojamiento"
+                        },
+                        "link": {
+                          "type": "string",
+                          "format": "uri"
+                        },
+                        "coords": {
+                          "$ref": "#/definitions/viajes/properties/itinerario/items/properties/coords"
+                        }
+                      },
+                      "required": [
+                        "hora",
+                        "momento",
+                        "lugar",
+                        "plato",
+                        "costo"
+                      ],
+                      "additionalProperties": false
+                    },
+                    "minItems": 1
+                  },
+                  "medio": {
+                    "type": "array",
+                    "items": {
+                      "$ref": "#/definitions/viajes/properties/itinerario/items/properties/comidas/properties/economico/items"
+                    },
+                    "minItems": 1
+                  },
+                  "alto": {
+                    "type": "array",
+                    "items": {
+                      "$ref": "#/definitions/viajes/properties/itinerario/items/properties/comidas/properties/economico/items"
+                    },
+                    "minItems": 1
+                  }
+                },
+                "required": [
+                  "economico",
+                  "medio",
+                  "alto"
+                ],
+                "additionalProperties": false,
+                "description": "Plan de comidas del día para cada nivel de presupuesto",
+                "markdownDescription": "Plan de comidas del día para cada nivel de presupuesto"
+              },
+              "traslados": {
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "properties": {
+                    "hora": {
+                      "type": "string",
+                      "pattern": "^\\d{2}:\\d{2}$",
+                      "errorMessage": {
+                        "pattern": "Formato HH:MM"
+                      }
+                    },
+                    "de": {
+                      "type": "string"
+                    },
+                    "a": {
+                      "type": "string"
+                    },
+                    "medio": {
+                      "type": "string"
+                    },
+                    "duracion": {
+                      "type": "string"
+                    },
+                    "costo": {
+                      "type": "number",
+                      "minimum": 0
+                    },
+                    "niveles": {
+                      "type": "array",
+                      "items": {
+                        "$ref": "#/definitions/viajes/properties/itinerario/items/properties/actividades/items/properties/niveles/items"
+                      },
+                      "description": "Solo en estos niveles; si falta, aplica a todos",
+                      "markdownDescription": "Solo en estos niveles; si falta, aplica a todos"
+                    },
+                    "consejo": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "hora",
+                    "de",
+                    "a",
+                    "medio",
+                    "duracion",
+                    "costo"
+                  ],
+                  "additionalProperties": false
+                },
+                "default": [],
+                "description": "TODOS los desplazamientos pagos del día (tren, metro, bus, taxi); son el presupuesto de transporte",
+                "markdownDescription": "TODOS los desplazamientos pagos del día (tren, metro, bus, taxi); son el presupuesto de transporte"
+              },
+              "planB": {
+                "type": "string",
+                "description": "Alternativa si llueve o algo está cerrado",
+                "markdownDescription": "Alternativa si llueve o algo está cerrado"
+              }
+            },
+            "required": [
+              "dia",
+              "titulo",
+              "ciudad",
+              "coords",
+              "resumen",
+              "actividades",
+              "comidas"
+            ],
+            "additionalProperties": false
+          },
+          "minItems": 1
+        },
+        "presupuesto": {
+          "type": "object",
+          "properties": {
+            "notas": {
+              "type": "string"
+            },
+            "categorias": {
+              "type": "array",
+              "items": {
+                "type": "object",
+                "properties": {
+                  "categoria": {
+                    "type": "string",
+                    "enum": [
+                      "vuelos",
+                      "seguro",
+                      "visa",
+                      "conectividad",
+                      "compras",
+                      "extras"
+                    ]
+                  },
+                  "descripcion": {
+                    "type": "string"
+                  },
+                  "moneda": {
+                    "type": "string",
+                    "enum": [
+                      "local",
+                      "USD"
+                    ],
+                    "default": "local"
+                  },
+                  "economico": {
+                    "type": "number",
+                    "minimum": 0
+                  },
+                  "medio": {
+                    "type": "number",
+                    "minimum": 0
+                  },
+                  "alto": {
+                    "type": "number",
+                    "minimum": 0
+                  }
+                },
+                "required": [
+                  "categoria",
+                  "descripcion",
+                  "economico",
+                  "medio",
+                  "alto"
+                ],
+                "additionalProperties": false
+              },
+              "minItems": 2
+            }
+          },
+          "required": [
+            "notas",
+            "categorias"
+          ],
+          "additionalProperties": false
+        },
+        "alojamiento": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "ciudad": {
+                "type": "string"
+              },
+              "noches": {
+                "type": "array",
+                "items": {
+                  "type": "integer",
+                  "exclusiveMinimum": 0
+                },
+                "minItems": 1,
+                "description": "Días del itinerario en que se duerme aquí, p. ej. [1,2,3,4]",
+                "markdownDescription": "Días del itinerario en que se duerme aquí, p. ej. [1,2,3,4]"
+              },
+              "economico": {
+                "type": "object",
+                "properties": {
+                  "nombre": {
+                    "type": "string"
+                  },
+                  "zona": {
+                    "type": "string"
+                  },
+                  "tipo": {
+                    "type": "string",
+                    "description": "Hostal, hotel business, ryokan, hotel de lujo…",
+                    "markdownDescription": "Hostal, hotel business, ryokan, hotel de lujo…"
+                  },
+                  "precioNoche": {
+                    "type": "number",
+                    "minimum": 0,
+                    "description": "Moneda local, POR PERSONA (habitación compartida en doble)",
+                    "markdownDescription": "Moneda local, POR PERSONA (habitación compartida en doble)"
+                  },
+                  "incluye": {
+                    "type": "string",
+                    "description": "Desayuno, cena, onsen…",
+                    "markdownDescription": "Desayuno, cena, onsen…"
+                  },
+                  "descripcion": {
+                    "type": "string"
+                  },
+                  "link": {
+                    "type": "string",
+                    "format": "uri"
+                  },
+                  "imagen": {
+                    "$ref": "#/definitions/viajes/properties/meta/properties/portada"
+                  }
+                },
+                "required": [
+                  "nombre",
+                  "zona",
+                  "tipo",
+                  "precioNoche",
+                  "descripcion",
+                  "link"
+                ],
+                "additionalProperties": false
+              },
+              "medio": {
+                "$ref": "#/definitions/viajes/properties/alojamiento/items/properties/economico"
+              },
+              "alto": {
+                "$ref": "#/definitions/viajes/properties/alojamiento/items/properties/economico"
+              }
+            },
+            "required": [
+              "ciudad",
+              "noches",
+              "economico",
+              "medio",
+              "alto"
+            ],
+            "additionalProperties": false
+          },
+          "minItems": 1,
+          "description": "Un alojamiento elegido por ciudad y por nivel; las noches cubren todo el viaje",
+          "markdownDescription": "Un alojamiento elegido por ciudad y por nivel; las noches cubren todo el viaje"
+        },
+        "comida": {
+          "type": "object",
+          "properties": {
+            "platosTipicos": {
+              "type": "array",
+              "items": {
+                "type": "object",
+                "properties": {
+                  "nombre": {
+                    "type": "string"
+                  },
+                  "descripcion": {
+                    "type": "string"
+                  },
+                  "precioAprox": {
+                    "type": "number",
+                    "minimum": 0
+                  },
+                  "imagen": {
+                    "$ref": "#/definitions/viajes/properties/meta/properties/portada"
+                  }
+                },
+                "required": [
+                  "nombre",
+                  "descripcion",
+                  "precioAprox"
+                ],
+                "additionalProperties": false
+              },
+              "default": []
+            }
+          },
+          "additionalProperties": false
+        },
+        "infoPractica": {
+          "type": "object",
+          "properties": {
+            "visa": {
+              "type": "object",
+              "properties": {
+                "requiere": {
+                  "type": "boolean"
+                },
+                "tipo": {
+                  "type": "string"
+                },
+                "detalle": {
+                  "type": "string",
+                  "description": "Para pasaporte colombiano",
+                  "markdownDescription": "Para pasaporte colombiano"
+                },
+                "link": {
+                  "type": "string",
+                  "format": "uri"
+                }
+              },
+              "required": [
+                "requiere",
+                "tipo",
+                "detalle"
+              ],
+              "additionalProperties": false
+            },
+            "clima": {
+              "type": "array",
+              "items": {
+                "type": "object",
+                "properties": {
+                  "mes": {
+                    "type": "integer",
+                    "minimum": 1,
+                    "maximum": 12
+                  },
+                  "tempMin": {
+                    "type": "number"
+                  },
+                  "tempMax": {
+                    "type": "number"
+                  },
+                  "lluviaMm": {
+                    "type": "number",
+                    "minimum": 0
+                  }
+                },
+                "required": [
+                  "mes",
+                  "tempMin",
+                  "tempMax",
+                  "lluviaMm"
+                ],
+                "additionalProperties": false
+              },
+              "minItems": 12,
+              "maxItems": 12
+            },
+            "vacunas": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              },
+              "default": []
+            },
+            "seguridad": {
+              "type": "string"
+            },
+            "enchufe": {
+              "type": "object",
+              "properties": {
+                "tipo": {
+                  "type": "string"
+                },
+                "voltaje": {
+                  "type": "string"
+                },
+                "necesitaAdaptador": {
+                  "type": "boolean"
+                }
+              },
+              "required": [
+                "tipo",
+                "voltaje",
+                "necesitaAdaptador"
+              ],
+              "additionalProperties": false
+            },
+            "propinas": {
+              "type": "string"
+            },
+            "idioma": {
+              "type": "string"
+            },
+            "conectividad": {
+              "type": "string"
+            },
+            "transporteLocal": {
+              "type": "string"
+            },
+            "frases": {
+              "type": "array",
+              "items": {
+                "type": "object",
+                "properties": {
+                  "es": {
+                    "type": "string"
+                  },
+                  "local": {
+                    "type": "string"
+                  },
+                  "pronunciacion": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "es",
+                  "local",
+                  "pronunciacion"
+                ],
+                "additionalProperties": false
+              },
+              "default": []
+            },
+            "apps": {
+              "type": "array",
+              "items": {
+                "type": "object",
+                "properties": {
+                  "nombre": {
+                    "type": "string"
+                  },
+                  "para": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "nombre",
+                  "para"
+                ],
+                "additionalProperties": false
+              },
+              "default": []
+            },
+            "consejos": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              },
+              "default": []
+            },
+            "estafas": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              },
+              "default": []
+            },
+            "checklist": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              },
+              "default": []
+            }
+          },
+          "required": [
+            "visa",
+            "clima",
+            "seguridad",
+            "enchufe",
+            "propinas",
+            "idioma",
+            "conectividad",
+            "transporteLocal"
+          ],
+          "additionalProperties": false
+        },
+        "fuentes": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "titulo": {
+                "type": "string"
+              },
+              "url": {
+                "type": "string",
+                "format": "uri"
+              }
+            },
+            "required": [
+              "titulo",
+              "url"
+            ],
+            "additionalProperties": false
+          },
+          "minItems": 1
+        },
+        "$schema": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "meta",
+        "moneda",
+        "comoLlegar",
+        "itinerario",
+        "presupuesto",
+        "alojamiento",
+        "comida",
+        "infoPractica",
+        "fuentes"
+      ],
+      "additionalProperties": false
+    }
+  },
+  "$schema": "http://json-schema.org/draft-07/schema#"
+}

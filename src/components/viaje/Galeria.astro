@@ -1,0 +1,26 @@
+---
+import Foto from '../Foto.astro';
+import type { Viaje } from '../../lib/viaje';
+interface Props { v: Viaje }
+const { v } = Astro.props;
+---
+{v.meta.galeria.length > 0 && (
+  <section id="galeria" class="section container" aria-labelledby="h-galeria">
+    <div class="section-head">
+      <h2 id="h-galeria" data-split>Galería</h2>
+    </div>
+    <div class="masonry" data-stagger>
+      {v.meta.galeria.map((img) => (
+        <button class="item media plain zoom-on-hover" data-reveal data-lightbox={JSON.stringify(img)} aria-label={`Ampliar foto: ${img.alt}`}>
+          <Foto img={img} widths={[400, 700, 1000]} sizes="(min-width: 900px) 33vw, 50vw" />
+        </button>
+      ))}
+    </div>
+  </section>
+)}
+
+<style>
+  .masonry { columns: 3 260px; column-gap: var(--space-3); }
+  .item { display: block; width: 100%; margin-bottom: var(--space-3); padding: 0; border: 0; border-radius: var(--radius); cursor: zoom-in; break-inside: avoid; }
+  .item :global(img) { width: 100%; height: auto; }
+</style>

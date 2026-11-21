@@ -1,0 +1,93 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import Hero from '../../components/viaje/Hero.astro';
+import ElegirNivel from '../../components/viaje/ElegirNivel.astro';
+import DatosClave from '../../components/viaje/DatosClave.astro';
+import NavSecciones from '../../components/viaje/NavSecciones.astro';
+import Itinerario from '../../components/viaje/Itinerario.astro';
+import Presupuesto from '../../components/viaje/Presupuesto.astro';
+import ComoLlegar from '../../components/viaje/ComoLlegar.astro';
+import Alojamiento from '../../components/viaje/Alojamiento.astro';
+import Comida from '../../components/viaje/Comida.astro';
+import InfoPractica from '../../components/viaje/InfoPractica.astro';
+import Galeria from '../../components/viaje/Galeria.astro';
+import Icon from '../../components/Icon.astro';
+import { url } from '../../lib/viaje';
+
+export async function getStaticPaths() {
+  const viajes = await getCollection('viajes');
+  return viajes.map((e) => ({ params: { slug: e.id }, props: { entry: e } }));
+}
+
+const { entry } = Astro.props;
+const v = entry.data;
+const slug = entry.id;
+
+const secciones = [
+  { id: 'info', label: 'Info práctica' },
+  { id: 'como-llegar', label: 'Cómo llegar' },
+  { id: 'presupuesto', label: 'Presupuesto' },
+  { id: 'itinerario', label: 'Itinerario' },
+  { id: 'alojamiento', label: 'Dónde dormir' },
+  { id: 'comida', label: 'Qué comer' },
+  ...(v.meta.galeria.length ? [{ id: 'galeria', label: 'Galería' }] : []),
+];
+const portada = v.meta.portada.url.startsWith('http') ? v.meta.portada.url : undefined;
+---
+<Base title={v.meta.titulo} description={v.meta.resumen} image={portada} accent={v.meta.colorAcento}>
+  <Hero v={v} slug={slug} />
+  <DatosClave v={v} />
+  <ElegirNivel v={v} />
+  <NavSecciones secciones={secciones} />
+  <InfoPractica v={v} slug={slug} />
+  <ComoLlegar v={v} />
+  <Presupuesto v={v} />
+  <Itinerario v={v} />
+  <Alojamiento v={v} />
+  <Comida v={v} />
+  <Galeria v={v} />
+
+  <section class="container fuentes" aria-labelledby="h-fuentes">
+    <div class="acciones no-print">
+      <button class="btn ghost" type="button" data-imprimir><Icon name="printer" /> Guardar como PDF</button>
+      <button class="btn ghost" type="button" data-compartir><Icon name="share" /> Compartir</button>
+      <a class="btn plain" href={url('/')}>Más viajes <Icon name="arrow-right" /></a>
+    </div>
+    <h2 id="h-fuentes" class="h-fuentes">Fuentes</h2>
+    <p class="muted small">Actualizado {v.meta.fechaInvestigacion}</p>
+    <ul class="small">
+      {v.fuentes.map((f) => <li><a href={f.url} target="_blank" rel="noopener">{f.titulo}</a></li>)}
+    </ul>
+  </section>
+
+  <button class="arriba btn no-print" type="button" aria-label="Volver arriba"><Icon name="arrow-up" /></button>
+</Base>
+
+<script>
+  function iniciarAcciones() {
+    document.querySelector('[data-imprimir]')?.addEventListener('click', () => print());
+    document.querySelector('[data-compartir]')?.addEventListener('click', async () => {
+      const datos = { title: document.title, url: location.href };
+      if (navigator.share) { try { await navigator.share(datos); } catch {} }
+      else { await navigator.clipboard.writeText(location.href); const b = document.querySelector('[data-compartir]')!; const t = b.innerHTML; b.textContent = 'Enlace copiado'; setTimeout(() => (b.innerHTML = t), 1800); }
+    });
+    const arriba = document.querySelector<HTMLElement>('.arriba');
+    if (!arriba) return;
+    arriba.addEventListener('click', () => scrollTo({ top: 0, behavior: matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth' }));
+    const onScroll = () => arriba.classList.toggle('visible', scrollY > innerHeight * 1.5);
+    addEventListener('scroll', onScroll, { passive: true });
+    document.addEventListener('astro:before-swap', () => removeEventListener('scroll', onScroll), { once: true });
+  }
+  document.addEventListener('astro:page-load', iniciarAcciones);
+</script>
+
+<style>
+  .fuentes { padding-top: var(--space-7); }
+  .acciones { display: flex; flex-wrap: wrap; gap: var(--space-3); margin-bottom: var(--space-7); }
+  .h-fuentes { font-size: var(--step-1); margin-bottom: var(--space-2); }
+  .small { font-size: var(--step--1); }
+  ul.small { padding-left: 1.1rem; display: grid; gap: 0.3rem; }
+  .arriba { position: fixed; right: 1rem; bottom: 1rem; z-index: 30; width: 48px; height: 48px; padding: 0; border-radius: 999px; box-shadow: var(--shadow); opacity: 0; transform: translateY(16px) scale(0.9); pointer-events: none; transition: opacity var(--dur) ease, transform var(--dur) var(--ease-out); }
+  .arriba:global(.visible) { opacity: 1; transform: none; pointer-events: auto; }
+</style>

@@ -1,0 +1,68 @@
+---
+import SelectorNivel from '../SelectorNivel.astro';
+interface Props { secciones: { id: string; label: string }[] }
+const { secciones } = Astro.props;
+---
+<nav class="section-nav" aria-label="Secciones del viaje">
+  <div class="container barra">
+    <SelectorNivel compacto />
+    <ul>
+      {secciones.map((s) => (
+        <li><a href={`#${s.id}`} class="plain" data-target={s.id}>{s.label}</a></li>
+      ))}
+      <li class="indicador" aria-hidden="true"></li>
+    </ul>
+  </div>
+</nav>
+
+<script>
+  function iniciarNavSecciones() {
+    const nav = document.querySelector<HTMLElement>('.section-nav');
+    if (!nav) return;
+    const enlaces = [...nav.querySelectorAll<HTMLAnchorElement>('a[data-target]')];
+    const indicador = nav.querySelector<HTMLElement>('.indicador')!;
+    const lista = nav.querySelector('ul')!;
+
+    const activar = (id: string) => {
+      const a = enlaces.find((e) => e.dataset.target === id);
+      if (!a) return;
+      enlaces.forEach((e) => e.removeAttribute('aria-current'));
+      a.setAttribute('aria-current', 'true');
+      indicador.style.width = `${a.offsetWidth}px`;
+      indicador.style.transform = `translateX(${a.offsetLeft}px)`;
+      // Mantener visible el enlace activo en móvil
+      const izq = a.offsetLeft - lista.clientWidth / 2 + a.offsetWidth / 2;
+      lista.scrollTo({ left: izq, behavior: matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth' });
+    };
+
+    // Activa la última sección cuyo inicio ya pasó la línea del 35% de la pantalla
+    const secciones = enlaces.map((a) => document.getElementById(a.dataset.target!)).filter(Boolean) as HTMLElement[];
+    let actual = '';
+    let pendiente = false;
+    const calcular = () => {
+      pendiente = false;
+      const linea = innerHeight * 0.35;
+      let id = secciones[0]?.id ?? '';
+      for (const s of secciones) if (s.getBoundingClientRect().top <= linea) id = s.id;
+      if (id !== actual) { actual = id; activar(id); }
+    };
+    const onScroll = () => { if (!pendiente) { pendiente = true; requestAnimationFrame(calcular); } };
+    addEventListener('scroll', onScroll, { passive: true });
+    addEventListener('resize', onScroll, { passive: true });
+    calcular();
+    document.addEventListener('astro:before-swap', () => { removeEventListener('scroll', onScroll); removeEventListener('resize', onScroll); }, { once: true });
+  }
+  document.addEventListener('astro:page-load', iniciarNavSecciones);
+</script>
+
+<style>
+  .section-nav { position: sticky; top: 0; z-index: 40; background: color-mix(in srgb, var(--bg) 90%, transparent); backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px); border-bottom: 1px solid var(--border); margin-top: var(--space-7); transition: top var(--dur) var(--ease-out); }
+  :global(body:has(.site-header.scrolled:not(.hidden))) .section-nav { top: var(--nav-h); }
+  .barra { display: flex; align-items: center; gap: var(--space-4); }
+  .barra > :global(.pildoras) { flex: none; order: 2; margin-left: auto; }
+  ul { min-width: 0; flex: 1; position: relative; display: flex; gap: var(--space-2); list-style: none; margin: 0; padding: 0; overflow-x: auto; scrollbar-width: none; }
+  ul::-webkit-scrollbar { display: none; }
+  a { display: inline-flex; align-items: center; min-height: 52px; padding: 0 0.85rem; font-size: var(--step--1); font-weight: 600; color: var(--muted-fg); white-space: nowrap; transition: color var(--dur) ease; }
+  a:hover, a[aria-current='true'] { color: var(--fg); }
+  .indicador { position: absolute; left: 0; bottom: 0; height: 3px; width: 0; border-radius: 3px 3px 0 0; background: var(--trip); transition: transform 450ms var(--ease-out), width 450ms var(--ease-out); pointer-events: none; }
+</style>

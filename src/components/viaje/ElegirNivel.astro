@@ -1,0 +1,46 @@
+---
+import { NIVELES, formato, totalViaje, type Viaje } from '../../lib/viaje';
+interface Props { v: Viaje }
+const { v } = Astro.props;
+const planes = NIVELES.map(({ id, label }) => {
+  const total = totalViaje(v, id, 'COP');
+  const tipos = [...new Set(v.alojamiento.map((e) => e[id].tipo))].join(' · ');
+  return { id, label, total, dia: total / v.meta.duracionDias, tipos };
+});
+---
+<section class="container elegir" aria-label="Nivel de presupuesto">
+  <div class="planes" role="group" data-grupo="nivel" data-stagger>
+    {planes.map((p) => (
+      <button type="button" class="plan" data-valor={p.id} aria-pressed={p.id === 'medio' ? 'true' : 'false'} data-reveal>
+        <span class="nombre">{p.label}</span>
+        <span class="total num">{formato(p.total, 'COP', v, true)}</span>
+        <span class="dia num">${Math.round(p.dia / 1000).toLocaleString('es-CO')} mil / día</span>
+        <span class="tipos">{p.tipos}</span>
+      </button>
+    ))}
+  </div>
+</section>
+
+<style>
+  .elegir { margin-top: var(--space-6); }
+  .planes { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: var(--space-3); }
+  .plan {
+    position: relative; display: grid; gap: 0.15rem; text-align: left; padding: var(--space-4) var(--space-5);
+    border-radius: var(--radius-lg); border: 1px solid var(--border); background: var(--surface); color: var(--fg);
+    transition: border-color var(--dur) ease, background-color var(--dur) ease, transform var(--dur-fast) ease, box-shadow var(--dur) ease;
+  }
+  .plan:hover { border-color: color-mix(in srgb, var(--trip) 45%, var(--border)); }
+  .plan:active { transform: scale(0.98); }
+  .plan[aria-pressed='true'] { border-color: var(--trip); box-shadow: inset 0 0 0 1px var(--trip), var(--shadow); background: color-mix(in srgb, var(--trip) 6%, var(--surface)); }
+  .plan[aria-pressed='true']::after { content: ''; position: absolute; top: var(--space-4); right: var(--space-4); width: 10px; height: 10px; border-radius: 999px; background: var(--trip); }
+  .nombre { font-size: var(--step--1); font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; color: var(--trip); }
+  .total { font-family: var(--font-serif); font-size: var(--step-2); line-height: 1.15; }
+  .dia, .tipos { font-size: var(--step--1); color: var(--muted-fg); }
+  @media (max-width: 640px) {
+    .planes { grid-template-columns: 1fr; gap: var(--space-2); }
+    .plan { grid-template-columns: 1fr auto; column-gap: var(--space-4); align-items: center; padding: var(--space-3) var(--space-4); border-radius: var(--radius); }
+    .total { grid-column: 2; grid-row: 1 / span 2; font-size: var(--step-1); }
+    .tipos { display: none; }
+    .plan[aria-pressed='true']::after { display: none; }
+  }
+</style>

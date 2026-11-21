@@ -1,0 +1,24 @@
+{
+  "name": "traveler",
+  "type": "module",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "validar": "astro sync && node scripts/exportar-schema.mjs",
+    "imagenes": "node scripts/imagenes.mjs",
+    "buscar-imagen": "node scripts/buscar-imagen.mjs"
+  },
+  "dependencies": {
+    "astro": "^5.18.2",
+    "gsap": "^3.15.1",
+    "leaflet": "^1.9.4"
+  },
+  "allowScripts": {
+    "esbuild@0.27.7": true,
+    "esbuild@0.25.12": true,
+    "sharp@0.34.5": true
+  }
+}

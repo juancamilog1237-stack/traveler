@@ -1,0 +1,30 @@
+---
+import { Picture } from 'astro:assets';
+import { resolverImagen } from '../lib/imagenes';
+
+interface Props {
+  img: { url: string; alt: string; credito?: string; licencia?: string; fuente?: string };
+  widths?: number[];
+  sizes?: string;
+  eager?: boolean;
+  class?: string;
+  transitionName?: string;
+}
+const { img, widths = [480, 800, 1200, 1600], sizes = '(min-width: 1200px) 1200px, 100vw', eager = false, class: cls, transitionName } = Astro.props;
+const src = resolverImagen(img.url);
+---
+{typeof src === 'string' ? (
+  <img src={src} alt={img.alt} loading={eager ? 'eager' : 'lazy'} decoding="async" class={cls} referrerpolicy="no-referrer" style={transitionName ? `view-transition-name:${transitionName}` : undefined} />
+) : (
+  <Picture
+    src={src}
+    alt={img.alt}
+    formats={['avif', 'webp']}
+    widths={widths.filter((w) => w <= src.width).concat(src.width < widths[0] ? [src.width] : [])}
+    sizes={sizes}
+    loading={eager ? 'eager' : 'lazy'}
+    fetchpriority={eager ? 'high' : 'auto'}
+    class={cls}
+    style={transitionName ? `view-transition-name:${transitionName}` : undefined}
+  />
+)}

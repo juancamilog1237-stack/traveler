@@ -1,0 +1,170 @@
+---
+import SelectorNivel from '../SelectorNivel.astro';
+import { CATEGORIAS, categorias, convertir, formato, totalViaje, type Viaje } from '../../lib/viaje';
+
+interface Props { v: Viaje }
+const { v } = Astro.props;
+
+const nivelInicial = 'medio' as const;
+const monedaInicial = 'COP' as const;
+const filas = categorias(v).map((c) => ({
+  ...c,
+  etiqueta: CATEGORIAS[c.categoria],
+  // Valores ya convertidos a USD: el cliente solo multiplica por la tasa de la moneda elegida
+  usd: { economico: convertir(c.economico, c.moneda, 'USD', v), medio: convertir(c.medio, c.moneda, 'USD', v), alto: convertir(c.alto, c.moneda, 'USD', v) },
+}));
+const total = totalViaje(v, nivelInicial, monedaInicial);
+const datos = {
+  filas: filas.map((f) => ({ categoria: f.categoria, usd: f.usd })),
+  tasas: { USD: 1, COP: v.moneda.copPorUSD, local: v.moneda.localPorUSD },
+  codigoLocal: v.moneda.codigo,
+  dias: v.meta.duracionDias,
+};
+const colores = ['#c2410c', '#0f766e', '#b45309', '#4d7c0f', '#7c3aed', '#be185d', '#0369a1', '#57534e', '#a16207', '#155e75'];
+---
+<section id="presupuesto" class="section presupuesto" aria-labelledby="h-presupuesto">
+  <div class="container">
+    <div class="section-head">
+      <h2 id="h-presupuesto" data-split>Presupuesto</h2>
+    </div>
+
+    <div class="grid" data-presupuesto={JSON.stringify(datos)}>
+      <div class="resumen card" data-reveal>
+        <div class="budget-controls">
+          <div class="control">
+            <span class="control-label">Nivel</span>
+            <SelectorNivel />
+          </div>
+          <div class="control">
+            <span class="control-label" id="lbl-moneda">Moneda</span>
+            <div class="segmented" role="group" aria-labelledby="lbl-moneda" data-grupo="moneda">
+              <span class="thumb" aria-hidden="true"></span>
+              {(['COP', 'USD', 'local'] as const).map((m) => <button type="button" data-valor={m} aria-pressed={m === monedaInicial ? 'true' : 'false'}>{m === 'local' ? v.moneda.codigo : m}</button>)}
+            </div>
+          </div>
+        </div>
+
+        <p class="total-label">Total por persona</p>
+        <p class="total num" data-total aria-live="polite">{formato(total, monedaInicial, v)}</p>
+        <p class="por-dia muted num">≈ <span data-por-dia>{formato(total / v.meta.duracionDias, monedaInicial, v)}</span> por día</p>
+
+        <div class="barra" role="img" aria-label="Distribución del presupuesto por categoría" data-barra>
+          {filas.map((f, i) => <span style={`--c:${colores[i % colores.length]};flex-grow:${f.usd[nivelInicial]}`} data-cat={f.categoria} title={f.etiqueta}></span>)}
+        </div>
+        <p class="nota muted num">1 USD = {v.moneda.localPorUSD.toLocaleString('es-CO')} {v.moneda.simbolo} = {v.moneda.copPorUSD.toLocaleString('es-CO')} COP</p>
+      </div>
+
+      <div class="tabla-wrap card" data-reveal style="--delay:120ms">
+        <table>
+          <caption class="sr-only">Desglose del presupuesto por categoría</caption>
+          <thead><tr><th scope="col">Categoría</th><th scope="col" class="r">Monto</th><th scope="col" class="r">%</th></tr></thead>
+          <tbody>
+            {filas.map((f, i) => (
+              <tr data-fila={f.categoria}>
+                <th scope="row">
+                  <span class="dot" style={`--c:${colores[i % colores.length]}`} aria-hidden="true"></span>
+                  <span><strong>{f.etiqueta}</strong><small class="muted">{f.descripcion}</small></span>
+                </th>
+                <td class="r num" data-monto>{formato(convertir(f[nivelInicial], f.moneda, monedaInicial, v), monedaInicial, v)}</td>
+                <td class="r num muted" data-pct>{Math.round((convertir(f[nivelInicial], f.moneda, 'USD', v) / totalViaje(v, nivelInicial, 'USD')) * 100)}%</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+</section>
+
+<script>
+  import { animarNumero } from '../../scripts/animaciones';
+  import { moverThumb, nivelActual } from '../../scripts/nivel';
+
+  type Datos = { filas: { categoria: string; usd: Record<string, number> }[]; tasas: Record<string, number>; codigoLocal: string; dias: number };
+
+  function fmt(moneda: string, codigoLocal: string) {
+    const codigo = moneda === 'local' ? codigoLocal : moneda;
+    const nf = new Intl.NumberFormat('es-CO', { style: 'currency', currency: codigo, maximumFractionDigits: 0, currencyDisplay: codigo === 'USD' ? 'symbol' : 'narrowSymbol' });
+    return (n: number) => nf.format(n) + (codigo === 'COP' ? ' COP' : '');
+  }
+
+  function iniciarPresupuesto() {
+    document.querySelectorAll<HTMLElement>('[data-presupuesto]:not([data-ready])').forEach((raiz) => {
+      raiz.dataset.ready = '1';
+      const d: Datos = JSON.parse(raiz.dataset.presupuesto!);
+      const estado = { nivel: nivelActual() as string, moneda: 'COP' };
+      let totalPrevio = 0;
+
+      const pintar = (animar: boolean) => {
+        const f = fmt(estado.moneda, d.codigoLocal);
+        const tasa = d.tasas[estado.moneda];
+        const totalUSD = d.filas.reduce((s, r) => s + r.usd[estado.nivel], 0);
+        const total = totalUSD * tasa;
+        const elTotal = raiz.querySelector<HTMLElement>('[data-total]')!;
+        const elDia = raiz.querySelector<HTMLElement>('[data-por-dia]')!;
+        // Sin animación se pasa desde = hasta: así también se cancela cualquier animación en curso
+        animarNumero(elTotal, animar ? totalPrevio : total, total, f);
+        animarNumero(elDia, animar ? totalPrevio / d.dias : total / d.dias, total / d.dias, f);
+        totalPrevio = total;
+        d.filas.forEach((r) => {
+          const fila = raiz.querySelector<HTMLElement>(`[data-fila="${r.categoria}"]`)!;
+          const monto = r.usd[estado.nivel] * tasa;
+          const celda = fila.querySelector<HTMLElement>('[data-monto]')!;
+          const previo = Number(celda.dataset.valor ?? monto);
+          animarNumero(celda, animar && celda.dataset.moneda === estado.moneda ? previo : monto, monto, f);
+          celda.dataset.valor = String(monto);
+          celda.dataset.moneda = estado.moneda;
+          fila.querySelector<HTMLElement>('[data-pct]')!.textContent = `${Math.round((r.usd[estado.nivel] / totalUSD) * 100)}%`;
+          const seg = raiz.querySelector<HTMLElement>(`[data-barra] [data-cat="${r.categoria}"]`);
+          if (seg) seg.style.flexGrow = String(r.usd[estado.nivel]);
+        });
+      };
+
+      const grupo = raiz.querySelector<HTMLElement>('.segmented[data-grupo="moneda"]')!;
+      moverThumb(grupo);
+      document.fonts?.ready.then(() => moverThumb(grupo));
+      grupo.addEventListener('click', (e) => {
+        const btn = (e.target as HTMLElement).closest<HTMLButtonElement>('button[data-valor]');
+        if (!btn) return;
+        grupo.querySelectorAll('button').forEach((b) => b.setAttribute('aria-pressed', String(b === btn)));
+        moverThumb(grupo);
+        estado.moneda = btn.dataset.valor!;
+        pintar(false);
+      });
+      const onNivel = (e: Event) => { estado.nivel = (e as CustomEvent).detail; pintar(true); };
+      document.addEventListener('nivel-cambio', onNivel);
+      document.addEventListener('astro:before-swap', () => document.removeEventListener('nivel-cambio', onNivel), { once: true });
+      // Inicializa con valores exactos
+      pintar(false);
+      addEventListener('resize', () => raiz.querySelectorAll<HTMLElement>('.segmented').forEach(moverThumb), { passive: true });
+    });
+  }
+  document.addEventListener('astro:page-load', iniciarPresupuesto);
+</script>
+
+<style>
+  .presupuesto { background: var(--surface-2); }
+  .grid { display: grid; grid-template-columns: minmax(0, 5fr) minmax(0, 7fr); gap: var(--space-5); align-items: start; }
+  .resumen { padding: var(--space-6); position: sticky; top: calc(var(--nav-h) + 72px); }
+  .budget-controls { display: grid; gap: var(--space-4); margin-bottom: var(--space-6); }
+  .control { display: grid; gap: var(--space-2); }
+  .control-label, .total-label { font-size: var(--step--1); color: var(--muted-fg); font-weight: 500; margin: 0; }
+  .total { font-family: var(--font-serif); font-size: clamp(1.8rem, 1.3rem + 1.6vw, 2.7rem); line-height: 1.1; white-space: nowrap; color: var(--accent); margin: 0.2rem 0 0.3rem; }
+  .por-dia { margin: 0 0 var(--space-5); }
+  .barra { display: flex; height: 14px; border-radius: 999px; overflow: hidden; gap: 2px; background: var(--border); }
+  .barra span { background: var(--c); flex-basis: 0; min-width: 2px; transition: flex-grow 700ms var(--ease-out); }
+  .nota { display: flex; gap: 0.5rem; font-size: var(--step--1); margin: var(--space-4) 0 0; }
+  .nota :global(.icon) { margin-top: 0.25rem; }
+  .tabla-wrap { padding: var(--space-3) var(--space-5); }
+  table { width: 100%; border-collapse: collapse; }
+  th, td { padding: var(--space-4) var(--space-2); border-bottom: 1px solid var(--border); text-align: left; vertical-align: top; font-weight: 400; }
+  thead th { font-size: var(--step--1); color: var(--muted-fg); font-weight: 600; }
+  tbody tr:last-child > * { border-bottom: 0; }
+  tbody th { display: flex; gap: var(--space-3); }
+  tbody th strong { display: block; font-weight: 600; }
+  tbody th small { display: block; font-size: 0.85rem; line-height: 1.45; }
+  .dot { flex: none; width: 10px; height: 10px; border-radius: 3px; background: var(--c); margin-top: 0.45rem; }
+  .r { text-align: right; white-space: nowrap; }
+  td.r:not(.muted) { font-weight: 600; }
+  @media (max-width: 900px) { .grid { grid-template-columns: 1fr; } .resumen { position: static; } }
+</style>

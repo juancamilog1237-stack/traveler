@@ -1,0 +1,2205 @@
+{
+  "meta": {
+    "titulo": "Japón clásico en 10 días",
+    "resumen": "Neones de Tokio, aguas termales con vista al Fuji, templos de Kioto, ciervos en Nara y la comida callejera de Osaka. La ruta perfecta para un primer viaje a Japón, sin correr.",
+    "destino": "Tokio, Hakone, Kioto, Nara y Osaka",
+    "pais": "Japón",
+    "region": "Asia",
+    "duracionDias": 10,
+    "mesesIdeales": [
+      3,
+      4,
+      10,
+      11
+    ],
+    "temporadaRecomendada": "Primavera (finales de marzo–abril) por los cerezos, u otoño (octubre–noviembre) por el follaje rojo y el clima seco.",
+    "estilo": "medio",
+    "dificultad": "moderada",
+    "idealPara": [
+      "Primer viaje a Asia",
+      "Parejas",
+      "Amigos"
+    ],
+    "etiquetas": [
+      "cultura",
+      "gastronomía",
+      "templos",
+      "ciudad",
+      "trenes"
+    ],
+    "fechaInvestigacion": "2026-11-21",
+    "colorAcento": "#b91c1c",
+    "portada": {
+      "url": "japon-clasico-10-dias/pagoda-chureito-de-cinco-pisos-con-el-mo-d8dfb5.jpg",
+      "alt": "Pagoda Chureito de cinco pisos con el monte Fuji nevado al fondo",
+      "credito": "Stjepko Krehula",
+      "licencia": "CC BY 4.0",
+      "fuente": "https://commons.wikimedia.org/wiki/File:Chureito_Pagoda_and_Mount_Fuji_2023-03-07.jpg"
+    },
+    "galeria": [
+      {
+        "url": "japon-clasico-10-dias/templo-kiyomizu-dera-rodeado-de-arces-ro-b848d1.jpg",
+        "alt": "Templo Kiyomizu-dera rodeado de arces rojos en otoño, Kioto",
+        "credito": "Martin Falbisoner",
+        "licencia": "CC BY-SA 4.0",
+        "fuente": "https://commons.wikimedia.org/wiki/File:Kiyomizu-dera,_Kyoto,_November_2016_-01.jpg"
+      },
+      {
+        "url": "japon-clasico-10-dias/cruce-peatonal-de-shibuya-lleno-de-gente-36c67f.jpg",
+        "alt": "Multitud cruzando el famoso cruce de Shibuya, Tokio",
+        "credito": "Benh LIEU SONG (Flickr)",
+        "licencia": "CC BY-SA 2.0",
+        "fuente": "https://commons.wikimedia.org/wiki/File:Tokyo_Shibuya_Scramble_Crossing_2018-10-09.jpg"
+      },
+      {
+        "url": "japon-clasico-10-dias/kinkaku-ji-el-pabellon-dorado-reflejado-bbdbff.jpg",
+        "alt": "Pabellón Dorado Kinkaku-ji reflejado en el estanque en un día soleado",
+        "credito": "Basile Morin",
+        "licencia": "CC BY-SA 4.0",
+        "fuente": "https://commons.wikimedia.org/wiki/File:Water_reflection_of_Kinkaku-ji_Temple_a_sunny_day,_Kyoto,_Japan.jpg"
+      },
+      {
+        "url": "japon-clasico-10-dias/canal-de-dotonbori-de-noche-con-letreros-a51c0e.jpg",
+        "alt": "Letreros de neón sobre el canal de Dotonbori de noche, Osaka",
+        "credito": "Tokumeigakarinoaoshima",
+        "licencia": "CC0",
+        "fuente": "https://commons.wikimedia.org/wiki/File:Neon_signs_in_Dotonbori_at_night,16th_August_2014_(1).JPG"
+      },
+      {
+        "url": "japon-clasico-10-dias/bosque-de-bambu-de-arashiyama-c56863.jpg",
+        "alt": "Sendero entre altos tallos de bambú en Arashiyama",
+        "credito": "Basile Morin",
+        "licencia": "CC BY-SA 4.0",
+        "fuente": "https://commons.wikimedia.org/wiki/File:Bamboo_Forest,_Arashiyama,_Kyoto,_Japan.jpg"
+      },
+      {
+        "url": "japon-clasico-10-dias/castillo-de-osaka-con-el-foso-exterior-e-1769d7.jpg",
+        "alt": "Castillo de Osaka sobre sus murallas de piedra y el foso exterior",
+        "credito": "Martin Falbisoner",
+        "licencia": "CC BY-SA 4.0",
+        "fuente": "https://commons.wikimedia.org/wiki/File:Osaka_Castle_Outer_Moat_and_Osaka_Business_Park,_November_2016.jpg"
+      }
+    ]
+  },
+  "moneda": {
+    "codigo": "JPY",
+    "simbolo": "¥",
+    "localPorUSD": 150,
+    "copPorUSD": 3950,
+    "fechaTasa": "2026-11-21"
+  },
+  "comoLlegar": {
+    "resumen": "No hay vuelos directos desde Colombia. Lo usual es una escala en Estados Unidos o México (requiere visa estadounidense si pasas por EE. UU.) y llegar a Tokio. Compra con 3 a 5 meses de anticipación y vuela de regreso desde Osaka (KIX) para no devolverte.",
+    "aeropuertoLlegada": "Tokio Narita (NRT) o Haneda (HND). Regreso recomendado desde Osaka Kansai (KIX), comprando un vuelo multidestino.",
+    "delAeropuertoAlCentro": "Desde Narita: Narita Express a Shinjuku (~¥3.250, 80 min) o bus Airport Limousine. Desde Haneda: monorraíl o tren Keikyu (~¥500, 30 min).",
+    "rutas": [
+      {
+        "origen": "Bogotá",
+        "ruta": "BOG → MEX → NRT",
+        "aerolineas": [
+          "Aeroméxico",
+          "Avianca"
+        ],
+        "duracion": "24–28 h",
+        "escalas": 1,
+        "precioUSD": {
+          "min": 1200,
+          "max": 1800
+        }
+      },
+      {
+        "origen": "Bogotá",
+        "ruta": "BOG → IAH/LAX → HND",
+        "aerolineas": [
+          "United",
+          "ANA",
+          "Avianca"
+        ],
+        "duracion": "25–30 h",
+        "escalas": 1,
+        "precioUSD": {
+          "min": 1300,
+          "max": 1900
+        }
+      },
+      {
+        "origen": "Medellín",
+        "ruta": "MDE → MIA/DFW → NRT",
+        "aerolineas": [
+          "American Airlines",
+          "JAL"
+        ],
+        "duracion": "28–33 h",
+        "escalas": 2,
+        "precioUSD": {
+          "min": 1400,
+          "max": 2100
+        }
+      }
+    ]
+  },
+  "itinerario": [
+    {
+      "dia": 1,
+      "titulo": "Llegada a Tokio y primera noche entre neones",
+      "ciudad": "Tokio",
+      "coords": {
+        "lat": 35.6938,
+        "lng": 139.7034
+      },
+      "resumen": "Llegas cansado, así que el plan es suave: instalarte en Shinjuku, comprar tu tarjeta de transporte y salir a caminar bajo los letreros de neón.",
+      "imagenes": [
+        {
+          "url": "japon-clasico-10-dias/letreros-de-neon-de-colores-en-una-calle-b41d44.jpg",
+          "alt": "Letreros de neón de colores en una calle de Kabukichō, Shinjuku",
+          "credito": "Basile Morin",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Colorful_neon_street_signs_in_Kabukich%C5%8D,_Shinjuku,_Tokyo.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "15:00",
+          "nombre": "Tarjeta Suica y check-in",
+          "descripcion": "Agrega Suica a tu celular (Apple Wallet o Google Wallet en algunos modelos) o compra la Welcome Suica en el aeropuerto. Sirve para metro, trenes y tiendas de conveniencia.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "transporte",
+          "consejo": "Recárgala con ¥3.000–5.000; se usa casi para todo."
+        },
+        {
+          "hora": "18:30",
+          "nombre": "Observatorio gratuito del Gobierno Metropolitano",
+          "descripcion": "Vista de 360° de Tokio desde el piso 45, sin pagar. En días despejados se ve el Fuji al atardecer.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 35.6896,
+            "lng": 139.6917
+          },
+          "link": "https://www.yokoso.metro.tokyo.lg.jp/en/tenbou/index.html"
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "20:00",
+            "momento": "cena",
+            "lugar": "Omoide Yokocho",
+            "plato": "Yakitori y una cerveza",
+            "costo": 2500
+          }
+        ],
+        "medio": [
+          {
+            "hora": "20:00",
+            "momento": "cena",
+            "lugar": "Omoide Yokocho",
+            "plato": "Surtido de yakitori y cerveza",
+            "costo": 3500
+          }
+        ],
+        "alto": [
+          {
+            "hora": "20:00",
+            "momento": "cena",
+            "lugar": "New York Grill (Park Hyatt)",
+            "plato": "Menú de cena con vista a Tokio",
+            "costo": 25000
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "hora": "13:30",
+          "de": "Aeropuerto de Narita",
+          "a": "Estación de Tokio",
+          "medio": "Airport Bus TYO-NRT",
+          "duracion": "1 h 10 min",
+          "costo": 1300,
+          "niveles": [
+            "economico"
+          ]
+        },
+        {
+          "hora": "13:30",
+          "de": "Aeropuerto de Narita",
+          "a": "Shinjuku",
+          "medio": "Narita Express",
+          "duracion": "80 min",
+          "costo": 3250,
+          "niveles": [
+            "medio"
+          ]
+        },
+        {
+          "hora": "13:30",
+          "de": "Aeropuerto de Narita",
+          "a": "Shinjuku",
+          "medio": "Narita Express (vagón Green)",
+          "duracion": "80 min",
+          "costo": 4870,
+          "niveles": [
+            "alto"
+          ]
+        }
+      ],
+      "planB": "Si llegas muy tarde, cena en un konbini (7-Eleven, Lawson): onigiris y bentos excelentes por ¥600."
+    },
+    {
+      "dia": 2,
+      "titulo": "El Tokio tradicional: Asakusa, Ueno y Akihabara",
+      "ciudad": "Tokio",
+      "coords": {
+        "lat": 35.7148,
+        "lng": 139.7967
+      },
+      "resumen": "El templo más antiguo de la ciudad, un parque lleno de museos y por la tarde el barrio del anime y la electrónica.",
+      "imagenes": [
+        {
+          "url": "japon-clasico-10-dias/puerta-kaminarimon-del-templo-senso-ji-c-1b4d2c.jpg",
+          "alt": "Puerta Kaminarimon del templo Senso-ji con su gran farol rojo",
+          "credito": "Kansai-good",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Tokyo-metro-Kaminarimon-Sensoji-District-Gate.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "08:00",
+          "nombre": "Templo Senso-ji y calle Nakamise",
+          "descripcion": "Llega temprano para ver la puerta Kaminarimon sin multitudes. Prueba el ningyo-yaki y los melonpan en la calle comercial.",
+          "duracion": "2 h",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 35.7148,
+            "lng": 139.7967
+          },
+          "consejo": "Antes de las 9:00 hay la mitad de gente."
+        },
+        {
+          "hora": "11:00",
+          "nombre": "Parque Ueno y Museo Nacional de Tokio",
+          "descripcion": "El museo más grande de Japón: samuráis, kimonos y cerámica. El parque alrededor es ideal para caminar.",
+          "duracion": "2,5 h",
+          "costo": 1000,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 35.7188,
+            "lng": 139.7765
+          },
+          "link": "https://www.tnm.jp/?lang=en"
+        },
+        {
+          "hora": "14:00",
+          "nombre": "Mercado Ameyoko",
+          "descripcion": "Mercado callejero bajo las vías del tren con mariscos, frutas y puestos de comida baratos.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 35.7105,
+            "lng": 139.7745
+          }
+        },
+        {
+          "hora": "16:00",
+          "nombre": "Akihabara",
+          "descripcion": "Tiendas de anime, videojuegos retro (Super Potato) y máquinas de premios. Termina en un maid café si te da curiosidad.",
+          "duracion": "3 h",
+          "costo": 0,
+          "tipo": "compras",
+          "coords": {
+            "lat": 35.6984,
+            "lng": 139.7731
+          }
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "07:15",
+            "momento": "desayuno",
+            "lugar": "Konbini",
+            "plato": "Onigiri y café",
+            "costo": 500
+          },
+          {
+            "hora": "14:15",
+            "momento": "almuerzo",
+            "lugar": "Mercado Ameyoko",
+            "plato": "Puestos callejeros",
+            "costo": 1200
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Matsuya",
+            "plato": "Gyudon",
+            "costo": 600
+          }
+        ],
+        "medio": [
+          {
+            "hora": "07:15",
+            "momento": "desayuno",
+            "lugar": "Komeda Coffee",
+            "plato": "Tostada y café",
+            "costo": 1000
+          },
+          {
+            "hora": "14:15",
+            "momento": "almuerzo",
+            "lugar": "Mercado Ameyoko",
+            "plato": "Mariscos a la parrilla",
+            "costo": 2000
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Izakaya en Asakusa",
+            "plato": "Platos para compartir y bebida",
+            "costo": 4000
+          }
+        ],
+        "alto": [
+          {
+            "hora": "07:15",
+            "momento": "desayuno",
+            "lugar": "Buffet del hotel",
+            "plato": "Desayuno japonés y occidental",
+            "costo": 6000
+          },
+          {
+            "hora": "14:15",
+            "momento": "almuerzo",
+            "lugar": "Daikokuya",
+            "plato": "Tendon (tempura sobre arroz)",
+            "costo": 2500
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Sushi Ginza Onodera",
+            "plato": "Omakase de sushi",
+            "costo": 25000
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "hora": "07:45",
+          "de": "Shinjuku",
+          "a": "Asakusa",
+          "medio": "metro (línea Ginza)",
+          "duracion": "35 min",
+          "costo": 260
+        }
+      ],
+      "planB": "Si llueve, el Museo Nacional y el Museo Edo-Tokio son perfectos para pasar la tarde bajo techo."
+    },
+    {
+      "dia": 3,
+      "titulo": "Santuarios, moda y el cruce más famoso del mundo",
+      "ciudad": "Tokio",
+      "coords": {
+        "lat": 35.6595,
+        "lng": 139.7005
+      },
+      "resumen": "Del silencio del bosque del santuario Meiji al caos de Harajuku y Shibuya. Atardecer desde un mirador en la azotea.",
+      "imagenes": [
+        {
+          "url": "japon-clasico-10-dias/gran-torii-de-madera-a-la-entrada-del-sa-844f66.jpg",
+          "alt": "Gran torii de madera a la entrada del santuario Meiji",
+          "credito": "Zairon",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Meiji-jingu_Torii_3.jpg"
+        },
+        {
+          "url": "japon-clasico-10-dias/cruce-peatonal-de-shibuya-lleno-de-gente-36c67f.jpg",
+          "alt": "Cruce peatonal de Shibuya lleno de gente",
+          "credito": "Benh LIEU SONG (Flickr)",
+          "licencia": "CC BY-SA 2.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Tokyo_Shibuya_Scramble_Crossing_2018-10-09.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "09:00",
+          "nombre": "Santuario Meiji",
+          "descripcion": "Santuario sintoísta dentro de un bosque de 70 hectáreas en pleno centro. Mira los barriles de sake donados y escribe un deseo en una tablilla ema.",
+          "duracion": "1,5 h",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 35.6764,
+            "lng": 139.6993
+          }
+        },
+        {
+          "hora": "11:00",
+          "nombre": "Harajuku y calle Takeshita",
+          "descripcion": "Moda juvenil, crepes gigantes y tiendas excéntricas. Luego baja por Omotesando, la avenida de arquitectura de lujo.",
+          "duracion": "2 h",
+          "costo": 0,
+          "tipo": "compras",
+          "coords": {
+            "lat": 35.6716,
+            "lng": 139.7031
+          }
+        },
+        {
+          "hora": "15:00",
+          "nombre": "Cruce de Shibuya y estatua de Hachiko",
+          "descripcion": "Crúzalo a pie y luego míralo desde arriba en el Starbucks del Tsutaya o el puente de la estación.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 35.6595,
+            "lng": 139.7005
+          }
+        },
+        {
+          "hora": "17:00",
+          "nombre": "Shibuya Sky",
+          "descripcion": "Mirador al aire libre en la azotea del Shibuya Scramble Square. Reserva el turno del atardecer en línea.",
+          "duracion": "1,5 h",
+          "costo": 2500,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 35.6585,
+            "lng": 139.702
+          },
+          "link": "https://www.shibuya-scramble-square.com/sky/",
+          "consejo": "Los cupos del atardecer se agotan: reserva con una o dos semanas de anticipación.",
+          "niveles": [
+            "medio",
+            "alto"
+          ]
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "17:00",
+          "nombre": "Mirador de Shibuya Hikarie",
+          "descripcion": "Desde el piso 11 de Hikarie se ve el cruce y el atardecer sobre Shibuya sin pagar entrada.",
+          "duracion": "45 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 35.659,
+            "lng": 139.7036
+          }
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "08:00",
+            "momento": "desayuno",
+            "lugar": "Konbini",
+            "plato": "Onigiri y café",
+            "costo": 500
+          },
+          {
+            "hora": "13:00",
+            "momento": "almuerzo",
+            "lugar": "Calle Takeshita",
+            "plato": "Crepa y onigiri",
+            "costo": 900
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Ichiran Shibuya",
+            "plato": "Ramen tonkotsu",
+            "costo": 1400
+          }
+        ],
+        "medio": [
+          {
+            "hora": "08:00",
+            "momento": "desayuno",
+            "lugar": "Cafetería",
+            "plato": "Tostada y café",
+            "costo": 1000
+          },
+          {
+            "hora": "13:00",
+            "momento": "almuerzo",
+            "lugar": "Afuri Harajuku",
+            "plato": "Ramen yuzu shio",
+            "costo": 1500
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Ichiran Shibuya",
+            "plato": "Ramen tonkotsu con extras",
+            "costo": 1800
+          }
+        ],
+        "alto": [
+          {
+            "hora": "08:00",
+            "momento": "desayuno",
+            "lugar": "Buffet del hotel",
+            "plato": "Desayuno japonés y occidental",
+            "costo": 6000
+          },
+          {
+            "hora": "13:00",
+            "momento": "almuerzo",
+            "lugar": "Afuri Harajuku",
+            "plato": "Ramen yuzu shio",
+            "costo": 1500
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Ushigoro Shibuya",
+            "plato": "Yakiniku de wagyu",
+            "costo": 15000
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "hora": "08:30",
+          "de": "Asakusa",
+          "a": "Harajuku y Shibuya",
+          "medio": "metro + JR Yamanote",
+          "duracion": "35 min",
+          "costo": 400
+        }
+      ],
+      "planB": "Con lluvia, cambia el mirador por el museo digital teamLab Borderless en Azabudai Hills."
+    },
+    {
+      "dia": 4,
+      "titulo": "Mercado de Tsukiji, arte digital y Ginza",
+      "ciudad": "Tokio",
+      "coords": {
+        "lat": 35.6655,
+        "lng": 139.7707
+      },
+      "resumen": "Desayuno de sushi fresco, una experiencia inmersiva de luces y agua, y la noche en el barrio más elegante de Tokio.",
+      "imagenes": [
+        {
+          "url": "japon-clasico-10-dias/puestos-de-comida-y-clientes-en-el-merca-cbca9f.jpg",
+          "alt": "Puestos de comida y clientes en el mercado exterior de Tsukiji",
+          "credito": "Aw1805",
+          "licencia": "CC BY-SA 3.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Tsukiji_Outer_Market_2.jpg"
+        },
+        {
+          "url": "japon-clasico-10-dias/sala-inmersiva-de-teamlab-planets-con-lu-7b5d7b.jpg",
+          "alt": "Sala inmersiva de teamLab Planets con luces y reflejos",
+          "credito": "Sasa0403",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Photos_at_teamlab_planets_tokyo.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "08:00",
+          "nombre": "Mercado exterior de Tsukiji",
+          "descripcion": "Tortilla dulce tamagoyaki, ostras, erizo y un tazón de sushi de desayuno. Ve con hambre y efectivo.",
+          "duracion": "2 h",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 35.6655,
+            "lng": 139.7707
+          }
+        },
+        {
+          "hora": "11:00",
+          "nombre": "teamLab Planets",
+          "descripcion": "Museo de arte digital donde caminas descalzo entre agua, espejos y flores proyectadas. Una de las experiencias más fotogénicas de Tokio.",
+          "duracion": "2 h",
+          "costo": 4200,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 35.6491,
+            "lng": 139.7898
+          },
+          "link": "https://www.teamlab.art/e/planets/",
+          "consejo": "Usa pantalón que se pueda remangar hasta la rodilla."
+        },
+        {
+          "hora": "14:30",
+          "nombre": "Odaiba y Gundam gigante",
+          "descripcion": "Isla artificial con vista al Rainbow Bridge, centros comerciales y la estatua del robot Gundam a tamaño real.",
+          "duracion": "2,5 h",
+          "costo": 0,
+          "tipo": "descanso",
+          "coords": {
+            "lat": 35.6249,
+            "lng": 139.7756
+          }
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "16:30",
+          "nombre": "Crucero Tokyo Cruise de Odaiba a Asakusa",
+          "descripcion": "Barco futurista Hotaluna por la bahía y el río Sumida.",
+          "duracion": "1 h",
+          "costo": 3000,
+          "tipo": "cultura",
+          "link": "https://www.suijobus.co.jp/en/",
+          "coords": {
+            "lat": 35.6297,
+            "lng": 139.7723
+          }
+        },
+        {
+          "hora": "18:30",
+          "nombre": "Paseo nocturno por Ginza",
+          "descripcion": "Grandes almacenes, la tienda Uniqlo de 12 pisos y el sótano gastronómico (depachika) de Mitsukoshi.",
+          "duracion": "2,5 h",
+          "costo": 0,
+          "tipo": "compras",
+          "coords": {
+            "lat": 35.6717,
+            "lng": 139.765
+          }
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "08:15",
+            "momento": "desayuno",
+            "lugar": "Mercado exterior de Tsukiji",
+            "plato": "Tamagoyaki y onigiri",
+            "costo": 1200
+          },
+          {
+            "hora": "13:30",
+            "momento": "almuerzo",
+            "lugar": "Konbini en Odaiba",
+            "plato": "Bento",
+            "costo": 700
+          },
+          {
+            "hora": "20:00",
+            "momento": "cena",
+            "lugar": "Depachika de Mitsukoshi",
+            "plato": "Bento rebajado de la noche",
+            "costo": 1000
+          }
+        ],
+        "medio": [
+          {
+            "hora": "08:15",
+            "momento": "desayuno",
+            "lugar": "Mercado exterior de Tsukiji",
+            "plato": "Kaisendon (tazón de mariscos)",
+            "costo": 3000
+          },
+          {
+            "hora": "13:30",
+            "momento": "almuerzo",
+            "lugar": "DiverCity Tokyo Plaza",
+            "plato": "Food court",
+            "costo": 1500
+          },
+          {
+            "hora": "20:00",
+            "momento": "cena",
+            "lugar": "Ginza Kagari",
+            "plato": "Ramen de pollo tori paitan",
+            "costo": 1600
+          }
+        ],
+        "alto": [
+          {
+            "hora": "08:15",
+            "momento": "desayuno",
+            "lugar": "Mercado exterior de Tsukiji",
+            "plato": "Erizo, ostras y sushi",
+            "costo": 6000
+          },
+          {
+            "hora": "13:30",
+            "momento": "almuerzo",
+            "lugar": "DiverCity Tokyo Plaza",
+            "plato": "Restaurante con vista a la bahía",
+            "costo": 3000
+          },
+          {
+            "hora": "20:00",
+            "momento": "cena",
+            "lugar": "Ginza Ukai-tei",
+            "plato": "Teppanyaki de wagyu",
+            "costo": 30000
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "hora": "10:30",
+          "de": "Tsukiji",
+          "a": "Toyosu (teamLab)",
+          "medio": "metro + Yurikamome",
+          "duracion": "25 min",
+          "costo": 390
+        }
+      ],
+      "planB": "Todo el día funciona con lluvia: teamLab y los centros comerciales de Odaiba son bajo techo."
+    },
+    {
+      "dia": 5,
+      "titulo": "Hakone: onsen, volcán y vista al Fuji",
+      "ciudad": "Hakone",
+      "coords": {
+        "lat": 35.2326,
+        "lng": 139.1069
+      },
+      "resumen": "Un circuito en tren de montaña, funicular, teleférico y barco pirata alrededor del lago Ashi. Termina con un baño termal y noche en un ryokan.",
+      "imagenes": [
+        {
+          "url": "japon-clasico-10-dias/torii-rojo-del-santuario-de-hakone-a-ori-e8a3fe.jpg",
+          "alt": "Torii rojo del santuario de Hakone a orillas del lago Ashi",
+          "credito": "Guilhem Vellut",
+          "licencia": "CC BY 2.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Torii_on_Lake_Ashi_@_Hakone_Shrine_(13776878594).jpg"
+        },
+        {
+          "url": "japon-clasico-10-dias/valle-volcanico-de-owakudani-con-vapor-y-55e25f.jpg",
+          "alt": "Valle volcánico de Owakudani con vapor y la estación del teleférico",
+          "credito": "そらみみ",
+          "licencia": "CC BY-SA 3.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Mount_Myojingatake_and_Owakudani_Station_from_Owakudani_Valley.JPG"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "10:00",
+          "nombre": "Museo al Aire Libre de Hakone",
+          "descripcion": "Esculturas de Picasso, Henry Moore y otros en jardines de montaña, con un baño de pies termal gratuito.",
+          "duracion": "2 h",
+          "costo": 2000,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 35.2449,
+            "lng": 139.0507
+          },
+          "link": "https://www.hakone-oam.or.jp/en/"
+        },
+        {
+          "hora": "13:00",
+          "nombre": "Teleférico a Owakudani",
+          "descripcion": "Valle volcánico activo con fumarolas. Prueba los huevos negros cocidos en las aguas sulfurosas: dicen que cada uno alarga la vida siete años.",
+          "duracion": "1,5 h",
+          "costo": 500,
+          "tipo": "naturaleza",
+          "coords": {
+            "lat": 35.244,
+            "lng": 139.0204
+          }
+        },
+        {
+          "hora": "15:00",
+          "nombre": "Barco por el lago Ashi y santuario de Hakone",
+          "descripcion": "Cruza el lago en un barco estilo pirata y camina hasta el torii flotante del santuario. Con cielo despejado aparece el Fuji.",
+          "duracion": "2 h",
+          "costo": 0,
+          "tipo": "naturaleza",
+          "coords": {
+            "lat": 35.2048,
+            "lng": 139.0256
+          }
+        },
+        {
+          "hora": "18:00",
+          "nombre": "Onsen al atardecer",
+          "descripcion": "Baño termal tradicional en el alojamiento después del circuito.",
+          "duracion": "3 h",
+          "costo": 0,
+          "tipo": "descanso",
+          "consejo": "En los onsen públicos se entra sin ropa y los tatuajes pueden estar prohibidos; busca ryokan con baño privado (kashikiri)."
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "07:00",
+            "momento": "desayuno",
+            "lugar": "Konbini",
+            "plato": "Onigiri y café",
+            "costo": 500
+          },
+          {
+            "hora": "12:00",
+            "momento": "almuerzo",
+            "lugar": "Hakone-Yumoto",
+            "plato": "Soba",
+            "costo": 1200
+          },
+          {
+            "hora": "13:30",
+            "momento": "snack",
+            "lugar": "Owakudani",
+            "plato": "Huevos negros kuro-tamago",
+            "costo": 500
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Cocina de K's House",
+            "plato": "Compra de supermercado",
+            "costo": 1200
+          }
+        ],
+        "medio": [
+          {
+            "hora": "07:00",
+            "momento": "desayuno",
+            "lugar": "Estación de Shinjuku",
+            "plato": "Pan y café",
+            "costo": 800
+          },
+          {
+            "hora": "12:00",
+            "momento": "almuerzo",
+            "lugar": "Hatsuhana Soba",
+            "plato": "Soba de ñame",
+            "costo": 1500
+          },
+          {
+            "hora": "13:30",
+            "momento": "snack",
+            "lugar": "Owakudani",
+            "plato": "Huevos negros kuro-tamago",
+            "costo": 500
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Ryokan",
+            "plato": "Cena kaiseki",
+            "costo": 0
+          }
+        ],
+        "alto": [
+          {
+            "hora": "07:00",
+            "momento": "desayuno",
+            "lugar": "Buffet del hotel",
+            "plato": "Desayuno japonés y occidental",
+            "costo": 6000
+          },
+          {
+            "hora": "12:00",
+            "momento": "almuerzo",
+            "lugar": "Museo al Aire Libre",
+            "plato": "Café del museo",
+            "costo": 2500
+          },
+          {
+            "hora": "13:30",
+            "momento": "snack",
+            "lugar": "Owakudani",
+            "plato": "Huevos negros kuro-tamago",
+            "costo": 500
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Fujiya Hotel",
+            "plato": "Menú francés en el comedor histórico",
+            "costo": 12000
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "hora": "07:30",
+          "de": "Shinjuku",
+          "a": "Hakone-Yumoto",
+          "medio": "Romancecar de Odakyu",
+          "duracion": "85 min",
+          "costo": 2470,
+          "consejo": "El envío de maletas Tokio → Kioto cuesta ~¥2.500 y llega al día siguiente."
+        },
+        {
+          "hora": "09:30",
+          "de": "Hakone-Yumoto",
+          "a": "lago Ashi (circuito)",
+          "medio": "Hakone Free Pass (2 días, incluye ida y vuelta desde Shinjuku)",
+          "duracion": "todo el día",
+          "costo": 6100
+        }
+      ],
+      "planB": "Si la visibilidad es mala o el teleférico cierra por gases volcánicos, quédate en el museo y en los baños de Hakone Yuryo."
+    },
+    {
+      "dia": 6,
+      "titulo": "Kioto: los mil torii y la noche en Gion",
+      "ciudad": "Kioto",
+      "coords": {
+        "lat": 34.9858,
+        "lng": 135.7588
+      },
+      "resumen": "Shinkansen a Kioto, el túnel de torii naranjas de Fushimi Inari al atardecer y las callejuelas de madera de Gion, donde todavía se ven geishas.",
+      "imagenes": [
+        {
+          "url": "japon-clasico-10-dias/sendero-de-torii-naranjas-con-un-farol-e-3aded7.jpg",
+          "alt": "Sendero de torii naranjas con un farol en Fushimi Inari",
+          "credito": "Basile Morin",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Torii_path_with_lantern_at_Fushimi_Inari_Taisha_Shrine,_Kyoto,_Japan.jpg"
+        },
+        {
+          "url": "japon-clasico-10-dias/calle-hanamikoji-en-gion-con-casas-tradi-33804a.jpg",
+          "alt": "Calle Hanamikoji en Gion con casas tradicionales de madera",
+          "credito": "HAGAT hOMSZE",
+          "licencia": "CC0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:JP_%E6%97%A5%E6%9C%AC_Japan_%E4%BA%AC%E9%83%BD_Kyoto_Higashiyama-ku_Gion_%E8%8A%B1%E8%A6%8B%E5%B0%8F%E8%B7%AF%E9%80%9A_Hanamikoji_Dori_10am_morning_June_2026_N13P_16.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "13:00",
+          "nombre": "Mercado Nishiki",
+          "descripcion": "La \"cocina de Kioto\": 400 metros de puestos con encurtidos, pulpitos dulces, mochi y matcha.",
+          "duracion": "1,5 h",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 35.005,
+            "lng": 135.7649
+          }
+        },
+        {
+          "hora": "15:30",
+          "nombre": "Fushimi Inari Taisha",
+          "descripcion": "Miles de torii donados por empresas forman túneles montaña arriba. Sube al menos hasta el mirador de Yotsutsuji (45 min).",
+          "duracion": "2,5 h",
+          "costo": 0,
+          "tipo": "naturaleza",
+          "coords": {
+            "lat": 34.9671,
+            "lng": 135.7727
+          },
+          "consejo": "Las mejores fotos sin gente son pasado el primer mirador."
+        },
+        {
+          "hora": "19:00",
+          "nombre": "Gion y Pontocho de noche",
+          "descripcion": "Camina por Hanamikoji y el callejón Pontocho junto al río Kamo. Respeta a las geiko y maiko: no las persigas para fotos.",
+          "duracion": "2,5 h",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 35.0037,
+            "lng": 135.7752
+          }
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "08:00",
+            "momento": "desayuno",
+            "lugar": "K's House",
+            "plato": "Pan y café",
+            "costo": 500
+          },
+          {
+            "hora": "13:15",
+            "momento": "almuerzo",
+            "lugar": "Mercado Nishiki",
+            "plato": "Brochetas y mochi",
+            "costo": 1500
+          },
+          {
+            "hora": "18:00",
+            "momento": "cena",
+            "lugar": "Kyoto Gogyo",
+            "plato": "Ramen de miso quemado",
+            "costo": 1300
+          }
+        ],
+        "medio": [
+          {
+            "hora": "08:00",
+            "momento": "desayuno",
+            "lugar": "Ryokan",
+            "plato": "Desayuno japonés",
+            "costo": 0
+          },
+          {
+            "hora": "13:15",
+            "momento": "almuerzo",
+            "lugar": "Mercado Nishiki",
+            "plato": "Degustación de puestos",
+            "costo": 2000
+          },
+          {
+            "hora": "18:00",
+            "momento": "cena",
+            "lugar": "Izakaya en Pontocho",
+            "plato": "Platos de temporada junto al río",
+            "costo": 4500
+          }
+        ],
+        "alto": [
+          {
+            "hora": "08:00",
+            "momento": "desayuno",
+            "lugar": "Fujiya Hotel",
+            "plato": "Desayuno del hotel",
+            "costo": 0
+          },
+          {
+            "hora": "13:15",
+            "momento": "almuerzo",
+            "lugar": "Mercado Nishiki",
+            "plato": "Degustación de puestos",
+            "costo": 3000
+          },
+          {
+            "hora": "18:00",
+            "momento": "cena",
+            "lugar": "Gion Karyo",
+            "plato": "Kaiseki",
+            "costo": 20000
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "hora": "09:00",
+          "de": "Odawara",
+          "a": "Kioto",
+          "medio": "Shinkansen Hikari",
+          "duracion": "2 h",
+          "costo": 11500,
+          "niveles": [
+            "economico",
+            "medio"
+          ],
+          "consejo": "Siéntate del lado derecho (asientos E) para ver el Fuji durante el trayecto."
+        },
+        {
+          "hora": "09:00",
+          "de": "Odawara",
+          "a": "Kioto",
+          "medio": "Shinkansen Hikari (vagón Green)",
+          "duracion": "2 h",
+          "costo": 16000,
+          "niveles": [
+            "alto"
+          ],
+          "consejo": "Siéntate del lado derecho (asientos E) para ver el Fuji durante el trayecto."
+        }
+      ],
+      "planB": "Con lluvia, Fushimi Inari sigue siendo precioso (y vacío). Lleva paraguas transparente del konbini por ¥500."
+    },
+    {
+      "dia": 7,
+      "titulo": "Bosque de bambú, Pabellón Dorado y Kiyomizu-dera",
+      "ciudad": "Kioto",
+      "coords": {
+        "lat": 35.017,
+        "lng": 135.6713
+      },
+      "resumen": "El día de las postales de Kioto: Arashiyama al amanecer, el templo dorado al mediodía y Kiyomizu-dera al atardecer.",
+      "imagenes": [
+        {
+          "url": "japon-clasico-10-dias/bosque-de-bambu-de-arashiyama-c56863.jpg",
+          "alt": "Bosque de bambú de Arashiyama",
+          "credito": "Basile Morin",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Bamboo_Forest,_Arashiyama,_Kyoto,_Japan.jpg"
+        },
+        {
+          "url": "japon-clasico-10-dias/kinkaku-ji-el-pabellon-dorado-reflejado-bbdbff.jpg",
+          "alt": "Kinkaku-ji, el Pabellón Dorado, reflejado en el agua",
+          "credito": "Basile Morin",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Water_reflection_of_Kinkaku-ji_Temple_a_sunny_day,_Kyoto,_Japan.jpg"
+        },
+        {
+          "url": "japon-clasico-10-dias/templo-kiyomizu-dera-rodeado-de-arces-ro-b848d1.jpg",
+          "alt": "Terraza de madera de Kiyomizu-dera entre árboles de otoño",
+          "credito": "Martin Falbisoner",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Kiyomizu-dera,_Kyoto,_November_2016_-01.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "07:30",
+          "nombre": "Bosque de bambú de Arashiyama",
+          "descripcion": "Llega antes de las 8:00: después se llena. Sigue hasta el jardín del templo Tenryu-ji, Patrimonio de la Humanidad.",
+          "duracion": "2,5 h",
+          "costo": 500,
+          "tipo": "naturaleza",
+          "coords": {
+            "lat": 35.017,
+            "lng": 135.6713
+          }
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "08:30",
+          "nombre": "Rickshaw por Arashiyama",
+          "descripcion": "Recorrido en carrito tirado a mano por senderos y rincones del bosque de bambú que no se ven a pie.",
+          "duracion": "30 min",
+          "costo": 5000,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 35.0094,
+            "lng": 135.6668
+          }
+        },
+        {
+          "hora": "11:30",
+          "nombre": "Kinkaku-ji (Pabellón Dorado)",
+          "descripcion": "Pabellón cubierto de pan de oro sobre un estanque. La visita es un recorrido corto y bien señalizado.",
+          "duracion": "1 h",
+          "costo": 500,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 35.0394,
+            "lng": 135.7292
+          }
+        },
+        {
+          "hora": "15:30",
+          "nombre": "Kiyomizu-dera, Sannenzaka y Ninenzaka",
+          "descripcion": "Templo con una enorme terraza de madera sobre la ladera, y calles empedradas de tiendas de cerámica y té bajando la colina.",
+          "duracion": "3 h",
+          "costo": 500,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 34.9949,
+            "lng": 135.785
+          }
+        },
+        {
+          "hora": "17:30",
+          "nombre": "Ceremonia del té en Camellia",
+          "descripcion": "Ceremonia del té guiada en una casa tradicional cerca de Kiyomizu-dera: preparación de matcha y dulces wagashi.",
+          "duracion": "2 h",
+          "costo": 4000,
+          "tipo": "cultura",
+          "niveles": [
+            "medio",
+            "alto"
+          ],
+          "link": "https://tea-kyoto.com/"
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "06:45",
+            "momento": "desayuno",
+            "lugar": "Konbini",
+            "plato": "Onigiri y café",
+            "costo": 500
+          },
+          {
+            "hora": "13:00",
+            "momento": "almuerzo",
+            "lugar": "Kyoto Katsugyu",
+            "plato": "Gyukatsu",
+            "costo": 1600
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Sukiya",
+            "plato": "Gyudon",
+            "costo": 600
+          }
+        ],
+        "medio": [
+          {
+            "hora": "06:45",
+            "momento": "desayuno",
+            "lugar": "Cafetería",
+            "plato": "Tostada y café",
+            "costo": 1000
+          },
+          {
+            "hora": "13:00",
+            "momento": "almuerzo",
+            "lugar": "Kyoto Katsugyu",
+            "plato": "Gyukatsu",
+            "costo": 2000
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Okutan Kiyomizu",
+            "plato": "Yudofu (tofu en caldo)",
+            "costo": 4000
+          }
+        ],
+        "alto": [
+          {
+            "hora": "06:45",
+            "momento": "desayuno",
+            "lugar": "Ritz-Carlton Kyoto",
+            "plato": "Desayuno del hotel",
+            "costo": 7000
+          },
+          {
+            "hora": "13:00",
+            "momento": "almuerzo",
+            "lugar": "Shoraian (Arashiyama)",
+            "plato": "Menú de tofu",
+            "costo": 5000
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Kikunoi",
+            "plato": "Kaiseki con estrellas Michelin",
+            "costo": 45000
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "hora": "07:00",
+          "de": "Kioto",
+          "a": "Arashiyama",
+          "medio": "tren JR Sagano",
+          "duracion": "15 min",
+          "costo": 240
+        },
+        {
+          "hora": "11:00",
+          "de": "Arashiyama",
+          "a": "Kinkaku-ji",
+          "medio": "bus o taxi compartido",
+          "duracion": "30 min",
+          "costo": 230
+        }
+      ],
+      "planB": "En temporada alta los buses de Kioto van llenos: combina metro y taxi (entre 3–4 personas sale casi igual)."
+    },
+    {
+      "dia": 8,
+      "titulo": "Excursión a Nara: ciervos y el Buda gigante",
+      "ciudad": "Nara",
+      "coords": {
+        "lat": 34.6851,
+        "lng": 135.843
+      },
+      "resumen": "A 45 minutos de Kioto, la primera capital de Japón: un parque con más de mil ciervos que hacen reverencias y uno de los edificios de madera más grandes del mundo.",
+      "imagenes": [
+        {
+          "url": "japon-clasico-10-dias/ciervos-del-parque-de-nara-junto-a-un-pu-349a2f.jpg",
+          "alt": "Ciervos del parque de Nara junto a un puesto de galletas shika senbei",
+          "credito": "TR15336300101",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Shika_senbei_2017.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "09:00",
+          "nombre": "Parque de Nara y los ciervos",
+          "descripcion": "Compra galletas shika senbei y haz una reverencia: muchos ciervos la devuelven. Cuidado, se ponen insistentes.",
+          "duracion": "1,5 h",
+          "costo": 200,
+          "tipo": "naturaleza",
+          "coords": {
+            "lat": 34.6851,
+            "lng": 135.843
+          },
+          "consejo": "Guarda papeles y mapas: los ciervos se los comen."
+        },
+        {
+          "hora": "10:30",
+          "nombre": "Templo Todai-ji",
+          "descripcion": "El Gran Buda de bronce de 15 metros dentro del Daibutsuden. Busca la columna con un hueco: pasar por él trae suerte.",
+          "duracion": "1,5 h",
+          "costo": 800,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 34.689,
+            "lng": 135.8398
+          }
+        },
+        {
+          "hora": "13:00",
+          "nombre": "Barrio Naramachi",
+          "descripcion": "Calles de casas de comerciantes de madera, tiendas de artesanía y cafés tradicionales.",
+          "duracion": "2 h",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 34.6777,
+            "lng": 135.8297
+          }
+        },
+        {
+          "hora": "15:30",
+          "nombre": "Santuario Kasuga Taisha",
+          "descripcion": "Camino de cientos de faroles de piedra cubiertos de musgo entre el bosque.",
+          "duracion": "1,5 h",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 34.6813,
+            "lng": 135.8484
+          }
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "07:45",
+            "momento": "desayuno",
+            "lugar": "Konbini",
+            "plato": "Onigiri y café",
+            "costo": 500
+          },
+          {
+            "hora": "13:00",
+            "momento": "almuerzo",
+            "lugar": "Nara",
+            "plato": "Kakinoha-zushi para llevar",
+            "costo": 1200
+          },
+          {
+            "hora": "15:00",
+            "momento": "snack",
+            "lugar": "Nakatanidou",
+            "plato": "Mochi de artemisa",
+            "costo": 150
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Dotonbori",
+            "plato": "Takoyaki",
+            "costo": 800
+          }
+        ],
+        "medio": [
+          {
+            "hora": "07:45",
+            "momento": "desayuno",
+            "lugar": "Cafetería",
+            "plato": "Tostada y café",
+            "costo": 1000
+          },
+          {
+            "hora": "13:00",
+            "momento": "almuerzo",
+            "lugar": "Nara",
+            "plato": "Kakinoha-zushi",
+            "costo": 1800
+          },
+          {
+            "hora": "15:00",
+            "momento": "snack",
+            "lugar": "Nakatanidou",
+            "plato": "Mochi de artemisa",
+            "costo": 150
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Kushikatsu Daruma",
+            "plato": "Kushikatsu (brochetas apanadas)",
+            "costo": 2500
+          }
+        ],
+        "alto": [
+          {
+            "hora": "07:45",
+            "momento": "desayuno",
+            "lugar": "Ritz-Carlton Kyoto",
+            "plato": "Desayuno del hotel",
+            "costo": 7000
+          },
+          {
+            "hora": "13:00",
+            "momento": "almuerzo",
+            "lugar": "Nara",
+            "plato": "Kakinoha-zushi y sopa",
+            "costo": 2500
+          },
+          {
+            "hora": "15:00",
+            "momento": "snack",
+            "lugar": "Nakatanidou",
+            "plato": "Mochi de artemisa",
+            "costo": 150
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Teppanyaki en Osaka",
+            "plato": "Res de Kobe",
+            "costo": 20000
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "hora": "08:15",
+          "de": "Kioto",
+          "a": "Nara",
+          "medio": "tren Kintetsu",
+          "duracion": "45 min",
+          "costo": 760
+        },
+        {
+          "hora": "17:00",
+          "de": "Nara",
+          "a": "Osaka (Namba)",
+          "medio": "tren Kintetsu",
+          "duracion": "40 min",
+          "costo": 680
+        }
+      ],
+      "planB": "Si llueve, Todai-ji y el Museo Nacional de Nara son bajo techo; los ciervos se refugian igual que tú."
+    },
+    {
+      "dia": 9,
+      "titulo": "Osaka: castillo y la capital de la comida callejera",
+      "ciudad": "Osaka",
+      "coords": {
+        "lat": 34.6687,
+        "lng": 135.5013
+      },
+      "resumen": "Osaka se toma en serio el kuidaore, \"comer hasta caer\". Castillo por la mañana y la tarde entera picando en Dotonbori.",
+      "imagenes": [
+        {
+          "url": "japon-clasico-10-dias/canal-de-dotonbori-de-noche-con-letreros-a51c0e.jpg",
+          "alt": "Canal de Dotonbori de noche con letreros luminosos",
+          "credito": "Tokumeigakarinoaoshima",
+          "licencia": "CC0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Neon_signs_in_Dotonbori_at_night,16th_August_2014_(1).JPG"
+        },
+        {
+          "url": "japon-clasico-10-dias/castillo-de-osaka-con-el-foso-exterior-e-1769d7.jpg",
+          "alt": "Castillo de Osaka con el foso exterior en otoño",
+          "credito": "Martin Falbisoner",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Osaka_Castle_Outer_Moat_and_Osaka_Business_Park,_November_2016.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "09:30",
+          "nombre": "Castillo de Osaka",
+          "descripcion": "Recorre los jardines y las murallas; el museo interior es moderno, así que la vista desde el piso 8 es lo mejor.",
+          "duracion": "2 h",
+          "costo": 1200,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 34.6873,
+            "lng": 135.5262
+          }
+        },
+        {
+          "hora": "12:30",
+          "nombre": "Mercado Kuromon",
+          "descripcion": "Mariscos a la parrilla, wagyu en brocheta y fruta perfecta. Caro para ser mercado, pero vale la pena probar.",
+          "duracion": "1,5 h",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 34.6654,
+            "lng": 135.5066
+          }
+        },
+        {
+          "hora": "15:00",
+          "nombre": "Shinsekai y torre Tsutenkaku",
+          "descripcion": "Barrio retro con aire de los años 50 y los mejores kushikatsu (brochetas apanadas). Regla de oro: no mojes dos veces en la salsa.",
+          "duracion": "2 h",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 34.6525,
+            "lng": 135.5063
+          }
+        },
+        {
+          "hora": "18:30",
+          "nombre": "Dotonbori de noche",
+          "descripcion": "El letrero de Glico, takoyaki recién hechos y okonomiyaki en Mizuno. Si te queda energía, un crucero corto por el canal.",
+          "duracion": "3 h",
+          "costo": 0,
+          "tipo": "vida-nocturna",
+          "coords": {
+            "lat": 34.6687,
+            "lng": 135.5013
+          }
+        },
+        {
+          "niveles": [
+            "medio",
+            "alto"
+          ],
+          "hora": "20:30",
+          "nombre": "Crucero por el canal de Dotonbori",
+          "descripcion": "Paseo de 20 minutos bajo los letreros de neón del canal.",
+          "duracion": "20 min",
+          "costo": 1500,
+          "tipo": "vida-nocturna",
+          "coords": {
+            "lat": 34.6688,
+            "lng": 135.5023
+          }
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "08:30",
+            "momento": "desayuno",
+            "lugar": "Konbini",
+            "plato": "Onigiri y café",
+            "costo": 500
+          },
+          {
+            "hora": "12:45",
+            "momento": "almuerzo",
+            "lugar": "Mercado Kuromon",
+            "plato": "Brochetas de mariscos",
+            "costo": 1500
+          },
+          {
+            "hora": "15:15",
+            "momento": "snack",
+            "lugar": "Shinsekai",
+            "plato": "Kushikatsu",
+            "costo": 1000
+          },
+          {
+            "hora": "19:00",
+            "momento": "cena",
+            "lugar": "Dotonbori",
+            "plato": "Takoyaki y okonomiyaki",
+            "costo": 1500
+          }
+        ],
+        "medio": [
+          {
+            "hora": "08:30",
+            "momento": "desayuno",
+            "lugar": "Cafetería",
+            "plato": "Tostada y café",
+            "costo": 1000
+          },
+          {
+            "hora": "12:45",
+            "momento": "almuerzo",
+            "lugar": "Mercado Kuromon",
+            "plato": "Mariscos y wagyu en brocheta",
+            "costo": 3000
+          },
+          {
+            "hora": "15:15",
+            "momento": "snack",
+            "lugar": "Shinsekai",
+            "plato": "Kushikatsu",
+            "costo": 1500
+          },
+          {
+            "hora": "19:00",
+            "momento": "cena",
+            "lugar": "Mizuno",
+            "plato": "Okonomiyaki",
+            "costo": 2000
+          }
+        ],
+        "alto": [
+          {
+            "hora": "08:30",
+            "momento": "desayuno",
+            "lugar": "Buffet del hotel",
+            "plato": "Desayuno japonés y occidental",
+            "costo": 7000
+          },
+          {
+            "hora": "12:45",
+            "momento": "almuerzo",
+            "lugar": "Mercado Kuromon",
+            "plato": "Wagyu, erizo y fruta",
+            "costo": 6000
+          },
+          {
+            "hora": "15:15",
+            "momento": "snack",
+            "lugar": "Shinsekai",
+            "plato": "Kushikatsu",
+            "costo": 1500
+          },
+          {
+            "hora": "19:00",
+            "momento": "cena",
+            "lugar": "Kani Doraku Dotonbori",
+            "plato": "Menú de cangrejo",
+            "costo": 12000
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "hora": "09:00",
+          "de": "Namba",
+          "a": "Castillo de Osaka y Shinsekai",
+          "medio": "metro",
+          "duracion": "20 min por trayecto",
+          "costo": 600
+        }
+      ],
+      "planB": "Con lluvia: el Acuario Kaiyukan (uno de los más grandes del mundo) o las galerías cubiertas de Shinsaibashi."
+    },
+    {
+      "dia": 10,
+      "titulo": "Últimas compras y vuelo de regreso",
+      "ciudad": "Osaka",
+      "coords": {
+        "lat": 34.705,
+        "lng": 135.4983
+      },
+      "resumen": "Mañana libre para recuerdos en Umeda y tren al aeropuerto de Kansai.",
+      "imagenes": [],
+      "actividades": [
+        {
+          "hora": "09:00",
+          "nombre": "Umeda Sky Building y compras",
+          "descripcion": "Mirador del \"jardín flotante\" y luego Don Quijote o los grandes almacenes para dulces (KitKat de sabores, galletas de matcha).",
+          "duracion": "3 h",
+          "costo": 2000,
+          "tipo": "compras",
+          "coords": {
+            "lat": 34.7053,
+            "lng": 135.4906
+          },
+          "consejo": "Compras de más de ¥5.000 en una tienda son libres de impuestos mostrando tu pasaporte."
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "08:00",
+            "momento": "desayuno",
+            "lugar": "Konbini",
+            "plato": "Onigiri y café",
+            "costo": 500
+          },
+          {
+            "hora": "12:00",
+            "momento": "almuerzo",
+            "lugar": "Aeropuerto de Kansai",
+            "plato": "Ekiben",
+            "costo": 1200
+          }
+        ],
+        "medio": [
+          {
+            "hora": "08:00",
+            "momento": "desayuno",
+            "lugar": "Cafetería",
+            "plato": "Tostada y café",
+            "costo": 1000
+          },
+          {
+            "hora": "12:00",
+            "momento": "almuerzo",
+            "lugar": "Umeda",
+            "plato": "Food hall de Hankyu",
+            "costo": 1800
+          }
+        ],
+        "alto": [
+          {
+            "hora": "08:00",
+            "momento": "desayuno",
+            "lugar": "Buffet del hotel",
+            "plato": "Desayuno japonés y occidental",
+            "costo": 7000
+          },
+          {
+            "hora": "12:00",
+            "momento": "almuerzo",
+            "lugar": "Umeda",
+            "plato": "Sushi",
+            "costo": 6000
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "hora": "13:00",
+          "de": "Namba",
+          "a": "Aeropuerto de Kansai",
+          "medio": "tren Nankai Rapi:t",
+          "duracion": "40 min",
+          "costo": 1490,
+          "consejo": "Llega 3 horas antes del vuelo internacional."
+        }
+      ]
+    }
+  ],
+  "presupuesto": {
+    "notas": "Por persona, 10 días / 9 noches, compartiendo habitación doble. Vuelos y seguro en dólares; el resto en yenes.",
+    "categorias": [
+      {
+        "categoria": "vuelos",
+        "descripcion": "Ida y vuelta (multidestino BOG → Tokio, Osaka → BOG) en clase económica; nivel alto en premium economy.",
+        "moneda": "USD",
+        "economico": 1250,
+        "medio": 1650,
+        "alto": 3200
+      },
+      {
+        "categoria": "seguro",
+        "descripcion": "Seguro de viaje con cobertura médica internacional (en Japón la atención es costosa).",
+        "moneda": "USD",
+        "economico": 40,
+        "medio": 60,
+        "alto": 110
+      },
+      {
+        "categoria": "visa",
+        "descripcion": "Visa de turista japonesa para pasaporte colombiano (valor aproximado; puede variar).",
+        "moneda": "local",
+        "economico": 3000,
+        "medio": 3000,
+        "alto": 3000
+      },
+      {
+        "categoria": "conectividad",
+        "descripcion": "eSIM de datos para 10 días o router wifi portátil.",
+        "moneda": "local",
+        "economico": 2500,
+        "medio": 3500,
+        "alto": 6000
+      },
+      {
+        "categoria": "compras",
+        "descripcion": "Recuerdos, dulces y algo de ropa o electrónica.",
+        "moneda": "local",
+        "economico": 10000,
+        "medio": 25000,
+        "alto": 70000
+      },
+      {
+        "categoria": "extras",
+        "descripcion": "Envío de maletas, lockers, imprevistos.",
+        "moneda": "local",
+        "economico": 8000,
+        "medio": 15000,
+        "alto": 35000
+      }
+    ]
+  },
+  "alojamiento": [
+    {
+      "ciudad": "Tokio",
+      "noches": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "economico": {
+        "nombre": "Nui. Hostel & Bar Lounge",
+        "zona": "Kuramae",
+        "tipo": "Hostal",
+        "precioNoche": 5000,
+        "descripcion": "Hostal de diseño en un antiguo almacén de juguetes, con un bar muy animado en la planta baja. Cama en dormitorio compartido.",
+        "link": "https://backpackersjapan.co.jp/nuihostel/en/"
+      },
+      "medio": {
+        "nombre": "Hotel Gracery Shinjuku",
+        "zona": "Shinjuku",
+        "tipo": "Hotel",
+        "precioNoche": 10000,
+        "descripcion": "El hotel de la cabeza de Godzilla. Habitaciones pequeñas pero muy bien ubicadas, a 5 minutos de la estación.",
+        "link": "https://gracery.com/shinjuku/"
+      },
+      "alto": {
+        "nombre": "Park Hyatt Tokyo",
+        "zona": "Nishi-Shinjuku",
+        "tipo": "Hotel de lujo",
+        "precioNoche": 80000,
+        "descripcion": "El hotel de la película Lost in Translation, renovado: vistas al Fuji, piscina en el piso 47 y el New York Bar.",
+        "link": "https://www.hyatt.com/park-hyatt/en-US/tyoph-park-hyatt-tokyo"
+      }
+    },
+    {
+      "ciudad": "Hakone",
+      "noches": [
+        5
+      ],
+      "economico": {
+        "nombre": "K's House Hakone",
+        "zona": "Hakone-Yumoto",
+        "tipo": "Hostal",
+        "precioNoche": 6000,
+        "incluye": "Onsen",
+        "descripcion": "Hostal junto al río con baño termal compartido: la forma barata de vivir el onsen.",
+        "link": "https://kshouse.jp/hakone-e/"
+      },
+      "medio": {
+        "nombre": "Hakone Pax Yoshino",
+        "zona": "Hakone-Yumoto",
+        "tipo": "Ryokan",
+        "precioNoche": 18000,
+        "incluye": "Cena kaiseki, desayuno y onsen",
+        "descripcion": "Ryokan junto al río con habitaciones de tatami y baños termales al aire libre.",
+        "link": "https://www.google.com/maps/search/?api=1&query=Hakone%20Pax%20Yoshino"
+      },
+      "alto": {
+        "nombre": "Fujiya Hotel",
+        "zona": "Miyanoshita",
+        "tipo": "Hotel histórico",
+        "precioNoche": 35000,
+        "incluye": "Desayuno y onsen",
+        "descripcion": "Hotel histórico de 1878 que mezcla arquitectura japonesa y occidental, con agua termal en las habitaciones.",
+        "link": "https://www.fujiyahotel.jp/en/"
+      }
+    },
+    {
+      "ciudad": "Kioto",
+      "noches": [
+        6,
+        7
+      ],
+      "economico": {
+        "nombre": "Piece Hostel Sanjo",
+        "zona": "Sanjo",
+        "tipo": "Hostal",
+        "precioNoche": 4500,
+        "descripcion": "Hostal moderno y muy limpio, cerca del río Kamo y caminando a Gion y Nishiki.",
+        "link": "https://www.piecehostel.com/sanjo/"
+      },
+      "medio": {
+        "nombre": "Mitsui Garden Hotel Kyoto Sanjo",
+        "zona": "Sanjo / Karasuma",
+        "tipo": "Hotel",
+        "precioNoche": 9000,
+        "descripcion": "Hotel con baño público tipo onsen y jardín interior, a pasos del metro.",
+        "link": "https://www.gardenhotels.co.jp/kyoto-sanjo/eng/"
+      },
+      "alto": {
+        "nombre": "The Ritz-Carlton Kyoto",
+        "zona": "Río Kamo",
+        "tipo": "Hotel de lujo",
+        "precioNoche": 90000,
+        "descripcion": "A orillas del río Kamo, con jardín japonés, spa y vista a las montañas de Higashiyama.",
+        "link": "https://www.google.com/maps/search/?api=1&query=The%20Ritz-Carlton%20Kyoto"
+      }
+    },
+    {
+      "ciudad": "Osaka",
+      "noches": [
+        8,
+        9
+      ],
+      "economico": {
+        "nombre": "Osaka Hana Hostel",
+        "zona": "Namba",
+        "tipo": "Hostal",
+        "precioNoche": 4000,
+        "descripcion": "Hostal sencillo a pasos de Dotonbori, con cocina compartida y camas en dormitorio.",
+        "link": "https://www.google.com/maps/search/?api=1&query=Osaka%20Hana%20Hostel"
+      },
+      "medio": {
+        "nombre": "Cross Hotel Osaka",
+        "zona": "Shinsaibashi / Dotonbori",
+        "tipo": "Hotel",
+        "precioNoche": 9500,
+        "descripcion": "Literalmente encima de Dotonbori: sales del hotel directo a la comida callejera.",
+        "link": "https://www.crosshotel.com/osaka/en/"
+      },
+      "alto": {
+        "nombre": "Conrad Osaka",
+        "zona": "Nakanoshima",
+        "tipo": "Hotel de lujo",
+        "precioNoche": 60000,
+        "descripcion": "Ocupa los pisos 33 a 40 de una torre junto al río, con vista panorámica de la ciudad.",
+        "link": "https://www.google.com/maps/search/?api=1&query=Conrad%20Osaka"
+      }
+    }
+  ],
+  "comida": {
+    "platosTipicos": [
+      {
+        "nombre": "Ramen",
+        "descripcion": "Fideos en caldo; el tonkotsu (de cerdo) es cremoso y potente. Sorber hace parte de la experiencia.",
+        "precioAprox": 1100,
+        "imagen": {
+          "url": "japon-clasico-10-dias/tazon-de-ramen-tonkotsu-con-huevo-y-cerd-9fb6aa.jpg",
+          "alt": "Tazón de ramen tonkotsu con huevo y cerdo",
+          "credito": "Wikimedia Commons",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Umami_Tonkotsu_ramen_bowlB.jpg"
+        }
+      },
+      {
+        "nombre": "Sushi nigiri",
+        "descripcion": "Arroz avinagrado con pescado crudo. Los sushi de banda giratoria (kaiten) son baratos y de muy buena calidad.",
+        "precioAprox": 3000,
+        "imagen": {
+          "url": "japon-clasico-10-dias/surtido-de-sushi-nigiri-sobre-un-plato-2c140f.jpg",
+          "alt": "Surtido de sushi nigiri sobre un plato",
+          "credito": "Asok5",
+          "licencia": "CC BY-SA 2.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Nigiri_Moriawase_(Sushi_Sei)_(42217840971).jpg"
+        }
+      },
+      {
+        "nombre": "Okonomiyaki",
+        "descripcion": "\"Lo que quieras, a la plancha\": tortilla de repollo con cerdo o mariscos, salsa dulce y mayonesa. El orgullo de Osaka.",
+        "precioAprox": 1400,
+        "imagen": {
+          "url": "japon-clasico-10-dias/okonomiyaki-con-salsa-y-hojuelas-de-boni-7b054e.jpg",
+          "alt": "Okonomiyaki con salsa y hojuelas de bonito sobre la plancha",
+          "credito": "Joli Rumi",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Okonomiyaki_-a_Japanese_savory_pancake_in_Osaka,_Japan.jpg"
+        }
+      },
+      {
+        "nombre": "Takoyaki",
+        "descripcion": "Bolitas de masa con pulpo, crujientes por fuera y casi líquidas por dentro. Espera un minuto antes de morder.",
+        "precioAprox": 600,
+        "imagen": {
+          "url": "japon-clasico-10-dias/bolitas-de-takoyaki-con-salsa-y-alga-bbc032.jpg",
+          "alt": "Bolitas de takoyaki con salsa y alga",
+          "credito": "Fumikas Sagisavas",
+          "licencia": "CC0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Takoyaki_balls_(1).jpg"
+        }
+      },
+      {
+        "nombre": "Matcha",
+        "descripcion": "Té verde en polvo batido, servido con un dulce wagashi. En Kioto lo encuentras también en helado y postres.",
+        "precioAprox": 800
+      }
+    ]
+  },
+  "infoPractica": {
+    "visa": {
+      "requiere": true,
+      "tipo": "visa de visitante temporal",
+      "detalle": "Los colombianos necesitan visa para turismo en Japón. Se tramita en la Embajada del Japón en Bogotá (o por agencia autorizada) con pasaporte, formulario, foto, itinerario, reservas y soportes económicos; suele tardar alrededor de una semana hábil. Verifica si ya aplica el sistema eVISA y los requisitos vigentes antes de comprar vuelos.",
+      "link": "https://www.colombia.emb-japan.go.jp/"
+    },
+    "clima": [
+      {
+        "mes": 1,
+        "tempMin": 1,
+        "tempMax": 10,
+        "lluviaMm": 52
+      },
+      {
+        "mes": 2,
+        "tempMin": 2,
+        "tempMax": 11,
+        "lluviaMm": 56
+      },
+      {
+        "mes": 3,
+        "tempMin": 5,
+        "tempMax": 14,
+        "lluviaMm": 118
+      },
+      {
+        "mes": 4,
+        "tempMin": 10,
+        "tempMax": 19,
+        "lluviaMm": 125
+      },
+      {
+        "mes": 5,
+        "tempMin": 15,
+        "tempMax": 23,
+        "lluviaMm": 138
+      },
+      {
+        "mes": 6,
+        "tempMin": 19,
+        "tempMax": 26,
+        "lluviaMm": 168
+      },
+      {
+        "mes": 7,
+        "tempMin": 23,
+        "tempMax": 30,
+        "lluviaMm": 154
+      },
+      {
+        "mes": 8,
+        "tempMin": 24,
+        "tempMax": 31,
+        "lluviaMm": 168
+      },
+      {
+        "mes": 9,
+        "tempMin": 21,
+        "tempMax": 27,
+        "lluviaMm": 210
+      },
+      {
+        "mes": 10,
+        "tempMin": 15,
+        "tempMax": 22,
+        "lluviaMm": 198
+      },
+      {
+        "mes": 11,
+        "tempMin": 9,
+        "tempMax": 17,
+        "lluviaMm": 93
+      },
+      {
+        "mes": 12,
+        "tempMin": 4,
+        "tempMax": 12,
+        "lluviaMm": 51
+      }
+    ],
+    "vacunas": [
+      "No se exige ninguna vacuna para entrar desde Colombia",
+      "Lleva tus medicamentos con fórmula médica: algunos antigripales con pseudoefedrina están prohibidos"
+    ],
+    "seguridad": "Uno de los países más seguros del mundo: puedes caminar de noche y los objetos perdidos suelen aparecer. El mayor riesgo son los terremotos; descarga la app Safety Tips para alertas.",
+    "enchufe": {
+      "tipo": "A (dos patas planas)",
+      "voltaje": "100 V",
+      "necesitaAdaptador": false
+    },
+    "propinas": "No se dan propinas; incluso pueden incomodar. El servicio ya está incluido.",
+    "idioma": "Japonés. En estaciones y lugares turísticos hay señalización en inglés, pero poca gente lo habla con fluidez; el traductor con cámara es tu mejor amigo.",
+    "conectividad": "Compra una eSIM de datos antes de viajar (Ubigi, Airalo, Holafly) o renta un router wifi en el aeropuerto. Hay wifi gratis en estaciones y konbinis.",
+    "transporteLocal": "Trenes y metros puntuales y limpios; paga todo con Suica/ICOCA. Para esta ruta el JR Pass nacional ya no compensa tras su alza de precio: compra boletos individuales.",
+    "frases": [
+      {
+        "es": "Hola",
+        "local": "こんにちは",
+        "pronunciacion": "konnichiwa"
+      },
+      {
+        "es": "Gracias",
+        "local": "ありがとうございます",
+        "pronunciacion": "arigató gozaimás"
+      },
+      {
+        "es": "Disculpe / perdón",
+        "local": "すみません",
+        "pronunciacion": "sumimasén"
+      },
+      {
+        "es": "¿Cuánto cuesta?",
+        "local": "いくらですか",
+        "pronunciacion": "íkura desu ká"
+      },
+      {
+        "es": "La cuenta, por favor",
+        "local": "お会計お願いします",
+        "pronunciacion": "okaikéi onegai shimás"
+      },
+      {
+        "es": "¿Dónde está la estación?",
+        "local": "駅はどこですか",
+        "pronunciacion": "éki wa dóko desu ká"
+      },
+      {
+        "es": "Está delicioso",
+        "local": "おいしいです",
+        "pronunciacion": "oishíi desu"
+      }
+    ],
+    "apps": [
+      {
+        "nombre": "Google Maps",
+        "para": "Rutas de tren con andén, horario y salida exacta de la estación."
+      },
+      {
+        "nombre": "Suica / ICOCA en el Wallet",
+        "para": "Pagar transporte y compras con el celular."
+      },
+      {
+        "nombre": "Google Translate",
+        "para": "Traducir menús y letreros con la cámara."
+      },
+      {
+        "nombre": "Tabelog",
+        "para": "Las reseñas de restaurantes que usan los japoneses."
+      },
+      {
+        "nombre": "Safety Tips",
+        "para": "Alertas de terremotos y tsunamis en español."
+      }
+    ],
+    "consejos": [
+      "Lleva efectivo: muchos templos, mercados y restaurantes pequeños no aceptan tarjeta. Los cajeros de 7-Eleven aceptan tarjetas extranjeras.",
+      "No hay canecas en la calle: carga una bolsita para tu basura.",
+      "Quítate los zapatos donde veas un escalón a la entrada o pantuflas en fila.",
+      "No se come caminando por la calle; come junto al puesto donde compraste.",
+      "En el metro se habla bajito y no se hacen llamadas.",
+      "Envía las maletas entre ciudades (takkyubin) y viaja liviano en los trenes."
+    ],
+    "estafas": [
+      "Bares de captación en Kabukichō y Roppongi: alguien te invita a un bar \"barato\" y la cuenta llega a cientos de miles de yenes. Ignora a los promotores.",
+      "Comprar el JR Pass por costumbre: con la tarifa actual casi nunca se recupera en una ruta de 10 días.",
+      "Cambiar dinero en el aeropuerto de Colombia: la tasa es mala. Retira yenes en Japón con una tarjeta sin comisión internacional."
+    ],
+    "checklist": [
+      "Pasaporte con al menos 6 meses de vigencia",
+      "Visa japonesa aprobada",
+      "Visa de EE. UU. vigente si haces escala allá",
+      "Seguro de viaje con cobertura médica",
+      "Reservas de hotel impresas o en el celular",
+      "eSIM instalada antes de salir",
+      "Tarjeta débito/crédito sin comisión internacional avisada al banco",
+      "Algo de efectivo en yenes para el primer día",
+      "Zapatos cómodos que se quiten fácil",
+      "Reserva de Shibuya Sky y teamLab",
+      "Fórmula médica de tus medicamentos",
+      "Copia digital de todos los documentos"
+    ]
+  },
+  "fuentes": [
+    {
+      "titulo": "Japan National Tourism Organization (JNTO)",
+      "url": "https://www.japan.travel/es/"
+    },
+    {
+      "titulo": "Embajada del Japón en Colombia — Visas",
+      "url": "https://www.colombia.emb-japan.go.jp/"
+    },
+    {
+      "titulo": "Hakone Free Pass — Odakyu",
+      "url": "https://www.odakyu.jp/english/passes/hakone/"
+    },
+    {
+      "titulo": "Japan Rail Pass — tarifas",
+      "url": "https://japanrailpass.net/es/"
+    },
+    {
+      "titulo": "Japan Meteorological Agency — normales climáticas",
+      "url": "https://www.data.jma.go.jp/"
+    }
+  ]
+}

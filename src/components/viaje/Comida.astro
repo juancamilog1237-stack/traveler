@@ -1,0 +1,89 @@
+---
+import Foto from '../Foto.astro';
+import Icon from '../Icon.astro';
+import { NIVELES, convertir, formato, type Nivel, type Viaje } from '../../lib/viaje';
+interface Props { v: Viaje }
+const { v } = Astro.props;
+const cop = (n: number) => formato(convertir(n, 'local', 'COP', v), 'COP', v);
+
+// Lugares del plan de comidas de cada nivel, por ciudad (sin desayunos ni lo incluido en el hotel)
+function lugaresDe(n: Nivel) {
+  const ciudades = new Map<string, Map<string, { lugar: string; platos: string[]; costo: number; link?: string; dias: number[] }>>();
+  for (const d of v.itinerario) {
+    for (const c of d.comidas[n]) {
+      if (c.momento === 'desayuno' || c.costo === 0) continue;
+      const porLugar = ciudades.get(d.ciudad) ?? new Map();
+      ciudades.set(d.ciudad, porLugar);
+      const l = porLugar.get(c.lugar) ?? { lugar: c.lugar, platos: [], costo: c.costo, link: c.link, dias: [] };
+      if (!l.platos.includes(c.plato)) l.platos.push(c.plato);
+      if (!l.dias.includes(d.dia)) l.dias.push(d.dia);
+      porLugar.set(c.lugar, l);
+    }
+  }
+  return [...ciudades].map(([ciudad, m]) => ({ ciudad, lugares: [...m.values()] }));
+}
+---
+<section id="comida" class="section comida" aria-labelledby="h-comida">
+  <div class="container">
+    <div class="section-head">
+      <h2 id="h-comida" data-split>Qué comer</h2>
+    </div>
+
+    {v.comida.platosTipicos.length > 0 && (
+      <div class="platos" data-stagger>
+        {v.comida.platosTipicos.map((p) => (
+          <article class="plato zoom-on-hover" data-reveal>
+            <div class="media">
+              {p.imagen ? <Foto img={p.imagen} widths={[300, 500]} sizes="(min-width: 900px) 20vw, 45vw" /> : <span class="ph" aria-hidden="true"><Icon name="utensils" /></span>}
+            </div>
+            <h3>{p.nombre}</h3>
+            <p class="muted">{p.descripcion}</p>
+            <p class="num precio">{formato(p.precioAprox, 'local', v)} <span class="muted">≈ {cop(p.precioAprox)}</span></p>
+          </article>
+        ))}
+      </div>
+    )}
+
+    <h3 class="sub" data-reveal>Dónde comer</h3>
+    {NIVELES.map(({ id: n }) => (
+      <div class="ciudades" data-solo={n}>
+        {lugaresDe(n).map((c) => (
+          <div class="ciudad" data-reveal>
+            <p class="eyebrow">{c.ciudad}</p>
+            <ul>
+              {c.lugares.map((l) => (
+                <li>
+                  <span class="nombre">{l.link ? <a href={l.link} target="_blank" rel="noopener">{l.lugar}</a> : l.lugar}</span>
+                  <span class="num precio">{formato(l.costo, 'local', v)}</span>
+                  <span class="muted detalle">{l.platos.join(' · ')} <span class="dia">· día {l.dias.join(', ')}</span></span>
+                </li>
+              ))}
+            </ul>
+          </div>
+        ))}
+      </div>
+    ))}
+  </div>
+</section>
+
+<style>
+  .comida { background: var(--surface-2); }
+  .platos { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: var(--space-5); margin-bottom: var(--space-7); }
+  .plato .media { aspect-ratio: 1; border-radius: var(--radius-lg); margin-bottom: var(--space-3); }
+  .plato .media :global(img), .plato .media :global(picture) { width: 100%; height: 100%; object-fit: cover; }
+  .ph { display: grid; place-items: center; height: 100%; color: var(--muted-fg); }
+  .plato h3 { margin-bottom: 0.3rem; }
+  .plato p { font-size: 0.95rem; margin-bottom: 0.4rem; }
+  .precio { font-weight: 600; }
+  .sub { font-size: var(--step-2); margin-bottom: var(--space-5); }
+  .ciudades { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: var(--space-4); }
+  .ciudad { padding: var(--space-4) var(--space-5); background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius-lg); }
+  .ciudad .eyebrow { margin-bottom: var(--space-2); }
+  ul { list-style: none; margin: 0; padding: 0; }
+  li { display: grid; grid-template-columns: 1fr auto; column-gap: var(--space-3); padding: var(--space-2) 0; border-top: 1px solid var(--border); font-size: var(--step--1); }
+  li:first-child { border-top: 0; }
+  .nombre { font-weight: 600; font-size: var(--step-0); }
+  .detalle { grid-column: 1 / -1; }
+  .dia { white-space: nowrap; }
+  @media (max-width: 400px) { .ciudades { grid-template-columns: 1fr; } }
+</style>

@@ -1,0 +1,26 @@
+---
+import { NIVELES } from '../lib/viaje';
+interface Props { compacto?: boolean }
+const { compacto = false } = Astro.props;
+const cortos = { economico: 'Eco', medio: 'Medio', alto: 'Alto' } as const;
+---
+<div class:list={['pildoras', { compacto }]} role="group" aria-label="Nivel de presupuesto" data-grupo="nivel">
+  {NIVELES.map((n) => (
+    <button type="button" data-valor={n.id} aria-pressed={n.id === 'medio' ? 'true' : 'false'}>
+      {compacto ? <><span class="largo">{n.label}</span><span class="corto" aria-hidden="true">{cortos[n.id]}</span></> : n.label}
+    </button>
+  ))}
+</div>
+
+<style>
+  .pildoras { display: inline-flex; gap: 2px; padding: 3px; border-radius: 999px; border: 1px solid var(--border); background: var(--surface); }
+  button { border: 0; background: transparent; min-height: 34px; padding: 0.25rem 0.85rem; border-radius: 999px; font-size: var(--step--1); font-weight: 600; color: var(--muted-fg); transition: background-color var(--dur) var(--ease-out), color var(--dur) var(--ease-out); }
+  button:hover { color: var(--fg); }
+  button[aria-pressed='true'] { background: var(--fg); color: var(--bg); }
+  .corto { display: none; }
+  @media (max-width: 640px) {
+    .compacto .largo { display: none; }
+    .compacto .corto { display: inline; }
+    .compacto button { padding-inline: 0.65rem; }
+  }
+</style>

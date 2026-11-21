@@ -1,0 +1,3261 @@
+{
+  "meta": {
+    "titulo": "Jordania en 14 días",
+    "resumen": "Dos días completos en Petra y el Tesoro iluminado con velas, dos noches bajo las estrellas de Wadi Rum, flotar en el mar Muerto y bucear en el mar Rojo. Con Jerash romana, castillos cruzados y la vida de Amán.",
+    "destino": "Amán, mar Muerto, Petra, Wadi Rum y Áqaba",
+    "pais": "Jordania",
+    "region": "Medio Oriente",
+    "duracionDias": 14,
+    "mesesIdeales": [
+      3,
+      4,
+      5,
+      10,
+      11
+    ],
+    "temporadaRecomendada": "Primavera (marzo–mayo) u otoño (octubre–noviembre): días cálidos y noches frescas en el desierto. Julio y agosto son muy calurosos en Petra y Wadi Rum.",
+    "estilo": "medio",
+    "dificultad": "moderada",
+    "idealPara": [
+      "Grupos de amigos",
+      "Historia",
+      "Aventura"
+    ],
+    "etiquetas": [
+      "historia",
+      "desierto",
+      "arqueología",
+      "playa",
+      "aventura"
+    ],
+    "fechaInvestigacion": "2026-11-21",
+    "colorAcento": "#8a4b2f",
+    "portada": {
+      "url": "jordania-14-dias/panoramica-de-la-ciudad-arqueologica-de-fefba4.jpg",
+      "alt": "Panorámica de la ciudad arqueológica de Petra excavada en montañas de roca rojiza",
+      "credito": "Gerd Eichmann",
+      "licencia": "CC BY-SA 4.0",
+      "fuente": "https://commons.wikimedia.org/wiki/File:Petra-02-Panorama-2010-gje.jpg"
+    },
+    "galeria": [
+      {
+        "url": "jordania-14-dias/fachada-monumental-del-tesoro-de-petra-e-fbf32e.jpg",
+        "alt": "Fachada monumental del Tesoro de Petra excavada en roca arenisca",
+        "credito": "Markv",
+        "licencia": "CC BY-SA 3.0",
+        "fuente": "https://commons.wikimedia.org/wiki/File:Treasury_Petra.jpg"
+      },
+      {
+        "url": "jordania-14-dias/el-monasterio-de-petra-enorme-fachada-na-6e3184.jpg",
+        "alt": "El Monasterio de Petra, enorme fachada nabatea tallada en piedra",
+        "credito": "Gerda Arendt",
+        "licencia": "CC BY-SA 4.0",
+        "fuente": "https://commons.wikimedia.org/wiki/File:Monastery,_Petra,_Jordan.jpg"
+      },
+      {
+        "url": "jordania-14-dias/montanas-rocosas-y-desierto-de-wadi-rum-7d3ff7.jpg",
+        "alt": "Montañas rocosas y desierto de Wadi Rum",
+        "credito": "Yazan Mahmoud Banihani",
+        "licencia": "CC BY-SA 4.0",
+        "fuente": "https://commons.wikimedia.org/wiki/File:Wadi-Rum.jpg"
+      },
+      {
+        "url": "jordania-14-dias/columnas-y-monumentos-de-la-antigua-ciud-ef278c.jpg",
+        "alt": "Columnas y monumentos de la antigua ciudad romana de Jerash",
+        "credito": "Hisham Mansour Zayadnh",
+        "licencia": "CC BY-SA 4.0",
+        "fuente": "https://commons.wikimedia.org/wiki/File:Ancient_Roman_City_-_Jerash.jpg"
+      },
+      {
+        "url": "jordania-14-dias/restos-historicos-de-la-ciudadela-de-ama-12b776.jpg",
+        "alt": "Restos históricos de la Ciudadela de Amán",
+        "credito": "David Bjorgen",
+        "licencia": "CC BY 2.5",
+        "fuente": "https://commons.wikimedia.org/wiki/File:Amman_Citadel.jpg"
+      },
+      {
+        "url": "jordania-14-dias/aguas-del-mar-muerto-desde-la-costa-de-j-03343b.jpg",
+        "alt": "Aguas del mar Muerto desde la costa de Jordania",
+        "credito": "Marco Zanferrari",
+        "licencia": "CC BY-SA 2.0",
+        "fuente": "https://commons.wikimedia.org/wiki/File:Dead_Sea_-_Jordan.jpg"
+      },
+      {
+        "url": "jordania-14-dias/playa-y-aguas-azules-del-mar-rojo-en-aqa-20671b.jpg",
+        "alt": "Playa y aguas azules del mar Rojo en Áqaba",
+        "credito": "Saraabdallat",
+        "licencia": "CC BY-SA 4.0",
+        "fuente": "https://commons.wikimedia.org/wiki/File:Redsea_aqaba.jpg"
+      }
+    ]
+  },
+  "moneda": {
+    "codigo": "JOD",
+    "simbolo": "JD",
+    "localPorUSD": 0.709,
+    "copPorUSD": 3461.92,
+    "fechaTasa": "2026-11-21"
+  },
+  "comoLlegar": {
+    "resumen": "No hay vuelos directos desde Colombia: se conecta en Madrid o Estambul hasta Amán (AMM). Evitar escalas en Estados Unidos ahorra la visa estadounidense.",
+    "aeropuertoLlegada": "Aeropuerto Internacional Reina Alia (AMM), a unos 35 km al sur de Amán.",
+    "delAeropuertoAlCentro": "Bus aeroportuario al centro más un taxi corto (~JD 6, 1 h) o traslado privado (~JD 50 por vehículo, 45 min).",
+    "rutas": [
+      {
+        "origen": "Medellín",
+        "ruta": "MDE → MAD → AMM",
+        "aerolineas": [
+          "Air Europa",
+          "Royal Jordanian"
+        ],
+        "duracion": "18–25 h",
+        "escalas": 1,
+        "precioUSD": {
+          "min": 1150,
+          "max": 1750
+        }
+      },
+      {
+        "origen": "Medellín",
+        "ruta": "MDE → BOG → IST → AMM",
+        "aerolineas": [
+          "Avianca",
+          "Turkish Airlines"
+        ],
+        "duracion": "21–29 h",
+        "escalas": 2,
+        "precioUSD": {
+          "min": 1350,
+          "max": 2250
+        }
+      },
+      {
+        "origen": "Medellín",
+        "ruta": "MDE → MAD → AMM (cabina superior)",
+        "aerolineas": [
+          "Air Europa",
+          "Royal Jordanian"
+        ],
+        "duracion": "18–25 h",
+        "escalas": 1,
+        "precioUSD": {
+          "min": 2800,
+          "max": 4600
+        }
+      }
+    ]
+  },
+  "itinerario": [
+    {
+      "dia": 1,
+      "titulo": "Llegada a Jordania y primer contacto con Amán",
+      "ciudad": "Amán",
+      "coords": {
+        "lat": 31.9539,
+        "lng": 35.9106
+      },
+      "resumen": "Llegada desde Colombia, traslado al alojamiento y una primera caminata tranquila por la capital.",
+      "imagenes": [],
+      "actividades": [
+        {
+          "hora": "16:30",
+          "nombre": "Rainbow Street",
+          "descripcion": "La calle más animada de Jabal Amman: cafés, galerías y tiendas de diseño en casas de piedra.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 31.9503,
+            "lng": 35.919
+          },
+          "consejo": "Plan suave para el día de llegada, cerca de los hoteles."
+        },
+        {
+          "hora": "18:00",
+          "nombre": "Centro histórico (Al-Balad)",
+          "descripcion": "Zocos de especias, joyerías y puestos de dulces alrededor de la mezquita Al-Husseini.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 31.9511,
+            "lng": 35.9342
+          },
+          "consejo": "Lleva efectivo para los pequeños comercios."
+        },
+        {
+          "hora": "19:15",
+          "nombre": "Amán iluminada desde Jabal Amman",
+          "descripcion": "Mirador sobre las colinas de casas blancas cuando se encienden las luces de la ciudad.",
+          "duracion": "35 min",
+          "costo": 0,
+          "tipo": "naturaleza",
+          "coords": {
+            "lat": 31.9501,
+            "lng": 35.9238
+          }
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "14:30",
+            "momento": "almuerzo",
+            "lugar": "Aeropuerto Reina Alia",
+            "plato": "Sándwich de pollo y bebida",
+            "costo": 6
+          },
+          {
+            "hora": "20:15",
+            "momento": "cena",
+            "lugar": "Hashem Restaurant",
+            "plato": "Falafel, hummus, pan árabe y té",
+            "costo": 5
+          }
+        ],
+        "medio": [
+          {
+            "hora": "14:30",
+            "momento": "almuerzo",
+            "lugar": "Aeropuerto Reina Alia",
+            "plato": "Pollo con arroz y ensalada",
+            "costo": 12
+          },
+          {
+            "hora": "20:15",
+            "momento": "cena",
+            "lugar": "Sufra Restaurant",
+            "plato": "Mezze jordano y carne a la parrilla",
+            "costo": 23
+          }
+        ],
+        "alto": [
+          {
+            "hora": "14:30",
+            "momento": "almuerzo",
+            "lugar": "Aeropuerto Reina Alia",
+            "plato": "Almuerzo completo de llegada",
+            "costo": 19
+          },
+          {
+            "hora": "20:15",
+            "momento": "cena",
+            "lugar": "Fakhreldin Restaurant",
+            "plato": "Mezze, cordero y postre",
+            "costo": 48
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "hora": "15:00",
+          "de": "Aeropuerto Reina Alia",
+          "a": "Centro de Amán",
+          "medio": "Bus aeroportuario + taxi",
+          "duracion": "1 h",
+          "costo": 6,
+          "niveles": [
+            "economico"
+          ]
+        },
+        {
+          "hora": "15:00",
+          "de": "Aeropuerto Reina Alia",
+          "a": "Amman Pasha Hotel",
+          "medio": "Vehículo privado para el grupo",
+          "duracion": "45 min",
+          "costo": 13,
+          "niveles": [
+            "medio"
+          ]
+        },
+        {
+          "hora": "15:00",
+          "de": "Aeropuerto Reina Alia",
+          "a": "Fairmont Amman",
+          "medio": "Traslado privado premium",
+          "duracion": "45 min",
+          "costo": 28,
+          "niveles": [
+            "alto"
+          ]
+        }
+      ],
+      "planB": "Si el vuelo se retrasa, solo cena y descanso; el paseo por Rainbow Street pasa al día 3."
+    },
+    {
+      "dia": 2,
+      "titulo": "Jerash romana y castillo de Ajloun",
+      "ciudad": "Amán",
+      "coords": {
+        "lat": 32.2808,
+        "lng": 35.8915
+      },
+      "resumen": "Excursión de día completo a una de las ciudades romanas mejor conservadas del mundo y a una fortaleza medieval sobre los bosques del norte.",
+      "imagenes": [
+        {
+          "url": "jordania-14-dias/columnas-y-monumentos-de-la-antigua-ciud-ef278c.jpg",
+          "alt": "Columnas y monumentos de la antigua ciudad romana de Jerash",
+          "credito": "Hisham Mansour Zayadnh",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Ancient_Roman_City_-_Jerash.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "09:00",
+          "nombre": "Plaza Oval de Jerash",
+          "descripcion": "Plaza elíptica rodeada de columnas jónicas, la entrada a la antigua Gerasa.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 32.2808,
+            "lng": 35.8915
+          },
+          "consejo": "Incluida en el Jordan Pass. Lleva agua y bloqueador."
+        },
+        {
+          "hora": "10:15",
+          "nombre": "Cardo Máximo y teatros romanos",
+          "descripcion": "La avenida columnada de 800 metros, el templo de Artemisa y el teatro sur, con su acústica intacta.",
+          "duracion": "1 h 45 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 32.2835,
+            "lng": 35.8901
+          }
+        },
+        {
+          "hora": "14:45",
+          "nombre": "Castillo de Ajloun",
+          "descripcion": "Fortaleza ayubí del siglo XII construida para frenar a los cruzados, en lo alto de un bosque de pinos.",
+          "duracion": "1 h 15 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 32.3255,
+            "lng": 35.7272
+          },
+          "consejo": "Incluido en el Jordan Pass."
+        },
+        {
+          "hora": "16:15",
+          "nombre": "Miradores de Ajloun",
+          "descripcion": "Vistas del valle del Jordán desde las murallas con la luz de la tarde.",
+          "duracion": "35 min",
+          "costo": 0,
+          "tipo": "naturaleza",
+          "coords": {
+            "lat": 32.3265,
+            "lng": 35.7292
+          }
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "06:45",
+            "momento": "desayuno",
+            "lugar": "Panadería del barrio",
+            "plato": "Manakish de zaatar y té",
+            "costo": 3
+          },
+          {
+            "hora": "12:30",
+            "momento": "almuerzo",
+            "lugar": "Lebanese House (Jerash)",
+            "plato": "Falafel, ensalada y pan",
+            "costo": 8
+          },
+          {
+            "hora": "19:45",
+            "momento": "cena",
+            "lugar": "Hashem Restaurant",
+            "plato": "Hummus, papas y falafel",
+            "costo": 5
+          }
+        ],
+        "medio": [
+          {
+            "hora": "06:45",
+            "momento": "desayuno",
+            "lugar": "Amman Pasha Hotel",
+            "plato": "Desayuno del hotel",
+            "costo": 0
+          },
+          {
+            "hora": "12:30",
+            "momento": "almuerzo",
+            "lugar": "Lebanese House (Jerash)",
+            "plato": "Parrillada árabe con mezze",
+            "costo": 18
+          },
+          {
+            "hora": "19:45",
+            "momento": "cena",
+            "lugar": "Sufra Restaurant",
+            "plato": "Maqluba de pollo y ensalada",
+            "costo": 22
+          }
+        ],
+        "alto": [
+          {
+            "hora": "06:45",
+            "momento": "desayuno",
+            "lugar": "Fairmont Amman",
+            "plato": "Desayuno del hotel",
+            "costo": 0
+          },
+          {
+            "hora": "12:30",
+            "momento": "almuerzo",
+            "lugar": "Lebanese House (Jerash)",
+            "plato": "Parrillada de cordero y entradas",
+            "costo": 30
+          },
+          {
+            "hora": "19:45",
+            "momento": "cena",
+            "lugar": "Fakhreldin Restaurant",
+            "plato": "Cordero a la parrilla, mezze y postre",
+            "costo": 48
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "hora": "07:30",
+          "de": "Amán",
+          "a": "Jerash, Ajloun y regreso",
+          "medio": "Minibús y taxis compartidos",
+          "duracion": "1 h por trayecto",
+          "costo": 32,
+          "niveles": [
+            "economico"
+          ]
+        },
+        {
+          "hora": "07:30",
+          "de": "Amán",
+          "a": "Jerash, Ajloun y regreso",
+          "medio": "Miniván privada con conductor",
+          "duracion": "1 h por trayecto",
+          "costo": 42,
+          "niveles": [
+            "medio"
+          ]
+        },
+        {
+          "hora": "07:30",
+          "de": "Fairmont Amman",
+          "a": "Jerash, Ajloun y regreso",
+          "medio": "Vehículo premium con conductor",
+          "duracion": "1 h por trayecto",
+          "costo": 78,
+          "niveles": [
+            "alto"
+          ]
+        }
+      ],
+      "planB": "Si Ajloun está cerrado, más tiempo en Jerash y museos de Amán por la tarde."
+    },
+    {
+      "dia": 3,
+      "titulo": "Historia, mercados y cocina de Amán",
+      "ciudad": "Amán",
+      "coords": {
+        "lat": 31.9545,
+        "lng": 35.9345
+      },
+      "resumen": "La Ciudadela sobre la colina, el teatro romano y el Museo de Jordania; en medio y alto, la tarde termina cocinando mansaf.",
+      "imagenes": [
+        {
+          "url": "jordania-14-dias/restos-historicos-de-la-ciudadela-de-ama-12b776.jpg",
+          "alt": "Restos históricos de la Ciudadela de Amán",
+          "credito": "David Bjorgen",
+          "licencia": "CC BY 2.5",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Amman_Citadel.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "09:00",
+          "nombre": "Ciudadela y Templo de Hércules",
+          "descripcion": "Colina habitada desde la Edad del Bronce, con el templo romano de Hércules, el palacio omeya y la mejor vista del centro.",
+          "duracion": "1 h 35 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 31.9545,
+            "lng": 35.9345
+          },
+          "consejo": "Incluida en el Jordan Pass."
+        },
+        {
+          "hora": "11:15",
+          "nombre": "Teatro Romano de Amán",
+          "descripcion": "Teatro del siglo II para 6.000 espectadores excavado en la ladera, frente a la plaza Hachemita.",
+          "duracion": "1 h 15 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 31.9514,
+            "lng": 35.9391
+          },
+          "consejo": "Sube a las gradas altas para la foto."
+        },
+        {
+          "hora": "15:00",
+          "nombre": "Museo de Jordania",
+          "descripcion": "La historia del país, con fragmentos de los Manuscritos del mar Muerto y las estatuas de Ain Ghazal, de las más antiguas del mundo.",
+          "duracion": "1 h 30 min",
+          "costo": 5,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 31.9455,
+            "lng": 35.9285
+          },
+          "consejo": "Revisa el horario antes de ir."
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "17:30",
+          "nombre": "Taller de cocina jordana",
+          "descripcion": "Clase práctica con anfitrión local: maqluba, mezze y té con salvia.",
+          "duracion": "1 h 30 min",
+          "costo": 35,
+          "tipo": "comida",
+          "coords": {
+            "lat": 31.9503,
+            "lng": 35.919
+          }
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "17:30",
+          "nombre": "Clase privada de cocina con chef",
+          "descripcion": "Clase exclusiva para el grupo: mansaf, mezze y knafeh.",
+          "duracion": "1 h 30 min",
+          "costo": 85,
+          "tipo": "comida",
+          "coords": {
+            "lat": 31.9503,
+            "lng": 35.919
+          }
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "08:00",
+            "momento": "desayuno",
+            "lugar": "Hashem Restaurant",
+            "plato": "Falafel, pan árabe y té",
+            "costo": 4
+          },
+          {
+            "hora": "13:00",
+            "momento": "almuerzo",
+            "lugar": "Al Quds Restaurant",
+            "plato": "Mansaf en porción individual",
+            "costo": 8
+          },
+          {
+            "hora": "19:45",
+            "momento": "cena",
+            "lugar": "Puesto de shawarma del centro",
+            "plato": "Shawarma de pollo y bebida",
+            "costo": 5
+          }
+        ],
+        "medio": [
+          {
+            "hora": "08:00",
+            "momento": "desayuno",
+            "lugar": "Amman Pasha Hotel",
+            "plato": "Desayuno del hotel",
+            "costo": 0
+          },
+          {
+            "hora": "13:00",
+            "momento": "almuerzo",
+            "lugar": "Sufra Restaurant",
+            "plato": "Mansaf y ensalada",
+            "costo": 24
+          },
+          {
+            "hora": "19:45",
+            "momento": "cena",
+            "lugar": "Restaurante en Rainbow Street",
+            "plato": "Shish tawook y hummus",
+            "costo": 16
+          }
+        ],
+        "alto": [
+          {
+            "hora": "08:00",
+            "momento": "desayuno",
+            "lugar": "Fairmont Amman",
+            "plato": "Desayuno del hotel",
+            "costo": 0
+          },
+          {
+            "hora": "13:00",
+            "momento": "almuerzo",
+            "lugar": "Fakhreldin Restaurant",
+            "plato": "Cordero con arroz y mezze",
+            "costo": 38
+          },
+          {
+            "hora": "19:45",
+            "momento": "cena",
+            "lugar": "Fairmont Amman",
+            "plato": "Menú contemporáneo levantino",
+            "costo": 55
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "hora": "08:30",
+          "de": "The Cabin Hostel",
+          "a": "Ciudadela",
+          "medio": "Taxi compartido",
+          "duracion": "10 min",
+          "costo": 2,
+          "niveles": [
+            "economico"
+          ]
+        },
+        {
+          "hora": "14:30",
+          "de": "Teatro Romano",
+          "a": "Museo de Jordania",
+          "medio": "Taxi compartido",
+          "duracion": "10 min",
+          "costo": 2,
+          "niveles": [
+            "economico"
+          ]
+        },
+        {
+          "hora": "08:30",
+          "de": "Amman Pasha Hotel",
+          "a": "Circuito por la ciudad",
+          "medio": "Vehículo privado todo el día",
+          "duracion": "todo el día",
+          "costo": 15,
+          "niveles": [
+            "medio"
+          ]
+        },
+        {
+          "hora": "08:30",
+          "de": "Fairmont Amman",
+          "a": "Circuito por la ciudad",
+          "medio": "Vehículo premium con conductor",
+          "duracion": "todo el día",
+          "costo": 35,
+          "niveles": [
+            "alto"
+          ]
+        }
+      ],
+      "planB": "Si el Museo de Jordania está cerrado, el Museo Arqueológico de la Ciudadela y los mercados cubiertos del centro."
+    },
+    {
+      "dia": 4,
+      "titulo": "Madaba, monte Nebo y noche en el mar Muerto",
+      "ciudad": "Mar Muerto",
+      "coords": {
+        "lat": 31.7188,
+        "lng": 35.584
+      },
+      "resumen": "El mapa en mosaico más antiguo de Tierra Santa, el monte desde donde Moisés vio la Tierra Prometida y la tarde flotando en el mar Muerto.",
+      "imagenes": [
+        {
+          "url": "jordania-14-dias/aguas-del-mar-muerto-desde-la-costa-de-j-03343b.jpg",
+          "alt": "Aguas del mar Muerto desde la costa de Jordania",
+          "credito": "Marco Zanferrari",
+          "licencia": "CC BY-SA 2.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Dead_Sea_-_Jordan.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "09:00",
+          "nombre": "Mosaico de la iglesia de San Jorge (Madaba)",
+          "descripcion": "Mapa bizantino del siglo VI con Jerusalén en el centro, el más antiguo de Tierra Santa.",
+          "duracion": "1 h",
+          "costo": 1,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 31.7179,
+            "lng": 35.7932
+          },
+          "consejo": "Ropa que cubra hombros y rodillas."
+        },
+        {
+          "hora": "11:00",
+          "nombre": "Monte Nebo",
+          "descripcion": "Santuario franciscano donde, según la tradición, Moisés vio la Tierra Prometida; en días claros se ve Jerusalén.",
+          "duracion": "1 h 15 min",
+          "costo": 3,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 31.7672,
+            "lng": 35.7253
+          }
+        },
+        {
+          "hora": "15:30",
+          "nombre": "Flotar en el mar Muerto",
+          "descripcion": "A más de 400 metros bajo el nivel del mar, el agua es tan salada que flotas sin esfuerzo. Barro mineral en la orilla.",
+          "duracion": "1 h 15 min",
+          "costo": 0,
+          "tipo": "naturaleza",
+          "coords": {
+            "lat": 31.7188,
+            "lng": 35.584
+          },
+          "consejo": "No te mojes la cara ni entres con heridas recientes."
+        },
+        {
+          "hora": "18:00",
+          "nombre": "Atardecer sobre el mar Muerto",
+          "descripcion": "El sol se esconde detrás de las colinas al otro lado del agua.",
+          "duracion": "45 min",
+          "costo": 0,
+          "tipo": "naturaleza",
+          "coords": {
+            "lat": 31.7188,
+            "lng": 35.584
+          }
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "19:00",
+          "nombre": "Spa con minerales del mar Muerto",
+          "descripcion": "Tratamiento con barro y sales del mar Muerto en el spa del hotel.",
+          "duracion": "1 h",
+          "costo": 85,
+          "tipo": "descanso",
+          "coords": {
+            "lat": 31.719,
+            "lng": 35.5835
+          },
+          "consejo": "Resérvalo con el hotel."
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "06:45",
+            "momento": "desayuno",
+            "lugar": "Panadería del barrio",
+            "plato": "Manakish y café",
+            "costo": 4
+          },
+          {
+            "hora": "12:30",
+            "momento": "almuerzo",
+            "lugar": "Haret Jdoudna (Madaba)",
+            "plato": "Mezze y pan árabe",
+            "costo": 11
+          },
+          {
+            "hora": "20:15",
+            "momento": "cena",
+            "lugar": "Dead Sea Spa Hotel",
+            "plato": "Pollo asado con arroz",
+            "costo": 16
+          }
+        ],
+        "medio": [
+          {
+            "hora": "06:45",
+            "momento": "desayuno",
+            "lugar": "Amman Pasha Hotel",
+            "plato": "Desayuno del hotel",
+            "costo": 0
+          },
+          {
+            "hora": "12:30",
+            "momento": "almuerzo",
+            "lugar": "Haret Jdoudna (Madaba)",
+            "plato": "Mezze, arroz con carne y bebida",
+            "costo": 20
+          },
+          {
+            "hora": "20:15",
+            "momento": "cena",
+            "lugar": "Holiday Inn Resort Dead Sea",
+            "plato": "Bufé internacional y jordano",
+            "costo": 27
+          }
+        ],
+        "alto": [
+          {
+            "hora": "06:45",
+            "momento": "desayuno",
+            "lugar": "Fairmont Amman",
+            "plato": "Desayuno del hotel",
+            "costo": 0
+          },
+          {
+            "hora": "12:30",
+            "momento": "almuerzo",
+            "lugar": "Haret Jdoudna (Madaba)",
+            "plato": "Cordero, mezze y postre",
+            "costo": 32
+          },
+          {
+            "hora": "20:15",
+            "momento": "cena",
+            "lugar": "Kempinski Ishtar",
+            "plato": "Cena de tres tiempos levantina",
+            "costo": 65
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "hora": "07:30",
+          "de": "Amán",
+          "a": "Madaba",
+          "medio": "Minibús",
+          "duracion": "45 min",
+          "costo": 3,
+          "niveles": [
+            "economico"
+          ]
+        },
+        {
+          "hora": "10:15",
+          "de": "Madaba",
+          "a": "Monte Nebo",
+          "medio": "Taxi compartido",
+          "duracion": "20 min",
+          "costo": 5,
+          "niveles": [
+            "economico"
+          ]
+        },
+        {
+          "hora": "13:45",
+          "de": "Monte Nebo",
+          "a": "Dead Sea Spa Hotel",
+          "medio": "Taxi compartido",
+          "duracion": "40 min",
+          "costo": 15,
+          "niveles": [
+            "economico"
+          ]
+        },
+        {
+          "hora": "07:30",
+          "de": "Amman Pasha Hotel",
+          "a": "Madaba, Nebo y mar Muerto",
+          "medio": "Vehículo privado con paradas",
+          "duracion": "2 h en total",
+          "costo": 38,
+          "niveles": [
+            "medio"
+          ]
+        },
+        {
+          "hora": "07:30",
+          "de": "Fairmont Amman",
+          "a": "Madaba, Nebo y mar Muerto",
+          "medio": "Vehículo de lujo con conductor",
+          "duracion": "2 h en total",
+          "costo": 85,
+          "niveles": [
+            "alto"
+          ]
+        }
+      ],
+      "planB": "Con viento fuerte, piscina del resort en vez del mar y más tiempo en los mosaicos de Madaba."
+    },
+    {
+      "dia": 5,
+      "titulo": "Castillo de Kerak y Petra de noche",
+      "ciudad": "Petra",
+      "coords": {
+        "lat": 30.3285,
+        "lng": 35.444
+      },
+      "resumen": "Carretera hacia el sur hasta el castillo cruzado de Kerak y, de noche, el Siq iluminado con velas hasta el Tesoro.",
+      "imagenes": [
+        {
+          "url": "jordania-14-dias/fachada-monumental-del-tesoro-de-petra-e-fbf32e.jpg",
+          "alt": "Fachada monumental del Tesoro de Petra excavada en roca arenisca",
+          "credito": "Markv",
+          "licencia": "CC BY-SA 3.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Treasury_Petra.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "08:00",
+          "nombre": "Amanecer en el mar Muerto",
+          "descripcion": "Paseo corto por la orilla con la luz rosada sobre el agua.",
+          "duracion": "35 min",
+          "costo": 0,
+          "tipo": "naturaleza",
+          "coords": {
+            "lat": 31.7188,
+            "lng": 35.584
+          }
+        },
+        {
+          "hora": "11:45",
+          "nombre": "Castillo de Kerak",
+          "descripcion": "Uno de los mayores castillos cruzados de la región, con galerías abovedadas y salones subterráneos.",
+          "duracion": "1 h 30 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 31.1803,
+            "lng": 35.7019
+          },
+          "consejo": "Incluido en el Jordan Pass. Lleva linterna para los túneles."
+        },
+        {
+          "hora": "17:00",
+          "nombre": "Museo de Petra",
+          "descripcion": "Introducción a los nabateos con piezas halladas en la ciudad, junto al centro de visitantes.",
+          "duracion": "55 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 30.3285,
+            "lng": 35.444
+          }
+        },
+        {
+          "hora": "20:30",
+          "nombre": "Petra by Night",
+          "descripcion": "El Siq iluminado con velas hasta el Tesoro, con música beduina y té.",
+          "duracion": "2 h",
+          "costo": 30,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 30.3223,
+            "lng": 35.4515
+          },
+          "consejo": "Revisa los días de función; se paga aparte y exige Jordan Pass o entrada del día."
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "07:00",
+            "momento": "desayuno",
+            "lugar": "Dead Sea Spa Hotel",
+            "plato": "Desayuno sencillo",
+            "costo": 9
+          },
+          {
+            "hora": "13:30",
+            "momento": "almuerzo",
+            "lugar": "Restaurante en el centro de Kerak",
+            "plato": "Shawarma y bebida",
+            "costo": 6
+          },
+          {
+            "hora": "18:45",
+            "momento": "cena",
+            "lugar": "Al Wadi Restaurant",
+            "plato": "Arroz con pollo y ensalada",
+            "costo": 11
+          }
+        ],
+        "medio": [
+          {
+            "hora": "07:00",
+            "momento": "desayuno",
+            "lugar": "Holiday Inn Resort Dead Sea",
+            "plato": "Desayuno del hotel",
+            "costo": 0
+          },
+          {
+            "hora": "13:30",
+            "momento": "almuerzo",
+            "lugar": "Restaurante en el centro de Kerak",
+            "plato": "Parrillada de pollo y mezze",
+            "costo": 14
+          },
+          {
+            "hora": "18:45",
+            "momento": "cena",
+            "lugar": "My Mom's Recipe",
+            "plato": "Maqluba y ensaladas",
+            "costo": 18
+          }
+        ],
+        "alto": [
+          {
+            "hora": "07:00",
+            "momento": "desayuno",
+            "lugar": "Kempinski Ishtar",
+            "plato": "Desayuno del hotel",
+            "costo": 0
+          },
+          {
+            "hora": "13:30",
+            "momento": "almuerzo",
+            "lugar": "Restaurante en el centro de Kerak",
+            "plato": "Cordero, arroz y mezze",
+            "costo": 24
+          },
+          {
+            "hora": "18:45",
+            "momento": "cena",
+            "lugar": "Al Saraya (Mövenpick Petra)",
+            "plato": "Menú completo de cocina jordana",
+            "costo": 43
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "hora": "09:00",
+          "de": "Mar Muerto",
+          "a": "Kerak y Wadi Musa",
+          "medio": "Taxi acordado con parada",
+          "duracion": "3 h 30 min",
+          "costo": 37,
+          "niveles": [
+            "economico"
+          ]
+        },
+        {
+          "hora": "09:00",
+          "de": "Mar Muerto",
+          "a": "Kerak y Wadi Musa",
+          "medio": "Miniván privada con paradas",
+          "duracion": "3 h 30 min",
+          "costo": 52,
+          "niveles": [
+            "medio"
+          ]
+        },
+        {
+          "hora": "09:00",
+          "de": "Mar Muerto",
+          "a": "Kerak y Wadi Musa",
+          "medio": "Vehículo premium con conductor",
+          "duracion": "3 h 30 min",
+          "costo": 98,
+          "niveles": [
+            "alto"
+          ]
+        }
+      ],
+      "planB": "Si se cancela Petra by Night, charla cultural en el alojamiento y pedir la devolución."
+    },
+    {
+      "dia": 6,
+      "titulo": "Petra: el Siq, el Tesoro y las Tumbas Reales",
+      "ciudad": "Petra",
+      "coords": {
+        "lat": 30.3223,
+        "lng": 35.4515
+      },
+      "resumen": "Primer día en Petra: el Siq al amanecer antes que los grupos, el Tesoro con buena luz, las Tumbas Reales y la calle de las Columnas.",
+      "imagenes": [
+        {
+          "url": "jordania-14-dias/panoramica-de-la-ciudad-arqueologica-de-fefba4.jpg",
+          "alt": "Panorámica de la ciudad arqueológica de Petra excavada en montañas de roca rojiza",
+          "credito": "Gerd Eichmann",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Petra-02-Panorama-2010-gje.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "06:30",
+          "nombre": "El Siq al amanecer",
+          "descripcion": "Cañón de 1,2 km con paredes de hasta 80 metros que desemboca de golpe frente al Tesoro.",
+          "duracion": "1 h 10 min",
+          "costo": 0,
+          "tipo": "aventura",
+          "coords": {
+            "lat": 30.3251,
+            "lng": 35.4474
+          },
+          "consejo": "Calzado de senderismo y salir temprano."
+        },
+        {
+          "hora": "07:45",
+          "nombre": "El Tesoro (Al-Khazneh)",
+          "descripcion": "La fachada nabatea del siglo I tallada en roca rosa. El costo es el Jordan Pass Explorer: dos días en Petra, casi todas las entradas del viaje y la visa.",
+          "duracion": "2 h",
+          "costo": 75,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 30.3223,
+            "lng": 35.4515
+          },
+          "consejo": "Compra el Jordan Pass antes de llegar y no pagues otra vez lo que incluye."
+        },
+        {
+          "hora": "10:15",
+          "nombre": "Tumbas Reales y Calle de las Fachadas",
+          "descripcion": "Hileras de tumbas monumentales, como la de la Urna y la Corintia, talladas en la pared de la montaña.",
+          "duracion": "1 h 50 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 30.3283,
+            "lng": 35.4563
+          },
+          "consejo": "No subas a miradores no habilitados."
+        },
+        {
+          "hora": "14:15",
+          "nombre": "Gran Templo y calle de las Columnas",
+          "descripcion": "El centro de la ciudad: la avenida columnada romana y el mayor templo de Petra.",
+          "duracion": "1 h 55 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 30.3284,
+            "lng": 35.4445
+          },
+          "consejo": "Descansa e hidrátate en las horas de más calor."
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "05:30",
+            "momento": "desayuno",
+            "lugar": "Petra Cabin Hostel",
+            "plato": "Pan, fruta y yogur",
+            "costo": 4
+          },
+          {
+            "hora": "12:30",
+            "momento": "almuerzo",
+            "lugar": "The Basin (Petra)",
+            "plato": "Sándwich y bebida",
+            "costo": 12
+          },
+          {
+            "hora": "19:00",
+            "momento": "cena",
+            "lugar": "Al Wadi Restaurant",
+            "plato": "Pollo con arroz y ensalada",
+            "costo": 11
+          }
+        ],
+        "medio": [
+          {
+            "hora": "05:30",
+            "momento": "desayuno",
+            "lugar": "Petra Moon Hotel",
+            "plato": "Desayuno para salida temprana",
+            "costo": 0
+          },
+          {
+            "hora": "12:30",
+            "momento": "almuerzo",
+            "lugar": "The Basin (Petra)",
+            "plato": "Bufé",
+            "costo": 20
+          },
+          {
+            "hora": "19:00",
+            "momento": "cena",
+            "lugar": "My Mom's Recipe",
+            "plato": "Mansaf con ensalada",
+            "costo": 21
+          }
+        ],
+        "alto": [
+          {
+            "hora": "05:30",
+            "momento": "desayuno",
+            "lugar": "Mövenpick Resort Petra",
+            "plato": "Desayuno para llevar",
+            "costo": 0
+          },
+          {
+            "hora": "12:30",
+            "momento": "almuerzo",
+            "lugar": "The Basin (Petra)",
+            "plato": "Almuerzo completo con bebidas",
+            "costo": 27
+          },
+          {
+            "hora": "19:00",
+            "momento": "cena",
+            "lugar": "Al Saraya (Mövenpick Petra)",
+            "plato": "Cena de tres tiempos",
+            "costo": 46
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "hora": "06:00",
+          "de": "Petra Cabin Hostel",
+          "a": "Centro de visitantes",
+          "medio": "Taxi compartido",
+          "duracion": "10 min",
+          "costo": 2,
+          "niveles": [
+            "economico"
+          ]
+        },
+        {
+          "hora": "17:30",
+          "de": "Centro de visitantes",
+          "a": "Petra Cabin Hostel",
+          "medio": "Taxi compartido",
+          "duracion": "10 min",
+          "costo": 2,
+          "niveles": [
+            "economico"
+          ]
+        }
+      ],
+      "planB": "Si cierran Petra por tormenta o riesgo de crecidas en el Siq, Museo de Petra y Wadi Musa. Nunca entres a cauces cerrados."
+    },
+    {
+      "dia": 7,
+      "titulo": "Petra: subida al Monasterio",
+      "ciudad": "Petra",
+      "coords": {
+        "lat": 30.3373,
+        "lng": 35.4305
+      },
+      "resumen": "Segundo día en Petra: los 800 escalones hasta el Monasterio y la zona occidental de la ciudad nabatea.",
+      "imagenes": [
+        {
+          "url": "jordania-14-dias/el-monasterio-de-petra-enorme-fachada-na-6e3184.jpg",
+          "alt": "El Monasterio de Petra, enorme fachada nabatea tallada en piedra",
+          "credito": "Gerda Arendt",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Monastery,_Petra,_Jordan.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "06:30",
+          "nombre": "Subida al Monasterio",
+          "descripcion": "Unos 800 escalones tallados en la roca por un cañón con vistas cada vez más amplias.",
+          "duracion": "3 h",
+          "costo": 0,
+          "tipo": "aventura",
+          "coords": {
+            "lat": 30.335,
+            "lng": 35.434
+          },
+          "consejo": "Lleva al menos dos litros de agua por persona."
+        },
+        {
+          "hora": "10:00",
+          "nombre": "Monasterio Ad-Deir y miradores",
+          "descripcion": "Fachada de 47 metros en la cima, con miradores hacia el valle de Arabá.",
+          "duracion": "1 h 35 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 30.3373,
+            "lng": 35.4305
+          },
+          "consejo": "No te acerques a bordes sin protección."
+        },
+        {
+          "hora": "13:45",
+          "nombre": "Qasr al-Bint",
+          "descripcion": "El único templo nabateo construido, no tallado, que sigue en pie.",
+          "duracion": "1 h 10 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 30.3287,
+            "lng": 35.441
+          }
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "15:30",
+          "nombre": "Petra con guía arqueológico",
+          "descripcion": "Una hora con guía para entender cómo los nabateos manejaban el agua y el comercio de incienso.",
+          "duracion": "1 h",
+          "costo": 38,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 30.3284,
+            "lng": 35.4445
+          }
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "15:30",
+          "nombre": "Recorrido privado con arqueólogo",
+          "descripcion": "Guía especializado solo para el grupo por los rincones menos visitados.",
+          "duracion": "1 h",
+          "costo": 80,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 30.3284,
+            "lng": 35.4445
+          }
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "05:30",
+            "momento": "desayuno",
+            "lugar": "Petra Cabin Hostel",
+            "plato": "Pan, dátiles, fruta y yogur",
+            "costo": 5
+          },
+          {
+            "hora": "12:15",
+            "momento": "almuerzo",
+            "lugar": "The Basin (Petra)",
+            "plato": "Plato sencillo y agua",
+            "costo": 12
+          },
+          {
+            "hora": "19:15",
+            "momento": "cena",
+            "lugar": "Al Wadi Restaurant",
+            "plato": "Arroz, ensalada y kebab",
+            "costo": 12
+          }
+        ],
+        "medio": [
+          {
+            "hora": "05:30",
+            "momento": "desayuno",
+            "lugar": "Petra Moon Hotel",
+            "plato": "Desayuno para llevar",
+            "costo": 0
+          },
+          {
+            "hora": "12:15",
+            "momento": "almuerzo",
+            "lugar": "The Basin (Petra)",
+            "plato": "Bufé",
+            "costo": 20
+          },
+          {
+            "hora": "19:15",
+            "momento": "cena",
+            "lugar": "My Mom's Recipe",
+            "plato": "Maqluba de cordero",
+            "costo": 22
+          }
+        ],
+        "alto": [
+          {
+            "hora": "05:30",
+            "momento": "desayuno",
+            "lugar": "Mövenpick Resort Petra",
+            "plato": "Desayuno para llevar",
+            "costo": 0
+          },
+          {
+            "hora": "12:15",
+            "momento": "almuerzo",
+            "lugar": "The Basin (Petra)",
+            "plato": "Almuerzo completo",
+            "costo": 28
+          },
+          {
+            "hora": "19:15",
+            "momento": "cena",
+            "lugar": "Al Saraya (Mövenpick Petra)",
+            "plato": "Cena levantina",
+            "costo": 49
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "hora": "06:00",
+          "de": "Petra Cabin Hostel",
+          "a": "Entrada de Petra",
+          "medio": "Taxi compartido",
+          "duracion": "10 min",
+          "costo": 2,
+          "niveles": [
+            "economico"
+          ]
+        },
+        {
+          "hora": "17:30",
+          "de": "Entrada de Petra",
+          "a": "Petra Cabin Hostel",
+          "medio": "Taxi compartido",
+          "duracion": "10 min",
+          "costo": 2,
+          "niveles": [
+            "economico"
+          ]
+        }
+      ],
+      "planB": "Si el sendero al Monasterio está cerrado o cuesta mucho, Gran Templo, Tumbas Reales y museo. No forzar rutas expuestas."
+    },
+    {
+      "dia": 8,
+      "titulo": "Pequeña Petra y primera noche en Wadi Rum",
+      "ciudad": "Wadi Rum",
+      "coords": {
+        "lat": 29.5763,
+        "lng": 35.4198
+      },
+      "resumen": "Pequeña Petra por la mañana, carretera al sur y la primera tarde en 4x4 por el desierto de Lawrence de Arabia.",
+      "imagenes": [
+        {
+          "url": "jordania-14-dias/montanas-rocosas-y-desierto-de-wadi-rum-7d3ff7.jpg",
+          "alt": "Montañas rocosas y desierto de Wadi Rum",
+          "credito": "Yazan Mahmoud Banihani",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Wadi-Rum.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "07:30",
+          "nombre": "Pequeña Petra (Siq al-Barid)",
+          "descripcion": "Cañón con casas y comedores nabateos donde paraban las caravanas; gratis y casi sin gente.",
+          "duracion": "1 h 10 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 30.376,
+            "lng": 35.4485
+          }
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "14:30",
+          "nombre": "4x4 compartido por Wadi Rum",
+          "descripcion": "Ruta clásica en camioneta compartida: el manantial de Lawrence, las dunas rojas y el cañón Khazali.",
+          "duracion": "3 h",
+          "costo": 25,
+          "tipo": "aventura",
+          "coords": {
+            "lat": 29.5292,
+            "lng": 35.431
+          }
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "14:30",
+          "nombre": "4x4 con guía beduino",
+          "descripcion": "Camioneta solo para el grupo, con guía beduino y paradas en los arcos de roca.",
+          "duracion": "3 h",
+          "costo": 45,
+          "tipo": "aventura",
+          "coords": {
+            "lat": 29.5292,
+            "lng": 35.431
+          }
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "14:30",
+          "nombre": "Safari privado premium",
+          "descripcion": "Safari privado a medida con guía beduino y paradas fotográficas.",
+          "duracion": "3 h",
+          "costo": 95,
+          "tipo": "aventura",
+          "coords": {
+            "lat": 29.5292,
+            "lng": 35.431
+          }
+        },
+        {
+          "hora": "18:15",
+          "nombre": "Atardecer en el desierto",
+          "descripcion": "El sol tiñe de rojo las montañas de arenisca.",
+          "duracion": "45 min",
+          "costo": 0,
+          "tipo": "naturaleza",
+          "coords": {
+            "lat": 29.5292,
+            "lng": 35.431
+          },
+          "consejo": "Vuelve al campamento antes de que oscurezca."
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "06:30",
+            "momento": "desayuno",
+            "lugar": "Petra Cabin Hostel",
+            "plato": "Pan, yogur y fruta",
+            "costo": 5
+          },
+          {
+            "hora": "12:30",
+            "momento": "almuerzo",
+            "lugar": "Wadi Rum Backpacker Camp",
+            "plato": "Arroz con pollo y ensalada",
+            "costo": 9
+          },
+          {
+            "hora": "20:00",
+            "momento": "cena",
+            "lugar": "Wadi Rum Backpacker Camp",
+            "plato": "Zarb beduino (cocinado bajo la arena)",
+            "costo": 0
+          }
+        ],
+        "medio": [
+          {
+            "hora": "06:30",
+            "momento": "desayuno",
+            "lugar": "Petra Moon Hotel",
+            "plato": "Desayuno del hotel",
+            "costo": 0
+          },
+          {
+            "hora": "12:30",
+            "momento": "almuerzo",
+            "lugar": "Wadi Rum Bedouin Camp",
+            "plato": "Arroz con pollo y mezze",
+            "costo": 13
+          },
+          {
+            "hora": "20:00",
+            "momento": "cena",
+            "lugar": "Wadi Rum Bedouin Camp",
+            "plato": "Zarb beduino (cocinado bajo la arena)",
+            "costo": 0
+          }
+        ],
+        "alto": [
+          {
+            "hora": "06:30",
+            "momento": "desayuno",
+            "lugar": "Mövenpick Resort Petra",
+            "plato": "Desayuno del hotel",
+            "costo": 0
+          },
+          {
+            "hora": "12:30",
+            "momento": "almuerzo",
+            "lugar": "Sun City Camp",
+            "plato": "Almuerzo levantino de tres platos",
+            "costo": 27
+          },
+          {
+            "hora": "20:00",
+            "momento": "cena",
+            "lugar": "Sun City Camp",
+            "plato": "Cena beduina",
+            "costo": 0
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "hora": "07:00",
+          "de": "Wadi Musa",
+          "a": "Pequeña Petra y regreso",
+          "medio": "Taxi compartido",
+          "duracion": "20 min por trayecto",
+          "costo": 8,
+          "niveles": [
+            "economico"
+          ]
+        },
+        {
+          "hora": "09:45",
+          "de": "Wadi Musa",
+          "a": "Centro de visitantes de Wadi Rum",
+          "medio": "Minibús",
+          "duracion": "2 h",
+          "costo": 15,
+          "niveles": [
+            "economico"
+          ]
+        },
+        {
+          "hora": "07:00",
+          "de": "Petra Moon Hotel",
+          "a": "Pequeña Petra y Wadi Rum",
+          "medio": "Miniván privada",
+          "duracion": "2 h 30 min",
+          "costo": 34,
+          "niveles": [
+            "medio"
+          ]
+        },
+        {
+          "hora": "07:00",
+          "de": "Mövenpick Resort Petra",
+          "a": "Pequeña Petra y Wadi Rum",
+          "medio": "Vehículo premium privado",
+          "duracion": "2 h 30 min",
+          "costo": 72,
+          "niveles": [
+            "alto"
+          ]
+        }
+      ],
+      "planB": "Si cierran pistas, actividades culturales en el campamento y el safari se mueve al día siguiente."
+    },
+    {
+      "dia": 9,
+      "titulo": "Día completo en el desierto profundo",
+      "ciudad": "Wadi Rum",
+      "coords": {
+        "lat": 29.5292,
+        "lng": 35.431
+      },
+      "resumen": "Puentes de roca, dunas y cañones, té beduino al atardecer y un cielo lleno de estrellas.",
+      "imagenes": [],
+      "actividades": [
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "09:00",
+          "nombre": "Dunas y puentes de roca en 4x4 compartido",
+          "descripcion": "Jornada hasta los puentes naturales de Um Fruth y Burdah, las dunas rojas y grabados nabateos.",
+          "duracion": "6 h",
+          "costo": 48,
+          "tipo": "aventura",
+          "coords": {
+            "lat": 29.4935,
+            "lng": 35.4508
+          }
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "09:00",
+          "nombre": "Safari privado de seis horas",
+          "descripcion": "Camioneta privada por los cañones y formaciones principales al ritmo del grupo.",
+          "duracion": "6 h",
+          "costo": 80,
+          "tipo": "aventura",
+          "coords": {
+            "lat": 29.4935,
+            "lng": 35.4508
+          }
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "09:00",
+          "nombre": "Expedición privada al sur remoto",
+          "descripcion": "Ruta privada por el sur de Wadi Rum, lejos de los grupos, con picnic en el desierto.",
+          "duracion": "6 h",
+          "costo": 165,
+          "tipo": "aventura",
+          "coords": {
+            "lat": 29.493,
+            "lng": 35.4145
+          }
+        },
+        {
+          "hora": "17:00",
+          "nombre": "Té beduino",
+          "descripcion": "Té con salvia junto al fuego, como se recibe a los huéspedes en el desierto.",
+          "duracion": "45 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 29.5292,
+            "lng": 35.431
+          },
+          "consejo": "Pide permiso antes de fotografiar a las personas."
+        },
+        {
+          "hora": "20:30",
+          "nombre": "Cielo nocturno",
+          "descripcion": "Sin luz artificial en kilómetros, la Vía Láctea se ve a simple vista.",
+          "duracion": "1 h 30 min",
+          "costo": 0,
+          "tipo": "naturaleza",
+          "coords": {
+            "lat": 29.5292,
+            "lng": 35.431
+          }
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "07:30",
+            "momento": "desayuno",
+            "lugar": "Wadi Rum Backpacker Camp",
+            "plato": "Desayuno beduino",
+            "costo": 0
+          },
+          {
+            "hora": "13:00",
+            "momento": "almuerzo",
+            "lugar": "Picnic en el desierto",
+            "plato": "Arroz, vegetales, pan y té",
+            "costo": 8
+          },
+          {
+            "hora": "19:00",
+            "momento": "cena",
+            "lugar": "Wadi Rum Backpacker Camp",
+            "plato": "Cena beduina",
+            "costo": 0
+          }
+        ],
+        "medio": [
+          {
+            "hora": "07:30",
+            "momento": "desayuno",
+            "lugar": "Wadi Rum Bedouin Camp",
+            "plato": "Desayuno beduino",
+            "costo": 0
+          },
+          {
+            "hora": "13:00",
+            "momento": "almuerzo",
+            "lugar": "Picnic con el guía",
+            "plato": "Pollo asado, arroz, ensalada y té",
+            "costo": 14
+          },
+          {
+            "hora": "19:00",
+            "momento": "cena",
+            "lugar": "Wadi Rum Bedouin Camp",
+            "plato": "Cena beduina",
+            "costo": 0
+          }
+        ],
+        "alto": [
+          {
+            "hora": "07:30",
+            "momento": "desayuno",
+            "lugar": "Sun City Camp",
+            "plato": "Desayuno",
+            "costo": 0
+          },
+          {
+            "hora": "13:00",
+            "momento": "almuerzo",
+            "lugar": "Picnic privado de Sun City Camp",
+            "plato": "Parrillada beduina y mezze",
+            "costo": 35
+          },
+          {
+            "hora": "19:00",
+            "momento": "cena",
+            "lugar": "Sun City Camp",
+            "plato": "Cena del campamento",
+            "costo": 0
+          }
+        ]
+      },
+      "traslados": [],
+      "planB": "Con tormenta de arena o viento fuerte, se cancela el 4x4 y se espera en el campamento."
+    },
+    {
+      "dia": 10,
+      "titulo": "Del desierto al mar Rojo",
+      "ciudad": "Áqaba",
+      "coords": {
+        "lat": 29.5266,
+        "lng": 35.0021
+      },
+      "resumen": "Último amanecer en el desierto, bajada al mar Rojo y la tarde entre el fuerte de Áqaba y el malecón.",
+      "imagenes": [
+        {
+          "url": "jordania-14-dias/playa-y-aguas-azules-del-mar-rojo-en-aqa-20671b.jpg",
+          "alt": "Playa y aguas azules del mar Rojo en Áqaba",
+          "credito": "Saraabdallat",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Redsea_aqaba.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "06:30",
+          "nombre": "Amanecer en el desierto",
+          "descripcion": "Las rocas pasan del violeta al naranja con la primera luz.",
+          "duracion": "45 min",
+          "costo": 0,
+          "tipo": "naturaleza",
+          "coords": {
+            "lat": 29.5292,
+            "lng": 35.431
+          }
+        },
+        {
+          "hora": "14:00",
+          "nombre": "Fuerte de Áqaba",
+          "descripcion": "Fortaleza mameluca del siglo XVI tomada por la Revuelta Árabe en 1917.",
+          "duracion": "1 h",
+          "costo": 3,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 29.52,
+            "lng": 34.999
+          }
+        },
+        {
+          "hora": "17:00",
+          "nombre": "Malecón del mar Rojo",
+          "descripcion": "Paseo frente al golfo, con Israel, Egipto y Arabia Saudita a la vista.",
+          "duracion": "1 h 30 min",
+          "costo": 0,
+          "tipo": "naturaleza",
+          "coords": {
+            "lat": 29.5266,
+            "lng": 35.0021
+          }
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "19:00",
+          "nombre": "Hammam y spa",
+          "descripcion": "Ritual de hammam con exfoliación y masaje.",
+          "duracion": "1 h",
+          "costo": 95,
+          "tipo": "descanso",
+          "coords": {
+            "lat": 29.5405,
+            "lng": 34.9811
+          }
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "08:00",
+            "momento": "desayuno",
+            "lugar": "Wadi Rum Backpacker Camp",
+            "plato": "Desayuno",
+            "costo": 0
+          },
+          {
+            "hora": "12:30",
+            "momento": "almuerzo",
+            "lugar": "Darna Divers Village",
+            "plato": "Pescado con arroz y ensalada",
+            "costo": 11
+          },
+          {
+            "hora": "20:30",
+            "momento": "cena",
+            "lugar": "Puesto de shawarma del centro",
+            "plato": "Shawarma y bebida",
+            "costo": 7
+          }
+        ],
+        "medio": [
+          {
+            "hora": "08:00",
+            "momento": "desayuno",
+            "lugar": "Wadi Rum Bedouin Camp",
+            "plato": "Desayuno",
+            "costo": 0
+          },
+          {
+            "hora": "12:30",
+            "momento": "almuerzo",
+            "lugar": "Captain's Restaurant",
+            "plato": "Pescado del mar Rojo a la parrilla",
+            "costo": 22
+          },
+          {
+            "hora": "20:30",
+            "momento": "cena",
+            "lugar": "Captain's Restaurant",
+            "plato": "Mezze y camarones",
+            "costo": 25
+          }
+        ],
+        "alto": [
+          {
+            "hora": "08:00",
+            "momento": "desayuno",
+            "lugar": "Sun City Camp",
+            "plato": "Desayuno",
+            "costo": 0
+          },
+          {
+            "hora": "12:30",
+            "momento": "almuerzo",
+            "lugar": "Al Manara",
+            "plato": "Pescado fresco y ensalada mediterránea",
+            "costo": 38
+          },
+          {
+            "hora": "20:30",
+            "momento": "cena",
+            "lugar": "Al Manara",
+            "plato": "Menú de mariscos de tres tiempos",
+            "costo": 65
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "hora": "09:00",
+          "de": "Wadi Rum",
+          "a": "Áqaba",
+          "medio": "Traslado compartido del campamento",
+          "duracion": "1 h",
+          "costo": 15,
+          "niveles": [
+            "economico"
+          ]
+        },
+        {
+          "hora": "09:00",
+          "de": "Wadi Rum",
+          "a": "Áqaba",
+          "medio": "Miniván privada",
+          "duracion": "1 h",
+          "costo": 26,
+          "niveles": [
+            "medio"
+          ]
+        },
+        {
+          "hora": "09:00",
+          "de": "Wadi Rum",
+          "a": "Áqaba",
+          "medio": "SUV privado",
+          "duracion": "1 h",
+          "costo": 55,
+          "niveles": [
+            "alto"
+          ]
+        },
+        {
+          "hora": "13:30",
+          "de": "Hotel",
+          "a": "Fuerte de Áqaba y regreso",
+          "medio": "Taxi",
+          "duracion": "20 min por trayecto",
+          "costo": 7,
+          "niveles": [
+            "economico"
+          ]
+        },
+        {
+          "hora": "13:30",
+          "de": "Hotel",
+          "a": "Fuerte de Áqaba y regreso",
+          "medio": "Taxi",
+          "duracion": "10 min por trayecto",
+          "costo": 4,
+          "niveles": [
+            "medio"
+          ]
+        },
+        {
+          "hora": "13:30",
+          "de": "Hotel",
+          "a": "Fuerte de Áqaba y regreso",
+          "medio": "Vehículo privado",
+          "duracion": "15 min por trayecto",
+          "costo": 20,
+          "niveles": [
+            "alto"
+          ]
+        }
+      ],
+      "planB": "Si el mar está bravo, mercados de Áqaba, el fuerte y la piscina del hotel."
+    },
+    {
+      "dia": 11,
+      "titulo": "Arrecifes del mar Rojo",
+      "ciudad": "Áqaba",
+      "coords": {
+        "lat": 29.441,
+        "lng": 34.9705
+      },
+      "resumen": "Corales del mar Rojo: snorkel desde la playa en económico, barco en medio y dos inmersiones en alto.",
+      "imagenes": [],
+      "actividades": [
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "08:45",
+          "nombre": "Snorkel guiado desde la playa",
+          "descripcion": "Snorkel desde la orilla en el parque marino de la costa sur: corales, peces payaso y peces loro.",
+          "duracion": "3 h",
+          "costo": 25,
+          "tipo": "aventura",
+          "coords": {
+            "lat": 29.4358,
+            "lng": 34.9735
+          },
+          "consejo": "Pide chaleco y pregunta por las corrientes."
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "08:45",
+          "nombre": "Barco con snorkel",
+          "descripcion": "Barco con paradas de snorkel en los arrecifes del sur.",
+          "duracion": "3 h",
+          "costo": 48,
+          "tipo": "aventura",
+          "coords": {
+            "lat": 29.4358,
+            "lng": 34.9735
+          },
+          "consejo": "Usa operador autorizado y revisa el equipo de seguridad."
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "08:45",
+          "nombre": "Dos inmersiones guiadas",
+          "descripcion": "Dos inmersiones con instructor, una de ellas en el Cedar Pride, un barco hundido cubierto de coral.",
+          "duracion": "4 h",
+          "costo": 145,
+          "tipo": "aventura",
+          "coords": {
+            "lat": 29.4358,
+            "lng": 34.9735
+          },
+          "consejo": "Solo con requisitos médicos y certificación; quien no bucea hace snorkel privado."
+        },
+        {
+          "hora": "14:30",
+          "nombre": "Tarde en la playa sur",
+          "descripcion": "Playa y sol en la costa sur.",
+          "duracion": "1 h 30 min",
+          "costo": 0,
+          "tipo": "naturaleza",
+          "coords": {
+            "lat": 29.441,
+            "lng": 34.9705
+          },
+          "consejo": "No toques los corales ni alimentes a los peces."
+        },
+        {
+          "hora": "18:00",
+          "nombre": "Centro y mercado de Áqaba",
+          "descripcion": "Zoco con especias, dátiles y tiendas de recuerdos.",
+          "duracion": "1 h 15 min",
+          "costo": 0,
+          "tipo": "compras",
+          "coords": {
+            "lat": 29.5266,
+            "lng": 35.0021
+          }
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "07:15",
+            "momento": "desayuno",
+            "lugar": "Darna Divers Village",
+            "plato": "Huevos, pan y té",
+            "costo": 7
+          },
+          {
+            "hora": "13:30",
+            "momento": "almuerzo",
+            "lugar": "Darna Divers Village",
+            "plato": "Pasta con pollo",
+            "costo": 11
+          },
+          {
+            "hora": "20:00",
+            "momento": "cena",
+            "lugar": "Restaurante del centro de Áqaba",
+            "plato": "Arroz con pescado",
+            "costo": 12
+          }
+        ],
+        "medio": [
+          {
+            "hora": "07:15",
+            "momento": "desayuno",
+            "lugar": "Lacosta Hotel",
+            "plato": "Desayuno del hotel",
+            "costo": 0
+          },
+          {
+            "hora": "13:30",
+            "momento": "almuerzo",
+            "lugar": "Captain's Restaurant",
+            "plato": "Pescado al horno con verduras",
+            "costo": 24
+          },
+          {
+            "hora": "20:00",
+            "momento": "cena",
+            "lugar": "Captain's Restaurant",
+            "plato": "Camarones a la parrilla y mezze",
+            "costo": 28
+          }
+        ],
+        "alto": [
+          {
+            "hora": "07:15",
+            "momento": "desayuno",
+            "lugar": "Al Manara",
+            "plato": "Desayuno del hotel",
+            "costo": 0
+          },
+          {
+            "hora": "13:30",
+            "momento": "almuerzo",
+            "lugar": "Al Manara",
+            "plato": "Pescado, mariscos y ensalada",
+            "costo": 42
+          },
+          {
+            "hora": "20:00",
+            "momento": "cena",
+            "lugar": "Al Manara",
+            "plato": "Cena de autor con mariscos",
+            "costo": 72
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "hora": "17:15",
+          "de": "Playa sur",
+          "a": "Centro de Áqaba y regreso",
+          "medio": "Taxi compartido",
+          "duracion": "20 min por trayecto",
+          "costo": 5,
+          "niveles": [
+            "economico"
+          ]
+        },
+        {
+          "hora": "08:15",
+          "de": "Lacosta Hotel",
+          "a": "Embarcadero y playa sur",
+          "medio": "Taxi ida y vuelta",
+          "duracion": "25 min por trayecto",
+          "costo": 12,
+          "niveles": [
+            "medio"
+          ]
+        },
+        {
+          "hora": "08:15",
+          "de": "Al Manara",
+          "a": "Centro de buceo y playa sur",
+          "medio": "Traslado privado ida y vuelta",
+          "duracion": "25 min por trayecto",
+          "costo": 35,
+          "niveles": [
+            "alto"
+          ]
+        }
+      ],
+      "planB": "Si el operador ve el mar inseguro, mercados, fuerte y hotel. Después de bucear no se vuela en 24 h; el vuelo es tres días después."
+    },
+    {
+      "dia": 12,
+      "titulo": "Regreso a Amán: la ciudad moderna",
+      "ciudad": "Amán",
+      "coords": {
+        "lat": 31.9654,
+        "lng": 35.9121
+      },
+      "resumen": "Carretera del desierto de vuelta a la capital y su cara nueva: la mezquita azul del rey Abdalá y el bulevar de Abdali.",
+      "imagenes": [],
+      "actividades": [
+        {
+          "hora": "15:30",
+          "nombre": "Mezquita del rey Abdalá I",
+          "descripcion": "Mezquita de cúpula azul, una de las pocas de Amán abiertas a visitantes.",
+          "duracion": "1 h",
+          "costo": 3,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 31.9654,
+            "lng": 35.9121
+          },
+          "consejo": "Ropa larga; evita las horas de oración."
+        },
+        {
+          "hora": "17:30",
+          "nombre": "Abdali Boulevard",
+          "descripcion": "Paseo peatonal entre torres nuevas, cafés y tiendas.",
+          "duracion": "1 h 30 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 31.9635,
+            "lng": 35.9092
+          }
+        },
+        {
+          "hora": "19:15",
+          "nombre": "Amán de noche",
+          "descripcion": "La ciudad iluminada desde las terrazas del barrio nuevo.",
+          "duracion": "45 min",
+          "costo": 0,
+          "tipo": "naturaleza",
+          "coords": {
+            "lat": 31.9602,
+            "lng": 35.912
+          }
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "06:30",
+            "momento": "desayuno",
+            "lugar": "Darna Divers Village",
+            "plato": "Pan, huevo y té",
+            "costo": 7
+          },
+          {
+            "hora": "13:45",
+            "momento": "almuerzo",
+            "lugar": "Puesto de shawarma del centro",
+            "plato": "Shawarma y bebida",
+            "costo": 7
+          },
+          {
+            "hora": "20:30",
+            "momento": "cena",
+            "lugar": "Hashem Restaurant",
+            "plato": "Falafel, hummus y pan árabe",
+            "costo": 6
+          }
+        ],
+        "medio": [
+          {
+            "hora": "06:30",
+            "momento": "desayuno",
+            "lugar": "Lacosta Hotel",
+            "plato": "Desayuno del hotel",
+            "costo": 0
+          },
+          {
+            "hora": "13:45",
+            "momento": "almuerzo",
+            "lugar": "Sufra Restaurant",
+            "plato": "Mansaf y ensaladas",
+            "costo": 24
+          },
+          {
+            "hora": "20:30",
+            "momento": "cena",
+            "lugar": "Restaurante en Abdali",
+            "plato": "Kebab y mezze",
+            "costo": 24
+          }
+        ],
+        "alto": [
+          {
+            "hora": "06:30",
+            "momento": "desayuno",
+            "lugar": "Al Manara",
+            "plato": "Desayuno del hotel",
+            "costo": 0
+          },
+          {
+            "hora": "13:45",
+            "momento": "almuerzo",
+            "lugar": "Fairmont Amman",
+            "plato": "Almuerzo de cocina levantina",
+            "costo": 39
+          },
+          {
+            "hora": "20:30",
+            "momento": "cena",
+            "lugar": "Fakhreldin Restaurant",
+            "plato": "Cordero y mezze",
+            "costo": 55
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "hora": "07:30",
+          "de": "Áqaba",
+          "a": "Amán",
+          "medio": "Bus JETT",
+          "duracion": "4 h 30 min",
+          "costo": 12,
+          "niveles": [
+            "economico"
+          ]
+        },
+        {
+          "hora": "13:00",
+          "de": "Terminal JETT",
+          "a": "The Cabin Hostel",
+          "medio": "Taxi compartido",
+          "duracion": "15 min",
+          "costo": 4,
+          "niveles": [
+            "economico"
+          ]
+        },
+        {
+          "hora": "15:00",
+          "de": "The Cabin Hostel",
+          "a": "Mezquita y Abdali",
+          "medio": "Taxi compartido",
+          "duracion": "15 min",
+          "costo": 6,
+          "niveles": [
+            "economico"
+          ]
+        },
+        {
+          "hora": "07:30",
+          "de": "Lacosta Hotel",
+          "a": "Amman Pasha Hotel",
+          "medio": "Miniván privada",
+          "duracion": "4 h",
+          "costo": 70,
+          "niveles": [
+            "medio"
+          ]
+        },
+        {
+          "hora": "15:00",
+          "de": "Amman Pasha Hotel",
+          "a": "Mezquita, Abdali y regreso",
+          "medio": "Vehículo con conductor",
+          "duracion": "15 min por trayecto",
+          "costo": 12,
+          "niveles": [
+            "medio"
+          ]
+        },
+        {
+          "hora": "07:30",
+          "de": "Al Manara",
+          "a": "Fairmont Amman",
+          "medio": "Vehículo premium privado",
+          "duracion": "4 h",
+          "costo": 115,
+          "niveles": [
+            "alto"
+          ]
+        },
+        {
+          "hora": "15:00",
+          "de": "Fairmont Amman",
+          "a": "Mezquita, Abdali y regreso",
+          "medio": "Vehículo premium con conductor",
+          "duracion": "15 min por trayecto",
+          "costo": 30,
+          "niveles": [
+            "alto"
+          ]
+        }
+      ],
+      "planB": "Si la carretera se demora, se salta la mezquita y queda solo Abdali."
+    },
+    {
+      "dia": 13,
+      "titulo": "As-Salt, museos y últimas compras",
+      "ciudad": "Amán",
+      "coords": {
+        "lat": 32.0393,
+        "lng": 35.7277
+      },
+      "resumen": "As-Salt, ciudad otomana de piedra amarilla declarada Patrimonio de la Humanidad, y tarde de museos y compras en Amán.",
+      "imagenes": [],
+      "actividades": [
+        {
+          "hora": "09:00",
+          "nombre": "Centro histórico de As-Salt",
+          "descripcion": "Escalinatas y casas otomanas de piedra amarilla alrededor de la calle Hammam y su mercado.",
+          "duracion": "1 h 30 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 32.0393,
+            "lng": 35.7277
+          }
+        },
+        {
+          "hora": "11:00",
+          "nombre": "Museo Abu Jaber",
+          "descripcion": "Mansión del siglo XIX convertida en museo de la historia de la ciudad.",
+          "duracion": "1 h",
+          "costo": 2,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 32.0386,
+            "lng": 35.7281
+          }
+        },
+        {
+          "hora": "15:30",
+          "nombre": "Museo Real del Automóvil",
+          "descripcion": "La colección de carros y motos del rey Hussein y la familia real.",
+          "duracion": "1 h 40 min",
+          "costo": 10,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 31.9822,
+            "lng": 35.827
+          },
+          "consejo": "Revisa el horario antes de ir."
+        },
+        {
+          "hora": "18:30",
+          "nombre": "Artesanías y recuerdos",
+          "descripcion": "Cerámica, mosaicos, aceite de oliva y jabones del mar Muerto en el centro.",
+          "duracion": "1 h 15 min",
+          "costo": 0,
+          "tipo": "compras",
+          "coords": {
+            "lat": 31.9511,
+            "lng": 35.9342
+          }
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "07:00",
+            "momento": "desayuno",
+            "lugar": "Panadería del barrio",
+            "plato": "Manakish y café",
+            "costo": 4
+          },
+          {
+            "hora": "12:30",
+            "momento": "almuerzo",
+            "lugar": "Restaurante del centro de As-Salt",
+            "plato": "Arroz con pollo y ensalada",
+            "costo": 9
+          },
+          {
+            "hora": "20:15",
+            "momento": "cena",
+            "lugar": "Hashem Restaurant",
+            "plato": "Hummus, falafel y pan",
+            "costo": 6
+          }
+        ],
+        "medio": [
+          {
+            "hora": "07:00",
+            "momento": "desayuno",
+            "lugar": "Amman Pasha Hotel",
+            "plato": "Desayuno del hotel",
+            "costo": 0
+          },
+          {
+            "hora": "12:30",
+            "momento": "almuerzo",
+            "lugar": "Restaurante del centro de As-Salt",
+            "plato": "Mansaf y ensalada",
+            "costo": 18
+          },
+          {
+            "hora": "20:15",
+            "momento": "cena",
+            "lugar": "Sufra Restaurant",
+            "plato": "Mezze y carne a la parrilla",
+            "costo": 26
+          }
+        ],
+        "alto": [
+          {
+            "hora": "07:00",
+            "momento": "desayuno",
+            "lugar": "Fairmont Amman",
+            "plato": "Desayuno del hotel",
+            "costo": 0
+          },
+          {
+            "hora": "12:30",
+            "momento": "almuerzo",
+            "lugar": "Restaurante del centro de As-Salt",
+            "plato": "Cordero y especialidades locales",
+            "costo": 30
+          },
+          {
+            "hora": "20:15",
+            "momento": "cena",
+            "lugar": "Fakhreldin Restaurant",
+            "plato": "Cena de despedida de varios tiempos",
+            "costo": 65
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "hora": "07:45",
+          "de": "Amán",
+          "a": "As-Salt y regreso",
+          "medio": "Minibús y taxis",
+          "duracion": "45 min por trayecto",
+          "costo": 15,
+          "niveles": [
+            "economico"
+          ]
+        },
+        {
+          "hora": "14:00",
+          "de": "Amán",
+          "a": "Museo del Automóvil y mercado",
+          "medio": "Taxis compartidos",
+          "duracion": "20 min por trayecto",
+          "costo": 8,
+          "niveles": [
+            "economico"
+          ]
+        },
+        {
+          "hora": "07:45",
+          "de": "Amman Pasha Hotel",
+          "a": "As-Salt, museo y mercados",
+          "medio": "Miniván privada todo el día",
+          "duracion": "todo el día",
+          "costo": 42,
+          "niveles": [
+            "medio"
+          ]
+        },
+        {
+          "hora": "07:45",
+          "de": "Fairmont Amman",
+          "a": "As-Salt, museo y mercados",
+          "medio": "Vehículo premium todo el día",
+          "duracion": "todo el día",
+          "costo": 88,
+          "niveles": [
+            "alto"
+          ]
+        }
+      ],
+      "planB": "Si llueve o As-Salt tiene cierres, Museo Real del Automóvil, galerías y mercados cubiertos de Amán."
+    },
+    {
+      "dia": 14,
+      "titulo": "Última mañana y vuelo de regreso",
+      "ciudad": "Amán",
+      "coords": {
+        "lat": 31.9594,
+        "lng": 35.922
+      },
+      "resumen": "Última caminata por Jabal al-Luweibdeh y el centro, y traslado al aeropuerto.",
+      "imagenes": [],
+      "actividades": [
+        {
+          "hora": "09:00",
+          "nombre": "Jabal al-Luweibdeh",
+          "descripcion": "Barrio de colinas con galerías, cafés y casas de piedra de principios del siglo XX.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 31.9594,
+            "lng": 35.922
+          }
+        },
+        {
+          "hora": "11:15",
+          "nombre": "Duke's Diwan",
+          "descripcion": "Una de las casas más antiguas del centro, hoy espacio cultural.",
+          "duracion": "45 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 31.9514,
+            "lng": 35.9346
+          },
+          "consejo": "El interior depende del horario; la fachada vale la pena igual."
+        },
+        {
+          "hora": "14:30",
+          "nombre": "Últimas compras en Rainbow Street",
+          "descripcion": "Últimas fotos y compras antes del aeropuerto.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "compras",
+          "coords": {
+            "lat": 31.9503,
+            "lng": 35.919
+          },
+          "consejo": "Termina a tiempo para recoger el equipaje."
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "07:30",
+            "momento": "desayuno",
+            "lugar": "Panadería del barrio",
+            "plato": "Manakish y té",
+            "costo": 4
+          },
+          {
+            "hora": "12:30",
+            "momento": "almuerzo",
+            "lugar": "Hashem Restaurant",
+            "plato": "Falafel, hummus y pan",
+            "costo": 6
+          },
+          {
+            "hora": "18:15",
+            "momento": "cena",
+            "lugar": "Aeropuerto Reina Alia",
+            "plato": "Sándwich y bebida",
+            "costo": 12
+          }
+        ],
+        "medio": [
+          {
+            "hora": "07:30",
+            "momento": "desayuno",
+            "lugar": "Amman Pasha Hotel",
+            "plato": "Desayuno del hotel",
+            "costo": 0
+          },
+          {
+            "hora": "12:30",
+            "momento": "almuerzo",
+            "lugar": "Sufra Restaurant",
+            "plato": "Maqluba y mezze",
+            "costo": 24
+          },
+          {
+            "hora": "18:15",
+            "momento": "cena",
+            "lugar": "Aeropuerto Reina Alia",
+            "plato": "Pollo con arroz y bebida",
+            "costo": 20
+          }
+        ],
+        "alto": [
+          {
+            "hora": "07:30",
+            "momento": "desayuno",
+            "lugar": "Fairmont Amman",
+            "plato": "Desayuno del hotel",
+            "costo": 0
+          },
+          {
+            "hora": "12:30",
+            "momento": "almuerzo",
+            "lugar": "Fakhreldin Restaurant",
+            "plato": "Almuerzo de despedida con mezze y cordero",
+            "costo": 42
+          },
+          {
+            "hora": "18:15",
+            "momento": "cena",
+            "lugar": "Aeropuerto Reina Alia",
+            "plato": "Cena completa antes de embarcar",
+            "costo": 30
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "hora": "16:00",
+          "de": "Centro de Amán",
+          "a": "Aeropuerto Reina Alia",
+          "medio": "Bus aeroportuario",
+          "duracion": "1 h",
+          "costo": 6,
+          "niveles": [
+            "economico"
+          ]
+        },
+        {
+          "hora": "16:00",
+          "de": "Amman Pasha Hotel",
+          "a": "Aeropuerto Reina Alia",
+          "medio": "Vehículo privado para el grupo",
+          "duracion": "45 min",
+          "costo": 13,
+          "niveles": [
+            "medio"
+          ]
+        },
+        {
+          "hora": "16:00",
+          "de": "Fairmont Amman",
+          "a": "Aeropuerto Reina Alia",
+          "medio": "Traslado privado premium",
+          "duracion": "45 min",
+          "costo": 28,
+          "niveles": [
+            "alto"
+          ]
+        }
+      ],
+      "planB": "Si el vuelo sale antes, directo al aeropuerto con tres horas de anticipación."
+    }
+  ],
+  "presupuesto": {
+    "notas": "Por persona, 14 días / 13 noches, en grupo de 4: habitación doble compartida (cama en dormitorio en económico). Vuelos y seguro en dólares; lo demás en dinares. Las entradas incluyen el Jordan Pass Explorer (JD 75).",
+    "categorias": [
+      {
+        "categoria": "vuelos",
+        "descripcion": "Ida y vuelta desde Medellín con equipaje; en alto, cabina superior en parte de la ruta.",
+        "moneda": "USD",
+        "economico": 1450,
+        "medio": 1850,
+        "alto": 3600
+      },
+      {
+        "categoria": "seguro",
+        "descripcion": "Asistencia médica de viaje. Revisa que cubra conflictos y evacuación.",
+        "moneda": "USD",
+        "economico": 90,
+        "medio": 145,
+        "alto": 320
+      },
+      {
+        "categoria": "visa",
+        "descripcion": "Gratis con el Jordan Pass comprado antes de llegar y mínimo 3 noches; sin él, JD 40.",
+        "moneda": "local",
+        "economico": 0,
+        "medio": 0,
+        "alto": 0
+      },
+      {
+        "categoria": "conectividad",
+        "descripcion": "SIM o eSIM de datos para todo el viaje.",
+        "moneda": "local",
+        "economico": 18,
+        "medio": 30,
+        "alto": 45
+      },
+      {
+        "categoria": "compras",
+        "descripcion": "Recuerdos, artesanías y productos locales.",
+        "moneda": "local",
+        "economico": 45,
+        "medio": 120,
+        "alto": 300
+      },
+      {
+        "categoria": "extras",
+        "descripcion": "Propinas, lavandería, bebidas e imprevistos.",
+        "moneda": "local",
+        "economico": 90,
+        "medio": 160,
+        "alto": 350
+      }
+    ]
+  },
+  "alojamiento": [
+    {
+      "ciudad": "Amán",
+      "noches": [
+        1,
+        2,
+        3,
+        12,
+        13
+      ],
+      "economico": {
+        "nombre": "The Cabin Hostel",
+        "zona": "Jabal Amman",
+        "tipo": "Hostal",
+        "precioNoche": 17,
+        "incluye": "Cama en dormitorio y wifi",
+        "descripcion": "Hostal pequeño y céntrico con dormitorios compartidos y zona común.",
+        "link": "https://www.booking.com/hotel/jo/the-cabin.html"
+      },
+      "medio": {
+        "nombre": "Amman Pasha Hotel",
+        "zona": "Centro (Al-Balad)",
+        "tipo": "Hotel",
+        "precioNoche": 39,
+        "incluye": "Desayuno",
+        "descripcion": "Hotel sencillo frente al Teatro Romano, con terraza sobre el centro histórico.",
+        "link": "https://ammanpashahotel.com/"
+      },
+      "alto": {
+        "nombre": "Fairmont Amman",
+        "zona": "Quinto Círculo",
+        "tipo": "Hotel de lujo",
+        "precioNoche": 135,
+        "incluye": "Desayuno, piscina y gimnasio",
+        "descripcion": "Torres de lujo con spa, varios restaurantes y vista de la ciudad.",
+        "link": "https://www.fairmont.com/en/hotels/amman/fairmont-amman.html"
+      }
+    },
+    {
+      "ciudad": "Mar Muerto",
+      "noches": [
+        4
+      ],
+      "economico": {
+        "nombre": "Dead Sea Spa Hotel",
+        "zona": "Sweimeh",
+        "tipo": "Hotel",
+        "precioNoche": 48,
+        "incluye": "Piscina y playa del hotel",
+        "descripcion": "Hotel veterano con acceso propio al mar Muerto, piscinas y duchas para quitarse la sal.",
+        "link": "https://dssh.jo/"
+      },
+      "medio": {
+        "nombre": "Holiday Inn Resort Dead Sea",
+        "zona": "Sweimeh",
+        "tipo": "Resort",
+        "precioNoche": 78,
+        "incluye": "Desayuno, playa privada y piscinas",
+        "descripcion": "Resort con playa privada, varias piscinas y barro mineral en la orilla.",
+        "link": "https://www.google.com/maps/search/?api=1&query=Holiday%20Inn%20Resort%20Dead%20Sea"
+      },
+      "alto": {
+        "nombre": "Kempinski Hotel Ishtar Dead Sea",
+        "zona": "Sweimeh",
+        "tipo": "Resort de lujo",
+        "precioNoche": 190,
+        "incluye": "Desayuno, playa privada y piscinas",
+        "descripcion": "Resort inspirado en Babilonia, con piscinas en cascada hasta la playa y un spa enorme.",
+        "link": "https://www.kempinski.com/en/hotel-ishtar",
+        "imagen": {
+          "url": "jordania-14-dias/instalaciones-del-hotel-kempinski-ishtar-61f5d0.jpg",
+          "alt": "Instalaciones del hotel Kempinski Ishtar junto al mar Muerto",
+          "credito": "High Contrast",
+          "licencia": "CC BY 3.0 de",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Kempinski_Hotel_Ishtar_-_Dead_Sea_-_Jordan.jpg"
+        }
+      }
+    },
+    {
+      "ciudad": "Petra",
+      "noches": [
+        5,
+        6,
+        7
+      ],
+      "economico": {
+        "nombre": "Petra Cabin Hostel",
+        "zona": "Wadi Musa",
+        "tipo": "Hostal",
+        "precioNoche": 18,
+        "incluye": "Cama en dormitorio y wifi",
+        "descripcion": "Hostal sencillo en el pueblo, a pocos minutos en taxi de la entrada de Petra.",
+        "link": "https://www.google.com/maps/search/?api=1&query=Petra%20Cabin%20Hostel%20Wadi%20Musa"
+      },
+      "medio": {
+        "nombre": "Petra Moon Hotel",
+        "zona": "Wadi Musa",
+        "tipo": "Hotel",
+        "precioNoche": 55,
+        "incluye": "Desayuno",
+        "descripcion": "Hotel a pocos pasos del centro de visitantes, con terraza en la azotea.",
+        "link": "https://www.petramoonhotel.com/"
+      },
+      "alto": {
+        "nombre": "Mövenpick Resort Petra",
+        "zona": "Entrada de Petra",
+        "tipo": "Hotel de lujo",
+        "precioNoche": 155,
+        "incluye": "Desayuno y piscina",
+        "descripcion": "Frente a la puerta del sitio arqueológico, con patio árabe y terraza para el atardecer.",
+        "link": "https://www.google.com/maps/search/?api=1&query=M%C3%B6venpick%20Resort%20Petra",
+        "imagen": {
+          "url": "jordania-14-dias/fachada-del-movenpick-resort-petra-0c4df5.jpg",
+          "alt": "Fachada del Mövenpick Resort Petra",
+          "credito": "Mudar Alsamarraie",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Movenpick-Petra-hr-16.jpg"
+        }
+      }
+    },
+    {
+      "ciudad": "Wadi Rum",
+      "noches": [
+        8,
+        9
+      ],
+      "economico": {
+        "nombre": "Wadi Rum Backpacker Camp",
+        "zona": "Desierto de Wadi Rum",
+        "tipo": "Campamento beduino",
+        "precioNoche": 28,
+        "incluye": "Cena, desayuno y té",
+        "descripcion": "Campamento básico con tiendas tradicionales y baños compartidos.",
+        "link": "https://www.google.com/maps/search/?api=1&query=Wadi%20Rum%20Backpacker%20Camp"
+      },
+      "medio": {
+        "nombre": "Wadi Rum Bedouin Camp",
+        "zona": "Desierto de Wadi Rum",
+        "tipo": "Campamento",
+        "precioNoche": 67,
+        "incluye": "Cena beduina y desayuno",
+        "descripcion": "Tiendas privadas con cama y, según la categoría, baño propio.",
+        "link": "https://www.google.com/maps/search/?api=1&query=Wadi%20Rum%20Bedouin%20Camp"
+      },
+      "alto": {
+        "nombre": "Sun City Camp",
+        "zona": "Desierto de Wadi Rum",
+        "tipo": "Campamento de lujo",
+        "precioNoche": 185,
+        "incluye": "Cena, desayuno y baño privado",
+        "descripcion": "Cúpulas con ventanal para ver las estrellas desde la cama.",
+        "link": "https://www.google.com/maps/search/?api=1&query=Sun%20City%20Camp%20Wadi%20Rum"
+      }
+    },
+    {
+      "ciudad": "Áqaba",
+      "noches": [
+        10,
+        11
+      ],
+      "economico": {
+        "nombre": "Darna Divers Village",
+        "zona": "Costa sur",
+        "tipo": "Hotel de buceo",
+        "precioNoche": 32,
+        "incluye": "Piscina",
+        "descripcion": "Hotel de buceadores frente a los arrecifes de la costa sur, con centro de buceo propio.",
+        "link": "https://www.google.com/maps/search/?api=1&query=Darna%20Divers%20Village%20Aqaba"
+      },
+      "medio": {
+        "nombre": "Lacosta Hotel",
+        "zona": "Centro",
+        "tipo": "Hotel",
+        "precioNoche": 55,
+        "incluye": "Desayuno",
+        "descripcion": "Hotel céntrico a pasos del malecón y los restaurantes.",
+        "link": "https://www.google.com/maps/search/?api=1&query=Lacosta%20Hotel%20Aqaba"
+      },
+      "alto": {
+        "nombre": "Al Manara, Saraya Aqaba",
+        "zona": "Saraya Aqaba",
+        "tipo": "Hotel de lujo",
+        "precioNoche": 180,
+        "incluye": "Desayuno y piscina",
+        "descripcion": "Frente al mar, con piscinas, playa privada y vista al golfo.",
+        "link": "https://www.marriott.com/en-us/hotels/aqjlc-al-manara-a-luxury-collection-hotel-saraya-aqaba/overview/"
+      }
+    }
+  ],
+  "comida": {
+    "platosTipicos": [
+      {
+        "nombre": "Mansaf",
+        "descripcion": "El plato nacional: cordero sobre arroz y pan fino, bañado en salsa caliente de yogur fermentado (jameed).",
+        "precioAprox": 9,
+        "imagen": {
+          "url": "jordania-14-dias/mansaf-con-arroz-cordero-y-salsa-de-yogu-3169a2.jpg",
+          "alt": "Mansaf con arroz, cordero y salsa de yogur",
+          "credito": "Ben Meyer",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Mansaf.jpg"
+        }
+      },
+      {
+        "nombre": "Maqluba",
+        "descripcion": "Arroz con carne, berenjena y especias que se sirve volteando la olla en la mesa.",
+        "precioAprox": 9,
+        "imagen": {
+          "url": "jordania-14-dias/maqluba-de-arroz-con-carne-y-verduras-0e766f.jpg",
+          "alt": "Maqluba de arroz con carne y verduras",
+          "credito": "Aseel zm",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Maqloba.jpg"
+        }
+      },
+      {
+        "nombre": "Falafel",
+        "descripcion": "Croquetas fritas de garbanzo y especias, con pan árabe y verduras.",
+        "precioAprox": 3,
+        "imagen": {
+          "url": "jordania-14-dias/falafel-croquetas-de-garbanzo-235e7d.jpg",
+          "alt": "Falafel, croquetas de garbanzo",
+          "credito": "Thomon",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:1_falafel.jpg"
+        }
+      },
+      {
+        "nombre": "Hummus",
+        "descripcion": "Crema de garbanzo, tahini, limón y aceite de oliva para mojar con pan.",
+        "precioAprox": 3,
+        "imagen": {
+          "url": "jordania-14-dias/plato-de-hummus-953be3.jpg",
+          "alt": "Plato de hummus",
+          "credito": "Donovan Govan.",
+          "licencia": "CC BY-SA 3.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Hummus.jpg"
+        }
+      },
+      {
+        "nombre": "Knafeh",
+        "descripcion": "Postre caliente de queso con masa fina, almíbar y pistacho.",
+        "precioAprox": 4,
+        "imagen": {
+          "url": "jordania-14-dias/porcion-de-knafeh-390a4c.jpg",
+          "alt": "Porción de knafeh",
+          "credito": "Mervat Salman",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Knafeh3.jpg"
+        }
+      }
+    ]
+  },
+  "infoPractica": {
+    "visa": {
+      "requiere": true,
+      "tipo": "visa a la llegada o eVisa",
+      "detalle": "Pasaporte colombiano con mínimo 6 meses de vigencia. La visa cuesta JD 40, pero es gratis si compras el Jordan Pass antes de llegar y te quedas al menos 3 noches.",
+      "link": "https://www.jordanpass.jo/"
+    },
+    "clima": [
+      {
+        "mes": 1,
+        "tempMin": 4,
+        "tempMax": 12,
+        "lluviaMm": 42
+      },
+      {
+        "mes": 2,
+        "tempMin": 4,
+        "tempMax": 14,
+        "lluviaMm": 41
+      },
+      {
+        "mes": 3,
+        "tempMin": 7,
+        "tempMax": 18,
+        "lluviaMm": 28
+      },
+      {
+        "mes": 4,
+        "tempMin": 11,
+        "tempMax": 23,
+        "lluviaMm": 9
+      },
+      {
+        "mes": 5,
+        "tempMin": 15,
+        "tempMax": 28,
+        "lluviaMm": 4
+      },
+      {
+        "mes": 6,
+        "tempMin": 17,
+        "tempMax": 31,
+        "lluviaMm": 0
+      },
+      {
+        "mes": 7,
+        "tempMin": 19,
+        "tempMax": 33,
+        "lluviaMm": 0
+      },
+      {
+        "mes": 8,
+        "tempMin": 19,
+        "tempMax": 33,
+        "lluviaMm": 0
+      },
+      {
+        "mes": 9,
+        "tempMin": 18,
+        "tempMax": 31,
+        "lluviaMm": 1
+      },
+      {
+        "mes": 10,
+        "tempMin": 15,
+        "tempMax": 26,
+        "lluviaMm": 6
+      },
+      {
+        "mes": 11,
+        "tempMin": 9,
+        "tempMax": 19,
+        "lluviaMm": 16
+      },
+      {
+        "mes": 12,
+        "tempMin": 5,
+        "tempMax": 14,
+        "lluviaMm": 27
+      }
+    ],
+    "vacunas": [
+      "Fiebre amarilla: Jordania pide el certificado internacional a quien llega desde Colombia; aplícatela al menos 10 días antes.",
+      "Hepatitis A y tifoidea recomendadas."
+    ],
+    "seguridad": "En octubre de 2026 Estados Unidos clasificó a Jordania en nivel 3 (reconsiderar el viaje) por terrorismo y conflicto regional. Revisa las alertas antes de comprar y la semana de salida, evita zonas fronterizas y manifestaciones, usa guías registrados en Petra y Wadi Rum, y no entres a cañones cerrados por riesgo de crecidas.",
+    "enchufe": {
+      "tipo": "C, F y G",
+      "voltaje": "230 V",
+      "necesitaAdaptador": true
+    },
+    "propinas": "5–10 % en restaurantes si el servicio no está incluido; JD 3–8 por persona a los guías por jornada; a conductores privados, voluntaria.",
+    "idioma": "Árabe. Inglés en hoteles y zonas turísticas; español casi nada.",
+    "conectividad": "Zain, Orange y Umniah venden SIM o eSIM turística en el aeropuerto. Buena señal en ciudades; irregular en Wadi Rum.",
+    "transporteLocal": "Buses JETT entre Amán, Petra y Áqaba. En taxi, acuerda el precio o pide taxímetro. Para 4 personas con varias paradas, un carro con conductor suele salir a cuenta. Evita manejar de noche en carreteras rurales.",
+    "frases": [
+      {
+        "es": "Hola",
+        "local": "مرحبا",
+        "pronunciacion": "márhaba"
+      },
+      {
+        "es": "Gracias",
+        "local": "شكراً",
+        "pronunciacion": "shúkran"
+      },
+      {
+        "es": "Por favor",
+        "local": "من فضلك",
+        "pronunciacion": "min fádlak"
+      },
+      {
+        "es": "¿Cuánto cuesta?",
+        "local": "بكم هذا؟",
+        "pronunciacion": "bikám hada"
+      },
+      {
+        "es": "¿Dónde está el baño?",
+        "local": "وين الحمام؟",
+        "pronunciacion": "wen el hammám"
+      },
+      {
+        "es": "No entiendo",
+        "local": "مش فاهم",
+        "pronunciacion": "mish fáhem"
+      },
+      {
+        "es": "Agua, por favor",
+        "local": "مي، لو سمحت",
+        "pronunciacion": "mayy, law samáht"
+      },
+      {
+        "es": "Ayuda, por favor",
+        "local": "ساعدني، لو سمحت",
+        "pronunciacion": "saídni, law samáht"
+      }
+    ],
+    "apps": [
+      {
+        "nombre": "Google Maps",
+        "para": "Mapas sin conexión y ubicaciones guardadas"
+      },
+      {
+        "nombre": "Google Translate",
+        "para": "Árabe–español con el idioma descargado"
+      },
+      {
+        "nombre": "JETT",
+        "para": "Horarios de buses interurbanos"
+      },
+      {
+        "nombre": "Booking.com",
+        "para": "Reservas de alojamiento"
+      },
+      {
+        "nombre": "WhatsApp",
+        "para": "Hablar con hoteles, conductores y campamentos"
+      },
+      {
+        "nombre": "XE Currency",
+        "para": "Conversión JOD, USD y COP"
+      }
+    ],
+    "consejos": [
+      "Reserva con cancelación flexible.",
+      "El Jordan Pass no es reembolsable: cómpralo cuando el viaje sea seguro, pero antes de aterrizar.",
+      "No pagues dos veces entradas que ya cubre el Jordan Pass.",
+      "Haz las caminatas largas de Petra a primera hora.",
+      "Bloqueador, gorra, calzado de senderismo y mucha agua.",
+      "Lleva dinares en efectivo para pagos pequeños y propinas.",
+      "No toques los corales en Áqaba.",
+      "Pide permiso antes de fotografiar a las personas.",
+      "Lleva un abrigo ligero para las noches del desierto."
+    ],
+    "estafas": [
+      "Vendedores no autorizados ofreciendo tours dentro de Petra.",
+      "Taxis que cobran de más si no acuerdas la tarifa antes.",
+      "Supuestos \"miradores secretos\" o rutas no oficiales.",
+      "Recuerdos vendidos como antigüedades auténticas.",
+      "Cobros sorpresa en transporte o campamentos sin precio por escrito.",
+      "Intermediarios que cobran por tramitar el Jordan Pass."
+    ],
+    "checklist": [
+      "Pasaporte con 6 meses de vigencia",
+      "Certificado internacional de fiebre amarilla",
+      "Revisar la alerta de seguridad antes de comprar",
+      "Vuelos sin escala en Estados Unidos",
+      "Seguro médico con cobertura real",
+      "Las 13 noches de alojamiento reservadas",
+      "Jordan Pass Explorer comprado antes de llegar",
+      "Excursiones y traslados privados reservados",
+      "SIM o eSIM",
+      "Mapas sin conexión descargados",
+      "Adaptador de enchufe",
+      "Bloqueador y calzado de senderismo",
+      "Copias digitales de documentos",
+      "Contactos de emergencia compartidos con el grupo"
+    ]
+  },
+  "fuentes": [
+    {
+      "titulo": "Jordan Pass — precios oficiales",
+      "url": "https://www.jordanpass.jo/contents/Prices.aspx"
+    },
+    {
+      "titulo": "Visit Jordan — turismo oficial",
+      "url": "https://international.visitjordan.com/"
+    },
+    {
+      "titulo": "JETT — horarios de buses",
+      "url": "https://jett.com.jo/en/live-schedule"
+    },
+    {
+      "titulo": "Cancillería de Colombia — países que exigen visa",
+      "url": "https://www.cancilleria.gov.co/tramites_servicios/visa"
+    },
+    {
+      "titulo": "CDC — salud para viajeros a Jordania",
+      "url": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/jordan"
+    },
+    {
+      "titulo": "Departamento de Estado de EE. UU. — alerta de viaje",
+      "url": "https://travel.state.gov/"
+    }
+  ]
+}

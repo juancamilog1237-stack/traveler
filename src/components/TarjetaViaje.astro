@@ -1,0 +1,40 @@
+---
+import Foto from './Foto.astro';
+import Icon from './Icon.astro';
+import { formato, rangoMeses, totalViaje, url, type Viaje } from '../lib/viaje';
+interface Props { v: Viaje; slug: string }
+const { v, slug } = Astro.props;
+const desde = totalViaje(v, 'economico', 'COP');
+---
+<article class="tarjeta zoom-on-hover" data-reveal data-region={v.meta.region} data-dias={v.meta.duracionDias} data-cop={Math.round(desde)}>
+  <div class="media">
+    <Foto img={v.meta.portada} widths={[480, 800, 1100]} sizes="(min-width: 1100px) 380px, (min-width: 700px) 45vw, 92vw" transitionName={`foto-${slug}`} />
+    <span class="badge"><Icon name="calendar" /> {v.meta.duracionDias} días</span>
+  </div>
+  <div class="body">
+    <p class="eyebrow">{v.meta.region} · {v.meta.pais}</p>
+    <h3 style={`view-transition-name:titulo-${slug}`}><a href={url(`/viajes/${slug}`)} class="plain stretched">{v.meta.titulo}</a></h3>
+    <p class="resumen muted">{v.meta.resumen}</p>
+    <p class="pie">
+      <span>Desde <strong class="num">{formato(desde, 'COP', v, true)}</strong></span>
+      <span class="muted"><Icon name="sun" /> {rangoMeses(v.meta.mesesIdeales)}</span>
+    </p>
+  </div>
+</article>
+
+<style>
+  .tarjeta { position: relative; display: flex; flex-direction: column; border-radius: var(--radius-lg); background: var(--surface); border: 1px solid var(--border); overflow: hidden; transition: transform 500ms var(--ease-out), box-shadow 500ms var(--ease-out), opacity 400ms ease; }
+  .tarjeta:hover { transform: translateY(-6px); box-shadow: var(--shadow); }
+  .media { aspect-ratio: 4 / 3; }
+  .media :global(img), .media :global(picture) { width: 100%; height: 100%; object-fit: cover; }
+  .badge { position: absolute; top: 0.8rem; left: 0.8rem; display: inline-flex; gap: 0.35rem; align-items: center; padding: 0.3rem 0.7rem; border-radius: 999px; background: rgb(255 255 255 / 0.92); color: #1c1917; font-size: 0.8rem; font-weight: 600; }
+  .body { padding: var(--space-5); display: flex; flex-direction: column; flex: 1; }
+  h3 { font-size: var(--step-2); margin: 0.35rem 0 0.6rem; width: fit-content; }
+  .stretched::after { content: ''; position: absolute; inset: 0; z-index: 1; }
+  .resumen { font-size: 0.95rem; flex: 1; display: -webkit-box; -webkit-line-clamp: 3; line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+  .pie { display: flex; justify-content: space-between; align-items: center; gap: var(--space-3); flex-wrap: wrap; margin: 0; padding-top: var(--space-4); border-top: 1px solid var(--border); font-size: var(--step--1); }
+  .pie strong { color: var(--accent); font-size: var(--step-0); }
+  .pie .muted { display: inline-flex; gap: 0.3rem; align-items: center; }
+  .tarjeta:focus-within { outline: 2px solid var(--accent); outline-offset: 3px; }
+  :global(.tarjeta.oculta) { display: none; }
+</style>

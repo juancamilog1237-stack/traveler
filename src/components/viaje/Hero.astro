@@ -1,0 +1,37 @@
+---
+import Foto from '../Foto.astro';
+import type { Viaje } from '../../lib/viaje';
+
+interface Props { v: Viaje; slug: string }
+const { v, slug } = Astro.props;
+---
+<section class="hero" aria-labelledby="titulo-viaje">
+  <div class="media">
+    <Foto img={v.meta.portada} eager sizes="100vw" widths={[800, 1280, 1920, 2400]} transitionName={`foto-${slug}`} />
+  </div>
+  <div class="scrim" aria-hidden="true"></div>
+  <div class="container hero-content">
+    <p class="eyebrow">{v.meta.region} · {v.meta.pais}</p>
+    <h1 id="titulo-viaje" data-split style={`view-transition-name:titulo-${slug}`}>{v.meta.titulo}</h1>
+    <p class="lead" data-reveal style="--delay:350ms">{v.meta.resumen}</p>
+  </div>
+  <p class="credit">Foto: <a href={v.meta.portada.fuente} rel="noopener" target="_blank">{v.meta.portada.credito}</a> · {v.meta.portada.licencia}</p>
+  <a href="#datos" class="scroll-cue plain" aria-label="Bajar a los datos del viaje"><span></span></a>
+</section>
+
+<style>
+  .hero { position: relative; min-height: 100svh; display: flex; align-items: flex-end; color: #fff; overflow: hidden; isolation: isolate; }
+  .media { position: absolute; inset: -2% 0 0; z-index: -2; }
+  .media :global(img), .media :global(picture) { width: 100%; height: 100%; object-fit: cover; }
+  .scrim { position: absolute; inset: 0; z-index: -1; background: linear-gradient(180deg, rgb(0 0 0 / 0.45) 0%, rgb(0 0 0 / 0) 28%, rgb(0 0 0 / 0.15) 50%, rgb(0 0 0 / 0.78) 100%); }
+  .hero-content { padding-bottom: clamp(5rem, 12vh, 8rem); }
+  .eyebrow { color: #fff; opacity: 0.9; }
+  h1 { margin: 0.4rem 0 1.2rem; max-width: 16ch; font-size: clamp(2.8rem, 2rem + 5vw, 6.5rem); }
+  .lead { max-width: 52ch; font-size: var(--step-1); line-height: 1.45; opacity: 0.92; font-family: var(--font-serif); }
+  .credit { position: absolute; right: 1rem; bottom: 0.8rem; margin: 0; font-size: 0.75rem; opacity: 0.75; }
+  .credit a { color: inherit; }
+  .scroll-cue { position: absolute; left: 50%; bottom: 1.4rem; width: 26px; height: 42px; margin-left: -13px; border: 2px solid rgb(255 255 255 / 0.7); border-radius: 14px; }
+  .scroll-cue span { position: absolute; left: 50%; top: 8px; width: 4px; height: 8px; margin-left: -2px; border-radius: 2px; background: #fff; animation: cue 1.8s var(--ease-in-out) infinite; }
+  @keyframes cue { 0% { transform: translateY(0); opacity: 1; } 70% { transform: translateY(12px); opacity: 0; } 100% { opacity: 0; } }
+  @media (max-width: 640px) { .scroll-cue { display: none; } }
+</style>

@@ -1,0 +1,37 @@
+---
+import Icon from '../Icon.astro';
+import { rangoMeses, type Viaje } from '../../lib/viaje';
+
+interface Props { v: Viaje }
+const { v } = Astro.props;
+const dificultad = { facil: 'Fácil', moderada: 'Moderada', exigente: 'Exigente' }[v.meta.dificultad];
+const datos = [
+  { icon: 'calendar', label: 'Duración', valor: `${v.meta.duracionDias} días` },
+  { icon: 'sun', label: 'Mejor época', valor: rangoMeses(v.meta.mesesIdeales) },
+  { icon: 'doc', label: 'Visa', valor: v.infoPractica.visa.requiere ? `Sí · ${v.infoPractica.visa.tipo}` : 'No requiere' },
+  { icon: 'mountain', label: 'Ritmo', valor: dificultad },
+  { icon: 'users', label: 'Ideal para', valor: v.meta.idealPara.join(', ') },
+] as const;
+---
+<section id="datos" class="datos container" aria-label="Datos clave del viaje">
+  <ul data-stagger>
+    {datos.map((d) => (
+      <li data-reveal>
+        <Icon name={d.icon} />
+        <span class="label">{d.label}</span>
+        <span class="valor num">{d.valor}</span>
+      </li>
+    ))}
+  </ul>
+</section>
+
+<style>
+  .datos { margin-top: calc(var(--space-7) * -1); position: relative; z-index: 2; }
+  ul { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius-lg); box-shadow: var(--shadow); overflow: hidden; }
+  li { display: grid; grid-template-columns: auto 1fr; column-gap: 0.6rem; row-gap: 0.1rem; align-items: center; padding: var(--space-5); border-right: 1px solid var(--border); border-bottom: 1px solid var(--border); margin: 0 -1px -1px 0; }
+  li :global(.icon) { grid-row: span 2; color: var(--trip); width: 1.4rem; height: 1.4rem; }
+  .label { font-size: var(--step--1); color: var(--muted-fg); }
+  .valor { font-weight: 600; line-height: 1.3; }
+  @media (max-width: 1100px) { ul { grid-template-columns: repeat(3, minmax(0, 1fr)); } }
+  @media (max-width: 600px) { ul { grid-template-columns: repeat(2, minmax(0, 1fr)); } li:last-child { grid-column: 1 / -1; } li { padding: var(--space-4); } }
+</style>

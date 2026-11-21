@@ -1,0 +1,146 @@
+---
+import { ClientRouter } from 'astro:transitions';
+import '../styles/global.css';
+import Icon from '../components/Icon.astro';
+import Lightbox from '../components/Lightbox.astro';
+import { url } from '../lib/viaje';
+
+interface Props { title: string; description: string; image?: string; accent?: string }
+const { title, description, image, accent } = Astro.props;
+const fullTitle = title === 'Traveler' ? 'Traveler · Itinerarios y presupuestos de viaje' : `${title} · Traveler`;
+---
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{fullTitle}</title>
+    <meta name="description" content={description} />
+    <meta property="og:title" content={fullTitle} />
+    <meta property="og:description" content={description} />
+    {image && <meta property="og:image" content={image} />}
+    <meta name="theme-color" content="#faf6ef" media="(prefers-color-scheme: light)" />
+    <meta name="theme-color" content="#14110f" media="(prefers-color-scheme: dark)" />
+    <link rel="icon" href={url('favicon.svg')} type="image/svg+xml" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400..600;1,6..72,400&family=Public+Sans:wght@400;500;600&display=swap" rel="stylesheet" />
+    <script is:inline>
+      (function () {
+        var d = document.documentElement;
+        var t = null;
+        try { t = localStorage.getItem('tema'); } catch (e) {}
+        if (!t) t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+        d.dataset.theme = t;
+        var n = new URLSearchParams(location.search).get('nivel');
+        try { n = n || localStorage.getItem('nivel'); } catch (e) {}
+        d.dataset.nivel = /^(economico|medio|alto)$/.test(n || '') ? n : 'medio';
+        if (!matchMedia('(prefers-reduced-motion: reduce)').matches) d.classList.add('js');
+      })();
+    </script>
+    <ClientRouter fallback="swap" />
+  </head>
+  <body style={accent ? `--trip-light:${accent};--trip-dark:color-mix(in srgb, ${accent} 50%, #fff)` : undefined}>
+    <a href="#contenido" class="skip-link">Saltar al contenido</a>
+    <header class="site-header" transition:persist>
+      <div class="container bar">
+        <a href={url('/')} class="logo plain" aria-label="Traveler, inicio">
+          <Icon name="compass" />
+          <span>Traveler</span>
+        </a>
+        <nav aria-label="Principal" class="nav">
+          <button class="theme-toggle" type="button" aria-label="Cambiar tema claro u oscuro">
+            <Icon name="moon" class="i-moon" />
+            <Icon name="sun" class="i-sun" />
+          </button>
+        </nav>
+      </div>
+    </header>
+
+    <main id="contenido">
+      <slot />
+    </main>
+
+    <Lightbox transition:persist />
+
+    <footer class="site-footer">
+      <div class="container foot">
+        <p class="muted">Traveler</p>
+      </div>
+    </footer>
+
+    <script>
+      import { iniciarAnimaciones } from '../scripts/animaciones';
+      import { iniciarNivel } from '../scripts/nivel';
+
+      function iniciarTema() {
+        const btn = document.querySelector<HTMLButtonElement>('.theme-toggle');
+        if (!btn || btn.dataset.ready) return;
+        btn.dataset.ready = '1';
+        btn.addEventListener('click', () => {
+          const d = document.documentElement;
+          const nuevo = d.dataset.theme === 'dark' ? 'light' : 'dark';
+          const aplicar = () => { d.dataset.theme = nuevo; };
+          // Transición circular suave al cambiar de tema (si el navegador la soporta)
+          const vt = (document as any).startViewTransition;
+          if (vt && !matchMedia('(prefers-reduced-motion: reduce)').matches) vt.call(document, aplicar);
+          else aplicar();
+          try { localStorage.setItem('tema', nuevo); } catch {}
+        });
+      }
+
+      function iniciarHeader() {
+        const header = document.querySelector('.site-header');
+        if (!header) return;
+        let ultimo = scrollY;
+        const onScroll = () => {
+          const y = scrollY;
+          header.classList.toggle('scrolled', y > 20);
+          header.classList.toggle('hidden', y > ultimo && y > 400);
+          ultimo = y;
+        };
+        onScroll();
+        addEventListener('scroll', onScroll, { passive: true });
+      }
+
+      iniciarTema();
+      iniciarHeader();
+      document.addEventListener('astro:page-load', () => { iniciarAnimaciones(); iniciarNivel(); });
+      let nivelGuardado = document.documentElement.dataset.nivel ?? 'medio';
+      document.addEventListener('astro:before-swap', () => { nivelGuardado = document.documentElement.dataset.nivel ?? 'medio'; });
+      document.addEventListener('astro:after-swap', () => {
+        // Mantener el tema y la clase js tras navegar
+        let t: string | null = null;
+        try { t = localStorage.getItem('tema'); } catch {}
+        if (t) document.documentElement.dataset.theme = t;
+        document.documentElement.dataset.nivel = nivelGuardado;
+        if (!matchMedia('(prefers-reduced-motion: reduce)').matches) document.documentElement.classList.add('js');
+      });
+    </script>
+  </body>
+</html>
+
+<style>
+  .site-header {
+    position: fixed; inset: 0 0 auto; z-index: 50; height: var(--nav-h);
+    display: flex; align-items: center; color: #fff;
+    transition: background-color var(--dur) ease, color var(--dur) ease, transform var(--dur) var(--ease-out), border-color var(--dur) ease;
+    border-bottom: 1px solid transparent;
+  }
+  .site-header.scrolled { background: color-mix(in srgb, var(--bg) 88%, transparent); backdrop-filter: saturate(1.4) blur(12px); -webkit-backdrop-filter: saturate(1.4) blur(12px); color: var(--fg); border-color: var(--border); }
+  .site-header.hidden { transform: translateY(-100%); }
+  :global(body:not(:has(.hero))) .site-header { color: var(--fg); }
+  .bar { display: flex; align-items: center; justify-content: space-between; gap: var(--space-4); }
+  .logo { display: inline-flex; align-items: center; gap: 0.45rem; font-family: var(--font-serif); font-size: 1.45rem; font-weight: 500; color: inherit; letter-spacing: -0.01em; }
+  .logo :global(.icon) { width: 1.3rem; height: 1.3rem; transition: transform 700ms var(--ease-out); }
+  .logo:hover :global(.icon) { transform: rotate(180deg); }
+  .nav { display: flex; align-items: center; gap: var(--space-5); font-size: var(--step--1); font-weight: 500; }
+  .nav a { color: inherit; }
+  .theme-toggle { display: grid; place-items: center; width: 44px; height: 44px; border-radius: 999px; border: 1px solid color-mix(in srgb, currentColor 30%, transparent); background: transparent; transition: transform var(--dur-fast) ease; }
+  .theme-toggle:active { transform: scale(0.92); }
+  .theme-toggle :global(.icon) { grid-area: 1 / 1; transition: transform 500ms var(--ease-out), opacity 300ms ease; }
+  :global([data-theme='dark']) .theme-toggle :global(.i-moon) { transform: rotate(-90deg) scale(0.4); opacity: 0; }
+  :global([data-theme='light']) .theme-toggle :global(.i-sun) { transform: rotate(90deg) scale(0.4); opacity: 0; }
+  .site-footer { border-top: 1px solid var(--border); padding-block: var(--space-7); margin-top: var(--space-8); font-size: var(--step--1); }
+  .foot { display: grid; gap: var(--space-4); }
+</style>

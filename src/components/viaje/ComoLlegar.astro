@@ -1,0 +1,47 @@
+---
+import Icon from '../Icon.astro';
+import type { Viaje } from '../../lib/viaje';
+interface Props { v: Viaje }
+const { v } = Astro.props;
+const c = v.comoLlegar;
+const usd = (n: number) => `US$${n.toLocaleString('es-CO')}`;
+---
+<section id="como-llegar" class="section container" aria-labelledby="h-llegar">
+  <div class="section-head">
+    <h2 id="h-llegar" data-split>Cómo llegar</h2>
+  </div>
+  <div class="rutas" data-stagger>
+    {c.rutas.map((r) => (
+      <article class="ruta card" data-reveal>
+        <p class="origen"><Icon name="plane" /> Desde {r.origen}</p>
+        <p class="trayecto">{r.ruta}</p>
+        <dl>
+          <div><dt>Duración</dt><dd>{r.duracion}</dd></div>
+          <div><dt>Escalas</dt><dd>{r.escalas === 0 ? 'Directo' : r.escalas}</dd></div>
+          <div><dt>Aerolíneas</dt><dd>{r.aerolineas.join(', ')}</dd></div>
+          <div><dt>Ida y vuelta</dt><dd class="precio num">{usd(r.precioUSD.min)} – {usd(r.precioUSD.max)}</dd></div>
+        </dl>
+      </article>
+    ))}
+  </div>
+  <div class="llegada" data-reveal>
+    <p><Icon name="map-pin" /> <span><strong>Aeropuerto de llegada:</strong> {c.aeropuertoLlegada}</span></p>
+    <p><Icon name="train" /> <span><strong>Del aeropuerto al centro:</strong> {c.delAeropuertoAlCentro}</span></p>
+  </div>
+</section>
+
+<style>
+  .rutas { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: var(--space-4); }
+  .ruta { padding: var(--space-5); transition: transform var(--dur) var(--ease-out), box-shadow var(--dur) ease; }
+  .ruta:hover { transform: translateY(-4px); box-shadow: var(--shadow); }
+  .origen { display: flex; align-items: center; gap: 0.5rem; color: var(--trip); font-weight: 600; margin: 0 0 0.3rem; }
+  .trayecto { font-family: var(--font-serif); font-size: var(--step-1); margin-bottom: var(--space-4); }
+  dl { display: grid; gap: var(--space-2); margin: 0; }
+  dl div { display: flex; justify-content: space-between; gap: var(--space-3); font-size: var(--step--1); border-top: 1px solid var(--border); padding-top: var(--space-2); }
+  dt { color: var(--muted-fg); }
+  dd { margin: 0; text-align: right; font-weight: 500; }
+  .precio { color: var(--accent); font-weight: 700; }
+  .llegada { margin-top: var(--space-5); display: grid; gap: var(--space-2); }
+  .llegada p { display: flex; gap: 0.6rem; margin: 0; }
+  .llegada :global(.icon) { margin-top: 0.3rem; color: var(--trip); }
+</style>

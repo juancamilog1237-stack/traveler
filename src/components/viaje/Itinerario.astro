@@ -1,0 +1,169 @@
+---
+import Foto from '../Foto.astro';
+import Icon from '../Icon.astro';
+import MapaRuta from './MapaRuta.astro';
+import { NIVELES, agendaDe, convertir, costoDia, estanciaDe, formato, type Viaje } from '../../lib/viaje';
+const MOMENTOS = { desayuno: 'Desayuno', almuerzo: 'Almuerzo', cena: 'Cena', snack: 'Snack' } as const;
+
+interface Props { v: Viaje }
+const { v } = Astro.props;
+
+const local = (n: number) => (n === 0 ? 'Gratis' : formato(n, 'local', v));
+const cop = (n: number) => (n === 0 ? '' : `≈ ${formato(convertir(n, 'local', 'COP', v), 'COP', v)}`);
+const tipos: Record<string, string> = { cultura: 'Cultura', naturaleza: 'Naturaleza', comida: 'Comida', compras: 'Compras', aventura: 'Aventura', 'vida-nocturna': 'Noche', descanso: 'Descanso', transporte: 'Traslado' };
+---
+<section id="itinerario" class="section container" aria-labelledby="h-itinerario">
+  <div class="section-head">
+    <h2 id="h-itinerario" data-split>Itinerario</h2>
+  </div>
+
+  <MapaRuta v={v} />
+
+  <div class="timeline">
+  <div class="timeline-track" aria-hidden="true"><div class="timeline-progress"></div></div>
+  <ol class="dias">
+    {v.itinerario.map((d) => (
+      <li class="dia" id={`dia-${d.dia}`}>
+        <div class="marca" aria-hidden="true"><span>{d.dia}</span></div>
+        <article class="dia-cuerpo">
+          <header data-reveal>
+            <p class="eyebrow">Día {d.dia} · {d.ciudad}</p>
+            <h3>{d.titulo}</h3>
+            <p class="resumen">{d.resumen}</p>
+          </header>
+
+          {d.imagenes.length > 0 && (
+            <div class={`fotos n${Math.min(d.imagenes.length, 3)}`} data-stagger>
+              {d.imagenes.slice(0, 3).map((img) => (
+                <button class="foto media plain zoom-on-hover" data-reveal data-lightbox={JSON.stringify(img)} aria-label={`Ampliar foto: ${img.alt}`}>
+                  <Foto img={img} widths={[400, 700, 1000]} sizes="(min-width: 900px) 33vw, 90vw" />
+                </button>
+              ))}
+            </div>
+          )}
+
+          {NIVELES.map(({ id: n }) => {
+            const hotel = estanciaDe(v, d.dia)?.[n];
+            const costo = costoDia(v, d, n);
+            return (
+              <div class="plan" data-solo={n}>
+                <ol class="agenda">
+                  {agendaDe(d, n).map((p) => p.tipo === 'actividad' ? (
+                    <li class="paso actividad" data-reveal>
+                      <time class="hora num">{p.hora}</time>
+                      <div class="act">
+                        <div class="act-top">
+                          <h4>{p.a.link ? <a href={p.a.link} target="_blank" rel="noopener">{p.a.nombre}</a> : p.a.nombre}</h4>
+                          <span class="tag">{tipos[p.a.tipo]}</span>
+                        </div>
+                        <p>{p.a.descripcion}</p>
+                        <p class="meta">
+                          <span><Icon name="clock" /> {p.a.duracion}</span>
+                          <span class="costo num"><Icon name="coins" /> <strong>{local(p.a.costo)}</strong> <span class="muted">{cop(p.a.costo)}</span></span>
+                        </p>
+                        {p.a.consejo && <p class="consejo"><Icon name="bulb" /> {p.a.consejo}</p>}
+                      </div>
+                    </li>
+                  ) : p.tipo === 'comida' ? (
+                    <li class="paso linea" data-reveal>
+                      <time class="hora num">{p.hora}</time>
+                      <p>
+                        <Icon name="utensils" />
+                        <span class="cuerpo"><span class="momento">{MOMENTOS[p.c.momento]}</span> {p.c.link ? <a href={p.c.link} target="_blank" rel="noopener">{p.c.lugar}</a> : p.c.lugar} <span class="muted">· {p.c.plato}</span></span>
+                        <span class="num precio">{p.c.costo === 0 ? 'Incluido' : local(p.c.costo)}</span>
+                      </p>
+                    </li>
+                  ) : (
+                    <li class="paso linea" data-reveal>
+                      <time class="hora num">{p.hora}</time>
+                      <p>
+                        <Icon name="train" />
+                        <span class="cuerpo"><strong>{p.t.de} → {p.t.a}</strong> <span class="muted">· {p.t.medio} · {p.t.duracion}</span>{p.t.consejo && <span class="nota">{p.t.consejo}</span>}</span>
+                        <span class="num precio">{local(p.t.costo)}</span>
+                      </p>
+                    </li>
+                  ))}
+                  {hotel && (
+                    <li class="paso linea dormir" data-reveal>
+                      <span class="hora" aria-hidden="true"></span>
+                      <p>
+                        <Icon name="bed" />
+                        <span class="cuerpo"><a href={hotel.link} target="_blank" rel="noopener">{hotel.nombre}</a> <span class="muted">· {hotel.tipo} · {hotel.zona}</span></span>
+                        <span class="num precio">{local(hotel.precioNoche)}</span>
+                      </p>
+                    </li>
+                  )}
+                </ol>
+                <p class="total-dia num" data-reveal>
+                  <span>Total del día</span>
+                  <strong>{formato(costo.total, 'local', v)}</strong>
+                  <span class="muted">{cop(costo.total)}</span>
+                </p>
+              </div>
+            );
+          })}
+
+          {d.planB && <p class="planb" data-reveal><Icon name="umbrella" /> <span><strong>Plan B:</strong> {d.planB}</span></p>}
+        </article>
+      </li>
+    ))}
+  </ol>
+  </div>
+</section>
+
+<style>
+  .timeline { position: relative; margin-top: var(--space-7); }
+  .dias { list-style: none; margin: 0; padding: 0; }
+  .timeline-track { position: absolute; left: 21px; top: 8px; bottom: 8px; width: 2px; background: var(--border); border-radius: 2px; }
+  .timeline-progress { position: absolute; inset: 0; background: var(--trip); transform-origin: top; border-radius: 2px; }
+  html:not(.js) .timeline-progress { transform: none; }
+  .dia { position: relative; display: grid; grid-template-columns: 44px 1fr; gap: var(--space-5); padding-bottom: var(--space-8); }
+  .dia:last-child { padding-bottom: 0; }
+  .marca { position: sticky; top: calc(var(--nav-h) + 72px); align-self: start; z-index: 1; display: grid; place-items: center; width: 44px; height: 44px; border-radius: 999px; background: var(--bg); border: 2px solid var(--trip); font-family: var(--font-serif); font-size: 1.15rem; color: var(--trip); }
+  .dia-cuerpo { min-width: 0; }
+  h3 { font-size: var(--step-2); margin: 0.35rem 0 0.6rem; }
+  .resumen { color: var(--muted-fg); max-width: 65ch; }
+  .fotos { display: grid; gap: var(--space-3); margin: var(--space-5) 0; }
+  .fotos.n2 { grid-template-columns: 1fr 1fr; }
+  .fotos.n3 { grid-template-columns: 2fr 1fr; grid-template-rows: 1fr 1fr; }
+  .fotos.n3 .foto:first-child { grid-row: span 2; }
+  .foto { border: 0; padding: 0; border-radius: var(--radius); aspect-ratio: 4 / 3; cursor: zoom-in; }
+  .fotos.n1 .foto { aspect-ratio: 16 / 8; }
+  .fotos.n3 .foto { aspect-ratio: auto; min-height: 140px; }
+  .fotos.n3 .foto:first-child { min-height: 300px; }
+  .foto :global(img), .foto :global(picture) { width: 100%; height: 100%; object-fit: cover; }
+  .agenda { list-style: none; margin: var(--space-5) 0 0; padding: 0; display: grid; gap: var(--space-2); }
+  .actividad { display: grid; grid-template-columns: 64px 1fr; gap: var(--space-4); padding: var(--space-4) var(--space-5); margin-block: var(--space-1); background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); transition: border-color var(--dur) ease, transform var(--dur) var(--ease-out); }
+  .actividad:hover { border-color: color-mix(in srgb, var(--trip) 50%, var(--border)); transform: translateX(4px); }
+  .linea { display: grid; grid-template-columns: 64px 1fr; gap: var(--space-4); padding: 0.35rem var(--space-5); font-size: var(--step--1); }
+  .linea p { margin: 0; display: grid; grid-template-columns: auto 1fr auto; gap: 0.6rem; align-items: baseline; }
+  .linea :global(.icon) { align-self: center; color: var(--trip); }
+  .linea .hora { color: var(--muted-fg); font-weight: 500; }
+  .momento { font-weight: 600; }
+  .nota { display: block; color: var(--muted-fg); font-size: 0.85rem; }
+  .precio { font-weight: 600; white-space: nowrap; }
+  .dormir { border-top: 1px dashed var(--border); margin-top: var(--space-2); padding-top: var(--space-3); }
+  .total-dia { display: flex; flex-wrap: wrap; align-items: baseline; gap: 0.3rem 0.8rem; margin: var(--space-3) 0 0; padding: var(--space-3) var(--space-5); border-radius: var(--radius); background: var(--surface-2); font-size: var(--step--1); }
+  .total-dia strong { color: var(--accent); font-size: var(--step-0); margin-left: auto; }
+  .hora { font-weight: 600; color: var(--trip); padding-top: 0.1rem; }
+  .act-top { display: flex; align-items: baseline; justify-content: space-between; gap: var(--space-3); flex-wrap: wrap; }
+  h4 { font-family: var(--font-sans); font-size: var(--step-0); font-weight: 600; margin: 0 0 0.25rem; }
+  .tag { font-size: 0.75rem; font-weight: 600; padding: 0.15rem 0.6rem; border-radius: 999px; background: color-mix(in srgb, var(--trip) 12%, transparent); color: var(--trip); }
+  .act p { margin: 0 0 0.4rem; font-size: 0.97rem; }
+  .meta { display: flex; flex-wrap: wrap; gap: var(--space-2) var(--space-5); font-size: var(--step--1); color: var(--muted-fg); }
+  .meta > span { display: inline-flex; align-items: center; gap: 0.35rem; }
+  .costo strong { color: var(--fg); font-weight: 600; }
+  .consejo, .planb { display: flex; gap: 0.5rem; align-items: flex-start; font-size: var(--step--1); }
+  .consejo { color: var(--muted-fg); margin: 0.3rem 0 0 !important; }
+  .consejo :global(.icon), .planb :global(.icon) { margin-top: 0.2rem; color: var(--accent); }
+  .planb { margin-top: var(--space-4); padding: var(--space-3) var(--space-4); border-radius: var(--radius); border: 1px dashed var(--border); }
+  @media (max-width: 640px) {
+    .dia { grid-template-columns: 36px 1fr; gap: var(--space-3); }
+    .timeline-track { left: 17px; }
+    .marca { width: 36px; height: 36px; font-size: 1rem; }
+    .actividad { grid-template-columns: 1fr; gap: 0.2rem; padding: var(--space-4); }
+    .linea { grid-template-columns: 44px 1fr; gap: var(--space-2); padding-inline: var(--space-2); }
+    .fotos.n3 { grid-template-columns: 1fr 1fr; grid-template-rows: auto; }
+    .fotos.n3 .foto:first-child { grid-column: span 2; grid-row: auto; min-height: 200px; }
+  }
+</style>
