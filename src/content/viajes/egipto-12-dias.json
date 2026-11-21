@@ -1,0 +1,3447 @@
+{
+  "meta": {
+    "titulo": "Egipto legendario: faraones, desierto y mar Rojo en 12 días",
+    "resumen": "El Cairo y las pirámides de Guiza, los templos de Asuán y Abu Simbel, las tumbas de Luxor y el final en Hurghada con snorkel, cuatrimotos en el desierto y noches junto al mar Rojo.",
+    "destino": "El Cairo, Guiza, Asuán, Abu Simbel, Luxor y Hurghada",
+    "pais": "Egipto",
+    "region": "África",
+    "duracionDias": 12,
+    "mesesIdeales": [
+      2,
+      3,
+      10,
+      11
+    ],
+    "temporadaRecomendada": "Octubre a marzo es la mejor época para visitar los monumentos del Alto Egipto. Mayo es viable y ofrece buenas condiciones para actividades en el mar Rojo, pero las temperaturas de Luxor y Asuán pueden superar los 40 °C. Se recomienda realizar las visitas arqueológicas temprano. Para este viaje se contempla mayo de 2028.",
+    "estilo": "medio",
+    "dificultad": "exigente",
+    "idealPara": [
+      "Grupos de amigos",
+      "Viajes de graduación",
+      "Amantes de la historia",
+      "Viajeros aventureros",
+      "Jóvenes que buscan cultura y vida nocturna"
+    ],
+    "etiquetas": [
+      "historia",
+      "arqueología",
+      "pirámides",
+      "faraones",
+      "desierto",
+      "aventura",
+      "snorkel",
+      "mar Rojo",
+      "cultura",
+      "vida nocturna",
+      "viaje en grupo"
+    ],
+    "fechaInvestigacion": "2026-11-21",
+    "colorAcento": "#76501F",
+    "portada": {
+      "url": "egipto-12-dias/panoramica-horizontal-de-la-gran-esfinge-998dc1.jpg",
+      "alt": "Panorámica horizontal de la Gran Esfinge y las pirámides de Guiza bajo el cielo del desierto egipcio",
+      "credito": "kallerna",
+      "licencia": "CC BY-SA 3.0",
+      "fuente": "https://commons.wikimedia.org/wiki/File:Sphinx_and_pyramids_of_Giza_panorama.jpg"
+    },
+    "galeria": [
+      {
+        "url": "egipto-12-dias/las-tres-piramides-principales-de-guiza-276f60.jpg",
+        "alt": "Las tres pirámides principales de Guiza vistas desde el desierto",
+        "credito": "Benjamin Inbar",
+        "licencia": "CC BY-SA 4.0",
+        "fuente": "https://commons.wikimedia.org/wiki/File:Giza_Pyramids_Panorama.jpg"
+      },
+      {
+        "url": "egipto-12-dias/fachada-monumental-del-gran-templo-de-ra-bbd9b1.jpg",
+        "alt": "Fachada monumental del Gran Templo de Ramsés II en Abu Simbel",
+        "credito": "Benjamin Inbar",
+        "licencia": "CC BY-SA 4.0",
+        "fuente": "https://commons.wikimedia.org/wiki/File:Abu_Simbel_Great_Temple.jpg"
+      },
+      {
+        "url": "egipto-12-dias/embarcaciones-tradicionales-de-vela-nave-7eb503.jpg",
+        "alt": "Embarcaciones tradicionales de vela navegando por el río Nilo en Asuán",
+        "credito": "Vyacheslav Argenberg",
+        "licencia": "CC BY 4.0",
+        "fuente": "https://commons.wikimedia.org/wiki/File:Nile_River,_Feluccas,_Aswan,_Egypt.jpg"
+      },
+      {
+        "url": "egipto-12-dias/templo-funerario-de-hatshepsut-integrado-169c15.jpg",
+        "alt": "Templo funerario de Hatshepsut integrado en las montañas desérticas de Luxor",
+        "credito": "Zezinho68",
+        "licencia": "CC BY-SA 4.0",
+        "fuente": "https://commons.wikimedia.org/wiki/File:Deir_el-Bahari.jpg"
+      },
+      {
+        "url": "egipto-12-dias/arquitectura-triangular-iluminada-del-gr-f2a387.jpg",
+        "alt": "Arquitectura triangular iluminada del Gran Museo Egipcio de Guiza",
+        "credito": "Mohamed abdelzaher",
+        "licencia": "CC BY-SA 4.0",
+        "fuente": "https://commons.wikimedia.org/wiki/File:Grand_Egyptian_Museum.jpg"
+      },
+      {
+        "url": "egipto-12-dias/agua-turquesa-del-mar-rojo-y-barcos-turi-7d9a35.jpg",
+        "alt": "Agua turquesa del mar Rojo y barcos turísticos frente a la isla Giftun",
+        "credito": "Kudak",
+        "licencia": "CC BY-SA 4.0",
+        "fuente": "https://commons.wikimedia.org/wiki/File:Giftun-hurgada.jpg"
+      }
+    ]
+  },
+  "moneda": {
+    "codigo": "EGP",
+    "simbolo": "E£",
+    "localPorUSD": 53.81,
+    "copPorUSD": 3462,
+    "fechaTasa": "2026-11-21"
+  },
+  "comoLlegar": {
+    "resumen": "No hay vuelos directos: se conecta en Madrid, Estambul o París hasta El Cairo (17–30 h). La ruta termina en Hurghada, con vuelo doméstico a El Cairo para el regreso; conviene una sola reserva con conexión protegida.",
+    "aeropuertoLlegada": "Aeropuerto Internacional de El Cairo (CAI), El Cairo, Egipto",
+    "delAeropuertoAlCentro": "El aeropuerto está a 20–25 km del centro: 35–90 min según el tráfico, en bus aeroportuario, Uber o traslado privado.",
+    "rutas": [
+      {
+        "origen": "Medellín",
+        "ruta": "MDE → MAD → CAI",
+        "aerolineas": [
+          "Air Europa",
+          "Iberia",
+          "EgyptAir"
+        ],
+        "duracion": "18-25 h por trayecto, incluyendo conexión",
+        "escalas": 1,
+        "precioUSD": {
+          "min": 1250,
+          "max": 2150
+        }
+      },
+      {
+        "origen": "Bogotá",
+        "ruta": "BOG → IST → CAI",
+        "aerolineas": [
+          "Turkish Airlines"
+        ],
+        "duracion": "18-25 h por trayecto, incluyendo conexión",
+        "escalas": 1,
+        "precioUSD": {
+          "min": 1100,
+          "max": 1900
+        }
+      },
+      {
+        "origen": "Medellín",
+        "ruta": "MDE → BOG → CDG → CAI",
+        "aerolineas": [
+          "Avianca",
+          "Air France"
+        ],
+        "duracion": "21-30 h por trayecto, incluyendo conexiones",
+        "escalas": 2,
+        "precioUSD": {
+          "min": 1350,
+          "max": 2300
+        }
+      }
+    ]
+  },
+  "itinerario": [
+    {
+      "dia": 1,
+      "titulo": "Llegada a El Cairo: primer encuentro con el Nilo",
+      "ciudad": "El Cairo",
+      "coords": {
+        "lat": 30.0444,
+        "lng": 31.2357
+      },
+      "resumen": "Llegada a Egipto, instalación en el alojamiento y una primera inmersión en la capital. El recorrido presenta el Museo Egipcio de la plaza Tahrir, el centro histórico moderno y las vistas nocturnas del Nilo. El ritmo es moderado para recuperarse del vuelo internacional.",
+      "imagenes": [
+        {
+          "url": "egipto-12-dias/arquitectura-triangular-iluminada-del-gr-f2a387.jpg",
+          "alt": "Arquitectura contemporánea del Gran Museo Egipcio iluminada al anochecer",
+          "credito": "Mohamed abdelzaher",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Grand_Egyptian_Museum.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "12:30",
+          "nombre": "Museo Egipcio de la plaza Tahrir",
+          "descripcion": "Primera aproximación a la civilización faraónica mediante esculturas, sarcófagos y colecciones arqueológicas. Este museo es distinto del Gran Museo Egipcio de Guiza, que se visita al día siguiente.",
+          "duracion": "2 h",
+          "costo": 650,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 30.0478,
+            "lng": 31.2336
+          },
+          "link": "https://egymonuments.gov.eg/",
+          "consejo": "Confirmar precio y horario vigentes. Las colecciones pueden cambiar tras el traslado de piezas al Gran Museo Egipcio."
+        },
+        {
+          "hora": "16:30",
+          "nombre": "Paseo por el puente Qasr El Nil",
+          "descripcion": "Caminata por uno de los puentes más conocidos de El Cairo, con vistas panorámicas del Nilo, la Torre de El Cairo y los edificios históricos.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 30.044,
+            "lng": 31.2297
+          }
+        },
+        {
+          "hora": "18:00",
+          "nombre": "Plaza Tahrir y centro de El Cairo",
+          "descripcion": "Exploración de las calles del centro, su arquitectura y su ambiente nocturno. Primera oportunidad para conocer la dinámica de la ciudad.",
+          "duracion": "1 h 15 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 30.0445,
+            "lng": 31.2357
+          },
+          "consejo": "Cruzar las avenidas con precaución y no aceptar servicios de desconocidos sin acordar condiciones."
+        },
+        {
+          "niveles": [
+            "medio",
+            "alto"
+          ],
+          "hora": "21:30",
+          "nombre": "Terraza nocturna frente al Nilo",
+          "descripcion": "Cierre del primer día con vistas al río desde una terraza del hotel o un establecimiento cercano.",
+          "duracion": "45 min",
+          "costo": 0,
+          "tipo": "vida-nocturna",
+          "coords": {
+            "lat": 30.0439,
+            "lng": 31.2291
+          }
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "11:45",
+            "momento": "desayuno",
+            "lugar": "Cafetería del Aeropuerto Internacional de El Cairo",
+            "plato": "Sándwich de queso, café y agua",
+            "costo": 210
+          },
+          {
+            "hora": "15:00",
+            "momento": "almuerzo",
+            "lugar": "Koshary Abou Tarek, Downtown",
+            "plato": "Koshari clásico con lentejas, arroz, pasta y cebolla frita",
+            "costo": 220,
+            "link": "https://www.koshary-aboutarek.com/"
+          },
+          {
+            "hora": "20:00",
+            "momento": "cena",
+            "lugar": "Felfela, Downtown",
+            "plato": "Sándwiches de taameya y ensalada",
+            "costo": 290,
+            "link": "https://felfela.com/"
+          }
+        ],
+        "medio": [
+          {
+            "hora": "11:45",
+            "momento": "desayuno",
+            "lugar": "Cafetería del Aeropuerto Internacional de El Cairo",
+            "plato": "Croissant, yogur, fruta y café",
+            "costo": 380
+          },
+          {
+            "hora": "15:00",
+            "momento": "almuerzo",
+            "lugar": "Felfela, Downtown",
+            "plato": "Kofta a la parrilla, arroz y ensalada",
+            "costo": 650,
+            "link": "https://felfela.com/"
+          },
+          {
+            "hora": "20:00",
+            "momento": "cena",
+            "lugar": "Restaurante del Steigenberger Hotel El Tahrir",
+            "plato": "Parrillada egipcia con guarniciones",
+            "costo": 1150,
+            "link": "https://hrewards.com/en/steigenberger-hotel-el-tahrir-cairo/restaurant-bar"
+          }
+        ],
+        "alto": [
+          {
+            "hora": "11:45",
+            "momento": "desayuno",
+            "lugar": "Salón de restauración del Aeropuerto Internacional de El Cairo",
+            "plato": "Desayuno completo con huevos, fruta y café",
+            "costo": 750
+          },
+          {
+            "hora": "15:00",
+            "momento": "almuerzo",
+            "lugar": "139 Pavilion, Marriott Mena House",
+            "plato": "Selección de cocina mediterránea con proteína a la parrilla",
+            "costo": 1900,
+            "link": "https://www.marriott.com/en-us/hotels/caimn-marriott-mena-house-cairo/dining/"
+          },
+          {
+            "hora": "20:00",
+            "momento": "cena",
+            "lugar": "139 Pavilion, Marriott Mena House",
+            "plato": "Cena de tres tiempos con especialidades egipcias e internacionales",
+            "costo": 2600,
+            "link": "https://www.marriott.com/en-us/hotels/caimn-marriott-mena-house-cairo/dining/"
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "10:15",
+          "de": "Aeropuerto Internacional de El Cairo",
+          "a": "Holy Sheet Hostel, Downtown",
+          "medio": "Autobús aeroportuario y transporte urbano",
+          "duracion": "1 h 15 min",
+          "costo": 250,
+          "consejo": "La conexión urbana requiere confirmar parada y disponibilidad según la terminal."
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "10:15",
+          "de": "Aeropuerto Internacional de El Cairo",
+          "a": "Steigenberger Hotel El Tahrir",
+          "medio": "Uber o traslado reservado",
+          "duracion": "55 min",
+          "costo": 750
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "10:15",
+          "de": "Aeropuerto Internacional de El Cairo",
+          "a": "Marriott Mena House",
+          "medio": "Vehículo privado con conductor",
+          "duracion": "1 h 10 min",
+          "costo": 1800
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "11:55",
+          "de": "Marriott Mena House",
+          "a": "Museo Egipcio de Tahrir y recorrido urbano",
+          "medio": "Vehículo privado contratado por la tarde, incluido regreso",
+          "duracion": "45 min de ida y servicio a disposición",
+          "costo": 1600
+        },
+        {
+          "niveles": [
+            "economico",
+            "medio"
+          ],
+          "hora": "12:00",
+          "de": "Alojamiento de Downtown",
+          "a": "Museo Egipcio y plaza Tahrir",
+          "medio": "Caminata por el centro",
+          "duracion": "15 min",
+          "costo": 0
+        }
+      ],
+      "planB": "Si hay retrasos en el vuelo o el museo cierra antes de la llegada, reducir el recorrido a la plaza Tahrir y el paseo por el Nilo. Mantener la primera noche en El Cairo."
+    },
+    {
+      "dia": 2,
+      "titulo": "Pirámides de Guiza, Esfinge y Gran Museo Egipcio",
+      "ciudad": "Guiza",
+      "coords": {
+        "lat": 29.9792,
+        "lng": 31.1342
+      },
+      "resumen": "El gran día faraónico: las pirámides de Keops, Kefrén y Micerino, la Gran Esfinge y el Gran Museo Egipcio. La experiencia alta añade la entrada al interior de la Gran Pirámide. Es una de las jornadas más importantes del viaje.",
+      "imagenes": [
+        {
+          "url": "egipto-12-dias/panoramica-horizontal-de-la-gran-esfinge-998dc1.jpg",
+          "alt": "La Gran Esfinge con las pirámides de Kefrén y Keops en el horizonte",
+          "credito": "kallerna",
+          "licencia": "CC BY-SA 3.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Sphinx_and_pyramids_of_Giza_panorama.jpg"
+        },
+        {
+          "url": "egipto-12-dias/arquitectura-triangular-iluminada-del-gr-f2a387.jpg",
+          "alt": "Exterior del Gran Museo Egipcio",
+          "credito": "Mohamed abdelzaher",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Grand_Egyptian_Museum.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "08:15",
+          "nombre": "Meseta de las Pirámides de Guiza",
+          "descripcion": "Recorrido por las pirámides de Keops, Kefrén y Micerino. La entrada general permite visitar el conjunto exterior, pero no el interior de la Gran Pirámide.",
+          "duracion": "2 h",
+          "costo": 700,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 29.9792,
+            "lng": 31.1342
+          },
+          "link": "https://egymonuments.gov.eg/",
+          "consejo": "Llevar mínimo dos litros de agua, gorra y protección solar. No aceptar paseos en camello que no hayan sido contratados previamente."
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "10:30",
+          "nombre": "Interior de la Gran Pirámide de Keops",
+          "descripcion": "Ingreso a los corredores y cámaras interiores de la pirámide más grande de Egipto.",
+          "duracion": "50 min",
+          "costo": 1000,
+          "tipo": "aventura",
+          "coords": {
+            "lat": 29.9792,
+            "lng": 31.1342
+          },
+          "consejo": "No es recomendable para personas con claustrofobia, limitaciones de movilidad o problemas importantes de tolerancia al calor."
+        },
+        {
+          "hora": "11:45",
+          "nombre": "Gran Esfinge y Templo del Valle",
+          "descripcion": "Visita al monumento con cuerpo de león y cabeza humana, asociado al complejo funerario de Kefrén.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 29.9753,
+            "lng": 31.1376
+          },
+          "consejo": "La visita está cubierta por la entrada general a la meseta."
+        },
+        {
+          "hora": "15:15",
+          "nombre": "Gran Museo Egipcio",
+          "descripcion": "Recorrido por las grandes galerías arqueológicas, las colecciones de Tutankamón, la estatua de Ramsés II y el museo de las embarcaciones de Keops.",
+          "duracion": "3 h",
+          "costo": 1830,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 29.995,
+            "lng": 31.1193
+          },
+          "link": "https://tickets.gem.eg/",
+          "consejo": "Reservar una franja horaria oficial. El precio de referencia para extranjeros corresponde a noviembre de 2026."
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "06:45",
+            "momento": "desayuno",
+            "lugar": "Holy Sheet Hostel, cocina común",
+            "plato": "Pan, huevos, fruta y té",
+            "costo": 180
+          },
+          {
+            "hora": "13:15",
+            "momento": "almuerzo",
+            "lugar": "Cafetería del sector de la entrada de Guiza",
+            "plato": "Shawarma de pollo con papas y agua",
+            "costo": 320
+          },
+          {
+            "hora": "20:15",
+            "momento": "cena",
+            "lugar": "Koshary Abou Tarek, Downtown",
+            "plato": "Koshari grande y bebida",
+            "costo": 240,
+            "link": "https://www.koshary-aboutarek.com/"
+          }
+        ],
+        "medio": [
+          {
+            "hora": "06:45",
+            "momento": "desayuno",
+            "lugar": "Steigenberger Hotel El Tahrir",
+            "plato": "Desayuno buffet oriental e internacional",
+            "costo": 0,
+            "link": "https://hrewards.com/en/steigenberger-hotel-el-tahrir-cairo/restaurant-bar"
+          },
+          {
+            "hora": "13:15",
+            "momento": "almuerzo",
+            "lugar": "9 Pyramids Lounge, Guiza",
+            "plato": "Pollo a la parrilla con arroz, ensalada y limonada",
+            "costo": 1050
+          },
+          {
+            "hora": "20:15",
+            "momento": "cena",
+            "lugar": "Felfela, Downtown",
+            "plato": "Mezze egipcio, kebab y postre",
+            "costo": 750,
+            "link": "https://felfela.com/"
+          }
+        ],
+        "alto": [
+          {
+            "hora": "06:45",
+            "momento": "desayuno",
+            "lugar": "139 Pavilion, Marriott Mena House",
+            "plato": "Buffet premium con frutas, panes y platos preparados al momento",
+            "costo": 0
+          },
+          {
+            "hora": "13:15",
+            "momento": "almuerzo",
+            "lugar": "Khufu's Restaurant, Guiza",
+            "plato": "Menú contemporáneo de inspiración egipcia",
+            "costo": 3000
+          },
+          {
+            "hora": "20:15",
+            "momento": "cena",
+            "lugar": "139 Pavilion, Marriott Mena House",
+            "plato": "Parrillada premium y postre egipcio",
+            "costo": 2700,
+            "link": "https://www.marriott.com/en-us/hotels/caimn-marriott-mena-house-cairo/dining/"
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "07:15",
+          "de": "Downtown",
+          "a": "Entrada de las pirámides de Guiza",
+          "medio": "Metro y microbús local",
+          "duracion": "1 h",
+          "costo": 85
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "07:15",
+          "de": "Steigenberger El Tahrir",
+          "a": "Guiza y Gran Museo Egipcio",
+          "medio": "Uber con traslados urbanos y regreso incluidos",
+          "duracion": "55 min de ida y desplazamientos posteriores",
+          "costo": 1150
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "07:50",
+          "de": "Marriott Mena House",
+          "a": "Pirámides, Esfinge y Gran Museo Egipcio",
+          "medio": "Vehículo privado a disposición con conductor",
+          "duracion": "15 min iniciales y traslados durante el día",
+          "costo": 2100
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "14:30",
+          "de": "Entrada de Guiza",
+          "a": "Gran Museo Egipcio",
+          "medio": "Taxi compartido",
+          "duracion": "20 min",
+          "costo": 180
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "18:45",
+          "de": "Gran Museo Egipcio",
+          "a": "Downtown",
+          "medio": "Taxi compartido",
+          "duracion": "1 h",
+          "costo": 320
+        }
+      ],
+      "planB": "Si el Gran Museo Egipcio modifica sus horarios o agota entradas, realizar primero el museo y después una visita reducida a la meseta, siempre respetando los horarios oficiales. Si hay tormenta de arena, priorizar el museo y reprogramar Guiza."
+    },
+    {
+      "dia": 3,
+      "titulo": "El Cairo islámico, mezquitas y bazares",
+      "ciudad": "El Cairo",
+      "coords": {
+        "lat": 30.047,
+        "lng": 31.262
+      },
+      "resumen": "Un día dedicado a la historia medieval de El Cairo, su arquitectura islámica, la Ciudadela de Saladino y el famoso bazar Khan el-Khalili. El plan combina monumentos, gastronomía tradicional y compras.",
+      "imagenes": [
+        {
+          "url": "egipto-12-dias/arquitectura-historica-islamica-en-la-zo-0a6ee2.jpg",
+          "alt": "Arquitectura histórica islámica en la zona de Khan el-Khalili",
+          "credito": "Appooda",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Khan_El_Khalili.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "08:30",
+          "nombre": "Ciudadela de Saladino y Mezquita de Muhammad Ali",
+          "descripcion": "Visita a la fortaleza histórica y la gran mezquita otomana, con vistas elevadas de la ciudad.",
+          "duracion": "2 h",
+          "costo": 650,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 30.0299,
+            "lng": 31.2608
+          },
+          "link": "https://www.cairo.gov.eg/en/tourism/tourism-destinations/cultural/saladin-citadel/"
+        },
+        {
+          "hora": "11:15",
+          "nombre": "Mezquita-Madrasa del Sultán Hassan",
+          "descripcion": "Recorrido por uno de los grandes monumentos de la arquitectura mameluca.",
+          "duracion": "1 h 15 min",
+          "costo": 400,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 30.0312,
+            "lng": 31.2566
+          }
+        },
+        {
+          "hora": "15:00",
+          "nombre": "Calle Al-Muizz",
+          "descripcion": "Caminata por una de las calles históricas más importantes del Cairo medieval, rodeada de mezquitas, fuentes y edificios patrimoniales.",
+          "duracion": "1 h 30 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 30.0492,
+            "lng": 31.2619
+          }
+        },
+        {
+          "hora": "17:00",
+          "nombre": "Bazar Khan el-Khalili",
+          "descripcion": "Exploración de puestos de especias, lámparas, artesanías, textiles y souvenirs. Espacio libre para regatear y conocer el comercio tradicional.",
+          "duracion": "2 h",
+          "costo": 0,
+          "tipo": "compras",
+          "coords": {
+            "lat": 30.0476,
+            "lng": 31.2624
+          },
+          "consejo": ""
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "07:00",
+            "momento": "desayuno",
+            "lugar": "Holy Sheet Hostel, cocina común",
+            "plato": "Ful medames, pan baladi y té",
+            "costo": 190
+          },
+          {
+            "hora": "13:00",
+            "momento": "almuerzo",
+            "lugar": "Felfela, Downtown",
+            "plato": "Taameya con ensalada y pan",
+            "costo": 280,
+            "link": "https://felfela.com/"
+          },
+          {
+            "hora": "20:00",
+            "momento": "cena",
+            "lugar": "Cafetería tradicional de Khan el-Khalili",
+            "plato": "Shawarma de pollo y té",
+            "costo": 330
+          }
+        ],
+        "medio": [
+          {
+            "hora": "07:00",
+            "momento": "desayuno",
+            "lugar": "Steigenberger El Tahrir",
+            "plato": "Buffet de desayuno",
+            "costo": 0
+          },
+          {
+            "hora": "13:00",
+            "momento": "almuerzo",
+            "lugar": "Felfela, Downtown",
+            "plato": "Molokhia con pollo y arroz",
+            "costo": 720,
+            "link": "https://felfela.com/"
+          },
+          {
+            "hora": "20:00",
+            "momento": "cena",
+            "lugar": "Naguib Mahfouz Café, Khan el-Khalili",
+            "plato": "Kofta, mezze egipcio y postre",
+            "costo": 1350
+          }
+        ],
+        "alto": [
+          {
+            "hora": "07:00",
+            "momento": "desayuno",
+            "lugar": "Marriott Mena House",
+            "plato": "Buffet premium",
+            "costo": 0
+          },
+          {
+            "hora": "13:00",
+            "momento": "almuerzo",
+            "lugar": "Naguib Mahfouz Café, Khan el-Khalili",
+            "plato": "Menú de especialidades egipcias con mezze y carne",
+            "costo": 1800
+          },
+          {
+            "hora": "20:00",
+            "momento": "cena",
+            "lugar": "139 Pavilion, Marriott Mena House",
+            "plato": "Cena de tres tiempos y postre",
+            "costo": 2800
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "07:45",
+          "de": "Downtown",
+          "a": "Ciudadela de Saladino",
+          "medio": "Microbús y taxi local",
+          "duracion": "40 min",
+          "costo": 180
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "14:15",
+          "de": "Downtown",
+          "a": "Calle Al-Muizz",
+          "medio": "Transporte urbano",
+          "duracion": "25 min",
+          "costo": 70
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "21:00",
+          "de": "Khan el-Khalili",
+          "a": "Holy Sheet Hostel",
+          "medio": "Taxi compartido",
+          "duracion": "25 min",
+          "costo": 150
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "07:45",
+          "de": "Steigenberger El Tahrir",
+          "a": "Ciudadela, Sultán Hassan, Al-Muizz y Khan el-Khalili",
+          "medio": "Uber y taxis contratados para el circuito, incluido regreso",
+          "duracion": "Traslados escalonados durante el día",
+          "costo": 1050
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "07:45",
+          "de": "Marriott Mena House",
+          "a": "Conjunto monumental del Cairo islámico y regreso",
+          "medio": "Vehículo privado de jornada completa",
+          "duracion": "Servicio disponible durante 12 h",
+          "costo": 2400
+        }
+      ],
+      "planB": "Si hay cierres religiosos en las mezquitas, recorrer Al-Muizz, Khan el-Khalili y otros espacios públicos. Consultar horarios de oración y normas de acceso."
+    },
+    {
+      "dia": 4,
+      "titulo": "Vuelo a Asuán: templos, Nubia y el Nilo",
+      "ciudad": "Asuán",
+      "coords": {
+        "lat": 24.0889,
+        "lng": 32.8998
+      },
+      "resumen": "Vuelo doméstico desde El Cairo hasta Asuán. Comienza el recorrido por el sur de Egipto con el Museo Nubio, el templo de Filae, el paseo ribereño y los mercados locales.",
+      "imagenes": [
+        {
+          "url": "egipto-12-dias/patios-y-columnas-del-templo-de-filae-en-f11ba6.jpg",
+          "alt": "Patios y columnas del templo de Filae en Asuán",
+          "credito": "Aimty17",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Philae_temple_Aswan.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "12:00",
+          "nombre": "Museo Nubio de Asuán",
+          "descripcion": "Museo dedicado a la historia y cultura nubia, sus tradiciones, artefactos y relación con el río Nilo.",
+          "duracion": "1 h 30 min",
+          "costo": 400,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 24.0803,
+            "lng": 32.8942
+          }
+        },
+        {
+          "hora": "15:30",
+          "nombre": "Templo de Filae",
+          "descripcion": "Visita al templo de Isis, reconstruido sobre una isla tras los proyectos de protección patrimonial relacionados con la presa de Asuán.",
+          "duracion": "1 h 45 min",
+          "costo": 550,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 24.0257,
+            "lng": 32.8842
+          },
+          "link": "https://egymonuments.gov.eg/",
+          "consejo": "El acceso requiere una embarcación desde el muelle."
+        },
+        {
+          "hora": "18:30",
+          "nombre": "Paseo por la Corniche de Asuán",
+          "descripcion": "Caminata al atardecer frente al Nilo, observando las embarcaciones y las islas cercanas.",
+          "duracion": "45 min",
+          "costo": 0,
+          "tipo": "naturaleza",
+          "coords": {
+            "lat": 24.0901,
+            "lng": 32.8947
+          }
+        },
+        {
+          "hora": "20:45",
+          "nombre": "Zoco de Asuán",
+          "descripcion": "Recorrido por un mercado tradicional de especias, perfumes, tejidos, hibisco y artesanías nubias.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "compras",
+          "coords": {
+            "lat": 24.0885,
+            "lng": 32.9006
+          }
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "07:00",
+            "momento": "desayuno",
+            "lugar": "Cafetería de salidas domésticas, Aeropuerto de El Cairo",
+            "plato": "Sándwich de queso, fruta y agua",
+            "costo": 270
+          },
+          {
+            "hora": "14:00",
+            "momento": "almuerzo",
+            "lugar": "Al Makka Restaurant, Asuán",
+            "plato": "Pollo asado con arroz y ensalada",
+            "costo": 370
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Restaurante local del zoco de Asuán",
+            "plato": "Ful, taameya y pan baladi",
+            "costo": 270
+          }
+        ],
+        "medio": [
+          {
+            "hora": "07:00",
+            "momento": "desayuno",
+            "lugar": "Cafetería de salidas domésticas, Aeropuerto de El Cairo",
+            "plato": "Desayuno continental con café",
+            "costo": 450
+          },
+          {
+            "hora": "14:00",
+            "momento": "almuerzo",
+            "lugar": "Restaurante del Basma Hotel Aswan",
+            "plato": "Kofta con arroz y vegetales",
+            "costo": 850,
+            "link": "https://basmahotel.com/"
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Al Makka Restaurant, Asuán",
+            "plato": "Parrillada de kebab y kofta",
+            "costo": 900
+          }
+        ],
+        "alto": [
+          {
+            "hora": "07:00",
+            "momento": "desayuno",
+            "lugar": "Salón de restauración del Aeropuerto de El Cairo",
+            "plato": "Desayuno completo y café",
+            "costo": 700
+          },
+          {
+            "hora": "14:00",
+            "momento": "almuerzo",
+            "lugar": "Restaurante del Old Cataract, Asuán",
+            "plato": "Pescado fresco del Nilo con guarniciones",
+            "costo": 2400,
+            "link": "https://www.mandarinoriental.com/en/aswan/old-cataract"
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Restaurante del Old Cataract, Asuán",
+            "plato": "Cena gourmet de cocina egipcia contemporánea",
+            "costo": 3400,
+            "link": "https://www.mandarinoriental.com/en/aswan/old-cataract"
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "05:45",
+          "de": "Holy Sheet Hostel",
+          "a": "Aeropuerto Internacional de El Cairo",
+          "medio": "Transporte urbano y taxi compartido",
+          "duracion": "1 h 10 min",
+          "costo": 300
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "05:45",
+          "de": "Steigenberger El Tahrir",
+          "a": "Aeropuerto de El Cairo",
+          "medio": "Uber",
+          "duracion": "50 min",
+          "costo": 750
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "05:45",
+          "de": "Marriott Mena House",
+          "a": "Aeropuerto de El Cairo",
+          "medio": "Traslado privado",
+          "duracion": "1 h 10 min",
+          "costo": 1700
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "09:00",
+          "de": "El Cairo (CAI)",
+          "a": "Asuán (ASW)",
+          "medio": "Vuelo doméstico en clase económica",
+          "duracion": "1 h 25 min",
+          "costo": 4800,
+          "consejo": "Horario de planificación, no vuelo confirmado para mayo de 2028."
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "09:00",
+          "de": "El Cairo (CAI)",
+          "a": "Asuán (ASW)",
+          "medio": "Vuelo doméstico en clase económica con equipaje",
+          "duracion": "1 h 25 min",
+          "costo": 6500
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "09:00",
+          "de": "El Cairo (CAI)",
+          "a": "Asuán (ASW)",
+          "medio": "Vuelo doméstico con tarifa flexible",
+          "duracion": "1 h 25 min",
+          "costo": 9500
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "10:55",
+          "de": "Aeropuerto de Asuán",
+          "a": "Go Inn Backpackers y Museo Nubio",
+          "medio": "Taxi compartido",
+          "duracion": "40 min",
+          "costo": 400
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "10:55",
+          "de": "Aeropuerto de Asuán",
+          "a": "Basma Hotel y Museo Nubio",
+          "medio": "Taxi privado compartido por el grupo",
+          "duracion": "30 min",
+          "costo": 650
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "10:55",
+          "de": "Aeropuerto de Asuán",
+          "a": "Old Cataract y circuito de la tarde",
+          "medio": "Vehículo privado con conductor",
+          "duracion": "Servicio a disposición durante la tarde",
+          "costo": 2100
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "14:45",
+          "de": "Centro de Asuán",
+          "a": "Muelle de Filae y regreso al centro",
+          "medio": "Taxi compartido",
+          "duracion": "1 h 10 min total",
+          "costo": 420
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "14:45",
+          "de": "Basma Hotel",
+          "a": "Muelle de Filae y regreso",
+          "medio": "Taxi reservado",
+          "duracion": "1 h total",
+          "costo": 650
+        },
+        {
+          "niveles": [
+            "economico",
+            "medio",
+            "alto"
+          ],
+          "hora": "15:10",
+          "de": "Muelle de Filae",
+          "a": "Isla de Filae y regreso",
+          "medio": "Lancha local de ida y vuelta",
+          "duracion": "25 min de navegación total",
+          "costo": 300,
+          "consejo": "Precio estimado por persona compartiendo embarcación; negociar el importe total antes de abordar."
+        }
+      ],
+      "planB": "Si se retrasa el vuelo, mantener Filae como visita prioritaria y trasladar el Museo Nubio al tiempo libre del día siguiente. Si las lanchas no operan, visitar el Museo Nubio y la Corniche."
+    },
+    {
+      "dia": 5,
+      "titulo": "Abu Simbel: los colosos de Ramsés II",
+      "ciudad": "Asuán",
+      "coords": {
+        "lat": 24.0889,
+        "lng": 32.8998
+      },
+      "resumen": "Excursión de madrugada hacia Abu Simbel, uno de los complejos monumentales más impresionantes de Egipto. Tras visitar los dos templos excavados en la roca, regreso a Asuán y navegación al atardecer por el Nilo.",
+      "imagenes": [
+        {
+          "url": "egipto-12-dias/fachada-monumental-del-gran-templo-de-ra-bbd9b1.jpg",
+          "alt": "Las enormes esculturas de Ramsés II en la fachada de Abu Simbel",
+          "credito": "Benjamin Inbar",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Abu_Simbel_Great_Temple.jpg"
+        },
+        {
+          "url": "egipto-12-dias/embarcaciones-tradicionales-de-vela-nave-7eb503.jpg",
+          "alt": "Falucas tradicionales navegando frente a las islas del Nilo",
+          "credito": "Vyacheslav Argenberg",
+          "licencia": "CC BY 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Nile_River,_Feluccas,_Aswan,_Egypt.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "08:00",
+          "nombre": "Gran Templo de Ramsés II",
+          "descripcion": "Visita al templo excavado en la roca con cuatro estatuas colosales de Ramsés II y salas interiores dedicadas al faraón y las divinidades del antiguo Egipto.",
+          "duracion": "1 h 30 min",
+          "costo": 822,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 22.3372,
+            "lng": 31.6258
+          },
+          "link": "https://egymonuments.gov.eg/",
+          "consejo": "La excursión requiere salir muy temprano. Llevar agua, sombrero y desayuno para el camino. Verificar la tarifa oficial de 2028."
+        },
+        {
+          "hora": "09:45",
+          "nombre": "Templo de Nefertari y Hathor",
+          "descripcion": "Visita al templo menor de Abu Simbel, dedicado a la reina Nefertari y la diosa Hathor.",
+          "duracion": "45 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 22.3367,
+            "lng": 31.6265
+          },
+          "consejo": "Su acceso está incluido en la entrada general al conjunto de Abu Simbel."
+        },
+        {
+          "hora": "17:15",
+          "nombre": "Navegación en faluca por el Nilo",
+          "descripcion": "Paseo en velero tradicional por las aguas de Asuán, observando las islas, las embarcaciones y el paisaje del Alto Egipto.",
+          "duracion": "1 h 15 min",
+          "costo": 0,
+          "tipo": "naturaleza",
+          "coords": {
+            "lat": 24.09,
+            "lng": 32.889
+          }
+        },
+        {
+          "hora": "19:00",
+          "nombre": "Mercado nocturno de Asuán",
+          "descripcion": "Paseo libre para comprar té de hibisco, especias, dulces y artesanías después de la excursión.",
+          "duracion": "45 min",
+          "costo": 0,
+          "tipo": "compras",
+          "coords": {
+            "lat": 24.0885,
+            "lng": 32.9006
+          }
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "04:00",
+            "momento": "desayuno",
+            "lugar": "Go Inn Backpackers, desayuno para llevar",
+            "plato": "Pan, huevos cocidos, banano y agua",
+            "costo": 210
+          },
+          {
+            "hora": "15:15",
+            "momento": "almuerzo",
+            "lugar": "Al Makka Restaurant, Asuán",
+            "plato": "Kofta, arroz y vegetales",
+            "costo": 390
+          },
+          {
+            "hora": "20:00",
+            "momento": "cena",
+            "lugar": "Restaurante local del centro de Asuán",
+            "plato": "Sándwich de pollo y ensalada",
+            "costo": 310
+          }
+        ],
+        "medio": [
+          {
+            "hora": "04:00",
+            "momento": "desayuno",
+            "lugar": "Basma Hotel, desayuno empacado",
+            "plato": "Sándwiches, fruta, yogur y jugo",
+            "costo": 0
+          },
+          {
+            "hora": "15:15",
+            "momento": "almuerzo",
+            "lugar": "El Dokka Restaurant, isla Eissa",
+            "plato": "Pescado del Nilo a la parrilla con arroz",
+            "costo": 980
+          },
+          {
+            "hora": "20:00",
+            "momento": "cena",
+            "lugar": "Restaurante del Basma Hotel",
+            "plato": "Parrillada oriental con guarniciones",
+            "costo": 1050,
+            "link": "https://basmahotel.com/"
+          }
+        ],
+        "alto": [
+          {
+            "hora": "04:00",
+            "momento": "desayuno",
+            "lugar": "Old Cataract, desayuno para llevar",
+            "plato": "Selección de panadería, fruta y bebidas",
+            "costo": 0
+          },
+          {
+            "hora": "15:15",
+            "momento": "almuerzo",
+            "lugar": "Restaurante del Old Cataract",
+            "plato": "Pescado del Nilo y ensalada mediterránea",
+            "costo": 2300
+          },
+          {
+            "hora": "20:00",
+            "momento": "cena",
+            "lugar": "Restaurante del Old Cataract",
+            "plato": "Menú degustación de cocina regional",
+            "costo": 3600
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "04:30",
+          "de": "Go Inn Backpackers, Asuán",
+          "a": "Abu Simbel",
+          "medio": "Minibús turístico compartido",
+          "duracion": "3 h 15 min",
+          "costo": 850
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "04:30",
+          "de": "Basma Hotel, Asuán",
+          "a": "Abu Simbel",
+          "medio": "Minibús turístico con aire acondicionado",
+          "duracion": "3 h 15 min",
+          "costo": 1600
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "04:30",
+          "de": "Old Cataract",
+          "a": "Abu Simbel",
+          "medio": "Vehículo privado con conductor",
+          "duracion": "3 h 15 min",
+          "costo": 3500
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "11:30",
+          "de": "Abu Simbel",
+          "a": "Asuán",
+          "medio": "Minibús turístico compartido",
+          "duracion": "3 h 15 min",
+          "costo": 0
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "11:30",
+          "de": "Abu Simbel",
+          "a": "Asuán",
+          "medio": "Minibús con aire acondicionado",
+          "duracion": "3 h 15 min",
+          "costo": 0
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "11:30",
+          "de": "Abu Simbel",
+          "a": "Old Cataract",
+          "medio": "Vehículo privado",
+          "duracion": "3 h 15 min",
+          "costo": 0
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "17:15",
+          "de": "Muelle de Asuán",
+          "a": "Circuito de las islas del Nilo y regreso",
+          "medio": "Faluca compartida",
+          "duracion": "1 h 15 min",
+          "costo": 350
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "17:15",
+          "de": "Muelle de Asuán",
+          "a": "Circuito de las islas del Nilo y regreso",
+          "medio": "Faluca privada para el grupo",
+          "duracion": "1 h 15 min",
+          "costo": 650
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "17:15",
+          "de": "Muelle del Old Cataract",
+          "a": "Circuito privado por el Nilo y regreso",
+          "medio": "Embarcación privada con tripulación",
+          "duracion": "1 h 15 min",
+          "costo": 1600
+        }
+      ],
+      "planB": "Si las autoridades suspenden la carretera o la excursión a Abu Simbel, visitar el Museo Nubio, la presa de Asuán y el Obelisco Inacabado. Reprogramar Abu Simbel solamente si puede conservarse la ruta posterior."
+    },
+    {
+      "dia": 6,
+      "titulo": "De Asuán a Luxor: la antigua Tebas",
+      "ciudad": "Luxor",
+      "coords": {
+        "lat": 25.6872,
+        "lng": 32.6396
+      },
+      "resumen": "Desplazamiento hacia Luxor, una de las mayores concentraciones arqueológicas del mundo. La tarde se dedica al Museo de Luxor, el Templo de Luxor iluminado y el mercado del centro.",
+      "imagenes": [
+        {
+          "url": "egipto-12-dias/columnas-monumentales-del-templo-de-luxo-6c0a2d.jpg",
+          "alt": "Columnas monumentales del Templo de Luxor iluminadas durante la noche",
+          "credito": "Sherif217",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Luxor_temple_at_night.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "14:30",
+          "nombre": "Museo de Luxor",
+          "descripcion": "Visita a una selección de esculturas, objetos funerarios y hallazgos procedentes de los templos y necrópolis de Tebas.",
+          "duracion": "1 h 30 min",
+          "costo": 400,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 25.7006,
+            "lng": 32.6409
+          },
+          "consejo": "Confirmar horarios de la tarde, ya que pueden variar según la temporada."
+        },
+        {
+          "hora": "17:00",
+          "nombre": "Templo de Luxor",
+          "descripcion": "Exploración de la avenida ceremonial, las estatuas de Ramsés II, patios y columnas del templo, aprovechando la iluminación vespertina.",
+          "duracion": "2 h",
+          "costo": 500,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 25.6995,
+            "lng": 32.639
+          },
+          "link": "https://egymonuments.gov.eg/"
+        },
+        {
+          "hora": "19:30",
+          "nombre": "Zoco de Luxor",
+          "descripcion": "Caminata nocturna por calles comerciales con productos locales, artesanías, perfumes y textiles.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "compras",
+          "coords": {
+            "lat": 25.7029,
+            "lng": 32.645
+          }
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "06:30",
+            "momento": "desayuno",
+            "lugar": "Go Inn Backpackers, Asuán",
+            "plato": "Pan, huevos, fruta y té",
+            "costo": 180
+          },
+          {
+            "hora": "12:45",
+            "momento": "almuerzo",
+            "lugar": "Al-Sahaby Lane Restaurant, Luxor",
+            "plato": "Koshari y ensalada",
+            "costo": 390,
+            "link": "https://www.nefertitihotel.com/al-sahaby-lane-restaurant"
+          },
+          {
+            "hora": "20:45",
+            "momento": "cena",
+            "lugar": "Restaurante local cerca del zoco de Luxor",
+            "plato": "Taameya, ful y pan",
+            "costo": 280
+          }
+        ],
+        "medio": [
+          {
+            "hora": "06:30",
+            "momento": "desayuno",
+            "lugar": "Basma Hotel, Asuán",
+            "plato": "Desayuno buffet",
+            "costo": 0
+          },
+          {
+            "hora": "12:45",
+            "momento": "almuerzo",
+            "lugar": "Al-Sahaby Lane Restaurant, Luxor",
+            "plato": "Pollo con arroz oriental y verduras",
+            "costo": 850,
+            "link": "https://www.nefertitihotel.com/al-sahaby-lane-restaurant"
+          },
+          {
+            "hora": "20:45",
+            "momento": "cena",
+            "lugar": "Sofra Restaurant, Luxor",
+            "plato": "Mezze, kofta y verduras rellenas",
+            "costo": 1050
+          }
+        ],
+        "alto": [
+          {
+            "hora": "06:30",
+            "momento": "desayuno",
+            "lugar": "Old Cataract, Asuán",
+            "plato": "Desayuno completo",
+            "costo": 0
+          },
+          {
+            "hora": "12:45",
+            "momento": "almuerzo",
+            "lugar": "Restaurante del Hilton Luxor Resort & Spa",
+            "plato": "Pescado a la parrilla y ensalada mediterránea",
+            "costo": 1900,
+            "link": "https://www.hilton.com/en/hotels/luxhitw-hilton-luxor-resort-and-spa/"
+          },
+          {
+            "hora": "20:45",
+            "momento": "cena",
+            "lugar": "Restaurante del Hilton Luxor Resort & Spa",
+            "plato": "Cena de tres tiempos con cocina internacional",
+            "costo": 2900
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "07:15",
+          "de": "Go Inn Backpackers",
+          "a": "Estación de Asuán",
+          "medio": "Taxi compartido",
+          "duracion": "20 min",
+          "costo": 150
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "07:15",
+          "de": "Basma Hotel",
+          "a": "Estación de Asuán",
+          "medio": "Taxi reservado",
+          "duracion": "20 min",
+          "costo": 280
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "08:00",
+          "de": "Estación de Asuán",
+          "a": "Estación de Luxor",
+          "medio": "Tren diurno con asiento de segunda clase para extranjero",
+          "duracion": "3 h 30 min",
+          "costo": 1100,
+          "consejo": "Hora y tarifa estimadas. Consultar el horario real y la tarifa para extranjeros en Egyptian National Railways."
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "08:00",
+          "de": "Estación de Asuán",
+          "a": "Estación de Luxor",
+          "medio": "Tren diurno de primera clase para extranjero",
+          "duracion": "3 h 30 min",
+          "costo": 1600
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "08:00",
+          "de": "Old Cataract, Asuán",
+          "a": "Hilton Luxor Resort & Spa",
+          "medio": "Vehículo privado interurbano con conductor",
+          "duracion": "3 h 30 min",
+          "costo": 4200
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "11:40",
+          "de": "Estación de Luxor",
+          "a": "Sweet Hostel Luxor",
+          "medio": "Taxi compartido",
+          "duracion": "15 min",
+          "costo": 150
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "11:40",
+          "de": "Estación de Luxor",
+          "a": "Nefertiti Hotel",
+          "medio": "Taxi",
+          "duracion": "15 min",
+          "costo": 220
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "14:00",
+          "de": "Hilton Luxor",
+          "a": "Museo de Luxor, Templo de Luxor y regreso",
+          "medio": "Vehículo privado para la tarde",
+          "duracion": "Servicio de 6 h",
+          "costo": 1300
+        }
+      ],
+      "planB": "Si hay retrasos ferroviarios, sustituir el tren por un vehículo contratado desde Asuán, sujeto a disponibilidad. Si se pierde la visita al museo, mantener el Templo de Luxor como prioridad."
+    },
+    {
+      "dia": 7,
+      "titulo": "Valle de los Reyes y el templo de Hatshepsut",
+      "ciudad": "Luxor",
+      "coords": {
+        "lat": 25.7402,
+        "lng": 32.6014
+      },
+      "resumen": "Jornada arqueológica por la orilla occidental del Nilo, dedicada a las tumbas faraónicas del Valle de los Reyes, el templo de Hatshepsut, los Colosos de Memnón y Medinet Habu.",
+      "imagenes": [
+        {
+          "url": "egipto-12-dias/corredor-interior-decorado-de-una-tumba-a56535.jpg",
+          "alt": "Corredor interior decorado de una tumba del Valle de los Reyes",
+          "credito": "ولاء",
+          "licencia": "Public domain",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Valley_of_the_Kings,_Egypt00.jpg"
+        },
+        {
+          "url": "egipto-12-dias/templo-funerario-de-hatshepsut-integrado-169c15.jpg",
+          "alt": "Templo de Hatshepsut en la ladera rocosa de Deir el-Bahari",
+          "credito": "Zezinho68",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Deir_el-Bahari.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "07:30",
+          "nombre": "Valle de los Reyes",
+          "descripcion": "Visita a varias tumbas reales del Imperio Nuevo y sus pinturas funerarias. La entrada básica permite acceder a un conjunto de tumbas seleccionadas.",
+          "duracion": "2 h 15 min",
+          "costo": 750,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 25.7402,
+            "lng": 32.6014
+          },
+          "link": "https://egymonuments.gov.eg/",
+          "consejo": "La tumba de Tutankamón y otras tumbas especiales pueden exigir entradas adicionales no incluidas."
+        },
+        {
+          "hora": "10:15",
+          "nombre": "Templo funerario de Hatshepsut",
+          "descripcion": "Recorrido por las terrazas y columnas del templo dedicado a la reina-faraón Hatshepsut.",
+          "duracion": "1 h 15 min",
+          "costo": 440,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 25.7381,
+            "lng": 32.606
+          }
+        },
+        {
+          "hora": "12:00",
+          "nombre": "Colosos de Memnón",
+          "descripcion": "Parada fotográfica ante las dos estatuas gigantes de Amenhotep III que vigilaban la entrada de su complejo funerario.",
+          "duracion": "30 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 25.7206,
+            "lng": 32.6105
+          }
+        },
+        {
+          "hora": "15:00",
+          "nombre": "Templo de Medinet Habu",
+          "descripcion": "Visita al complejo funerario de Ramsés III, famoso por sus relieves, inscripciones y patios monumentales.",
+          "duracion": "1 h 30 min",
+          "costo": 260,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 25.7204,
+            "lng": 32.6005
+          }
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "06:15",
+            "momento": "desayuno",
+            "lugar": "Sweet Hostel Luxor",
+            "plato": "Huevos, pan y té",
+            "costo": 170
+          },
+          {
+            "hora": "13:15",
+            "momento": "almuerzo",
+            "lugar": "Restaurante local de la orilla occidental de Luxor",
+            "plato": "Arroz, pollo y ensalada",
+            "costo": 390
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Al-Sahaby Lane Restaurant",
+            "plato": "Koshari con ensalada",
+            "costo": 390,
+            "link": "https://www.nefertitihotel.com/al-sahaby-lane-restaurant"
+          }
+        ],
+        "medio": [
+          {
+            "hora": "06:15",
+            "momento": "desayuno",
+            "lugar": "Nefertiti Hotel",
+            "plato": "Desayuno egipcio con pan, huevos y fruta",
+            "costo": 0
+          },
+          {
+            "hora": "13:15",
+            "momento": "almuerzo",
+            "lugar": "Restaurante local de la orilla occidental de Luxor",
+            "plato": "Kofta, arroz y verduras",
+            "costo": 850
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Sofra Restaurant, Luxor",
+            "plato": "Molokhia, pollo y mezze",
+            "costo": 1050
+          }
+        ],
+        "alto": [
+          {
+            "hora": "06:15",
+            "momento": "desayuno",
+            "lugar": "Hilton Luxor Resort & Spa",
+            "plato": "Desayuno buffet premium",
+            "costo": 0
+          },
+          {
+            "hora": "13:15",
+            "momento": "almuerzo",
+            "lugar": "Restaurante de cocina local en la orilla occidental",
+            "plato": "Menú egipcio con pollo a la parrilla y verduras",
+            "costo": 1600
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Hilton Luxor Resort & Spa",
+            "plato": "Cena de especialidades internacionales frente al Nilo",
+            "costo": 3000
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "06:50",
+          "de": "Sweet Hostel Luxor",
+          "a": "Valle de los Reyes, Hatshepsut, Colosos y Medinet Habu",
+          "medio": "Taxi compartido contratado para todo el circuito y regreso",
+          "duracion": "Servicio durante 10 h",
+          "costo": 950
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "06:50",
+          "de": "Nefertiti Hotel",
+          "a": "Circuito arqueológico de la orilla occidental",
+          "medio": "Vehículo climatizado para el grupo y regreso",
+          "duracion": "Servicio durante 10 h",
+          "costo": 1450
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "06:50",
+          "de": "Hilton Luxor",
+          "a": "Valle de los Reyes y templos funerarios",
+          "medio": "Vehículo privado con conductor durante todo el día",
+          "duracion": "Servicio durante 10 h",
+          "costo": 2600
+        }
+      ],
+      "planB": "Si alguna tumba está cerrada por conservación, visitar otras tumbas habilitadas. En caso de calor extremo, terminar las visitas exteriores antes del mediodía y priorizar lugares cubiertos durante la tarde."
+    },
+    {
+      "dia": 8,
+      "titulo": "Karnak, la avenida de las esfinges y el Nilo",
+      "ciudad": "Luxor",
+      "coords": {
+        "lat": 25.7188,
+        "lng": 32.6573
+      },
+      "resumen": "Segundo día completo en Luxor, centrado en el gigantesco complejo de Karnak, el Museo de la Momificación, la avenida de las esfinges y un paseo al atardecer por el Nilo.",
+      "imagenes": [
+        {
+          "url": "egipto-12-dias/relieves-e-inscripciones-jeroglificas-en-6821d2.jpg",
+          "alt": "Relieves e inscripciones jeroglíficas en el complejo del templo de Karnak",
+          "credito": "Mmelouk",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Karnak_temple_at_Luxor.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "08:00",
+          "nombre": "Complejo de templos de Karnak",
+          "descripcion": "Exploración del gran recinto religioso de Amón-Ra, incluyendo la sala hipóstila, los pilonos, obeliscos y patios ceremoniales.",
+          "duracion": "2 h 15 min",
+          "costo": 600,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 25.7188,
+            "lng": 32.6573
+          },
+          "link": "https://egymonuments.gov.eg/",
+          "consejo": "Comenzar temprano porque el recinto tiene muy poca sombra."
+        },
+        {
+          "hora": "11:00",
+          "nombre": "Museo de la Momificación",
+          "descripcion": "Visita a una exposición dedicada a las técnicas de preservación de cuerpos y las prácticas funerarias del antiguo Egipto.",
+          "duracion": "1 h",
+          "costo": 240,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 25.7053,
+            "lng": 32.6419
+          }
+        },
+        {
+          "hora": "15:00",
+          "nombre": "Avenida de las Esfinges",
+          "descripcion": "Caminata por un tramo de la vía ceremonial que conectaba Karnak con el Templo de Luxor.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 25.706,
+            "lng": 32.6469
+          },
+          "consejo": "Algunos sectores pueden tener restricciones. Este plan contempla solamente los tramos peatonales de acceso libre."
+        },
+        {
+          "hora": "17:30",
+          "nombre": "Paseo al atardecer por el Nilo",
+          "descripcion": "Navegación tranquila para contemplar las orillas de Luxor al final del día.",
+          "duracion": "1 h 15 min",
+          "costo": 0,
+          "tipo": "naturaleza",
+          "coords": {
+            "lat": 25.704,
+            "lng": 32.637
+          }
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "07:00",
+            "momento": "desayuno",
+            "lugar": "Sweet Hostel Luxor",
+            "plato": "Pan, huevo y té",
+            "costo": 180
+          },
+          {
+            "hora": "12:30",
+            "momento": "almuerzo",
+            "lugar": "Al-Sahaby Lane Restaurant",
+            "plato": "Koshari y ensalada",
+            "costo": 390,
+            "link": "https://www.nefertitihotel.com/al-sahaby-lane-restaurant"
+          },
+          {
+            "hora": "20:00",
+            "momento": "cena",
+            "lugar": "Restaurante local de la orilla oriental de Luxor",
+            "plato": "Shawarma de pollo y agua",
+            "costo": 330
+          }
+        ],
+        "medio": [
+          {
+            "hora": "07:00",
+            "momento": "desayuno",
+            "lugar": "Nefertiti Hotel",
+            "plato": "Desayuno tradicional egipcio",
+            "costo": 0
+          },
+          {
+            "hora": "12:30",
+            "momento": "almuerzo",
+            "lugar": "Al-Sahaby Lane Restaurant",
+            "plato": "Pollo con arroz y ensalada",
+            "costo": 850,
+            "link": "https://www.nefertitihotel.com/al-sahaby-lane-restaurant"
+          },
+          {
+            "hora": "20:00",
+            "momento": "cena",
+            "lugar": "Sofra Restaurant",
+            "plato": "Mahshi, kofta y postre",
+            "costo": 1250
+          }
+        ],
+        "alto": [
+          {
+            "hora": "07:00",
+            "momento": "desayuno",
+            "lugar": "Hilton Luxor Resort & Spa",
+            "plato": "Desayuno buffet premium",
+            "costo": 0
+          },
+          {
+            "hora": "12:30",
+            "momento": "almuerzo",
+            "lugar": "Hilton Luxor Resort & Spa",
+            "plato": "Pescado, vegetales y ensalada",
+            "costo": 1900
+          },
+          {
+            "hora": "20:00",
+            "momento": "cena",
+            "lugar": "Hilton Luxor Resort & Spa",
+            "plato": "Cena de tres tiempos con menú internacional",
+            "costo": 2900
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "07:30",
+          "de": "Sweet Hostel",
+          "a": "Karnak",
+          "medio": "Taxi compartido",
+          "duracion": "20 min",
+          "costo": 180
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "07:30",
+          "de": "Nefertiti Hotel",
+          "a": "Karnak y circuito del día",
+          "medio": "Taxi reservado para los desplazamientos de la jornada",
+          "duracion": "Traslados escalonados",
+          "costo": 750
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "07:30",
+          "de": "Hilton Luxor",
+          "a": "Karnak y circuito de Luxor",
+          "medio": "Vehículo privado con conductor",
+          "duracion": "Servicio durante 10 h",
+          "costo": 1600
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "10:30",
+          "de": "Karnak",
+          "a": "Museo de la Momificación",
+          "medio": "Taxi compartido",
+          "duracion": "20 min",
+          "costo": 160
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "16:15",
+          "de": "Centro de Luxor",
+          "a": "Muelle del Nilo",
+          "medio": "Taxi local",
+          "duracion": "15 min",
+          "costo": 120
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "17:30",
+          "de": "Muelle de Luxor",
+          "a": "Circuito por el Nilo y regreso",
+          "medio": "Faluca compartida",
+          "duracion": "1 h 15 min",
+          "costo": 400
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "17:30",
+          "de": "Muelle de Luxor",
+          "a": "Circuito por el Nilo y regreso",
+          "medio": "Faluca privada compartida por el grupo",
+          "duracion": "1 h 15 min",
+          "costo": 750
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "17:30",
+          "de": "Muelle privado del hotel",
+          "a": "Circuito por el Nilo y regreso",
+          "medio": "Lancha privada",
+          "duracion": "1 h 15 min",
+          "costo": 2200
+        }
+      ],
+      "planB": "En caso de calor extremo o tormenta de arena, reducir la caminata por la avenida de las esfinges y ampliar el tiempo en museos y zonas interiores. Si no se permite navegar, disfrutar el atardecer desde la Corniche."
+    },
+    {
+      "dia": 9,
+      "titulo": "Del Nilo al mar Rojo: llegada a Hurghada",
+      "ciudad": "Hurghada",
+      "coords": {
+        "lat": 27.2579,
+        "lng": 33.8116
+      },
+      "resumen": "Traslado terrestre desde Luxor hasta Hurghada. Cambio radical de paisaje: del valle del Nilo a las playas del mar Rojo. Tarde de playa, paseo marítimo, arquitectura religiosa y ambiente nocturno.",
+      "imagenes": [
+        {
+          "url": "egipto-12-dias/agua-turquesa-del-mar-rojo-y-barcos-turi-7d9a35.jpg",
+          "alt": "Barcos turísticos sobre las aguas turquesas del mar Rojo",
+          "credito": "Kudak",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Giftun-hurgada.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "14:30",
+          "nombre": "Hurghada Marina",
+          "descripcion": "Primer recorrido por el puerto deportivo, con restaurantes, embarcaciones y comercios frente al mar.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "descanso",
+          "coords": {
+            "lat": 27.2248,
+            "lng": 33.8426
+          }
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "16:00",
+          "nombre": "Tarde en playa de acceso público o económico",
+          "descripcion": "Tiempo para nadar y descansar en una playa habilitada de Hurghada.",
+          "duracion": "2 h",
+          "costo": 300,
+          "tipo": "descanso",
+          "coords": {
+            "lat": 27.22,
+            "lng": 33.846
+          }
+        },
+        {
+          "niveles": [
+            "medio",
+            "alto"
+          ],
+          "hora": "16:00",
+          "nombre": "Playa privada del resort",
+          "descripcion": "Descanso frente al mar Rojo, con acceso a instalaciones de playa incluidas en el alojamiento.",
+          "duracion": "2 h",
+          "costo": 0,
+          "tipo": "descanso",
+          "coords": {
+            "lat": 27.211,
+            "lng": 33.851
+          }
+        },
+        {
+          "hora": "19:00",
+          "nombre": "Mezquita El Mina",
+          "descripcion": "Visita exterior a una de las mezquitas más representativas de Hurghada.",
+          "duracion": "35 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 27.225,
+            "lng": 33.8391
+          },
+          "consejo": "El acceso interior depende de los horarios de oración, la vestimenta y las normas del recinto."
+        },
+        {
+          "niveles": [
+            "medio",
+            "alto"
+          ],
+          "hora": "21:30",
+          "nombre": "Vida nocturna en Hurghada",
+          "descripcion": "Visita a una terraza o bar de la zona de Marina o Sheraton Road.",
+          "duracion": "1 h 30 min",
+          "costo": 0,
+          "tipo": "vida-nocturna",
+          "coords": {
+            "lat": 27.222,
+            "lng": 33.8435
+          },
+          "consejo": "Los cargos de entrada a eventos o clubes específicos pueden variar; confirmar antes de ingresar."
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "06:30",
+            "momento": "desayuno",
+            "lugar": "Sweet Hostel Luxor",
+            "plato": "Huevos, pan y té",
+            "costo": 170
+          },
+          {
+            "hora": "13:15",
+            "momento": "almuerzo",
+            "lugar": "Restaurante local cerca de Hurghada Marina",
+            "plato": "Shawarma y ensalada",
+            "costo": 390
+          },
+          {
+            "hora": "20:15",
+            "momento": "cena",
+            "lugar": "Restaurante local de Sheraton Road",
+            "plato": "Pollo asado, arroz y ensalada",
+            "costo": 460
+          }
+        ],
+        "medio": [
+          {
+            "hora": "06:30",
+            "momento": "desayuno",
+            "lugar": "Nefertiti Hotel",
+            "plato": "Desayuno egipcio",
+            "costo": 0
+          },
+          {
+            "hora": "13:15",
+            "momento": "almuerzo",
+            "lugar": "Arabella Azur Resort",
+            "plato": "Buffet de almuerzo con pescados, carnes y ensaladas",
+            "costo": 0,
+            "link": "https://www.azurhospitality.com/hurghada/arabella-azur-resort/"
+          },
+          {
+            "hora": "20:15",
+            "momento": "cena",
+            "lugar": "Arabella Azur Resort",
+            "plato": "Buffet de cena internacional",
+            "costo": 0
+          }
+        ],
+        "alto": [
+          {
+            "hora": "06:30",
+            "momento": "desayuno",
+            "lugar": "Hilton Luxor Resort & Spa",
+            "plato": "Desayuno premium",
+            "costo": 0
+          },
+          {
+            "hora": "13:15",
+            "momento": "almuerzo",
+            "lugar": "Steigenberger ALDAU Beach Hotel",
+            "plato": "Mariscos, verduras y guarniciones",
+            "costo": 0
+          },
+          {
+            "hora": "20:15",
+            "momento": "cena",
+            "lugar": "Granada Restaurant & Pub",
+            "plato": "Cena de mariscos con postre",
+            "costo": 2400,
+            "link": "https://www.granadahurghada.com/"
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "07:15",
+          "de": "Sweet Hostel",
+          "a": "Terminal de autobuses de Luxor",
+          "medio": "Taxi compartido",
+          "duracion": "20 min",
+          "costo": 170
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "07:15",
+          "de": "Nefertiti Hotel",
+          "a": "Terminal de autobuses de Luxor",
+          "medio": "Taxi",
+          "duracion": "20 min",
+          "costo": 250
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "08:00",
+          "de": "Luxor",
+          "a": "Hurghada",
+          "medio": "Autobús interurbano climatizado",
+          "duracion": "4 h 30 min",
+          "costo": 800,
+          "consejo": "La salida es estimada. Consultar disponibilidad en Go Bus."
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "08:00",
+          "de": "Luxor",
+          "a": "Hurghada",
+          "medio": "Autobús interurbano ejecutivo",
+          "duracion": "4 h 30 min",
+          "costo": 1300
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "08:00",
+          "de": "Hilton Luxor",
+          "a": "Steigenberger ALDAU Beach, Hurghada",
+          "medio": "Vehículo privado con conductor",
+          "duracion": "4 h 30 min",
+          "costo": 4400
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "12:35",
+          "de": "Terminal de Hurghada",
+          "a": "Marina Square Hostel",
+          "medio": "Taxi local",
+          "duracion": "20 min",
+          "costo": 200
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "12:35",
+          "de": "Terminal de Hurghada",
+          "a": "Arabella Azur Resort",
+          "medio": "Taxi reservado",
+          "duracion": "20 min",
+          "costo": 350
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "18:15",
+          "de": "Zona de playa",
+          "a": "Mezquita El Mina y regreso",
+          "medio": "Taxi compartido",
+          "duracion": "35 min total",
+          "costo": 250
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "18:15",
+          "de": "Arabella Azur Resort",
+          "a": "Mezquita El Mina, Marina y regreso",
+          "medio": "Taxi contratado",
+          "duracion": "Traslados de la noche",
+          "costo": 650
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "18:15",
+          "de": "Steigenberger ALDAU Beach",
+          "a": "Mezquita El Mina, cena y regreso",
+          "medio": "Vehículo privado",
+          "duracion": "Servicio de 5 h",
+          "costo": 1400
+        }
+      ],
+      "planB": "Si el autobús de Luxor a Hurghada se cancela, contratar transporte privado compartido. Si el mar presenta condiciones adversas, usar la piscina del hotel y recorrer Marina."
+    },
+    {
+      "dia": 10,
+      "titulo": "Isla Giftun y aventura bajo el mar Rojo",
+      "ciudad": "Hurghada",
+      "coords": {
+        "lat": 27.2579,
+        "lng": 33.8116
+      },
+      "resumen": "Día completo de mar, snorkel y visita a la isla Giftun. La experiencia económica utiliza embarcación grupal; la media incorpora una excursión de mayor comodidad; la alta ofrece un servicio náutico privado para el grupo.",
+      "imagenes": [
+        {
+          "url": "egipto-12-dias/agua-turquesa-del-mar-rojo-y-barcos-turi-7d9a35.jpg",
+          "alt": "Turquesas aguas del mar Rojo frente a las islas Giftun",
+          "credito": "Kudak",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Giftun-hurgada.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "09:30",
+          "nombre": "Snorkel guiado en arrecife",
+          "descripcion": "Excursión grupal con equipo básico para observar peces tropicales y arrecifes del mar Rojo. Incluye supervisión y almuerzo sencillo a bordo.",
+          "duracion": "1 h 30 min",
+          "costo": 1300,
+          "tipo": "aventura",
+          "coords": {
+            "lat": 27.222,
+            "lng": 33.943
+          },
+          "consejo": "No tocar los corales ni alimentar a los peces."
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "09:30",
+          "nombre": "Snorkel premium en arrecife",
+          "descripcion": "Experiencia con embarcación turística de mayor comodidad, equipo, guía y almuerzo a bordo.",
+          "duracion": "1 h 30 min",
+          "costo": 2500,
+          "tipo": "aventura",
+          "coords": {
+            "lat": 27.222,
+            "lng": 33.943
+          }
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "09:30",
+          "nombre": "Exploración submarina privada",
+          "descripcion": "Excursión exclusiva para el grupo, con instructor, equipo y posibilidad de inmersión introductoria supervisada según aptitud y condiciones del mar.",
+          "duracion": "1 h 30 min",
+          "costo": 6200,
+          "tipo": "aventura",
+          "coords": {
+            "lat": 27.222,
+            "lng": 33.943
+          },
+          "consejo": "Las personas con antecedentes médicos relevantes para el buceo necesitan evaluación de aptitud; no se debe bucear antes de volar sin respetar el intervalo de seguridad correspondiente."
+        },
+        {
+          "hora": "12:15",
+          "nombre": "Playa de la isla Giftun",
+          "descripcion": "Tiempo de playa en una zona habilitada de la isla, con arena clara y aguas transparentes.",
+          "duracion": "1 h 30 min",
+          "costo": 450,
+          "tipo": "naturaleza",
+          "coords": {
+            "lat": 27.208,
+            "lng": 33.95
+          },
+          "consejo": "La tarifa es una previsión de acceso a una zona de playa organizada; confirmar el operador y las tasas medioambientales."
+        },
+        {
+          "hora": "15:30",
+          "nombre": "Segunda parada de observación marina",
+          "descripcion": "Parada adicional para observar fauna marina desde la superficie, sujeta a las condiciones del mar y a las indicaciones de la tripulación.",
+          "duracion": "30 min",
+          "costo": 0,
+          "tipo": "naturaleza",
+          "coords": {
+            "lat": 27.235,
+            "lng": 33.928
+          }
+        },
+        {
+          "hora": "20:30",
+          "nombre": "Paseo nocturno por Marina",
+          "descripcion": "Regreso al paseo marítimo para disfrutar del ambiente de Hurghada después de un día en el mar.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "vida-nocturna",
+          "coords": {
+            "lat": 27.2248,
+            "lng": 33.8426
+          }
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "07:00",
+            "momento": "desayuno",
+            "lugar": "Marina Square Hostel",
+            "plato": "Desayuno continental sencillo",
+            "costo": 0
+          },
+          {
+            "hora": "13:45",
+            "momento": "almuerzo",
+            "lugar": "Embarcación de excursión a Giftun",
+            "plato": "Arroz, pollo, ensalada y agua",
+            "costo": 0
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Restaurante local de Hurghada Marina",
+            "plato": "Pescado frito con arroz",
+            "costo": 520
+          }
+        ],
+        "medio": [
+          {
+            "hora": "07:00",
+            "momento": "desayuno",
+            "lugar": "Arabella Azur Resort",
+            "plato": "Desayuno buffet",
+            "costo": 0
+          },
+          {
+            "hora": "13:45",
+            "momento": "almuerzo",
+            "lugar": "Embarcación de excursión premium",
+            "plato": "Buffet con pescado, pollo y ensaladas",
+            "costo": 0
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Arabella Azur Resort",
+            "plato": "Cena buffet",
+            "costo": 0
+          }
+        ],
+        "alto": [
+          {
+            "hora": "07:00",
+            "momento": "desayuno",
+            "lugar": "Steigenberger ALDAU Beach",
+            "plato": "Desayuno premium",
+            "costo": 0
+          },
+          {
+            "hora": "13:45",
+            "momento": "almuerzo",
+            "lugar": "Embarcación privada de excursión",
+            "plato": "Almuerzo preparado a bordo con pescado, ensaladas y fruta",
+            "costo": 0
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Steigenberger ALDAU Beach",
+            "plato": "Cena de especialidades del resort",
+            "costo": 0
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "07:45",
+          "de": "Marina Square Hostel",
+          "a": "Muelle de excursiones de Hurghada",
+          "medio": "Taxi compartido",
+          "duracion": "20 min",
+          "costo": 180
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "07:45",
+          "de": "Arabella Azur Resort",
+          "a": "Muelle de excursiones",
+          "medio": "Transfer del operador turístico",
+          "duracion": "20 min",
+          "costo": 0
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "07:45",
+          "de": "Steigenberger ALDAU Beach",
+          "a": "Muelle de la embarcación privada",
+          "medio": "Transfer privado incluido",
+          "duracion": "20 min",
+          "costo": 0
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "08:15",
+          "de": "Puerto de Hurghada",
+          "a": "Arrecifes e isla Giftun",
+          "medio": "Barco turístico grupal de ida y vuelta",
+          "duracion": "1 h de navegación inicial y regreso posterior",
+          "costo": 600
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "08:15",
+          "de": "Puerto de Hurghada",
+          "a": "Arrecifes e isla Giftun",
+          "medio": "Barco turístico de mayor comodidad, ida y vuelta",
+          "duracion": "1 h de navegación inicial y regreso posterior",
+          "costo": 1150
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "08:15",
+          "de": "Puerto de Hurghada",
+          "a": "Arrecifes e isla Giftun",
+          "medio": "Embarcación privada, costo individual prorrateado entre el grupo",
+          "duracion": "1 h de navegación inicial y regreso posterior",
+          "costo": 3800
+        },
+        {
+          "hora": "16:15",
+          "de": "Zona de arrecifes y Giftun",
+          "a": "Puerto de Hurghada",
+          "medio": "Regreso en la embarcación contratada",
+          "duracion": "1 h",
+          "costo": 0
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "17:30",
+          "de": "Muelle de Hurghada",
+          "a": "Marina Square Hostel",
+          "medio": "Taxi compartido",
+          "duracion": "20 min",
+          "costo": 180
+        }
+      ],
+      "planB": "Si las autoridades suspenden la navegación por viento o mal estado del mar, cambiar la jornada por el Hurghada Museum y actividades en el resort. No intentar salir en embarcaciones pequeñas si se emiten restricciones."
+    },
+    {
+      "dia": 11,
+      "titulo": "Cuatrimotos en el desierto y última noche en Egipto",
+      "ciudad": "Hurghada",
+      "coords": {
+        "lat": 27.2579,
+        "lng": 33.8116
+      },
+      "resumen": "Último día completo del viaje con adrenalina en el desierto, una experiencia cultural beduina, tiempo de playa y una despedida nocturna del mar Rojo.",
+      "imagenes": [
+        {
+          "url": "egipto-12-dias/agua-turquesa-del-mar-rojo-y-barcos-turi-7d9a35.jpg",
+          "alt": "Aguas azules del mar Rojo cerca de Hurghada",
+          "credito": "Kudak",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Giftun-hurgada.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "08:45",
+          "nombre": "Ruta en cuatrimoto por el desierto",
+          "descripcion": "Recorrido guiado por pistas autorizadas del desierto oriental de Egipto, con casco e instrucciones de seguridad.",
+          "duracion": "1 h 30 min",
+          "costo": 1500,
+          "tipo": "aventura",
+          "coords": {
+            "lat": 27.175,
+            "lng": 33.745
+          },
+          "consejo": "Evitar maniobras peligrosas, respetar la velocidad del guía y comprobar la cobertura del seguro para actividades motorizadas."
+        },
+        {
+          "hora": "10:45",
+          "nombre": "Visita cultural a un campamento beduino",
+          "descripcion": "Experiencia organizada para conocer aspectos de la vida del desierto, sus bebidas tradicionales y costumbres.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 27.166,
+            "lng": 33.738
+          },
+          "consejo": "El campamento exacto depende del operador."
+        },
+        {
+          "hora": "15:00",
+          "nombre": "Última tarde de playa",
+          "descripcion": "Tiempo libre para descansar, nadar o recorrer la zona costera antes del regreso.",
+          "duracion": "2 h",
+          "costo": 0,
+          "tipo": "descanso",
+          "coords": {
+            "lat": 27.22,
+            "lng": 33.846
+          }
+        },
+        {
+          "hora": "18:00",
+          "nombre": "Hurghada Museum",
+          "descripcion": "Visita a una exposición de piezas de distintas etapas de la historia egipcia, desde la antigüedad hasta períodos posteriores.",
+          "duracion": "1 h 15 min",
+          "costo": 400,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 27.158,
+            "lng": 33.822
+          },
+          "consejo": "Verificar el horario de visita de 2028 antes de programar esta actividad."
+        },
+        {
+          "niveles": [
+            "medio",
+            "alto"
+          ],
+          "hora": "22:00",
+          "nombre": "Despedida nocturna en Hurghada",
+          "descripcion": "Última salida a una terraza o establecimiento de Marina, con música y ambiente turístico.",
+          "duracion": "1 h 30 min",
+          "costo": 0,
+          "tipo": "vida-nocturna",
+          "coords": {
+            "lat": 27.2248,
+            "lng": 33.8426
+          }
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "07:00",
+            "momento": "desayuno",
+            "lugar": "Marina Square Hostel",
+            "plato": "Desayuno continental",
+            "costo": 0
+          },
+          {
+            "hora": "13:15",
+            "momento": "almuerzo",
+            "lugar": "Restaurante local de Sheraton Road",
+            "plato": "Pollo con arroz, ensalada y agua",
+            "costo": 420
+          },
+          {
+            "hora": "20:30",
+            "momento": "cena",
+            "lugar": "Restaurante local de Hurghada Marina",
+            "plato": "Pescado a la parrilla y papas",
+            "costo": 560
+          }
+        ],
+        "medio": [
+          {
+            "hora": "07:00",
+            "momento": "desayuno",
+            "lugar": "Arabella Azur Resort",
+            "plato": "Desayuno buffet",
+            "costo": 0
+          },
+          {
+            "hora": "13:15",
+            "momento": "almuerzo",
+            "lugar": "Arabella Azur Resort",
+            "plato": "Buffet de pescados y carnes",
+            "costo": 0
+          },
+          {
+            "hora": "20:30",
+            "momento": "cena",
+            "lugar": "Granada Restaurant & Pub",
+            "plato": "Plato de mariscos y postre",
+            "costo": 1600,
+            "link": "https://www.granadahurghada.com/"
+          }
+        ],
+        "alto": [
+          {
+            "hora": "07:00",
+            "momento": "desayuno",
+            "lugar": "Steigenberger ALDAU Beach",
+            "plato": "Desayuno premium",
+            "costo": 0
+          },
+          {
+            "hora": "13:15",
+            "momento": "almuerzo",
+            "lugar": "Steigenberger ALDAU Beach",
+            "plato": "Pescado fresco, ensalada y guarniciones",
+            "costo": 0
+          },
+          {
+            "hora": "20:30",
+            "momento": "cena",
+            "lugar": "Granada Restaurant & Pub",
+            "plato": "Cena de despedida con mariscos y postre",
+            "costo": 2900,
+            "link": "https://www.granadahurghada.com/"
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "08:00",
+          "de": "Marina Square Hostel",
+          "a": "Base de excursiones en el desierto y regreso",
+          "medio": "Minibús turístico compartido",
+          "duracion": "50 min total de desplazamientos",
+          "costo": 450
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "08:00",
+          "de": "Arabella Azur Resort",
+          "a": "Base de excursiones en el desierto y regreso",
+          "medio": "Transfer turístico climatizado",
+          "duracion": "50 min total de desplazamientos",
+          "costo": 650
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "08:00",
+          "de": "Steigenberger ALDAU Beach",
+          "a": "Base de excursiones en el desierto y regreso",
+          "medio": "Vehículo privado",
+          "duracion": "50 min total de desplazamientos",
+          "costo": 1350
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "17:30",
+          "de": "Zona de playa",
+          "a": "Hurghada Museum y alojamiento",
+          "medio": "Taxi compartido",
+          "duracion": "40 min total",
+          "costo": 350
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "17:30",
+          "de": "Arabella Azur",
+          "a": "Hurghada Museum, cena y regreso",
+          "medio": "Taxi reservado",
+          "duracion": "Traslados escalonados de la tarde y noche",
+          "costo": 850
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "17:30",
+          "de": "Steigenberger ALDAU Beach",
+          "a": "Hurghada Museum, cena y regreso",
+          "medio": "Vehículo privado con conductor",
+          "duracion": "Servicio de 6 h",
+          "costo": 1600
+        }
+      ],
+      "planB": "Si las condiciones meteorológicas no permiten cuatrimotos, reemplazar la excursión por un recorrido cultural urbano, spa o actividades dentro del resort. No conducir vehículos motorizados en tormentas de arena."
+    },
+    {
+      "dia": 12,
+      "titulo": "Despedida de Hurghada y regreso a Colombia",
+      "ciudad": "Hurghada",
+      "coords": {
+        "lat": 27.2579,
+        "lng": 33.8116
+      },
+      "resumen": "Últimas horas en Hurghada, vuelo doméstico a El Cairo y conexión internacional nocturna; la llegada a Colombia es al día siguiente.",
+      "imagenes": [
+        {
+          "url": "egipto-12-dias/vista-panoramica-de-las-aguas-del-mar-ro-cc2fff.jpg",
+          "alt": "Vista panorámica de las aguas del mar Rojo desde la costa de Hurghada",
+          "credito": "Abd El Rahman Ehab Mohamed",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Hurghada%27s_red_sea.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "06:15",
+          "nombre": "Amanecer frente al mar Rojo",
+          "descripcion": "Última caminata frente al mar antes de abandonar Hurghada.",
+          "duracion": "35 min",
+          "costo": 0,
+          "tipo": "naturaleza",
+          "coords": {
+            "lat": 27.22,
+            "lng": 33.846
+          }
+        },
+        {
+          "hora": "09:00",
+          "nombre": "Mercado de pescado de El Mina",
+          "descripcion": "Visita breve a un mercado tradicional cercano a la marina, para observar el comercio de productos del mar.",
+          "duracion": "35 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 27.2272,
+            "lng": 33.8388
+          }
+        },
+        {
+          "hora": "10:00",
+          "nombre": "Último paseo por Hurghada Marina",
+          "descripcion": "Tiempo para fotografías, recorrer la marina y realizar las últimas compras antes del traslado al aeropuerto.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "compras",
+          "coords": {
+            "lat": 27.2248,
+            "lng": 33.8426
+          }
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "07:15",
+            "momento": "desayuno",
+            "lugar": "Marina Square Hostel",
+            "plato": "Desayuno continental",
+            "costo": 0
+          },
+          {
+            "hora": "11:30",
+            "momento": "almuerzo",
+            "lugar": "Restaurante local de Hurghada Marina",
+            "plato": "Shawarma de pollo y agua",
+            "costo": 390
+          },
+          {
+            "hora": "18:00",
+            "momento": "cena",
+            "lugar": "Zona de restaurantes del Aeropuerto Internacional de El Cairo",
+            "plato": "Sándwich, bebida y fruta",
+            "costo": 470
+          }
+        ],
+        "medio": [
+          {
+            "hora": "07:15",
+            "momento": "desayuno",
+            "lugar": "Arabella Azur Resort",
+            "plato": "Desayuno buffet",
+            "costo": 0
+          },
+          {
+            "hora": "11:30",
+            "momento": "almuerzo",
+            "lugar": "Arabella Azur Resort",
+            "plato": "Almuerzo buffet previo a la salida",
+            "costo": 0
+          },
+          {
+            "hora": "18:00",
+            "momento": "cena",
+            "lugar": "Restaurante del Aeropuerto Internacional de El Cairo",
+            "plato": "Pollo con arroz y bebida",
+            "costo": 850
+          }
+        ],
+        "alto": [
+          {
+            "hora": "07:15",
+            "momento": "desayuno",
+            "lugar": "Steigenberger ALDAU Beach",
+            "plato": "Desayuno premium",
+            "costo": 0
+          },
+          {
+            "hora": "11:30",
+            "momento": "almuerzo",
+            "lugar": "Steigenberger ALDAU Beach",
+            "plato": "Almuerzo de pescados y ensaladas",
+            "costo": 0
+          },
+          {
+            "hora": "18:00",
+            "momento": "cena",
+            "lugar": "Restaurante del Aeropuerto Internacional de El Cairo",
+            "plato": "Cena de tres tiempos con bebida sin alcohol",
+            "costo": 1900
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "11:45",
+          "de": "Hurghada Marina",
+          "a": "Aeropuerto Internacional de Hurghada",
+          "medio": "Taxi compartido",
+          "duracion": "25 min",
+          "costo": 300
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "11:45",
+          "de": "Arabella Azur Resort",
+          "a": "Aeropuerto Internacional de Hurghada",
+          "medio": "Transfer reservado",
+          "duracion": "20 min",
+          "costo": 650
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "11:45",
+          "de": "Steigenberger ALDAU Beach",
+          "a": "Aeropuerto Internacional de Hurghada",
+          "medio": "Vehículo privado",
+          "duracion": "15 min",
+          "costo": 1300
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "14:00",
+          "de": "Hurghada (HRG)",
+          "a": "El Cairo (CAI)",
+          "medio": "Vuelo doméstico en clase económica",
+          "duracion": "1 h",
+          "costo": 4500,
+          "consejo": "Hora estimada. Exigir una conexión internacional protegida o dejar suficiente margen para recuperar equipaje, cambiar de terminal y volver a facturar."
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "14:00",
+          "de": "Hurghada (HRG)",
+          "a": "El Cairo (CAI)",
+          "medio": "Vuelo doméstico con equipaje",
+          "duracion": "1 h",
+          "costo": 6000
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "14:00",
+          "de": "Hurghada (HRG)",
+          "a": "El Cairo (CAI)",
+          "medio": "Vuelo doméstico con tarifa flexible",
+          "duracion": "1 h",
+          "costo": 8500
+        }
+      ],
+      "planB": "Si la conexión de Hurghada a El Cairo no permite un margen suficiente para el vuelo internacional, adelantar el vuelo doméstico o regresar a El Cairo el día anterior, redistribuyendo la última noche. No comprar vuelos separados con conexiones cortas."
+    }
+  ],
+  "presupuesto": {
+    "notas": "Por persona, en habitación doble compartida (cama en dormitorio en económico). Vuelos internacionales y seguro en dólares; lo demás en libras egipcias. Los vuelos domésticos están en los traslados de cada día. Precios de noviembre de 2026 proyectados a mayo de 2028.",
+    "categorias": [
+      {
+        "categoria": "vuelos",
+        "descripcion": "Billete aéreo internacional Colombia-El Cairo-Colombia, con salida preferente desde Medellín. No incluye vuelos domésticos egipcios.",
+        "moneda": "USD",
+        "economico": 1450,
+        "medio": 1950,
+        "alto": 4600
+      },
+      {
+        "categoria": "seguro",
+        "descripcion": "Seguro de viaje por el período completo de desplazamiento, con coberturas progresivas según nivel. Revisar expresamente la cobertura para cuatrimotos, snorkel y buceo.",
+        "moneda": "USD",
+        "economico": 85,
+        "medio": 150,
+        "alto": 250
+      },
+      {
+        "categoria": "visa",
+        "descripcion": "Visado turístico electrónico egipcio de entrada única, convertido desde la tarifa oficial publicada de 30 USD.",
+        "moneda": "local",
+        "economico": 1620,
+        "medio": 1620,
+        "alto": 1620
+      },
+      {
+        "categoria": "conectividad",
+        "descripcion": "Tarjeta SIM o eSIM con datos móviles para 12 días, con paquetes de capacidad creciente.",
+        "moneda": "local",
+        "economico": 600,
+        "medio": 1100,
+        "alto": 2200
+      },
+      {
+        "categoria": "compras",
+        "descripcion": "Asignación personal para recuerdos, artesanías, especias, textiles y compras en los mercados.",
+        "moneda": "local",
+        "economico": 1200,
+        "medio": 4000,
+        "alto": 12000
+      },
+      {
+        "categoria": "extras",
+        "descripcion": "Fondo para lavandería, imprevistos menores, gastos personales y servicios no previstos en las actividades.",
+        "moneda": "local",
+        "economico": 1800,
+        "medio": 4500,
+        "alto": 11000
+      }
+    ]
+  },
+  "alojamiento": [
+    {
+      "ciudad": "El Cairo",
+      "noches": [
+        1,
+        2,
+        3
+      ],
+      "economico": {
+        "nombre": "Holy Sheet Hostel - Cairo",
+        "zona": "Downtown, Abdeen",
+        "tipo": "Hostal",
+        "precioNoche": 850,
+        "incluye": "Cama en dormitorio compartido, wifi, aire acondicionado y acceso a zonas comunes. Desayuno no incluido en la estimación.",
+        "descripcion": "Hostal céntrico que facilita visitar el Museo Egipcio y desplazarse por Downtown. La tarifa corresponde a una cama por persona y no a una habitación privada.",
+        "link": "https://www.booking.com/hotel/eg/holy-sheet-hostel.html"
+      },
+      "medio": {
+        "nombre": "Steigenberger Hotel El Tahrir Cairo",
+        "zona": "Plaza Tahrir, Downtown",
+        "tipo": "Hotel de 4 estrellas",
+        "precioNoche": 3100,
+        "incluye": "Habitación doble compartida, desayuno buffet, wifi y acceso a instalaciones del hotel, suponiendo tarifa con desayuno.",
+        "descripcion": "Alojamiento cómodo y céntrico, próximo al Museo Egipcio y la plaza Tahrir.",
+        "link": "https://hrewards.com/en/steigenberger-hotel-el-tahrir-cairo"
+      },
+      "alto": {
+        "nombre": "Marriott Mena House, Cairo",
+        "zona": "Guiza, junto a las pirámides",
+        "tipo": "Hotel de lujo de 5 estrellas",
+        "precioNoche": 14500,
+        "incluye": "Habitación doble compartida, desayuno según tarifa seleccionada, wifi, piscina y jardines.",
+        "descripcion": "Hotel histórico y exclusivo situado frente a las pirámides, con jardines y vistas emblemáticas. La habitación con vista directa a las pirámides puede exigir un suplemento.",
+        "link": "https://www.marriott.com/en-us/hotels/caimn-marriott-mena-house-cairo/overview/"
+      }
+    },
+    {
+      "ciudad": "Asuán",
+      "noches": [
+        4,
+        5
+      ],
+      "economico": {
+        "nombre": "Go Inn Backpackers",
+        "zona": "Orilla oriental del Nilo",
+        "tipo": "Hostal para mochileros",
+        "precioNoche": 550,
+        "incluye": "Cama compartida, wifi y acceso a zonas comunes. Desayuno no incluido.",
+        "descripcion": "Hostal económico frente al entorno del Nilo, apropiado para viajeros que priorizan excursiones y presupuesto.",
+        "link": "https://www.hostelworld.com/hostels/p/313651/go-inn-backbpackers/"
+      },
+      "medio": {
+        "nombre": "Basma Hotel Aswan",
+        "zona": "Zona elevada próxima al Museo Nubio",
+        "tipo": "Hotel de categoría superior",
+        "precioNoche": 2800,
+        "incluye": "Habitación doble compartida, desayuno buffet y piscina. El desayuno empacado debe solicitarse con anticipación.",
+        "descripcion": "Hotel con vistas hacia Asuán y el Nilo, bien situado para visitar el Museo Nubio y organizar excursiones.",
+        "link": "https://basmahotel.com/"
+      },
+      "alto": {
+        "nombre": "Mandarin Oriental Old Cataract, Aswan",
+        "zona": "Orilla oriental del Nilo, frente a la isla Elefantina",
+        "tipo": "Hotel histórico de gran lujo",
+        "precioNoche": 19500,
+        "incluye": "Habitación doble compartida, desayuno según tarifa seleccionada, instalaciones de lujo y servicio de alta categoría.",
+        "descripcion": "Hotel histórico a orillas del Nilo. Mandarin Oriental asumió su gestión en mayo de 2026 y anunció la finalización de la transformación para julio de 2027. La categoría y el precio de mayo de 2028 deberán confirmarse cuando esté abierto el inventario.",
+        "link": "https://www.mandarinoriental.com/en/aswan/old-cataract"
+      }
+    },
+    {
+      "ciudad": "Luxor",
+      "noches": [
+        6,
+        7,
+        8
+      ],
+      "economico": {
+        "nombre": "Sweet Hostel Luxor",
+        "zona": "Orilla oriental, centro de Luxor",
+        "tipo": "Hostal",
+        "precioNoche": 650,
+        "incluye": "Cama compartida, wifi y servicios básicos. Desayuno presupuestado aparte.",
+        "descripcion": "Alojamiento económico cerca de la zona central de Luxor, apropiado para recorrer los principales monumentos.",
+        "link": "https://www.booking.com/hotel/eg/sweet-hostel-luxor.html"
+      },
+      "medio": {
+        "nombre": "Nefertiti Hotel Luxor",
+        "zona": "Orilla oriental, junto al Templo de Luxor",
+        "tipo": "Hotel turístico",
+        "precioNoche": 1650,
+        "incluye": "Habitación doble compartida, desayuno según tarifa reservada, wifi y acceso a terraza.",
+        "descripcion": "Hotel céntrico y tradicional con terraza y acceso conveniente al Templo de Luxor y al paseo del Nilo.",
+        "link": "https://www.nefertitihotel.com/"
+      },
+      "alto": {
+        "nombre": "Hilton Luxor Resort & Spa",
+        "zona": "Karnak, orilla oriental del Nilo",
+        "tipo": "Resort de lujo",
+        "precioNoche": 7900,
+        "incluye": "Habitación doble compartida, desayuno, piscinas y acceso a instalaciones del resort.",
+        "descripcion": "Resort de lujo frente al Nilo, con piscina y áreas de descanso, adecuado para recuperarse de las visitas arqueológicas.",
+        "link": "https://www.hilton.com/en/hotels/luxhitw-hilton-luxor-resort-and-spa/"
+      }
+    },
+    {
+      "ciudad": "Hurghada",
+      "noches": [
+        9,
+        10,
+        11
+      ],
+      "economico": {
+        "nombre": "Marina Square Hostel",
+        "zona": "Sakkala, cerca de Hurghada Marina",
+        "tipo": "Hostal",
+        "precioNoche": 900,
+        "incluye": "Cama en dormitorio compartido, wifi y desayuno sencillo según la tarifa elegida.",
+        "descripcion": "Alojamiento económico cerca del puerto deportivo, conveniente para las excursiones marítimas y los restaurantes del centro.",
+        "link": "https://www.hostelworld.com/hostels/p/301260/marina-square-hostel/"
+      },
+      "medio": {
+        "nombre": "Arabella Azur Resort",
+        "zona": "Zona costera central de Hurghada",
+        "tipo": "Resort de playa",
+        "precioNoche": 4800,
+        "incluye": "Habitación doble compartida, desayuno, almuerzo, cena, piscina y playa del resort, suponiendo tarifa todo incluido.",
+        "descripcion": "Resort turístico de arquitectura de inspiración nubia, con instalaciones de playa y servicios de restauración.",
+        "link": "https://www.azurhospitality.com/hurghada/arabella-azur-resort/"
+      },
+      "alto": {
+        "nombre": "Steigenberger ALDAU Beach Hotel",
+        "zona": "Village Road, Hurghada",
+        "tipo": "Resort de lujo de 5 estrellas",
+        "precioNoche": 11200,
+        "incluye": "Habitación doble compartida, desayuno, almuerzo, cena, piscinas y playa privada, bajo una tarifa todo incluido adecuada.",
+        "descripcion": "Resort sofisticado de gran categoría, con extensas áreas de piscina, playa y restaurantes. El precio está estimado por persona compartiendo habitación doble.",
+        "link": "https://all.accor.com/hotel/C741/index.es.shtml"
+      }
+    }
+  ],
+  "comida": {
+    "platosTipicos": [
+      {
+        "nombre": "Koshari",
+        "descripcion": "Considerado uno de los platos nacionales de Egipto. Combina arroz, pasta, lentejas, garbanzos, cebolla frita y salsa de tomate especiada. Es económico, abundante y muy popular.",
+        "precioAprox": 220,
+        "imagen": {
+          "url": "egipto-12-dias/plato-de-koshari-con-pasta-arroz-lenteja-1a2407.jpg",
+          "alt": "Plato de koshari con pasta, arroz, lentejas y salsa de tomate",
+          "credito": "Embabahcairo0009",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Koshary.jpg"
+        }
+      },
+      {
+        "nombre": "Ful medames",
+        "descripcion": "Habas cocidas lentamente con aceite, limón y especias. Se consume especialmente en el desayuno, acompañado de pan baladi y verduras.",
+        "precioAprox": 170,
+        "imagen": {
+          "url": "egipto-12-dias/desayuno-egipcio-tradicional-de-habas-co-94775f.jpg",
+          "alt": "Desayuno egipcio tradicional de habas cocidas, pan y verduras",
+          "credito": "Zachbe at en.wikipedia",
+          "licencia": "CC BY-SA 3.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Ful_medames.jpg"
+        }
+      },
+      {
+        "nombre": "Mahshi",
+        "descripcion": "Verduras u hojas rellenas de arroz, hierbas y especias. Puede prepararse con calabacín, berenjena, pimiento, col o hojas de parra.",
+        "precioAprox": 350,
+        "imagen": {
+          "url": "egipto-12-dias/verduras-rellenas-al-estilo-mahshi-en-un-d19fa2.jpg",
+          "alt": "Verduras rellenas al estilo mahshi en una bandeja",
+          "credito": "Aseel zm",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Mahshi.jpg"
+        }
+      },
+      {
+        "nombre": "Molokhia",
+        "descripcion": "Preparación de hojas verdes de molokhia cocinadas con ajo y caldo. Suele servirse con arroz y pollo o carne.",
+        "precioAprox": 430,
+        "imagen": {
+          "url": "egipto-12-dias/plato-de-molokhia-egipcia-de-color-verde-a8f093.jpg",
+          "alt": "Plato de molokhia egipcia de color verde servido con arroz",
+          "credito": "Rakkalrast",
+          "licencia": "CC0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:EgyptianMolokheya.jpg"
+        }
+      },
+      {
+        "nombre": "Om Ali",
+        "descripcion": "Postre egipcio caliente elaborado con masa o pan, leche, azúcar, frutos secos y pasas, gratinado hasta formar una superficie dorada.",
+        "precioAprox": 260,
+        "imagen": {
+          "url": "egipto-12-dias/postre-egipcio-om-ali-preparado-en-recip-021313.jpg",
+          "alt": "Postre egipcio Om Ali preparado en recipientes tradicionales",
+          "credito": "Reem Al-Kashif",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Om_Ali_Dessert.jpg"
+        }
+      }
+    ]
+  },
+  "infoPractica": {
+    "visa": {
+      "requiere": true,
+      "tipo": "Visa turística egipcia electrónica de entrada única",
+      "detalle": "Al 21 de noviembre de 2026, Colombia figura en la lista oficial de nacionalidades elegibles para solicitar una e-Visa turística en el portal del Ministerio del Interior de Egipto. La tarifa publicada es de 30 USD para entrada única y 65 USD para múltiples entradas. El pasaporte debe conservar al menos seis meses de vigencia desde la llegada. Se recomienda presentar la solicitud con anticipación, imprimir la aprobación y llevar itinerario, reservas hoteleras y documentación de regreso. Existe una discrepancia importante: la página de la Cancillería colombiana todavía indica que los titulares de pasaporte ordinario deben solicitar visa ante el Consulado de Egipto en Bogotá. Por tanto, antes de comprar vuelos no reembolsables, confirmar con el Consulado egipcio y con la aerolínea que la e-Visa emitida para pasaporte colombiano es aceptada. Los requisitos pueden cambiar antes de mayo de 2028.",
+      "link": "https://visa2egypt.gov.eg/"
+    },
+    "clima": [
+      {
+        "mes": 1,
+        "tempMin": 9.7,
+        "tempMax": 19,
+        "lluviaMm": 4.4
+      },
+      {
+        "mes": 2,
+        "tempMin": 10.7,
+        "tempMax": 20.6,
+        "lluviaMm": 7.6
+      },
+      {
+        "mes": 3,
+        "tempMin": 13,
+        "tempMax": 23.9,
+        "lluviaMm": 13
+      },
+      {
+        "mes": 4,
+        "tempMin": 15.6,
+        "tempMax": 28.1,
+        "lluviaMm": 2.3
+      },
+      {
+        "mes": 5,
+        "tempMin": 19.1,
+        "tempMax": 32.3,
+        "lluviaMm": 2.5
+      },
+      {
+        "mes": 6,
+        "tempMin": 22,
+        "tempMax": 34.7,
+        "lluviaMm": 0.1
+      },
+      {
+        "mes": 7,
+        "tempMin": 23.6,
+        "tempMax": 35.1,
+        "lluviaMm": 0.2
+      },
+      {
+        "mes": 8,
+        "tempMin": 24.1,
+        "tempMax": 35,
+        "lluviaMm": 4.2
+      },
+      {
+        "mes": 9,
+        "tempMin": 22.6,
+        "tempMax": 33.5,
+        "lluviaMm": 0
+      },
+      {
+        "mes": 10,
+        "tempMin": 19.8,
+        "tempMax": 30.1,
+        "lluviaMm": 5.8
+      },
+      {
+        "mes": 11,
+        "tempMin": 15.4,
+        "tempMax": 25,
+        "lluviaMm": 10.9
+      },
+      {
+        "mes": 12,
+        "tempMin": 11.3,
+        "tempMax": 20.6,
+        "lluviaMm": 13.2
+      }
+    ],
+    "vacunas": [
+      "Fiebre amarilla: Egipto exige certificado internacional de vacunación a viajeros de nueve meses o más procedentes de países con riesgo de transmisión, entre ellos Colombia. La vacuna debe haberse aplicado al menos diez días antes de la entrada y el certificado debe cumplir los requisitos internacionales. Fuente: EgyptAir y CDC.",
+      "Hepatitis A: vacunación recomendada para viajeros no inmunizados por el riesgo asociado a agua y alimentos.",
+      "Hepatitis B: revisar esquema de vacunación, especialmente para viajeros con posibilidad de exposición a sangre o procedimientos médicos.",
+      "Tétanos, difteria y tosferina: mantener vacunación de rutina actualizada.",
+      "Sarampión, paperas y rubéola: tener esquema completo antes del viaje internacional.",
+      "Fiebre tifoidea: considerar vacunación según estilo de viaje, consumo de alimentos y valoración médica.",
+      "Rabia: valorar vacunación previa en viajeros con exposición ocupacional o contacto previsto con animales; evitar tocar perros y gatos callejeros.",
+      "Poliomielitis: verificar antecedentes vacunales y recomendaciones vigentes para el país.",
+      "Paludismo: la profilaxis antimalárica no se recomienda habitualmente para este itinerario turístico por Egipto, según el CDC; mantener protección contra picaduras.",
+      "Consultar medicina del viajero antes de la salida. Las indicaciones individuales dependen de edad, antecedentes, rutas y contraindicaciones."
+    ],
+    "seguridad": "El circuito turístico El Cairo-Guiza-Asuán-Luxor-Hurghada es una ruta habitual, pero Egipto requiere precauciones especiales por riesgos de seguridad, controles policiales, incidentes de acoso, estafas turísticas y posibles cambios en el contexto regional. Consultar las alertas oficiales antes de viajar en 2028. Evitar el norte del Sinaí, las zonas fronterizas restringidas y los desplazamientos fuera de rutas autorizadas. No fotografiar instalaciones militares, policiales ni infraestructuras sensibles. Utilizar operadores turísticos registrados y transportes formales. Para mujeres viajeras se aconseja especial atención frente al acoso callejero. En caso de emergencia, contactar a la Embajada de Colombia en El Cairo y a las autoridades locales. Llevar copia del pasaporte y mantener los documentos originales seguros.",
+    "enchufe": {
+      "tipo": "C y F",
+      "voltaje": "220-230 V, 50 Hz",
+      "necesitaAdaptador": true
+    },
+    "propinas": "Las propinas o bakshish forman parte de muchas interacciones turísticas. En restaurantes es común dejar alrededor del 5-10 % cuando el servicio no está incluido y la experiencia lo amerita. Para guías, conductores, personal de equipaje y pequeños servicios se esperan frecuentemente propinas, aunque no son obligatorias en todos los casos. Llevar billetes pequeños de 10, 20 y 50 EGP. Evitar entregar dinero a personas que ofrecen ayuda no solicitada.",
+    "idioma": "El idioma oficial es el árabe y la variante cotidiana es el árabe egipcio. El inglés se utiliza ampliamente en hoteles, aeropuertos y lugares turísticos. El español es menos frecuente, por lo que conviene llevar traducción sin conexión.",
+    "conectividad": "Los principales operadores móviles incluyen Vodafone Egypt, Orange Egypt, e& Egypt y WE. Es posible comprar una SIM física en el aeropuerto o en tiendas oficiales presentando el pasaporte. Las eSIM internacionales pueden ser más cómodas, pero sus precios y compatibilidad deben verificarse. El wifi de hoteles y restaurantes puede funcionar de manera irregular. Se recomienda descargar mapas y documentos antes de salir de Colombia.",
+    "transporteLocal": "En El Cairo funcionan metro, taxis, Uber y vehículos privados. El tráfico es intenso y los tiempos de traslado pueden duplicarse en horas pico. Para viajes interurbanos se utilizan trenes de Egyptian National Railways, autobuses turísticos como Go Bus, vuelos domésticos y vehículos privados. Los extranjeros pueden pagar tarifas ferroviarias diferentes de las de ciudadanos egipcios. Las rutas Luxor-Asuán y Luxor-Hurghada requieren verificar horarios antes de reservar. En Asuán, los templos insulares requieren embarcaciones y en Hurghada las excursiones náuticas suelen salir de muelles turísticos.",
+    "frases": [
+      {
+        "es": "Hola",
+        "local": "أهلاً",
+        "pronunciacion": "Ahlan"
+      },
+      {
+        "es": "Gracias",
+        "local": "شكراً",
+        "pronunciacion": "Shókran"
+      },
+      {
+        "es": "Por favor",
+        "local": "من فضلك",
+        "pronunciacion": "Min fadlak"
+      },
+      {
+        "es": "¿Cuánto cuesta?",
+        "local": "بكام؟",
+        "pronunciacion": "Bikám"
+      },
+      {
+        "es": "Está muy caro",
+        "local": "غالي أوي",
+        "pronunciacion": "Ghāli áwi"
+      },
+      {
+        "es": "No, gracias",
+        "local": "لا شكراً",
+        "pronunciacion": "La, shókran"
+      },
+      {
+        "es": "¿Dónde está el baño?",
+        "local": "فين الحمام؟",
+        "pronunciacion": "Fein el hammám"
+      },
+      {
+        "es": "Necesito ayuda",
+        "local": "محتاج مساعدة",
+        "pronunciacion": "Mihtág mosaáda"
+      }
+    ],
+    "apps": [
+      {
+        "nombre": "Google Maps",
+        "para": "Orientación, mapas descargados, búsqueda de lugares y cálculo aproximado de trayectos."
+      },
+      {
+        "nombre": "Uber",
+        "para": "Solicitar vehículos urbanos en El Cairo y otras zonas donde haya cobertura."
+      },
+      {
+        "nombre": "Google Translate",
+        "para": "Traducción entre español y árabe, incluyendo paquetes de idioma sin conexión."
+      },
+      {
+        "nombre": "EgyptAir",
+        "para": "Consultar vuelos nacionales, reservas y estado de vuelos."
+      },
+      {
+        "nombre": "Go Bus",
+        "para": "Consultar y reservar servicios de autobús interurbano cuando estén disponibles."
+      },
+      {
+        "nombre": "WhatsApp",
+        "para": "Coordinar horarios, compartir ubicaciones y comunicarse con hoteles y operadores turísticos."
+      }
+    ],
+    "consejos": [
+      "Mayo puede ser extremadamente caluroso en Luxor, Asuán y Abu Simbel. Llevar protección solar, sombrero, ropa ligera y suficiente agua.",
+      "Evitar consumir agua del grifo. Comprar agua embotellada de establecimientos confiables.",
+      "Utilizar protector solar respetuoso con el entorno marino y no tocar los arrecifes.",
+      "Reservar el Gran Museo Egipcio con anticipación en su plataforma oficial.",
+      "Comprobar qué entradas de tumbas y pirámides requieren pago adicional.",
+      "Contratar guías acreditados cuando sea necesario y acordar el costo antes del servicio.",
+      "Llevar dinero en efectivo en libras egipcias para mercados, propinas y pequeños gastos.",
+      "Mantener los documentos y objetos de valor protegidos en zonas concurridas.",
+      "No comprar vuelos domésticos separados con conexiones internacionales ajustadas.",
+      "Confirmar si las tarifas hoteleras incluyen desayuno, media pensión o todo incluido.",
+      "Revisar restricciones de equipaje en vuelos internos, especialmente si se contratan tarifas básicas.",
+      "El uso de drones está fuertemente restringido y puede requerir permisos especiales. No introducir uno sin autorización previa.",
+      "Respetar las normas de vestimenta en mezquitas y lugares religiosos.",
+      "Para viajes de grupo, designar un responsable de reservas y otro de gastos compartidos."
+    ],
+    "estafas": [
+      "Personas que afirman que una atracción está cerrada y ofrecen llevar al viajero a otro lugar o comercio.",
+      "Conductores que cambian el precio después de finalizar el trayecto. Usar tarifas acordadas o aplicaciones.",
+      "Paseos en camello ofrecidos a precios bajos que luego exigen pagos adicionales para regresar o desmontar.",
+      "Vendedores que presentan regalos o muestras gratuitas y posteriormente exigen dinero.",
+      "Falsos guías que ofrecen acceso especial a pirámides, tumbas o áreas restringidas.",
+      "Tiendas de papiros, perfumes o piedras que venden productos de baja calidad como auténticos.",
+      "Cobros adicionales no anunciados por fotografías o ayuda no solicitada.",
+      "Personas que intentan manipular tarjetas o cobrar en moneda distinta a la acordada.",
+      "Páginas de visado no oficiales que imitan portales gubernamentales y cobran comisiones elevadas."
+    ],
+    "checklist": [
+      "Pasaporte colombiano vigente con al menos seis meses de validez desde la entrada a Egipto.",
+      "Visa turística aprobada y copia impresa, tras confirmar el procedimiento aplicable al pasaporte colombiano.",
+      "Certificado internacional de vacunación contra fiebre amarilla.",
+      "Seguro de viaje con cobertura médica, repatriación y actividades de aventura.",
+      "Reservas de vuelos internacionales y domésticos.",
+      "Confirmación de alojamiento para las once noches.",
+      "Entradas anticipadas del Gran Museo Egipcio y reservas de excursiones principales.",
+      "Tarjetas bancarias habilitadas para pagos internacionales y efectivo en EGP.",
+      "Adaptador eléctrico europeo tipo C o F.",
+      "Protector solar, gafas de sol, gorra y botella reutilizable.",
+      "Medicamentos personales en su empaque original y documentación médica cuando corresponda.",
+      "Ropa ligera, calzado cómodo y prendas adecuadas para lugares religiosos.",
+      "SIM o eSIM y mapas descargados.",
+      "Copias digitales de pasaporte, visa, reservas, póliza y contactos de emergencia."
+    ]
+  },
+  "fuentes": [
+    {
+      "titulo": "Portal oficial de visa electrónica de Egipto - Ministerio del Interior",
+      "url": "https://visa2egypt.gov.eg/"
+    },
+    {
+      "titulo": "Cancillería de Colombia - Información bilateral y consular sobre Egipto",
+      "url": "https://www.cancilleria.gov.co/politica-exterior/asuntos-bilaterales/africa/egipto"
+    },
+    {
+      "titulo": "EgyptAir - Requisitos de vacunación contra fiebre amarilla",
+      "url": "https://www.egyptair.com/en/about-egyptair/news-and-press/Pages/Yellow%20Fever%20Requirements%20for%20passengers%20.aspx"
+    },
+    {
+      "titulo": "Ministerio de Turismo y Antigüedades de Egipto - Monumentos y sitios arqueológicos",
+      "url": "https://egymonuments.gov.eg/"
+    },
+    {
+      "titulo": "Gran Museo Egipcio - Sistema oficial de entradas",
+      "url": "https://tickets.gem.eg/"
+    },
+    {
+      "titulo": "Egyptian National Railways - Plataforma ferroviaria oficial",
+      "url": "https://obs.enr.gov.eg/o-city/obs/enr/railway/en/home"
+    },
+    {
+      "titulo": "Go Bus Egypt - Transporte interurbano",
+      "url": "https://go-bus.com/en"
+    },
+    {
+      "titulo": "NOTAMET - Normales climáticas de El Cairo, período 1991-2020",
+      "url": "https://www.notamet.com/climate/HECA"
+    }
+  ]
+}
