@@ -1,0 +1,4370 @@
+{
+  "meta": {
+    "titulo": "Grecia en 14 días",
+    "resumen": "Atenas clásica, los monasterios de Meteora y tres islas de las Cícladas: la fiesta de Míkonos, la Naxos rural y los atardeceres de Santorini. Pensado para mayo.",
+    "destino": "Atenas, Meteora, Míkonos, Naxos y Santorini",
+    "pais": "Grecia",
+    "region": "Europa",
+    "duracionDias": 14,
+    "mesesIdeales": [
+      5,
+      6,
+      9
+    ],
+    "temporadaRecomendada": "Mayo, especialmente su segunda mitad: temperaturas agradables, días largos y menor saturación turística que julio y agosto. Los baños de mar pueden sentirse frescos.",
+    "estilo": "medio",
+    "dificultad": "moderada",
+    "idealPara": [
+      "Grupos de amigos",
+      "Viajeros interesados en historia",
+      "Amantes de las playas",
+      "Viajeros que disfrutan la vida nocturna",
+      "Grupos de celebración"
+    ],
+    "etiquetas": [
+      "Grecia",
+      "islas griegas",
+      "historia",
+      "Meteora",
+      "playas",
+      "aventura",
+      "vida nocturna",
+      "gastronomía",
+      "ruta grupal"
+    ],
+    "fechaInvestigacion": "2026-11-21",
+    "colorAcento": "#164A72",
+    "portada": {
+      "url": "grecia-14-dias/panoramica-nocturna-de-oia-santorini-con-059562.jpg",
+      "alt": "Panorámica nocturna de Oia, Santorini, con casas blancas iluminadas sobre los acantilados del mar Egeo",
+      "credito": "Giles Laurent",
+      "licencia": "CC BY-SA 4.0",
+      "fuente": "https://commons.wikimedia.org/wiki/File:1002_Panoramic_view_of_Oia_at_night_in_Santorini_Photo_by_Giles_Laurent.jpg"
+    },
+    "galeria": [
+      {
+        "url": "grecia-14-dias/acropolis-de-atenas-iluminada-durante-la-bb5ed4.jpg",
+        "alt": "Acrópolis de Atenas iluminada durante la noche",
+        "credito": "Giles Laurent",
+        "licencia": "CC BY-SA 4.0",
+        "fuente": "https://commons.wikimedia.org/wiki/File:1001_Acropolis_of_Athens_in_Greece_at_night_Photo_by_Giles_Laurent.jpg"
+      },
+      {
+        "url": "grecia-14-dias/formaciones-rocosas-y-monasterios-del-pa-f56e1c.jpg",
+        "alt": "Formaciones rocosas y monasterios del paisaje de Meteora",
+        "credito": "Sofia Bressan",
+        "licencia": "CC BY-SA 4.0",
+        "fuente": "https://commons.wikimedia.org/wiki/File:Meteora_landscape.jpg"
+      },
+      {
+        "url": "grecia-14-dias/vista-panoramica-del-puerto-antiguo-y-la-ff8111.jpg",
+        "alt": "Vista panorámica del puerto antiguo y las casas blancas de Míkonos",
+        "credito": "Helentr",
+        "licencia": "CC BY-SA 3.0",
+        "fuente": "https://commons.wikimedia.org/wiki/File:MykonosChoraOldPortPanorama.jpg"
+      },
+      {
+        "url": "grecia-14-dias/ciudad-de-naxos-vista-desde-la-peninsula-c91bb6.jpg",
+        "alt": "Ciudad de Naxos vista desde la península de Palatia",
+        "credito": "Giles Laurent",
+        "licencia": "CC BY-SA 4.0",
+        "fuente": "https://commons.wikimedia.org/wiki/File:1039_View_of_Naxos_Town_from_Palatia_Photo_by_Giles_Laurent.jpg"
+      },
+      {
+        "url": "grecia-14-dias/molinos-tradicionales-de-mikonos-vistos-d6df4e.jpg",
+        "alt": "Molinos tradicionales de Míkonos vistos desde la zona de Little Venice",
+        "credito": "Zigomitros Athanasios - Thor4bp",
+        "licencia": "CC BY-SA 4.0",
+        "fuente": "https://commons.wikimedia.org/wiki/File:Windmills_-_view_from_little_venice_-_Mykonos.jpg"
+      },
+      {
+        "url": "grecia-14-dias/panoramica-de-las-construcciones-blancas-6c4bbb.jpg",
+        "alt": "Panorámica de las construcciones blancas de Oia sobre la caldera de Santorini",
+        "credito": "Mstyslav Chernov",
+        "licencia": "CC BY-SA 3.0",
+        "fuente": "https://commons.wikimedia.org/wiki/File:Panoramic_view_of_Oia,_Santorini_island_(Thira),_Greece.jpg"
+      }
+    ]
+  },
+  "moneda": {
+    "codigo": "EUR",
+    "simbolo": "€",
+    "localPorUSD": 0.9099,
+    "copPorUSD": 3461.92,
+    "fechaTasa": "2026-11-21"
+  },
+  "comoLlegar": {
+    "resumen": "No hay vuelo directo: se conecta por Madrid o Ámsterdam hasta Atenas. El regreso sale de Atenas tras un vuelo doméstico desde Santorini el último día.",
+    "aeropuertoLlegada": "Aeropuerto Internacional de Atenas Eleftherios Venizelos (ATH), aproximadamente 33 km al este del centro de Atenas.",
+    "delAeropuertoAlCentro": "El metro de la línea 3 conecta ATH con Syntagma en unos 40 minutos y cuesta aproximadamente 9 € por persona. El autobús exprés X95 cuesta unos 5,50 €. Un traslado privado compartido por el grupo puede costar aproximadamente 25–40 € por persona, según el tamaño del vehículo.",
+    "rutas": [
+      {
+        "origen": "Medellín, aeropuerto José María Córdova (MDE)",
+        "ruta": "MDE → MAD → ATH",
+        "aerolineas": [
+          "Air Europa",
+          "Iberia o Aegean Airlines"
+        ],
+        "duracion": "17–23 h por trayecto, según conexión",
+        "escalas": 1,
+        "precioUSD": {
+          "min": 1100,
+          "max": 1900
+        }
+      },
+      {
+        "origen": "Medellín, aeropuerto José María Córdova (MDE)",
+        "ruta": "MDE → BOG → MAD → ATH",
+        "aerolineas": [
+          "Avianca",
+          "Iberia",
+          "Aegean Airlines"
+        ],
+        "duracion": "19–29 h por trayecto, según conexión",
+        "escalas": 2,
+        "precioUSD": {
+          "min": 1050,
+          "max": 1850
+        }
+      },
+      {
+        "origen": "Bogotá, aeropuerto El Dorado (BOG)",
+        "ruta": "BOG → AMS → ATH",
+        "aerolineas": [
+          "KLM"
+        ],
+        "duracion": "16–22 h por trayecto, según conexión",
+        "escalas": 1,
+        "precioUSD": {
+          "min": 900,
+          "max": 1600
+        }
+      }
+    ]
+  },
+  "itinerario": [
+    {
+      "dia": 1,
+      "titulo": "Bienvenida a Atenas: plazas, callejones y primera noche griega",
+      "ciudad": "Atenas",
+      "coords": {
+        "lat": 37.9755,
+        "lng": 23.7348
+      },
+      "resumen": "Llegada por la mañana y primer paseo por Syntagma, Plaka, Anafiotika y la noche de Psyrri.",
+      "imagenes": [
+        {
+          "url": "grecia-14-dias/vista-panoramica-de-los-barrios-historic-84b731.jpg",
+          "alt": "Panorama urbano de Atenas con la Acrópolis dominando la ciudad",
+          "credito": "DanielValahul",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Panorama_of_the_Acropolis_and_Athens.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "12:15",
+          "nombre": "Plaza Syntagma y cambio de guardia",
+          "descripcion": "Primer paseo por el centro cívico, el Parlamento y el monumento al Soldado Desconocido.",
+          "duracion": "45 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 37.975,
+            "lng": 23.7348
+          },
+          "consejo": "La ceremonia habitual ocurre a cada hora; la versión solemne de los domingos es diferente."
+        },
+        {
+          "hora": "16:00",
+          "nombre": "Callejones históricos de Plaka",
+          "descripcion": "Paseo por las calles empedradas y las fachadas neoclásicas a los pies de la Acrópolis.",
+          "duracion": "1 h 30 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 37.9723,
+            "lng": 23.7285
+          }
+        },
+        {
+          "hora": "18:00",
+          "nombre": "Casas blancas de Anafiotika",
+          "descripcion": "Recorrido fotográfico por un pequeño barrio de arquitectura isleña dentro de Atenas.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 37.9714,
+            "lng": 23.7289
+          },
+          "consejo": "Es una zona residencial: evitar ruido, drones y fotografías hacia el interior de las viviendas."
+        },
+        {
+          "hora": "21:30",
+          "nombre": "Ambiente nocturno de Psyrri",
+          "descripcion": "Exploración de las calles con bares, música y murales del barrio.",
+          "duracion": "1 h 15 min",
+          "costo": 0,
+          "tipo": "vida-nocturna",
+          "coords": {
+            "lat": 37.9789,
+            "lng": 23.7226
+          }
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "10:15",
+            "momento": "desayuno",
+            "lugar": "Everest, aeropuerto de Atenas",
+            "plato": "Sándwich de queso y café",
+            "costo": 8
+          },
+          {
+            "hora": "14:00",
+            "momento": "almuerzo",
+            "lugar": "O Thanasis, Monastiraki",
+            "plato": "Pita de souvlaki con papas",
+            "costo": 12,
+            "coords": {
+              "lat": 37.9764,
+              "lng": 23.7259
+            }
+          },
+          {
+            "hora": "19:40",
+            "momento": "cena",
+            "lugar": "Kostas Souvlaki, centro de Atenas",
+            "plato": "Dos pitas de cerdo con tzatziki",
+            "costo": 12
+          }
+        ],
+        "medio": [
+          {
+            "hora": "10:15",
+            "momento": "desayuno",
+            "lugar": "Everest, aeropuerto de Atenas",
+            "plato": "Baguette de jamón y queso, jugo y café",
+            "costo": 14
+          },
+          {
+            "hora": "14:00",
+            "momento": "almuerzo",
+            "lugar": "O Thanasis, Monastiraki",
+            "plato": "Brochetas de carne con ensalada griega",
+            "costo": 20,
+            "coords": {
+              "lat": 37.9764,
+              "lng": 23.7259
+            }
+          },
+          {
+            "hora": "19:40",
+            "momento": "cena",
+            "lugar": "Mani Mani, zona de Koukaki",
+            "plato": "Entrante de queso saganaki y plato principal de cocina griega",
+            "costo": 32
+          }
+        ],
+        "alto": [
+          {
+            "hora": "10:15",
+            "momento": "desayuno",
+            "lugar": "Cafetería del aeropuerto de Atenas",
+            "plato": "Desayuno completo con huevos, tostadas y café",
+            "costo": 22
+          },
+          {
+            "hora": "14:00",
+            "momento": "almuerzo",
+            "lugar": "Athinaikon, centro de Atenas",
+            "plato": "Mezedes variados, pulpo y ensalada",
+            "costo": 38
+          },
+          {
+            "hora": "19:40",
+            "momento": "cena",
+            "lugar": "Electra Metropolis Roof Garden, Atenas",
+            "plato": "Pescado del día con guarnición y postre",
+            "costo": 68
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "niveles": [
+            "economico",
+            "medio"
+          ],
+          "hora": "10:50",
+          "de": "Aeropuerto ATH",
+          "a": "Syntagma, centro de Atenas",
+          "medio": "Metro línea 3",
+          "duracion": "40 min",
+          "costo": 9
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "10:50",
+          "de": "Aeropuerto ATH",
+          "a": "Electra Metropolis Athens",
+          "medio": "Miniván privado compartido por el grupo",
+          "duracion": "45 min",
+          "costo": 30
+        }
+      ],
+      "planB": "Si el vuelo llega tarde, conservar únicamente Syntagma y la cena. Si llueve, sustituir Plaka y Anafiotika por una visita breve a las galerías comerciales cubiertas del centro."
+    },
+    {
+      "dia": 2,
+      "titulo": "Acrópolis y el corazón de la Grecia clásica",
+      "ciudad": "Atenas",
+      "coords": {
+        "lat": 37.9715,
+        "lng": 23.7267
+      },
+      "resumen": "Día monumental dedicado al Partenón, el teatro antiguo, el Museo de la Acrópolis, el Ágora y la colina de Filopapo.",
+      "imagenes": [
+        {
+          "url": "grecia-14-dias/columnas-del-partenon-en-la-acropolis-de-bcd7fd.jpg",
+          "alt": "Columnas del Partenón en la Acrópolis de Atenas",
+          "credito": "acediscovery",
+          "licencia": "CC BY 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Parthenon_on_Acropolis_in_Athens.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "08:00",
+          "nombre": "Acrópolis y Partenón",
+          "descripcion": "Visita a los Propileos, el Erecteion y el Partenón, con vistas panorámicas de Atenas.",
+          "duracion": "2 h",
+          "costo": 30,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 37.9715,
+            "lng": 23.7267
+          },
+          "link": "https://www.hh.gr/en/destinations/the-acropolis-of-athens/",
+          "consejo": "Reservar la franja horaria oficial con anticipación, especialmente para grupos."
+        },
+        {
+          "hora": "10:15",
+          "nombre": "Teatro de Dioniso",
+          "descripcion": "Exploración de los restos del antiguo teatro en la ladera sur de la Acrópolis.",
+          "duracion": "35 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 37.9702,
+            "lng": 23.7273
+          },
+          "consejo": "Incluido en la entrada de la Acrópolis."
+        },
+        {
+          "hora": "11:20",
+          "nombre": "Museo de la Acrópolis",
+          "descripcion": "Esculturas originales, cariátides y hallazgos de las excavaciones.",
+          "duracion": "1 h 45 min",
+          "costo": 20,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 37.9685,
+            "lng": 23.7286
+          },
+          "link": "https://www.theacropolismuseum.gr/en/plan-your-visit"
+        },
+        {
+          "hora": "15:00",
+          "nombre": "Ágora antigua de Atenas",
+          "descripcion": "Recorrido por el antiguo centro político y comercial, el templo de Hefesto y la Estoa de Átalo.",
+          "duracion": "1 h 30 min",
+          "costo": 20,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 37.9752,
+            "lng": 23.7224
+          },
+          "link": "https://www.hh.gr/"
+        },
+        {
+          "hora": "18:00",
+          "nombre": "Colina de Filopapo",
+          "descripcion": "Paseo entre pinos y miradores con una de las mejores perspectivas gratuitas de la Acrópolis.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "naturaleza",
+          "coords": {
+            "lat": 37.9696,
+            "lng": 23.7186
+          },
+          "consejo": "Usar calzado con suela adherente; las rocas pulidas pueden resbalar."
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "07:00",
+            "momento": "desayuno",
+            "lugar": "Athens Backpackers",
+            "plato": "Desayuno sencillo incluido por el hostal",
+            "costo": 0
+          },
+          {
+            "hora": "13:30",
+            "momento": "almuerzo",
+            "lugar": "Feyrouz, centro de Atenas",
+            "plato": "Lahmacun y bebida",
+            "costo": 11
+          },
+          {
+            "hora": "20:00",
+            "momento": "cena",
+            "lugar": "O Thanasis, Monastiraki",
+            "plato": "Gyros con papas y bebida",
+            "costo": 15
+          }
+        ],
+        "medio": [
+          {
+            "hora": "07:00",
+            "momento": "desayuno",
+            "lugar": "Attalos Hotel",
+            "plato": "Desayuno bufé del hotel",
+            "costo": 0
+          },
+          {
+            "hora": "13:30",
+            "momento": "almuerzo",
+            "lugar": "Arcadia Restaurant, Makrygianni",
+            "plato": "Musaka y ensalada",
+            "costo": 25
+          },
+          {
+            "hora": "20:00",
+            "momento": "cena",
+            "lugar": "Karamanlidika tou Fani, Atenas",
+            "plato": "Tabla de embutidos griegos, mezedes y postre",
+            "costo": 34,
+            "link": "https://www.karamanlidika.gr/"
+          }
+        ],
+        "alto": [
+          {
+            "hora": "07:00",
+            "momento": "desayuno",
+            "lugar": "Electra Metropolis Athens",
+            "plato": "Desayuno de hotel incluido",
+            "costo": 0
+          },
+          {
+            "hora": "13:30",
+            "momento": "almuerzo",
+            "lugar": "Dionysos Zonar's, entorno de la Acrópolis",
+            "plato": "Pescado fresco, vegetales y postre",
+            "costo": 65
+          },
+          {
+            "hora": "20:00",
+            "momento": "cena",
+            "lugar": "Electra Metropolis Roof Garden",
+            "plato": "Menú griego contemporáneo de tres tiempos",
+            "costo": 85
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "14:25",
+          "de": "Makrygianni",
+          "a": "Monastiraki",
+          "medio": "Metro urbano",
+          "duracion": "15 min",
+          "costo": 1.2
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "14:30",
+          "de": "Zona del Museo de la Acrópolis",
+          "a": "Entrada del Ágora antigua",
+          "medio": "Taxi compartido",
+          "duracion": "15 min",
+          "costo": 8
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "19:10",
+          "de": "Colina de Filopapo",
+          "a": "Electra Metropolis Athens",
+          "medio": "Taxi compartido",
+          "duracion": "20 min",
+          "costo": 10
+        }
+      ],
+      "planB": "Con lluvia fuerte, priorizar el Museo de la Acrópolis y trasladar el recorrido de las colinas a otro momento. La Acrópolis puede restringir accesos por fenómenos meteorológicos."
+    },
+    {
+      "dia": 3,
+      "titulo": "Estadio Panatenaico, Licabeto y atardecer en Sunión",
+      "ciudad": "Atenas",
+      "coords": {
+        "lat": 37.9755,
+        "lng": 23.7348
+      },
+      "resumen": "Un día entre la Atenas moderna y el extremo sur del Ática. Termina frente al templo de Poseidón, con cena junto al mar y regreso nocturno.",
+      "imagenes": [
+        {
+          "url": "grecia-14-dias/acropolis-de-atenas-iluminada-durante-la-bb5ed4.jpg",
+          "alt": "Vista de la Acrópolis iluminada desde una zona elevada de Atenas",
+          "credito": "Giles Laurent",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:1001_Acropolis_of_Athens_in_Greece_at_night_Photo_by_Giles_Laurent.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "09:30",
+          "nombre": "Estadio Panatenaico",
+          "descripcion": "Entrada al estadio de mármol vinculado con los primeros Juegos Olímpicos modernos.",
+          "duracion": "1 h",
+          "costo": 12,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 37.9683,
+            "lng": 23.741
+          },
+          "link": "https://www.panathenaicstadium.gr/"
+        },
+        {
+          "hora": "11:45",
+          "nombre": "Cima del monte Licabeto",
+          "descripcion": "Mirador de 360 grados sobre la capital, el puerto y las montañas.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "naturaleza",
+          "coords": {
+            "lat": 37.9818,
+            "lng": 23.7434
+          },
+          "consejo": "En económico se sube a pie, unos 30 min por senderos."
+        },
+        {
+          "hora": "18:15",
+          "nombre": "Templo de Poseidón en cabo Sunión",
+          "descripcion": "Visita al santuario clásico dedicado a Poseidón frente al mar Egeo.",
+          "duracion": "1 h 15 min",
+          "costo": 20,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 37.65,
+            "lng": 24.0241
+          },
+          "link": "https://www.hh.gr/",
+          "consejo": "Verificar la hora de cierre oficial de mayo de 2028; el horario de acceso puede terminar antes de la puesta de sol."
+        },
+        {
+          "hora": "19:50",
+          "nombre": "Mirador costero de cabo Sunión",
+          "descripcion": "Fotografías del templo y del horizonte desde el exterior del recinto arqueológico.",
+          "duracion": "35 min",
+          "costo": 0,
+          "tipo": "naturaleza",
+          "coords": {
+            "lat": 37.651,
+            "lng": 24.0227
+          },
+          "consejo": "En mayo el sol se pone aproximadamente después de las 20:00, pero la hora exacta depende de la fecha."
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "08:00",
+            "momento": "desayuno",
+            "lugar": "Athens Backpackers",
+            "plato": "Desayuno incluido",
+            "costo": 0
+          },
+          {
+            "hora": "13:30",
+            "momento": "almuerzo",
+            "lugar": "Everest, Kolonaki",
+            "plato": "Empanada griega de espinaca y bebida",
+            "costo": 10
+          },
+          {
+            "hora": "20:45",
+            "momento": "cena",
+            "lugar": "Taverna Syrtaki, zona de Legrena",
+            "plato": "Souvlaki de pollo, ensalada y pan",
+            "costo": 19
+          }
+        ],
+        "medio": [
+          {
+            "hora": "08:00",
+            "momento": "desayuno",
+            "lugar": "Attalos Hotel",
+            "plato": "Desayuno incluido",
+            "costo": 0
+          },
+          {
+            "hora": "13:30",
+            "momento": "almuerzo",
+            "lugar": "Oikeio, Kolonaki",
+            "plato": "Berenjenas al horno con queso y ensalada",
+            "costo": 24
+          },
+          {
+            "hora": "20:45",
+            "momento": "cena",
+            "lugar": "Taverna Syrtaki, zona de Legrena",
+            "plato": "Calamares, ensalada griega y postre",
+            "costo": 36
+          }
+        ],
+        "alto": [
+          {
+            "hora": "08:00",
+            "momento": "desayuno",
+            "lugar": "Electra Metropolis Athens",
+            "plato": "Desayuno incluido",
+            "costo": 0
+          },
+          {
+            "hora": "13:30",
+            "momento": "almuerzo",
+            "lugar": "Athinaikon, Atenas",
+            "plato": "Pulpo a la parrilla y mezedes",
+            "costo": 44
+          },
+          {
+            "hora": "20:45",
+            "momento": "cena",
+            "lugar": "Restaurante de pescado junto al mar, Legrena",
+            "plato": "Pescado fresco a la parrilla con verduras y postre",
+            "costo": 72
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "09:00",
+          "de": "Centro de Atenas",
+          "a": "Estadio Panatenaico",
+          "medio": "Autobús urbano",
+          "duracion": "20 min",
+          "costo": 1.2
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "10:45",
+          "de": "Estadio Panatenaico",
+          "a": "Barrio de Kolonaki",
+          "medio": "Autobús urbano",
+          "duracion": "20 min",
+          "costo": 1.2
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "11:35",
+          "de": "Base del Licabeto",
+          "a": "Cima del Licabeto",
+          "medio": "Funicular, billete de ida y vuelta",
+          "duracion": "5 min",
+          "costo": 12
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "12:45",
+          "de": "Cima del Licabeto",
+          "a": "Base del Licabeto",
+          "medio": "Funicular, regreso incluido",
+          "duracion": "5 min",
+          "costo": 0
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "09:00",
+          "de": "Electra Metropolis Athens",
+          "a": "Estadio Panatenaico",
+          "medio": "Taxi compartido",
+          "duracion": "15 min",
+          "costo": 9
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "10:45",
+          "de": "Estadio Panatenaico",
+          "a": "Funicular de Licabeto",
+          "medio": "Taxi compartido",
+          "duracion": "15 min",
+          "costo": 9
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "11:35",
+          "de": "Base del Licabeto",
+          "a": "Cima del Licabeto",
+          "medio": "Funicular, ida y vuelta",
+          "duracion": "5 min",
+          "costo": 12
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "12:45",
+          "de": "Cima del Licabeto",
+          "a": "Base del Licabeto",
+          "medio": "Funicular, regreso incluido",
+          "duracion": "5 min",
+          "costo": 0
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "16:30",
+          "de": "Centro de Atenas",
+          "a": "Cabo Sunión",
+          "medio": "Autobús interurbano KTEL",
+          "duracion": "1 h 40 min",
+          "costo": 8
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "16:30",
+          "de": "Centro de Atenas",
+          "a": "Cabo Sunión",
+          "medio": "Miniván grupal reservado",
+          "duracion": "1 h 30 min",
+          "costo": 25
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "16:30",
+          "de": "Centro de Atenas",
+          "a": "Cabo Sunión",
+          "medio": "Vehículo privado con conductor",
+          "duracion": "1 h 30 min",
+          "costo": 55
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "22:00",
+          "de": "Legrena y cabo Sunión",
+          "a": "Centro de Atenas",
+          "medio": "Transporte nocturno compartido reservado por el grupo",
+          "duracion": "1 h 40 min",
+          "costo": 26,
+          "consejo": "No depender del último autobús público para regresar después de cenar."
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "22:00",
+          "de": "Legrena",
+          "a": "Hotel en Atenas",
+          "medio": "Miniván grupal reservado",
+          "duracion": "1 h 30 min",
+          "costo": 25
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "22:00",
+          "de": "Legrena",
+          "a": "Electra Metropolis Athens",
+          "medio": "Vehículo privado con conductor",
+          "duracion": "1 h 30 min",
+          "costo": 55
+        }
+      ],
+      "planB": "Si hay tormenta o el recinto de Sunión cierra antes de lo previsto, mantener el recorrido costero exterior y sustituir la visita interior por el Museo Arqueológico Nacional de Atenas, ajustando los traslados."
+    },
+    {
+      "dia": 4,
+      "titulo": "Rumbo a Meteora: monasterios sobre gigantes de piedra",
+      "ciudad": "Kalambaka",
+      "coords": {
+        "lat": 39.7086,
+        "lng": 21.6277
+      },
+      "resumen": "Salida de Atenas hacia Tesalia. Tras instalarse en Kalambaka o Kastraki, el grupo conoce el paisaje de Meteora y termina el día en un mirador de las formaciones rocosas.",
+      "imagenes": [
+        {
+          "url": "grecia-14-dias/formaciones-rocosas-y-monasterios-del-pa-f56e1c.jpg",
+          "alt": "Paisaje de pilares rocosos y monasterios de Meteora en Tesalia",
+          "credito": "Sofia Bressan",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Meteora_landscape.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "16:30",
+          "nombre": "Museo de Historia Natural de Meteora",
+          "descripcion": "Exposición de fauna y hongos de la región, con una introducción al entorno natural de Tesalia.",
+          "duracion": "1 h",
+          "costo": 7,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 39.7054,
+            "lng": 21.6251
+          }
+        },
+        {
+          "hora": "18:00",
+          "nombre": "Pueblo tradicional de Kastraki",
+          "descripcion": "Recorrido por las calles del pueblo situado bajo los grandes acantilados de Meteora.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 39.7163,
+            "lng": 21.6185
+          }
+        },
+        {
+          "hora": "20:00",
+          "nombre": "Primer atardecer entre las rocas de Meteora",
+          "descripcion": "Parada en un mirador panorámico con vistas de monasterios y valles.",
+          "duracion": "40 min",
+          "costo": 0,
+          "tipo": "naturaleza",
+          "coords": {
+            "lat": 39.7194,
+            "lng": 21.6326
+          },
+          "consejo": "No subir a bordes rocosos sin protección ni caminar por la carretera después de oscurecer."
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "07:15",
+            "momento": "desayuno",
+            "lugar": "Athens Backpackers",
+            "plato": "Desayuno incluido",
+            "costo": 0
+          },
+          {
+            "hora": "15:00",
+            "momento": "almuerzo",
+            "lugar": "Panellinio Restaurant, Kalambaka",
+            "plato": "Musaka y agua",
+            "costo": 15
+          },
+          {
+            "hora": "21:00",
+            "momento": "cena",
+            "lugar": "Taverna Gardenia, Kastraki",
+            "plato": "Souvlaki con papas y ensalada",
+            "costo": 17
+          }
+        ],
+        "medio": [
+          {
+            "hora": "07:15",
+            "momento": "desayuno",
+            "lugar": "Attalos Hotel",
+            "plato": "Desayuno incluido",
+            "costo": 0
+          },
+          {
+            "hora": "15:00",
+            "momento": "almuerzo",
+            "lugar": "Panellinio Restaurant, Kalambaka",
+            "plato": "Cordero al horno con verduras",
+            "costo": 26
+          },
+          {
+            "hora": "21:00",
+            "momento": "cena",
+            "lugar": "Taverna Gardenia, Kastraki",
+            "plato": "Mezedes, quesos locales y carne a la parrilla",
+            "costo": 32
+          }
+        ],
+        "alto": [
+          {
+            "hora": "07:15",
+            "momento": "desayuno",
+            "lugar": "Electra Metropolis Athens",
+            "plato": "Desayuno incluido",
+            "costo": 0
+          },
+          {
+            "hora": "15:00",
+            "momento": "almuerzo",
+            "lugar": "Valia Calda, Kalambaka",
+            "plato": "Cocina regional de Tesalia con entrante y postre",
+            "costo": 42
+          },
+          {
+            "hora": "21:00",
+            "momento": "cena",
+            "lugar": "Divani Meteora Hotel",
+            "plato": "Cena de tres tiempos de cocina griega",
+            "costo": 58
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "08:30",
+          "de": "Centro de Atenas",
+          "a": "Terminal KTEL Liosion",
+          "medio": "Metro y autobús urbano",
+          "duracion": "35 min",
+          "costo": 2.4
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "08:30",
+          "de": "Attalos Hotel",
+          "a": "Terminal KTEL Liosion",
+          "medio": "Taxi compartido",
+          "duracion": "30 min",
+          "costo": 12
+        },
+        {
+          "niveles": [
+            "economico",
+            "medio"
+          ],
+          "hora": "09:30",
+          "de": "Terminal KTEL Liosion, Atenas",
+          "a": "Trikala",
+          "medio": "Autobús interurbano KTEL Trikala",
+          "duracion": "4 h 15 min",
+          "costo": 31
+        },
+        {
+          "niveles": [
+            "economico",
+            "medio"
+          ],
+          "hora": "13:55",
+          "de": "Trikala",
+          "a": "Kalambaka",
+          "medio": "Autobús regional KTEL",
+          "duracion": "35 min",
+          "costo": 3.5
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "09:30",
+          "de": "Electra Metropolis Athens",
+          "a": "Divani Meteora Hotel, Kalambaka",
+          "medio": "Traslado privado interurbano con conductor",
+          "duracion": "4 h 30 min",
+          "costo": 130
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "17:40",
+          "de": "Kalambaka",
+          "a": "Kastraki",
+          "medio": "Autobús local",
+          "duracion": "15 min",
+          "costo": 2
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "17:40",
+          "de": "Kalambaka",
+          "a": "Kastraki",
+          "medio": "Taxi compartido",
+          "duracion": "10 min",
+          "costo": 6
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "17:40",
+          "de": "Kalambaka",
+          "a": "Kastraki",
+          "medio": "Vehículo privado",
+          "duracion": "10 min",
+          "costo": 12
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "19:30",
+          "de": "Kastraki",
+          "a": "Mirador de Meteora",
+          "medio": "Taxi compartido",
+          "duracion": "15 min",
+          "costo": 8
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "19:30",
+          "de": "Kastraki",
+          "a": "Mirador de Meteora",
+          "medio": "Taxi compartido",
+          "duracion": "15 min",
+          "costo": 10
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "19:30",
+          "de": "Kastraki",
+          "a": "Mirador de Meteora",
+          "medio": "Vehículo privado",
+          "duracion": "15 min",
+          "costo": 15
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "20:45",
+          "de": "Mirador de Meteora",
+          "a": "Taverna Gardenia, Kastraki",
+          "medio": "Taxi compartido",
+          "duracion": "15 min",
+          "costo": 8
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "20:45",
+          "de": "Mirador de Meteora",
+          "a": "Taverna Gardenia, Kastraki",
+          "medio": "Taxi compartido",
+          "duracion": "15 min",
+          "costo": 10
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "20:45",
+          "de": "Mirador de Meteora",
+          "a": "Divani Meteora Hotel",
+          "medio": "Vehículo privado",
+          "duracion": "15 min",
+          "costo": 15
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "22:20",
+          "de": "Kastraki",
+          "a": "Meteora Central Hostel, Kalambaka",
+          "medio": "Taxi compartido",
+          "duracion": "10 min",
+          "costo": 6
+        }
+      ],
+      "planB": "Si la conexión KTEL se retrasa, cancelar el museo y conservar el paseo por Kastraki. Con lluvia o niebla, cenar temprano y trasladar los miradores al día siguiente."
+    },
+    {
+      "dia": 5,
+      "titulo": "Meteora a fondo: tres monasterios y senderos entre rocas",
+      "ciudad": "Kalambaka",
+      "coords": {
+        "lat": 39.7086,
+        "lng": 21.6277
+      },
+      "resumen": "Visita a tres monasterios históricos y caminata paisajística. Los niveles medio y alto incorporan una experiencia fotográfica guiada al final de la tarde.",
+      "imagenes": [
+        {
+          "url": "grecia-14-dias/monasterio-ortodoxo-construido-sobre-una-2a640b.jpg",
+          "alt": "Monasterio ortodoxo construido sobre una formación rocosa de Meteora",
+          "credito": "AngelikiC",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Meteora_Monastery.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "09:00",
+          "nombre": "Gran Meteoro o Monasterio de la Transfiguración",
+          "descripcion": "Visita al mayor de los monasterios de Meteora y a su museo religioso.",
+          "duracion": "1 h 15 min",
+          "costo": 5,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 39.726,
+            "lng": 21.6264
+          },
+          "consejo": "Llevar efectivo para la entrada y ropa que cubra hombros y piernas. Los días de cierre cambian entre monasterios."
+        },
+        {
+          "hora": "10:45",
+          "nombre": "Monasterio de Varlaam",
+          "descripcion": "Ascenso por las escaleras y recorrido de capillas y patios suspendidos sobre el valle.",
+          "duracion": "1 h 15 min",
+          "costo": 5,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 39.7252,
+            "lng": 21.6313
+          }
+        },
+        {
+          "hora": "12:30",
+          "nombre": "Monasterio de Rousanou",
+          "descripcion": "Conocimiento de la tradición ortodoxa y de la arquitectura de los monasterios sobre roca.",
+          "duracion": "1 h",
+          "costo": 5,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 39.722,
+            "lng": 21.6326
+          }
+        },
+        {
+          "hora": "16:00",
+          "nombre": "Sendero panorámico de Meteora",
+          "descripcion": "Caminata por senderos señalizados entre bosques, rocas y pequeños miradores.",
+          "duracion": "1 h 45 min",
+          "costo": 0,
+          "tipo": "naturaleza",
+          "coords": {
+            "lat": 39.7185,
+            "lng": 21.6295
+          },
+          "consejo": "No salir de las rutas autorizadas ni caminar junto a los acantilados con lluvia."
+        },
+        {
+          "niveles": [
+            "medio",
+            "alto"
+          ],
+          "hora": "18:30",
+          "nombre": "Recorrido fotográfico guiado en Meteora",
+          "descripcion": "Guía local para elegir encuadres y conocer la historia de los principales miradores.",
+          "duracion": "1 h 30 min",
+          "costo": 35,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 39.7194,
+            "lng": 21.6326
+          }
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "07:15",
+            "momento": "desayuno",
+            "lugar": "Panadería tradicional de la plaza Riga Fereou, Kalambaka",
+            "plato": "Tiropita, yogur y café",
+            "costo": 8
+          },
+          {
+            "hora": "14:00",
+            "momento": "almuerzo",
+            "lugar": "Taverna Gardenia, Kastraki",
+            "plato": "Pastitsio y ensalada",
+            "costo": 17
+          },
+          {
+            "hora": "20:30",
+            "momento": "cena",
+            "lugar": "Panellinio Restaurant, Kalambaka",
+            "plato": "Brochetas de pollo con papas",
+            "costo": 17
+          }
+        ],
+        "medio": [
+          {
+            "hora": "07:15",
+            "momento": "desayuno",
+            "lugar": "Doupiani House",
+            "plato": "Desayuno casero incluido",
+            "costo": 0
+          },
+          {
+            "hora": "14:00",
+            "momento": "almuerzo",
+            "lugar": "Taverna Gardenia, Kastraki",
+            "plato": "Cordero con patatas y ensalada horiatiki",
+            "costo": 29
+          },
+          {
+            "hora": "20:30",
+            "momento": "cena",
+            "lugar": "Meteora Restaurant, Kalambaka",
+            "plato": "Especialidades regionales con queso feta al horno",
+            "costo": 32
+          }
+        ],
+        "alto": [
+          {
+            "hora": "07:15",
+            "momento": "desayuno",
+            "lugar": "Divani Meteora Hotel",
+            "plato": "Desayuno completo incluido",
+            "costo": 0
+          },
+          {
+            "hora": "14:00",
+            "momento": "almuerzo",
+            "lugar": "Taverna Gardenia, Kastraki",
+            "plato": "Selección de entradas locales y plato de cordero",
+            "costo": 45
+          },
+          {
+            "hora": "20:30",
+            "momento": "cena",
+            "lugar": "Valia Calda, Kalambaka",
+            "plato": "Cena de cocina de montaña con vino y postre",
+            "costo": 62
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "08:15",
+          "de": "Kalambaka",
+          "a": "Gran Meteoro",
+          "medio": "Autobús turístico local de Meteora, si opera en esa fecha",
+          "duracion": "35 min",
+          "costo": 3
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "08:15",
+          "de": "Doupiani House",
+          "a": "Gran Meteoro",
+          "medio": "Miniván compartido reservado",
+          "duracion": "25 min",
+          "costo": 12
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "08:15",
+          "de": "Divani Meteora Hotel",
+          "a": "Gran Meteoro",
+          "medio": "Vehículo privado con conductor",
+          "duracion": "25 min",
+          "costo": 22
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "10:25",
+          "de": "Gran Meteoro",
+          "a": "Varlaam",
+          "medio": "Taxi compartido",
+          "duracion": "10 min",
+          "costo": 5
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "10:25",
+          "de": "Gran Meteoro",
+          "a": "Varlaam",
+          "medio": "Miniván reservado",
+          "duracion": "10 min",
+          "costo": 6
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "10:25",
+          "de": "Gran Meteoro",
+          "a": "Varlaam",
+          "medio": "Vehículo privado",
+          "duracion": "10 min",
+          "costo": 12
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "12:10",
+          "de": "Varlaam",
+          "a": "Rousanou",
+          "medio": "Taxi compartido",
+          "duracion": "15 min",
+          "costo": 6
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "12:10",
+          "de": "Varlaam",
+          "a": "Rousanou",
+          "medio": "Miniván reservado",
+          "duracion": "15 min",
+          "costo": 7
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "12:10",
+          "de": "Varlaam",
+          "a": "Rousanou",
+          "medio": "Vehículo privado",
+          "duracion": "15 min",
+          "costo": 13
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "13:35",
+          "de": "Rousanou",
+          "a": "Kastraki",
+          "medio": "Taxi compartido",
+          "duracion": "15 min",
+          "costo": 7
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "13:35",
+          "de": "Rousanou",
+          "a": "Kastraki",
+          "medio": "Miniván reservado",
+          "duracion": "15 min",
+          "costo": 8
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "13:35",
+          "de": "Rousanou",
+          "a": "Kastraki",
+          "medio": "Vehículo privado",
+          "duracion": "15 min",
+          "costo": 15
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "18:00",
+          "de": "Final del sendero de Meteora",
+          "a": "Kalambaka",
+          "medio": "Taxi compartido",
+          "duracion": "20 min",
+          "costo": 8
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "18:00",
+          "de": "Final del sendero",
+          "a": "Mirador de Meteora",
+          "medio": "Miniván reservado",
+          "duracion": "20 min",
+          "costo": 10
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "18:00",
+          "de": "Final del sendero",
+          "a": "Mirador de Meteora",
+          "medio": "Vehículo privado",
+          "duracion": "20 min",
+          "costo": 18
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "20:10",
+          "de": "Mirador de Meteora",
+          "a": "Kalambaka",
+          "medio": "Miniván reservado",
+          "duracion": "20 min",
+          "costo": 10
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "20:10",
+          "de": "Mirador de Meteora",
+          "a": "Kalambaka",
+          "medio": "Vehículo privado",
+          "duracion": "20 min",
+          "costo": 18
+        }
+      ],
+      "planB": "Los monasterios tienen cierres semanales distintos. Sustituir cualquier monasterio cerrado por San Esteban o la Santísima Trinidad, verificando apertura antes de comprar el transporte. Con lluvia intensa, reducir la caminata."
+    },
+    {
+      "dia": 6,
+      "titulo": "Regreso a Atenas y noche en el barrio de Gazi",
+      "ciudad": "Atenas",
+      "coords": {
+        "lat": 37.9777,
+        "lng": 23.7136
+      },
+      "resumen": "Regreso desde Kalambaka y tarde dedicada al pasado industrial de Atenas, el yacimiento de Kerameikos y la escena cultural de Gazi.",
+      "imagenes": [
+        {
+          "url": "grecia-14-dias/vista-panoramica-de-los-barrios-historic-84b731.jpg",
+          "alt": "Vista panorámica de los barrios históricos de Atenas",
+          "credito": "DanielValahul",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Panorama_of_the_Acropolis_and_Athens.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "16:15",
+          "nombre": "Kerameikos arqueológico",
+          "descripcion": "Visita al antiguo cementerio y barrio de los alfareros de Atenas.",
+          "duracion": "1 h",
+          "costo": 10,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 37.9783,
+            "lng": 23.715
+          },
+          "link": "https://www.hh.gr/"
+        },
+        {
+          "hora": "18:00",
+          "nombre": "Arte urbano y calles de Gazi",
+          "descripcion": "Recorrido por murales, plazas y espacios culturales de uno de los barrios más animados.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 37.979,
+            "lng": 23.713
+          }
+        },
+        {
+          "hora": "21:00",
+          "nombre": "Complejo cultural Technopolis",
+          "descripcion": "Paseo exterior por la antigua fábrica de gas y su entorno nocturno.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "vida-nocturna",
+          "coords": {
+            "lat": 37.9777,
+            "lng": 23.7136
+          }
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "07:15",
+            "momento": "desayuno",
+            "lugar": "Panadería tradicional de Kalambaka",
+            "plato": "Bougatsa y café",
+            "costo": 8
+          },
+          {
+            "hora": "15:00",
+            "momento": "almuerzo",
+            "lugar": "O Thanasis, Monastiraki",
+            "plato": "Pita de kebab y ensalada",
+            "costo": 14
+          },
+          {
+            "hora": "19:40",
+            "momento": "cena",
+            "lugar": "Taverna tradicional de Gazi",
+            "plato": "Gyros y papas fritas",
+            "costo": 16
+          }
+        ],
+        "medio": [
+          {
+            "hora": "07:15",
+            "momento": "desayuno",
+            "lugar": "Doupiani House",
+            "plato": "Desayuno incluido",
+            "costo": 0
+          },
+          {
+            "hora": "15:00",
+            "momento": "almuerzo",
+            "lugar": "Karamanlidika tou Fani, Atenas",
+            "plato": "Mezedes y tabla de quesos",
+            "costo": 28,
+            "link": "https://www.karamanlidika.gr/"
+          },
+          {
+            "hora": "19:40",
+            "momento": "cena",
+            "lugar": "Taverna tradicional de Gazi",
+            "plato": "Musaka, ensalada y postre",
+            "costo": 29
+          }
+        ],
+        "alto": [
+          {
+            "hora": "07:15",
+            "momento": "desayuno",
+            "lugar": "Divani Meteora Hotel",
+            "plato": "Desayuno incluido",
+            "costo": 0
+          },
+          {
+            "hora": "15:00",
+            "momento": "almuerzo",
+            "lugar": "Athinaikon, Atenas",
+            "plato": "Pulpo, pescados y entradas para compartir",
+            "costo": 48
+          },
+          {
+            "hora": "19:40",
+            "momento": "cena",
+            "lugar": "Restaurante de cocina contemporánea en Gazi",
+            "plato": "Menú degustación corto de productos griegos",
+            "costo": 72
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "niveles": [
+            "economico",
+            "medio"
+          ],
+          "hora": "08:35",
+          "de": "Kalambaka",
+          "a": "Trikala",
+          "medio": "Autobús KTEL regional",
+          "duracion": "35 min",
+          "costo": 3.5
+        },
+        {
+          "niveles": [
+            "economico",
+            "medio"
+          ],
+          "hora": "09:30",
+          "de": "Trikala",
+          "a": "Atenas, terminal KTEL Liosion",
+          "medio": "Autobús interurbano",
+          "duracion": "4 h 15 min",
+          "costo": 31
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "09:00",
+          "de": "Divani Meteora Hotel",
+          "a": "Electra Metropolis Athens",
+          "medio": "Vehículo privado con conductor",
+          "duracion": "4 h 30 min",
+          "costo": 130
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "14:00",
+          "de": "KTEL Liosion",
+          "a": "Centro de Atenas",
+          "medio": "Transporte urbano",
+          "duracion": "30 min",
+          "costo": 2.4
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "14:00",
+          "de": "KTEL Liosion",
+          "a": "Attalos Hotel",
+          "medio": "Taxi compartido",
+          "duracion": "25 min",
+          "costo": 12
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "15:55",
+          "de": "Monastiraki",
+          "a": "Kerameikos",
+          "medio": "Metro urbano",
+          "duracion": "15 min",
+          "costo": 1.2
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "15:55",
+          "de": "Electra Metropolis Athens",
+          "a": "Kerameikos",
+          "medio": "Taxi compartido",
+          "duracion": "15 min",
+          "costo": 9
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "22:15",
+          "de": "Gazi",
+          "a": "Electra Metropolis Athens",
+          "medio": "Taxi compartido",
+          "duracion": "15 min",
+          "costo": 9
+        }
+      ],
+      "planB": "Si el autobús interurbano se retrasa y no se alcanza el horario de Kerameikos, realizar solo Gazi y Technopolis por la tarde-noche."
+    },
+    {
+      "dia": 7,
+      "titulo": "Míkonos: casas blancas, molinos y fiesta frente al Egeo",
+      "ciudad": "Míkonos",
+      "coords": {
+        "lat": 37.445,
+        "lng": 25.3289
+      },
+      "resumen": "Ferry desde El Pireo (vuelo doméstico en alto), tarde por Chora, Little Venice y los molinos, y noche de bares.",
+      "imagenes": [
+        {
+          "url": "grecia-14-dias/molinos-tradicionales-de-mikonos-vistos-d6df4e.jpg",
+          "alt": "Molinos de viento blancos de Míkonos junto a Little Venice",
+          "credito": "Zigomitros Athanasios - Thor4bp",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Windmills_-_view_from_little_venice_-_Mykonos.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "14:30",
+          "nombre": "Calles comerciales de Matogianni",
+          "descripcion": "Exploración de los callejones blancos, tiendas y pequeñas capillas del centro de Chora.",
+          "duracion": "1 h 15 min",
+          "costo": 0,
+          "tipo": "compras",
+          "coords": {
+            "lat": 37.4464,
+            "lng": 25.3282
+          }
+        },
+        {
+          "hora": "16:30",
+          "nombre": "Barrio de Little Venice",
+          "descripcion": "Paseo por las casas construidas junto al mar y sus terrazas frente al Egeo.",
+          "duracion": "1 h 15 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 37.4455,
+            "lng": 25.3254
+          }
+        },
+        {
+          "hora": "19:30",
+          "nombre": "Molinos de Kato Mili",
+          "descripcion": "Fotografías de los molinos de viento de Míkonos con la luz del atardecer.",
+          "duracion": "45 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 37.4446,
+            "lng": 25.3254
+          }
+        },
+        {
+          "hora": "22:30",
+          "nombre": "Vida nocturna del centro de Míkonos",
+          "descripcion": "Ruta a pie por las calles de bares y locales musicales de Chora.",
+          "duracion": "2 h",
+          "costo": 0,
+          "tipo": "vida-nocturna",
+          "coords": {
+            "lat": 37.446,
+            "lng": 25.3285
+          },
+          "consejo": "Mayo es temporada de apertura gradual: algunos clubes grandes y fiestas de playa pueden no estar operando todavía."
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "06:20",
+            "momento": "desayuno",
+            "lugar": "Athens Backpackers",
+            "plato": "Desayuno incluido, para llevar",
+            "costo": 0
+          },
+          {
+            "hora": "13:00",
+            "momento": "almuerzo",
+            "lugar": "Sakis Grill House, Mykonos Town",
+            "plato": "Pita de gyros con papas",
+            "costo": 14
+          },
+          {
+            "hora": "20:45",
+            "momento": "cena",
+            "lugar": "Nikos Taverna, Mykonos Town",
+            "plato": "Pastitsio y ensalada",
+            "costo": 23
+          }
+        ],
+        "medio": [
+          {
+            "hora": "06:20",
+            "momento": "desayuno",
+            "lugar": "Attalos Hotel",
+            "plato": "Desayuno incluido, solicitado para llevar por la salida temprana",
+            "costo": 0
+          },
+          {
+            "hora": "13:00",
+            "momento": "almuerzo",
+            "lugar": "Nikos Taverna, Mykonos Town",
+            "plato": "Pulpo a la parrilla con ensalada",
+            "costo": 32
+          },
+          {
+            "hora": "20:45",
+            "momento": "cena",
+            "lugar": "M-eating, Mykonos Town",
+            "plato": "Entrante, plato de cocina mediterránea y postre",
+            "costo": 55,
+            "link": "https://m-eating.gr/en/"
+          }
+        ],
+        "alto": [
+          {
+            "hora": "07:00",
+            "momento": "desayuno",
+            "lugar": "Electra Metropolis Athens",
+            "plato": "Desayuno incluido",
+            "costo": 0
+          },
+          {
+            "hora": "13:00",
+            "momento": "almuerzo",
+            "lugar": "Kastro's Restaurant, Little Venice",
+            "plato": "Mariscos y ensalada de temporada",
+            "costo": 62
+          },
+          {
+            "hora": "20:45",
+            "momento": "cena",
+            "lugar": "M-eating, Mykonos Town",
+            "plato": "Cena de autor con productos locales y postre",
+            "costo": 95,
+            "link": "https://m-eating.gr/en/"
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "06:35",
+          "de": "Centro de Atenas",
+          "a": "Puerto del Pireo",
+          "medio": "Metro urbano",
+          "duracion": "35 min",
+          "costo": 1.2
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "06:35",
+          "de": "Attalos Hotel",
+          "a": "Puerto del Pireo",
+          "medio": "Taxi compartido",
+          "duracion": "30 min",
+          "costo": 16
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "08:00",
+          "de": "Puerto del Pireo",
+          "a": "Puerto de Míkonos",
+          "medio": "Ferry rápido, asiento económico",
+          "duracion": "3 h 30 min",
+          "costo": 65,
+          "consejo": "Horario indicativo: confirmar servicio y puerto exacto cuando se publique mayo de 2028."
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "08:00",
+          "de": "Puerto del Pireo",
+          "a": "Puerto de Míkonos",
+          "medio": "Ferry rápido, asiento de categoría superior",
+          "duracion": "3 h 30 min",
+          "costo": 90
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "08:15",
+          "de": "Electra Metropolis Athens",
+          "a": "Aeropuerto ATH",
+          "medio": "Traslado privado compartido",
+          "duracion": "40 min",
+          "costo": 28
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "10:20",
+          "de": "Aeropuerto ATH",
+          "a": "Aeropuerto de Míkonos JMK",
+          "medio": "Vuelo doméstico",
+          "duracion": "45 min",
+          "costo": 150,
+          "consejo": "Horario indicativo."
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "11:50",
+          "de": "Puerto nuevo de Míkonos",
+          "a": "Chora",
+          "medio": "SeaBus o autobús portuario",
+          "duracion": "15 min",
+          "costo": 2.5
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "11:50",
+          "de": "Puerto nuevo de Míkonos",
+          "a": "Poseidon Hotel Suites",
+          "medio": "Taxi compartido",
+          "duracion": "15 min",
+          "costo": 12
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "11:25",
+          "de": "Aeropuerto JMK",
+          "a": "Cavo Tagoo Mykonos",
+          "medio": "Traslado privado",
+          "duracion": "20 min",
+          "costo": 25
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "13:45",
+          "de": "Cavo Tagoo Mykonos",
+          "a": "Matogianni, Chora",
+          "medio": "Vehículo privado",
+          "duracion": "10 min",
+          "costo": 12
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "00:45",
+          "de": "Centro de Chora",
+          "a": "Cavo Tagoo Mykonos",
+          "medio": "Taxi compartido",
+          "duracion": "10 min",
+          "costo": 14
+        }
+      ],
+      "planB": "Si el viento causa cancelación de ferry, utilizar la primera conexión marítima disponible o reorganizar el desplazamiento con vuelo doméstico, cuyo coste sería diferente. Si hay lluvia, privilegiar los callejones cubiertos y la gastronomía."
+    },
+    {
+      "dia": 8,
+      "titulo": "Délos arqueológica, playa y segunda noche en Míkonos",
+      "ciudad": "Míkonos",
+      "coords": {
+        "lat": 37.445,
+        "lng": 25.3289
+      },
+      "resumen": "Barco a la isla sagrada de Délos, tarde en Paradise Beach y segunda noche en Míkonos.",
+      "imagenes": [
+        {
+          "url": "grecia-14-dias/vista-panoramica-del-puerto-antiguo-y-la-ff8111.jpg",
+          "alt": "Puerto antiguo de Míkonos con casas blancas y embarcaciones",
+          "credito": "Helentr",
+          "licencia": "CC BY-SA 3.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:MykonosChoraOldPortPanorama.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "10:45",
+          "nombre": "Yacimiento arqueológico de Délos",
+          "descripcion": "Recorrido por el antiguo centro religioso y comercial de las Cícladas.",
+          "duracion": "1 h 20 min",
+          "costo": 20,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 37.3966,
+            "lng": 25.2697
+          },
+          "link": "https://cyclades.culture.gov.gr/en/location/the-archaeological-site-and-museum-of-delos/",
+          "consejo": "Llevar agua, gorra y protección solar: hay poca sombra en la isla."
+        },
+        {
+          "hora": "12:15",
+          "nombre": "Terraza de los Leones de Délos",
+          "descripcion": "Visita a uno de los conjuntos escultóricos más emblemáticos de la isla antigua.",
+          "duracion": "40 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 37.4002,
+            "lng": 25.2687
+          }
+        },
+        {
+          "hora": "16:00",
+          "nombre": "Tarde en Paradise Beach",
+          "descripcion": "Tiempo para nadar, descansar y conocer una de las playas más famosas de Míkonos.",
+          "duracion": "2 h 15 min",
+          "costo": 0,
+          "tipo": "naturaleza",
+          "coords": {
+            "lat": 37.4097,
+            "lng": 25.3506
+          },
+          "consejo": "Las tumbonas y consumiciones no están incluidas. El agua de mayo puede estar fría."
+        },
+        {
+          "hora": "22:15",
+          "nombre": "Bares y música en Mykonos Town",
+          "descripcion": "Segunda noche en los locales del centro histórico, sin entrada general prepagada.",
+          "duracion": "1 h 45 min",
+          "costo": 0,
+          "tipo": "vida-nocturna",
+          "coords": {
+            "lat": 37.446,
+            "lng": 25.3285
+          }
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "08:00",
+            "momento": "desayuno",
+            "lugar": "Panadería Veneti, Mykonos Town",
+            "plato": "Pastel de queso y café",
+            "costo": 9
+          },
+          {
+            "hora": "14:30",
+            "momento": "almuerzo",
+            "lugar": "Sakis Grill House, Mykonos Town",
+            "plato": "Gyros de pollo",
+            "costo": 14
+          },
+          {
+            "hora": "20:15",
+            "momento": "cena",
+            "lugar": "Nikos Taverna, Mykonos Town",
+            "plato": "Musaka y ensalada",
+            "costo": 22
+          }
+        ],
+        "medio": [
+          {
+            "hora": "08:00",
+            "momento": "desayuno",
+            "lugar": "Poseidon Hotel Suites",
+            "plato": "Desayuno bufé incluido",
+            "costo": 0
+          },
+          {
+            "hora": "14:30",
+            "momento": "almuerzo",
+            "lugar": "Nikos Taverna, Mykonos Town",
+            "plato": "Pescado del día con papas",
+            "costo": 35
+          },
+          {
+            "hora": "20:15",
+            "momento": "cena",
+            "lugar": "Kastro's Restaurant, Little Venice",
+            "plato": "Calamares y plato de mariscos",
+            "costo": 54
+          }
+        ],
+        "alto": [
+          {
+            "hora": "08:00",
+            "momento": "desayuno",
+            "lugar": "Cavo Tagoo Mykonos",
+            "plato": "Desayuno de hotel incluido",
+            "costo": 0
+          },
+          {
+            "hora": "14:30",
+            "momento": "almuerzo",
+            "lugar": "Kastro's Restaurant, Little Venice",
+            "plato": "Entrantes del mar y pescado fresco",
+            "costo": 70
+          },
+          {
+            "hora": "20:15",
+            "momento": "cena",
+            "lugar": "Interni Restaurant, Mykonos Town",
+            "plato": "Cena contemporánea con mariscos y postre",
+            "costo": 110
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "niveles": [
+            "economico",
+            "medio"
+          ],
+          "hora": "10:00",
+          "de": "Puerto antiguo de Míkonos",
+          "a": "Puerto de Délos",
+          "medio": "Barco turístico, billete de ida y vuelta",
+          "duracion": "30 min",
+          "costo": 25,
+          "consejo": "Las salidas dependen del viento; comprobar la última embarcación de regreso."
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "09:30",
+          "de": "Cavo Tagoo Mykonos",
+          "a": "Puerto antiguo de Míkonos",
+          "medio": "Traslado privado",
+          "duracion": "10 min",
+          "costo": 12
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "10:00",
+          "de": "Puerto antiguo de Míkonos",
+          "a": "Délos",
+          "medio": "Barco turístico, ida y vuelta",
+          "duracion": "30 min",
+          "costo": 25
+        },
+        {
+          "hora": "13:30",
+          "de": "Délos",
+          "a": "Puerto antiguo de Míkonos",
+          "medio": "Barco turístico, regreso incluido",
+          "duracion": "30 min",
+          "costo": 0
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "15:20",
+          "de": "Fabrika, Mykonos Town",
+          "a": "Paradise Beach",
+          "medio": "Autobús local",
+          "duracion": "25 min",
+          "costo": 2.5
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "15:20",
+          "de": "Mykonos Town",
+          "a": "Paradise Beach",
+          "medio": "Taxi compartido",
+          "duracion": "20 min",
+          "costo": 15
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "15:20",
+          "de": "Mykonos Town",
+          "a": "Paradise Beach",
+          "medio": "Vehículo privado",
+          "duracion": "20 min",
+          "costo": 28
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "18:35",
+          "de": "Paradise Beach",
+          "a": "Mykonos Town",
+          "medio": "Autobús local",
+          "duracion": "25 min",
+          "costo": 2.5
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "18:35",
+          "de": "Paradise Beach",
+          "a": "Poseidon Hotel Suites",
+          "medio": "Taxi compartido",
+          "duracion": "20 min",
+          "costo": 15
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "18:35",
+          "de": "Paradise Beach",
+          "a": "Cavo Tagoo Mykonos",
+          "medio": "Vehículo privado",
+          "duracion": "20 min",
+          "costo": 28
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "19:45",
+          "de": "Cavo Tagoo Mykonos",
+          "a": "Interni Restaurant",
+          "medio": "Traslado privado",
+          "duracion": "10 min",
+          "costo": 12
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "00:15",
+          "de": "Mykonos Town",
+          "a": "Cavo Tagoo Mykonos",
+          "medio": "Taxi compartido",
+          "duracion": "10 min",
+          "costo": 14
+        }
+      ],
+      "planB": "Si Délos está cerrada o se suspende el barco por mal tiempo, realizar un recorrido cultural por Chora y sus iglesias, y mantener la playa solo si las condiciones lo permiten."
+    },
+    {
+      "dia": 9,
+      "titulo": "Naxos: la isla auténtica y el templo de Apolo",
+      "ciudad": "Naxos",
+      "coords": {
+        "lat": 37.1056,
+        "lng": 25.3763
+      },
+      "resumen": "Ferry entre islas y llegada a una Naxos más tranquila, con fortalezas venecianas, playas accesibles y la famosa puerta de Apolo.",
+      "imagenes": [
+        {
+          "url": "grecia-14-dias/ciudad-de-naxos-vista-desde-la-peninsula-c91bb6.jpg",
+          "alt": "Vista de la ciudad de Naxos y sus casas junto al puerto",
+          "credito": "Giles Laurent",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:1039_View_of_Naxos_Town_from_Palatia_Photo_by_Giles_Laurent.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "14:00",
+          "nombre": "Castillo veneciano de Naxos",
+          "descripcion": "Recorrido por las calles del Kastro y su arquitectura medieval.",
+          "duracion": "1 h 15 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 37.1058,
+            "lng": 25.3761
+          }
+        },
+        {
+          "hora": "16:00",
+          "nombre": "Mercado antiguo de Chora",
+          "descripcion": "Paseo por boutiques, tiendas de artesanos y callejones tradicionales.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "compras",
+          "coords": {
+            "lat": 37.105,
+            "lng": 25.3759
+          }
+        },
+        {
+          "hora": "18:00",
+          "nombre": "Playa Agios Georgios",
+          "descripcion": "Tarde para descansar o entrar al mar en una playa cercana al centro.",
+          "duracion": "1 h 15 min",
+          "costo": 0,
+          "tipo": "naturaleza",
+          "coords": {
+            "lat": 37.0989,
+            "lng": 25.3761
+          }
+        },
+        {
+          "hora": "20:00",
+          "nombre": "Portara al atardecer",
+          "descripcion": "Contemplación del enorme pórtico de mármol asociado al antiguo templo de Apolo.",
+          "duracion": "45 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 37.1084,
+            "lng": 25.372
+          },
+          "consejo": "La pasarela puede recibir oleaje con viento fuerte; no avanzar si está cubierta de agua."
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "08:15",
+            "momento": "desayuno",
+            "lugar": "Panadería tradicional, Mykonos Town",
+            "plato": "Bougatsa y café",
+            "costo": 10
+          },
+          {
+            "hora": "12:30",
+            "momento": "almuerzo",
+            "lugar": "Yasouvlaki, Naxos Town",
+            "plato": "Pita de carne y bebida",
+            "costo": 13
+          },
+          {
+            "hora": "21:00",
+            "momento": "cena",
+            "lugar": "Maro's Taverna, Naxos Town",
+            "plato": "Musaka casera y ensalada",
+            "costo": 20
+          }
+        ],
+        "medio": [
+          {
+            "hora": "08:15",
+            "momento": "desayuno",
+            "lugar": "Poseidon Hotel Suites",
+            "plato": "Desayuno incluido",
+            "costo": 0
+          },
+          {
+            "hora": "12:30",
+            "momento": "almuerzo",
+            "lugar": "Scirocco Restaurant, Naxos Town",
+            "plato": "Ensalada de Naxos y pollo a la parrilla",
+            "costo": 26
+          },
+          {
+            "hora": "21:00",
+            "momento": "cena",
+            "lugar": "To Elliniko, Naxos Town",
+            "plato": "Platos caseros naxios, queso local y postre",
+            "costo": 35,
+            "link": "https://toelliniko.com/"
+          }
+        ],
+        "alto": [
+          {
+            "hora": "08:15",
+            "momento": "desayuno",
+            "lugar": "Cavo Tagoo Mykonos",
+            "plato": "Desayuno incluido",
+            "costo": 0
+          },
+          {
+            "hora": "12:30",
+            "momento": "almuerzo",
+            "lugar": "Nissaki Beach Restaurant, Naxos",
+            "plato": "Pulpo, ensalada de queso local y pescado",
+            "costo": 58
+          },
+          {
+            "hora": "21:00",
+            "momento": "cena",
+            "lugar": "To Elliniko, Naxos Town",
+            "plato": "Selección de especialidades tradicionales y vino",
+            "costo": 55,
+            "link": "https://toelliniko.com/"
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "09:00",
+          "de": "MyCocoon Hostel",
+          "a": "Puerto de Míkonos",
+          "medio": "SeaBus o autobús portuario",
+          "duracion": "15 min",
+          "costo": 2.5
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "09:00",
+          "de": "Poseidon Hotel Suites",
+          "a": "Puerto de Míkonos",
+          "medio": "Taxi compartido",
+          "duracion": "20 min",
+          "costo": 12
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "09:00",
+          "de": "Cavo Tagoo Mykonos",
+          "a": "Puerto de Míkonos",
+          "medio": "Traslado privado",
+          "duracion": "15 min",
+          "costo": 22
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "10:00",
+          "de": "Puerto de Míkonos",
+          "a": "Puerto de Naxos",
+          "medio": "Ferry rápido, asiento económico",
+          "duracion": "1 h",
+          "costo": 35,
+          "consejo": "Duración y hora indicativas según el servicio que se programe para 2028."
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "10:00",
+          "de": "Puerto de Míkonos",
+          "a": "Puerto de Naxos",
+          "medio": "Ferry rápido, asiento superior",
+          "duracion": "1 h",
+          "costo": 55
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "10:00",
+          "de": "Puerto de Míkonos",
+          "a": "Puerto de Naxos",
+          "medio": "Ferry rápido, categoría prémium",
+          "duracion": "1 h",
+          "costo": 75
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "11:25",
+          "de": "Puerto de Naxos",
+          "a": "Argo Boutique Hotel",
+          "medio": "Taxi compartido",
+          "duracion": "15 min",
+          "costo": 8
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "11:25",
+          "de": "Puerto de Naxos",
+          "a": "Nissaki Beach Hotel",
+          "medio": "Traslado privado",
+          "duracion": "15 min",
+          "costo": 18
+        }
+      ],
+      "planB": "Si se retrasa el ferry, realizar únicamente Kastro y Portara al atardecer. Si el viento impide cruzar a Palatia, fotografiar la Portara desde el puerto."
+    },
+    {
+      "dia": 10,
+      "titulo": "Naxos interior: pueblos de montaña, cítricos y costa",
+      "ciudad": "Naxos",
+      "coords": {
+        "lat": 37.1056,
+        "lng": 25.3763
+      },
+      "resumen": "Día de pueblos menos turísticos y paisajes rurales. El recorrido atraviesa Halki, una destilería histórica, Apeiranthos y termina en la costa oeste.",
+      "imagenes": [
+        {
+          "url": "grecia-14-dias/la-portara-de-naxos-vista-al-atardecer-be4994.jpg",
+          "alt": "La Portara de Naxos vista al atardecer",
+          "credito": "Vasilismorfo",
+          "licencia": "CC BY 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:The_Portara_of_Naxos_at_Sunset.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "09:30",
+          "nombre": "Pueblo de Halki",
+          "descripcion": "Paseo por un antiguo centro comercial de Naxos con mansiones, patios y pequeñas plazas.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 37.0627,
+            "lng": 25.486
+          }
+        },
+        {
+          "hora": "11:00",
+          "nombre": "Destilería Vallindras",
+          "descripcion": "Conocimiento de la producción tradicional de licor de cidra de Naxos y de su equipamiento histórico.",
+          "duracion": "45 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 37.0625,
+            "lng": 25.486
+          },
+          "consejo": "Las degustaciones dependen de la temporada; las compras se pagan aparte."
+        },
+        {
+          "hora": "14:30",
+          "nombre": "Pueblo de Apeiranthos",
+          "descripcion": "Exploración de calles de mármol y arquitectura montañesa.",
+          "duracion": "1 h 30 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 37.072,
+            "lng": 25.521
+          }
+        },
+        {
+          "hora": "17:45",
+          "nombre": "Playa Agios Prokopios",
+          "descripcion": "Descanso en una extensa playa de aguas turquesas de la costa oeste.",
+          "duracion": "1 h 45 min",
+          "costo": 0,
+          "tipo": "naturaleza",
+          "coords": {
+            "lat": 37.0739,
+            "lng": 25.3505
+          }
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "07:45",
+            "momento": "desayuno",
+            "lugar": "Panadería de Naxos Town",
+            "plato": "Spanakopita y café",
+            "costo": 9
+          },
+          {
+            "hora": "12:30",
+            "momento": "almuerzo",
+            "lugar": "Taverna tradicional de Halki",
+            "plato": "Guiso de legumbres y ensalada",
+            "costo": 15
+          },
+          {
+            "hora": "20:00",
+            "momento": "cena",
+            "lugar": "Giannoulis Grill, Agios Prokopios",
+            "plato": "Gyros con queso local",
+            "costo": 17
+          }
+        ],
+        "medio": [
+          {
+            "hora": "07:45",
+            "momento": "desayuno",
+            "lugar": "Argo Boutique Hotel",
+            "plato": "Desayuno bufé incluido",
+            "costo": 0
+          },
+          {
+            "hora": "12:30",
+            "momento": "almuerzo",
+            "lugar": "Taverna tradicional de Halki",
+            "plato": "Queso graviera, carne estofada y ensalada",
+            "costo": 28
+          },
+          {
+            "hora": "20:00",
+            "momento": "cena",
+            "lugar": "Restaurante de Agios Prokopios",
+            "plato": "Calamares, verduras asadas y postre",
+            "costo": 35
+          }
+        ],
+        "alto": [
+          {
+            "hora": "07:45",
+            "momento": "desayuno",
+            "lugar": "Nissaki Beach Hotel",
+            "plato": "Desayuno incluido",
+            "costo": 0
+          },
+          {
+            "hora": "12:30",
+            "momento": "almuerzo",
+            "lugar": "Restaurante tradicional de Halki",
+            "plato": "Selección de quesos de Naxos, cordero y postre",
+            "costo": 46
+          },
+          {
+            "hora": "20:00",
+            "momento": "cena",
+            "lugar": "Restaurante de mariscos en Agios Prokopios",
+            "plato": "Pescado de captura local, entradas y vino",
+            "costo": 72
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "08:50",
+          "de": "Naxos Town",
+          "a": "Halki",
+          "medio": "Autobús KTEL Naxos",
+          "duracion": "35 min",
+          "costo": 3
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "08:50",
+          "de": "Argo Boutique Hotel",
+          "a": "Halki",
+          "medio": "Miniván reservado compartido",
+          "duracion": "30 min",
+          "costo": 16
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "08:50",
+          "de": "Nissaki Beach Hotel",
+          "a": "Halki",
+          "medio": "Vehículo privado con conductor",
+          "duracion": "30 min",
+          "costo": 32
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "13:45",
+          "de": "Halki",
+          "a": "Apeiranthos",
+          "medio": "Taxi compartido, por escasa frecuencia de buses",
+          "duracion": "25 min",
+          "costo": 12
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "13:45",
+          "de": "Halki",
+          "a": "Apeiranthos",
+          "medio": "Miniván reservado",
+          "duracion": "25 min",
+          "costo": 14
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "13:45",
+          "de": "Halki",
+          "a": "Apeiranthos",
+          "medio": "Vehículo privado",
+          "duracion": "25 min",
+          "costo": 28
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "16:20",
+          "de": "Apeiranthos",
+          "a": "Agios Prokopios",
+          "medio": "Taxi grupal compartido",
+          "duracion": "1 h",
+          "costo": 24
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "16:20",
+          "de": "Apeiranthos",
+          "a": "Agios Prokopios",
+          "medio": "Miniván reservado",
+          "duracion": "55 min",
+          "costo": 20
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "16:20",
+          "de": "Apeiranthos",
+          "a": "Agios Prokopios",
+          "medio": "Vehículo privado",
+          "duracion": "55 min",
+          "costo": 42
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "21:15",
+          "de": "Agios Prokopios",
+          "a": "Naxos Town",
+          "medio": "Autobús local, sujeto a último horario",
+          "duracion": "25 min",
+          "costo": 2.5
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "21:15",
+          "de": "Agios Prokopios",
+          "a": "Argo Boutique Hotel",
+          "medio": "Taxi compartido",
+          "duracion": "20 min",
+          "costo": 10
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "21:15",
+          "de": "Agios Prokopios",
+          "a": "Nissaki Beach Hotel",
+          "medio": "Traslado privado",
+          "duracion": "20 min",
+          "costo": 20
+        }
+      ],
+      "planB": "Si cierran la destilería o los caminos rurales presentan problemas, dedicar más tiempo a Halki y Apeiranthos. Con lluvia, sustituir la playa por una taberna y un recorrido de artesanía local."
+    },
+    {
+      "dia": 11,
+      "titulo": "Playas de Naxos y deportes de viento",
+      "ciudad": "Naxos",
+      "coords": {
+        "lat": 37.0739,
+        "lng": 25.3505
+      },
+      "resumen": "Último día completo en Naxos. El plan económico disfruta playas de libre acceso; el medio suma una clase de windsurf en grupo y el alto una sesión privada.",
+      "imagenes": [
+        {
+          "url": "grecia-14-dias/ciudad-de-naxos-vista-desde-la-peninsula-c91bb6.jpg",
+          "alt": "Puerto y casas blancas de Naxos bañadas por el mar Egeo",
+          "credito": "Giles Laurent",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:1039_View_of_Naxos_Town_from_Palatia_Photo_by_Giles_Laurent.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "10:00",
+          "nombre": "Playa de Mikri Vigla",
+          "descripcion": "Visita a las bahías y dunas famosas por los deportes impulsados por el viento.",
+          "duracion": "1 h 15 min",
+          "costo": 0,
+          "tipo": "naturaleza",
+          "coords": {
+            "lat": 37.0315,
+            "lng": 25.3767
+          },
+          "consejo": "Elegir el sector protegido de acuerdo con la dirección del viento; respetar las zonas de práctica deportiva."
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "11:30",
+          "nombre": "Clase grupal de windsurf en Mikri Vigla",
+          "descripcion": "Introducción supervisada al equilibrio, la vela y las normas de seguridad, con equipo incluido.",
+          "duracion": "1 h 30 min",
+          "costo": 65,
+          "tipo": "aventura",
+          "coords": {
+            "lat": 37.0315,
+            "lng": 25.3767
+          },
+          "consejo": "La realización depende de viento, temperatura, disponibilidad de escuela y aptitud de los participantes."
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "11:30",
+          "nombre": "Clase privada de windsurf en Mikri Vigla",
+          "descripcion": "Sesión personalizada con instructor y material adecuado al nivel del participante.",
+          "duracion": "1 h 30 min",
+          "costo": 125,
+          "tipo": "aventura",
+          "coords": {
+            "lat": 37.0315,
+            "lng": 25.3767
+          }
+        },
+        {
+          "hora": "15:30",
+          "nombre": "Playa de Plaka",
+          "descripcion": "Tiempo libre junto al mar y paseo por su extensa franja de arena.",
+          "duracion": "2 h",
+          "costo": 0,
+          "tipo": "naturaleza",
+          "coords": {
+            "lat": 37.0457,
+            "lng": 25.3509
+          }
+        },
+        {
+          "hora": "18:30",
+          "nombre": "Atardecer en Agia Anna",
+          "descripcion": "Paseo costero y contemplación del cielo sobre el mar desde este pequeño núcleo de playa.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "descanso",
+          "coords": {
+            "lat": 37.0691,
+            "lng": 25.351
+          }
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "08:00",
+            "momento": "desayuno",
+            "lugar": "Panadería de Naxos Town",
+            "plato": "Bocadillo de queso y café",
+            "costo": 9
+          },
+          {
+            "hora": "14:00",
+            "momento": "almuerzo",
+            "lugar": "Taverna de Mikri Vigla",
+            "plato": "Pita de pollo y ensalada",
+            "costo": 17
+          },
+          {
+            "hora": "20:15",
+            "momento": "cena",
+            "lugar": "Taverna Paradiso, Agia Anna",
+            "plato": "Pescado pequeño frito y ensalada",
+            "costo": 23
+          }
+        ],
+        "medio": [
+          {
+            "hora": "08:00",
+            "momento": "desayuno",
+            "lugar": "Argo Boutique Hotel",
+            "plato": "Desayuno incluido",
+            "costo": 0
+          },
+          {
+            "hora": "14:00",
+            "momento": "almuerzo",
+            "lugar": "Taverna de Mikri Vigla",
+            "plato": "Pulpo asado y ensalada de queso de Naxos",
+            "costo": 32
+          },
+          {
+            "hora": "20:15",
+            "momento": "cena",
+            "lugar": "Taverna Paradiso, Agia Anna",
+            "plato": "Pescado a la parrilla y postre",
+            "costo": 38
+          }
+        ],
+        "alto": [
+          {
+            "hora": "08:00",
+            "momento": "desayuno",
+            "lugar": "Nissaki Beach Hotel",
+            "plato": "Desayuno incluido",
+            "costo": 0
+          },
+          {
+            "hora": "14:00",
+            "momento": "almuerzo",
+            "lugar": "Restaurante costero de Mikri Vigla",
+            "plato": "Mariscos, ensalada y fruta",
+            "costo": 58
+          },
+          {
+            "hora": "20:15",
+            "momento": "cena",
+            "lugar": "Restaurante frente a la playa de Agia Anna",
+            "plato": "Pescado fresco entero para compartir con guarniciones",
+            "costo": 78
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "09:00",
+          "de": "Naxos Town",
+          "a": "Mikri Vigla",
+          "medio": "Taxi grupal compartido",
+          "duracion": "35 min",
+          "costo": 12
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "09:00",
+          "de": "Argo Boutique Hotel",
+          "a": "Mikri Vigla",
+          "medio": "Miniván grupal",
+          "duracion": "35 min",
+          "costo": 16
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "09:00",
+          "de": "Nissaki Beach Hotel",
+          "a": "Mikri Vigla",
+          "medio": "Traslado privado",
+          "duracion": "35 min",
+          "costo": 30
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "15:00",
+          "de": "Mikri Vigla",
+          "a": "Playa de Plaka",
+          "medio": "Taxi compartido",
+          "duracion": "15 min",
+          "costo": 7
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "15:00",
+          "de": "Mikri Vigla",
+          "a": "Playa de Plaka",
+          "medio": "Miniván grupal",
+          "duracion": "15 min",
+          "costo": 9
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "15:00",
+          "de": "Mikri Vigla",
+          "a": "Playa de Plaka",
+          "medio": "Vehículo privado",
+          "duracion": "15 min",
+          "costo": 18
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "18:00",
+          "de": "Plaka",
+          "a": "Agia Anna",
+          "medio": "Autobús local",
+          "duracion": "15 min",
+          "costo": 2.5
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "18:00",
+          "de": "Plaka",
+          "a": "Agia Anna",
+          "medio": "Miniván grupal",
+          "duracion": "15 min",
+          "costo": 8
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "18:00",
+          "de": "Plaka",
+          "a": "Agia Anna",
+          "medio": "Vehículo privado",
+          "duracion": "15 min",
+          "costo": 16
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "21:30",
+          "de": "Agia Anna",
+          "a": "Naxos Town",
+          "medio": "Autobús local o taxi compartido si termina el servicio",
+          "duracion": "25 min",
+          "costo": 7
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "21:30",
+          "de": "Agia Anna",
+          "a": "Argo Boutique Hotel",
+          "medio": "Taxi compartido",
+          "duracion": "20 min",
+          "costo": 10
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "21:30",
+          "de": "Agia Anna",
+          "a": "Nissaki Beach Hotel",
+          "medio": "Vehículo privado",
+          "duracion": "20 min",
+          "costo": 20
+        }
+      ],
+      "planB": "Con viento excesivo o mar agitado, suspender windsurf y organizar una clase de cocina local en Naxos Town, cuyo precio deberá comprobarse antes de contratar. Si llueve, priorizar una visita al casco histórico."
+    },
+    {
+      "dia": 12,
+      "titulo": "Santorini: primeras vistas de la caldera",
+      "ciudad": "Santorini",
+      "coords": {
+        "lat": 36.4181,
+        "lng": 25.4317
+      },
+      "resumen": "Ferry desde Naxos hasta Athinios, traslado a Fira y tarde caminando entre los miradores de Firostefani e Imerovigli. La ruta termina con un atardecer sobre la caldera.",
+      "imagenes": [
+        {
+          "url": "grecia-14-dias/acantilados-y-pueblos-blancos-frente-a-l-94f86f.jpg",
+          "alt": "Acantilados y pueblos blancos frente a la caldera volcánica de Santorini",
+          "credito": "Nubifer",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Santorini_Caldera_Oia.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "15:30",
+          "nombre": "Paseo por Fira y la caldera",
+          "descripcion": "Primer contacto con los acantilados, iglesias y terrazas de la capital de Santorini.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 36.4181,
+            "lng": 25.4317
+          }
+        },
+        {
+          "hora": "17:00",
+          "nombre": "Firostefani y sus cúpulas",
+          "descripcion": "Recorrido a pie hasta los clásicos miradores y templos blancos de Firostefani.",
+          "duracion": "45 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 36.4259,
+            "lng": 25.4283
+          }
+        },
+        {
+          "hora": "18:00",
+          "nombre": "Sendero hacia Skaros e Imerovigli",
+          "descripcion": "Caminata por un sector escénico de la caldera con vistas de Nea Kameni.",
+          "duracion": "1 h 45 min",
+          "costo": 0,
+          "tipo": "naturaleza",
+          "coords": {
+            "lat": 36.4335,
+            "lng": 25.4226
+          },
+          "consejo": "El ascenso al propio promontorio de Skaros es opcional dentro del paseo; evitarlo con vértigo, calor intenso o viento fuerte."
+        },
+        {
+          "hora": "20:00",
+          "nombre": "Atardecer desde Imerovigli",
+          "descripcion": "Contemplación del sol cayendo sobre la caldera desde un mirador público.",
+          "duracion": "40 min",
+          "costo": 0,
+          "tipo": "naturaleza",
+          "coords": {
+            "lat": 36.432,
+            "lng": 25.4242
+          }
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "08:00",
+            "momento": "desayuno",
+            "lugar": "Panadería tradicional de Naxos Town",
+            "plato": "Tiropita y café",
+            "costo": 9
+          },
+          {
+            "hora": "14:15",
+            "momento": "almuerzo",
+            "lugar": "Lucky's Souvlakis, Fira",
+            "plato": "Gyros en pita y bebida",
+            "costo": 13
+          },
+          {
+            "hora": "21:00",
+            "momento": "cena",
+            "lugar": "Lucky's Souvlakis, Fira",
+            "plato": "Brochetas de cerdo y papas",
+            "costo": 15
+          }
+        ],
+        "medio": [
+          {
+            "hora": "08:00",
+            "momento": "desayuno",
+            "lugar": "Argo Boutique Hotel",
+            "plato": "Desayuno incluido",
+            "costo": 0
+          },
+          {
+            "hora": "14:15",
+            "momento": "almuerzo",
+            "lugar": "Naoussa Restaurant, Fira",
+            "plato": "Musaka, ensalada y bebida",
+            "costo": 29,
+            "link": "https://naoussasantorini.restaurant/"
+          },
+          {
+            "hora": "21:00",
+            "momento": "cena",
+            "lugar": "Argo Restaurant, Fira",
+            "plato": "Cordero al horno y postre",
+            "costo": 45
+          }
+        ],
+        "alto": [
+          {
+            "hora": "08:00",
+            "momento": "desayuno",
+            "lugar": "Nissaki Beach Hotel",
+            "plato": "Desayuno incluido",
+            "costo": 0
+          },
+          {
+            "hora": "14:15",
+            "momento": "almuerzo",
+            "lugar": "Naoussa Restaurant, Fira",
+            "plato": "Mariscos, pescado y postre",
+            "costo": 58,
+            "link": "https://naoussasantorini.restaurant/"
+          },
+          {
+            "hora": "21:00",
+            "momento": "cena",
+            "lugar": "Selene Restaurant, Katikies Garden",
+            "plato": "Menú gastronómico contemporáneo de varios tiempos",
+            "costo": 125,
+            "link": "https://www.katikies.com/restaurants/"
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "10:30",
+          "de": "Puerto de Naxos",
+          "a": "Puerto Athinios, Santorini",
+          "medio": "Ferry rápido, asiento económico",
+          "duracion": "1 h 45 min",
+          "costo": 45
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "10:30",
+          "de": "Puerto de Naxos",
+          "a": "Puerto Athinios, Santorini",
+          "medio": "Ferry rápido, asiento superior",
+          "duracion": "1 h 45 min",
+          "costo": 65
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "10:30",
+          "de": "Puerto de Naxos",
+          "a": "Puerto Athinios, Santorini",
+          "medio": "Ferry rápido, asiento prémium",
+          "duracion": "1 h 45 min",
+          "costo": 95
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "12:40",
+          "de": "Puerto Athinios",
+          "a": "Fira",
+          "medio": "Autobús KTEL",
+          "duracion": "30 min",
+          "costo": 2.7
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "12:40",
+          "de": "Puerto Athinios",
+          "a": "Aressana Spa Hotel & Suites",
+          "medio": "Miniván grupal reservado",
+          "duracion": "30 min",
+          "costo": 15
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "12:40",
+          "de": "Puerto Athinios",
+          "a": "Katikies Garden Santorini",
+          "medio": "Vehículo privado",
+          "duracion": "30 min",
+          "costo": 35
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "20:45",
+          "de": "Imerovigli",
+          "a": "Fira",
+          "medio": "Autobús local, sujeto a horario",
+          "duracion": "15 min",
+          "costo": 2.2
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "20:45",
+          "de": "Imerovigli",
+          "a": "Fira",
+          "medio": "Taxi compartido",
+          "duracion": "15 min",
+          "costo": 10
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "20:45",
+          "de": "Imerovigli",
+          "a": "Katikies Garden Santorini",
+          "medio": "Vehículo privado",
+          "duracion": "15 min",
+          "costo": 20
+        }
+      ],
+      "planB": "Si el ferry llega tarde, acortar Firostefani y empezar directamente en Imerovigli. Con viento fuerte, evitar el promontorio de Skaros y utilizar solo miradores protegidos."
+    },
+    {
+      "dia": 13,
+      "titulo": "Santorini volcánica y el gran atardecer de Oia",
+      "ciudad": "Santorini",
+      "coords": {
+        "lat": 36.4181,
+        "lng": 25.4317
+      },
+      "resumen": "Ruinas de Akrotiri y la Playa Roja por la mañana; en la tarde, navegación por la caldera (medio y alto) o Oia por cuenta propia, y atardecer en Oia.",
+      "imagenes": [
+        {
+          "url": "grecia-14-dias/panoramica-de-las-construcciones-blancas-6c4bbb.jpg",
+          "alt": "Panorámica de las casas blancas de Oia sobre los acantilados de Santorini",
+          "credito": "Mstyslav Chernov",
+          "licencia": "CC BY-SA 3.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Panoramic_view_of_Oia,_Santorini_island_(Thira),_Greece.jpg"
+        },
+        {
+          "url": "grecia-14-dias/vista-amplia-del-pueblo-de-oia-y-la-cald-f6bf48.jpg",
+          "alt": "Vista amplia del pueblo de Oia y la caldera",
+          "credito": "Bgabel",
+          "licencia": "CC BY-SA 3.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:GR-santorini-pano-oia.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "09:30",
+          "nombre": "Ciudad prehistórica de Akrotiri",
+          "descripcion": "Visita a la ciudad de la Edad del Bronce preservada bajo cenizas volcánicas.",
+          "duracion": "1 h 30 min",
+          "costo": 20,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 36.351,
+            "lng": 25.4039
+          },
+          "link": "https://www.hh.gr/",
+          "consejo": "Consultar las restricciones de acceso y horarios antes de desplazarse."
+        },
+        {
+          "hora": "11:45",
+          "nombre": "Mirador de la Playa Roja",
+          "descripcion": "Observación de los acantilados rojizos de origen volcánico desde un punto panorámico seguro.",
+          "duracion": "45 min",
+          "costo": 0,
+          "tipo": "naturaleza",
+          "coords": {
+            "lat": 36.3484,
+            "lng": 25.3937
+          },
+          "consejo": "No bajar a sectores cerrados por desprendimientos."
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "15:00",
+          "nombre": "Crucero grupal por la caldera",
+          "descripcion": "Excursión en catamarán compartido para conocer el entorno volcánico desde el mar, con paradas condicionadas por el tiempo.",
+          "duracion": "3 h 30 min",
+          "costo": 115,
+          "tipo": "aventura",
+          "coords": {
+            "lat": 36.4007,
+            "lng": 25.397
+          }
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "15:00",
+          "nombre": "Catamarán semiprivado por la caldera",
+          "descripcion": "Recorrido en embarcación de grupo reducido, con espacio más amplio, guía a bordo y paradas costeras.",
+          "duracion": "3 h 30 min",
+          "costo": 210,
+          "tipo": "aventura",
+          "coords": {
+            "lat": 36.4007,
+            "lng": 25.397
+          }
+        },
+        {
+          "hora": "19:45",
+          "nombre": "Castillo de Oia y puesta de sol",
+          "descripcion": "Contemplación del paisaje emblemático de Santorini desde los miradores públicos del extremo occidental de Oia.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "naturaleza",
+          "coords": {
+            "lat": 36.4601,
+            "lng": 25.3702
+          },
+          "consejo": "Llegar con margen: los espacios junto al castillo se llenan con rapidez."
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "07:30",
+            "momento": "desayuno",
+            "lugar": "Panadería de Fira",
+            "plato": "Pan de queso, yogur y café",
+            "costo": 10
+          },
+          {
+            "hora": "13:00",
+            "momento": "almuerzo",
+            "lugar": "Taverna tradicional de Akrotiri",
+            "plato": "Tomatokeftedes, ensalada y pan",
+            "costo": 17
+          },
+          {
+            "hora": "21:00",
+            "momento": "cena",
+            "lugar": "Pitogyros, Oia",
+            "plato": "Gyros en pita y bebida",
+            "costo": 16
+          }
+        ],
+        "medio": [
+          {
+            "hora": "07:30",
+            "momento": "desayuno",
+            "lugar": "Aressana Spa Hotel & Suites",
+            "plato": "Desayuno incluido",
+            "costo": 0
+          },
+          {
+            "hora": "13:00",
+            "momento": "almuerzo",
+            "lugar": "Taverna tradicional de Akrotiri",
+            "plato": "Fava de Santorini, tomate frito y pescado",
+            "costo": 31
+          },
+          {
+            "hora": "21:00",
+            "momento": "cena",
+            "lugar": "Pelekanos Restaurant, Oia",
+            "plato": "Pescado a la parrilla y ensalada",
+            "costo": 48
+          }
+        ],
+        "alto": [
+          {
+            "hora": "07:30",
+            "momento": "desayuno",
+            "lugar": "Katikies Garden Santorini",
+            "plato": "Desayuno incluido",
+            "costo": 0
+          },
+          {
+            "hora": "13:00",
+            "momento": "almuerzo",
+            "lugar": "Restaurante de cocina griega en Akrotiri",
+            "plato": "Entrantes de temporada y pescado fresco",
+            "costo": 56
+          },
+          {
+            "hora": "21:00",
+            "momento": "cena",
+            "lugar": "Oia Gefsis, Oia",
+            "plato": "Cena de mariscos, plato de autor y postre",
+            "costo": 98
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "08:40",
+          "de": "Fira",
+          "a": "Akrotiri",
+          "medio": "Autobús KTEL",
+          "duracion": "35 min",
+          "costo": 2.2
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "08:40",
+          "de": "Aressana Spa Hotel",
+          "a": "Akrotiri",
+          "medio": "Miniván compartido",
+          "duracion": "30 min",
+          "costo": 16
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "08:40",
+          "de": "Katikies Garden",
+          "a": "Akrotiri",
+          "medio": "Vehículo privado",
+          "duracion": "30 min",
+          "costo": 30
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "11:15",
+          "de": "Yacimiento de Akrotiri",
+          "a": "Mirador de la Playa Roja",
+          "medio": "Taxi compartido",
+          "duracion": "15 min",
+          "costo": 7
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "11:15",
+          "de": "Yacimiento de Akrotiri",
+          "a": "Mirador de la Playa Roja",
+          "medio": "Miniván reservado",
+          "duracion": "15 min",
+          "costo": 8
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "11:15",
+          "de": "Yacimiento de Akrotiri",
+          "a": "Mirador de la Playa Roja",
+          "medio": "Vehículo privado",
+          "duracion": "15 min",
+          "costo": 15
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "14:30",
+          "de": "Akrotiri",
+          "a": "Fira",
+          "medio": "Autobús KTEL",
+          "duracion": "35 min",
+          "costo": 2.2
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "14:00",
+          "de": "Akrotiri",
+          "a": "Punto de embarque del crucero por la caldera",
+          "medio": "Miniván de conexión reservado",
+          "duracion": "35 min",
+          "costo": 16
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "14:00",
+          "de": "Akrotiri",
+          "a": "Punto de embarque del catamarán",
+          "medio": "Traslado privado",
+          "duracion": "35 min",
+          "costo": 30
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "17:30",
+          "de": "Fira",
+          "a": "Oia",
+          "medio": "Autobús KTEL",
+          "duracion": "30 min",
+          "costo": 2.2
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "18:40",
+          "de": "Punto de desembarque del crucero",
+          "a": "Oia",
+          "medio": "Miniván reservado",
+          "duracion": "40 min",
+          "costo": 22
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "18:40",
+          "de": "Punto de desembarque del catamarán",
+          "a": "Oia",
+          "medio": "Vehículo privado",
+          "duracion": "40 min",
+          "costo": 40
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "22:15",
+          "de": "Oia",
+          "a": "Fira",
+          "medio": "Autobús KTEL, condicionado a servicio nocturno; de no operar, taxi compartido",
+          "duracion": "35 min",
+          "costo": 12
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "22:15",
+          "de": "Oia",
+          "a": "Aressana Spa Hotel & Suites",
+          "medio": "Miniván reservado",
+          "duracion": "30 min",
+          "costo": 20
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "22:15",
+          "de": "Oia",
+          "a": "Katikies Garden Santorini",
+          "medio": "Vehículo privado",
+          "duracion": "30 min",
+          "costo": 38
+        }
+      ],
+      "planB": "Si el mar obliga a cancelar ambos catamaranes, sustituirlos por una visita a una bodega tradicional de Santorini y sus instalaciones, con precio que deberá cotizarse aparte. En caso de cierre de Akrotiri, visitar el Museo de Prehistoria de Fira."
+    },
+    {
+      "dia": 14,
+      "titulo": "Últimas horas en Santorini y regreso hacia Colombia",
+      "ciudad": "Santorini",
+      "coords": {
+        "lat": 36.4181,
+        "lng": 25.4317
+      },
+      "resumen": "Mañana final en Fira y vuelo doméstico a Atenas con margen amplio para el vuelo internacional nocturno.",
+      "imagenes": [
+        {
+          "url": "grecia-14-dias/panoramica-nocturna-de-oia-santorini-con-059562.jpg",
+          "alt": "Casas blancas de Oia iluminadas por la noche en Santorini",
+          "credito": "Giles Laurent",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:1002_Panoramic_view_of_Oia_at_night_in_Santorini_Photo_by_Giles_Laurent.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "09:00",
+          "nombre": "Compras artesanales por Fira",
+          "descripcion": "Último paseo entre tiendas de cerámica, artesanía, productos de olivo y recuerdos locales.",
+          "duracion": "45 min",
+          "costo": 0,
+          "tipo": "compras",
+          "coords": {
+            "lat": 36.4182,
+            "lng": 25.4308
+          }
+        },
+        {
+          "hora": "10:00",
+          "nombre": "Museo de Prehistoria de Thera",
+          "descripcion": "Visita a frescos, cerámica y objetos hallados en Akrotiri y otros asentamientos antiguos.",
+          "duracion": "1 h",
+          "costo": 10,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 36.4165,
+            "lng": 25.4324
+          },
+          "link": "https://www.hh.gr/",
+          "consejo": "Confirmar su apertura y horario antes del último día."
+        },
+        {
+          "hora": "11:20",
+          "nombre": "Despedida de la caldera de Fira",
+          "descripcion": "Última parada fotográfica sobre el mar Egeo antes de recoger el equipaje.",
+          "duracion": "40 min",
+          "costo": 0,
+          "tipo": "descanso",
+          "coords": {
+            "lat": 36.4181,
+            "lng": 25.4317
+          }
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "08:00",
+            "momento": "desayuno",
+            "lugar": "Panadería de Fira",
+            "plato": "Bougatsa y café",
+            "costo": 9
+          },
+          {
+            "hora": "12:20",
+            "momento": "almuerzo",
+            "lugar": "Lucky's Souvlakis, Fira",
+            "plato": "Pita de gyros y bebida",
+            "costo": 14
+          },
+          {
+            "hora": "18:30",
+            "momento": "cena",
+            "lugar": "Everest, aeropuerto de Atenas",
+            "plato": "Sándwich caliente, agua y café",
+            "costo": 14
+          }
+        ],
+        "medio": [
+          {
+            "hora": "08:00",
+            "momento": "desayuno",
+            "lugar": "Aressana Spa Hotel & Suites",
+            "plato": "Desayuno incluido",
+            "costo": 0
+          },
+          {
+            "hora": "12:20",
+            "momento": "almuerzo",
+            "lugar": "Naoussa Restaurant, Fira",
+            "plato": "Fava de Santorini y pescado a la parrilla",
+            "costo": 34,
+            "link": "https://naoussasantorini.restaurant/"
+          },
+          {
+            "hora": "18:30",
+            "momento": "cena",
+            "lugar": "Restaurante de la terminal de salidas, aeropuerto de Atenas",
+            "plato": "Ensalada griega y plato caliente",
+            "costo": 30
+          }
+        ],
+        "alto": [
+          {
+            "hora": "08:00",
+            "momento": "desayuno",
+            "lugar": "Katikies Garden Santorini",
+            "plato": "Desayuno incluido",
+            "costo": 0
+          },
+          {
+            "hora": "12:20",
+            "momento": "almuerzo",
+            "lugar": "Selene Restaurant, Katikies Garden",
+            "plato": "Almuerzo gastronómico de cocina cicládica",
+            "costo": 85,
+            "link": "https://www.katikies.com/restaurants/"
+          },
+          {
+            "hora": "18:30",
+            "momento": "cena",
+            "lugar": "Restaurante de servicio de mesa, aeropuerto de Atenas",
+            "plato": "Pescado, verduras y postre",
+            "costo": 55
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "13:20",
+          "de": "Fira",
+          "a": "Aeropuerto de Santorini JTR",
+          "medio": "Autobús KTEL",
+          "duracion": "25 min",
+          "costo": 2.2
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "13:20",
+          "de": "Aressana Spa Hotel & Suites",
+          "a": "Aeropuerto JTR",
+          "medio": "Miniván reservado compartido",
+          "duracion": "20 min",
+          "costo": 15
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "13:20",
+          "de": "Katikies Garden Santorini",
+          "a": "Aeropuerto JTR",
+          "medio": "Traslado privado",
+          "duracion": "20 min",
+          "costo": 30
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "15:00",
+          "de": "Aeropuerto Santorini JTR",
+          "a": "Aeropuerto Atenas ATH",
+          "medio": "Vuelo doméstico en tarifa básica con equipaje contratado",
+          "duracion": "55 min",
+          "costo": 75,
+          "consejo": "Horario indicativo."
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "15:00",
+          "de": "Aeropuerto Santorini JTR",
+          "a": "Aeropuerto Atenas ATH",
+          "medio": "Vuelo doméstico en tarifa flexible",
+          "duracion": "55 min",
+          "costo": 120
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "15:00",
+          "de": "Aeropuerto Santorini JTR",
+          "a": "Aeropuerto Atenas ATH",
+          "medio": "Vuelo doméstico de tarifa superior",
+          "duracion": "55 min",
+          "costo": 190
+        }
+      ],
+      "planB": "Si se cancela el vuelo Santorini–Atenas puede perderse la conexión internacional: valorar volar a Atenas la víspera o comprar con conexión protegida."
+    }
+  ],
+  "presupuesto": {
+    "notas": "Por persona, en habitación doble compartida (cama en dormitorio en económico). Vuelos y seguro en dólares; lo demás en euros. Los vuelos domésticos están en los traslados de cada día. Precios de noviembre de 2026 para mayo de 2028.",
+    "categorias": [
+      {
+        "categoria": "vuelos",
+        "descripcion": "Ida y vuelta Medellín–Atenas en económica; medio con equipaje y tarifa flexible, alto con cabina superior.",
+        "moneda": "USD",
+        "economico": 1350,
+        "medio": 1800,
+        "alto": 2800
+      },
+      {
+        "categoria": "seguro",
+        "descripcion": "Seguro médico internacional para 14 días, con cobertura de emergencias y repatriación; el nivel alto contempla mayores límites y coberturas adicionales. Confirmar requisitos Schengen y exclusiones deportivas.",
+        "moneda": "USD",
+        "economico": 70,
+        "medio": 120,
+        "alto": 260
+      },
+      {
+        "categoria": "visa",
+        "descripcion": "Colombianos no necesitan visa Schengen; se reservan 20 € para la autorización ETIAS si ya es obligatoria.",
+        "moneda": "local",
+        "economico": 20,
+        "medio": 20,
+        "alto": 20
+      },
+      {
+        "categoria": "conectividad",
+        "descripcion": "Plan eSIM de datos para Grecia durante los 14 días: paquete básico, intermedio y de mayor capacidad respectivamente.",
+        "moneda": "local",
+        "economico": 20,
+        "medio": 40,
+        "alto": 85
+      },
+      {
+        "categoria": "compras",
+        "descripcion": "Presupuesto personal para recuerdos, artesanías, ropa, productos locales y regalos.",
+        "moneda": "local",
+        "economico": 80,
+        "medio": 200,
+        "alto": 500
+      },
+      {
+        "categoria": "extras",
+        "descripcion": "Bebidas en la noche, lavandería, propinas, tasas de estancia e imprevistos.",
+        "moneda": "local",
+        "economico": 150,
+        "medio": 300,
+        "alto": 600
+      }
+    ]
+  },
+  "alojamiento": [
+    {
+      "ciudad": "Atenas",
+      "noches": [
+        1,
+        2,
+        3,
+        6
+      ],
+      "economico": {
+        "nombre": "Athens Backpackers",
+        "zona": "Makrygianni, cerca de la Acrópolis",
+        "tipo": "Hostal, cama en dormitorio compartido",
+        "precioNoche": 42,
+        "incluye": "Cama en dormitorio compartido y desayuno sencillo.",
+        "descripcion": "Hostal céntrico ideal para viajar en grupo y recorrer a pie varios monumentos.",
+        "link": "https://backpackers.gr/"
+      },
+      "medio": {
+        "nombre": "Attalos Hotel",
+        "zona": "Monastiraki",
+        "tipo": "Hotel de 3 estrellas, habitación doble compartida",
+        "precioNoche": 85,
+        "incluye": "Desayuno.",
+        "descripcion": "Ubicación práctica para el metro, restaurantes y el centro histórico.",
+        "link": "https://www.attaloshotel.com/"
+      },
+      "alto": {
+        "nombre": "Electra Metropolis Athens",
+        "zona": "Syntagma y centro histórico",
+        "tipo": "Hotel de lujo, habitación doble compartida",
+        "precioNoche": 210,
+        "incluye": "Desayuno.",
+        "descripcion": "Hotel de alta gama con restaurante en la azotea y ubicación muy céntrica.",
+        "link": "https://www.electrahotels.gr/hotels/electra-metropolis-athens/"
+      }
+    },
+    {
+      "ciudad": "Kalambaka",
+      "noches": [
+        4,
+        5
+      ],
+      "economico": {
+        "nombre": "Meteora Central Hostel",
+        "zona": "Centro de Kalambaka",
+        "tipo": "Hostal, cama en dormitorio compartido",
+        "precioNoche": 30,
+        "incluye": "Cama y acceso a servicios compartidos; desayuno no incluido.",
+        "descripcion": "Base económica para recorrer Meteora y acceder a restaurantes y comercios del pueblo.",
+        "link": "https://www.hostelworld.com/es/albergues/p/269150/meteora-central-hostel/"
+      },
+      "medio": {
+        "nombre": "Doupiani House",
+        "zona": "Kastraki",
+        "tipo": "Hotel tradicional, habitación doble compartida",
+        "precioNoche": 85,
+        "incluye": "Desayuno.",
+        "descripcion": "Alojamiento tradicional con entorno natural y vistas a los pilares rocosos.",
+        "link": "https://www.doupianihouse.gr/"
+      },
+      "alto": {
+        "nombre": "Divani Meteora Hotel",
+        "zona": "Kalambaka",
+        "tipo": "Hotel de categoría superior, habitación doble compartida",
+        "precioNoche": 145,
+        "incluye": "Desayuno.",
+        "descripcion": "Hotel confortable con servicios completos y buena ubicación para visitar los monasterios.",
+        "link": "https://divanimeteorahotel.com/"
+      }
+    },
+    {
+      "ciudad": "Míkonos",
+      "noches": [
+        7,
+        8
+      ],
+      "economico": {
+        "nombre": "MyCocoon Hostel",
+        "zona": "Cerca del centro y puerto antiguo de Míkonos",
+        "tipo": "Hostal cápsula o cama compartida",
+        "precioNoche": 75,
+        "incluye": "Cama en alojamiento compartido; desayuno no incluido.",
+        "descripcion": "Alternativa relativamente económica en una de las islas más costosas de Grecia.",
+        "link": "https://www.hostelmykonos.com/"
+      },
+      "medio": {
+        "nombre": "Poseidon Hotel Suites",
+        "zona": "Mykonos Town, cerca de Fabrika",
+        "tipo": "Hotel, habitación doble compartida",
+        "precioNoche": 165,
+        "incluye": "Desayuno.",
+        "descripcion": "Hotel próximo al centro y a los molinos, adecuado para moverse a pie.",
+        "link": "https://www.booking.com/searchresults.html?ss=Poseidon+Hotel+Suites+Mykonos"
+      },
+      "alto": {
+        "nombre": "Cavo Tagoo Mykonos",
+        "zona": "Sector de Tagoo, cerca de Chora",
+        "tipo": "Hotel de lujo, habitación doble compartida",
+        "precioNoche": 450,
+        "incluye": "Desayuno.",
+        "descripcion": "Experiencia de alta gama con diseño contemporáneo y vistas al mar.",
+        "link": "https://www.cavotagoo.com/mykonos/"
+      }
+    },
+    {
+      "ciudad": "Naxos",
+      "noches": [
+        9,
+        10,
+        11
+      ],
+      "economico": {
+        "nombre": "Soula Hotel",
+        "zona": "Naxos Town, cerca de Agios Georgios",
+        "tipo": "Hotel económico, habitación doble compartida",
+        "precioNoche": 55,
+        "incluye": "Habitación doble; desayuno no incluido.",
+        "descripcion": "Alojamiento sencillo a distancia caminable de la playa y del centro.",
+        "link": "https://www.soulahotel.gr/"
+      },
+      "medio": {
+        "nombre": "Argo Boutique Hotel",
+        "zona": "Agios Georgios, Naxos Town",
+        "tipo": "Hotel boutique, habitación doble compartida",
+        "precioNoche": 100,
+        "incluye": "Desayuno bufé.",
+        "descripcion": "Hotel cómodo entre la playa y el casco urbano, práctico para excursiones.",
+        "link": "https://hotelargo.gr/"
+      },
+      "alto": {
+        "nombre": "Nissaki Beach Hotel",
+        "zona": "Playa Agios Georgios, Naxos Town",
+        "tipo": "Hotel de lujo, habitación doble compartida",
+        "precioNoche": 230,
+        "incluye": "Desayuno.",
+        "descripcion": "Hotel junto al mar, cercano a los restaurantes de Naxos Town.",
+        "link": "https://www.nissaki-beach.com/"
+      }
+    },
+    {
+      "ciudad": "Santorini",
+      "noches": [
+        12,
+        13
+      ],
+      "economico": {
+        "nombre": "Fira Backpackers Place",
+        "zona": "Fira",
+        "tipo": "Hostal, cama en dormitorio compartido",
+        "precioNoche": 65,
+        "incluye": "Cama y servicios compartidos; desayuno no incluido.",
+        "descripcion": "Alternativa presupuestaria cerca de la estación de buses de Fira y de los miradores.",
+        "link": "https://www.firabackpackers.com/"
+      },
+      "medio": {
+        "nombre": "Aressana Spa Hotel & Suites",
+        "zona": "Centro de Fira",
+        "tipo": "Hotel boutique de categoría superior, habitación doble compartida",
+        "precioNoche": 180,
+        "incluye": "Desayuno; tratamientos de spa aparte.",
+        "descripcion": "Hotel de estilo cicládico en una zona muy cómoda para explorar Santorini.",
+        "link": "https://www.aressana.gr/"
+      },
+      "alto": {
+        "nombre": "Katikies Garden Santorini",
+        "zona": "Fira",
+        "tipo": "Hotel de lujo, suite doble compartida",
+        "precioNoche": 380,
+        "incluye": "Desayuno; tratamientos y consumos aparte.",
+        "descripcion": "Hotel de lujo ubicado en un antiguo complejo religioso de Fira, con gastronomía de alto nivel.",
+        "link": "https://www.katikies.com/katikiesgardensantorini/"
+      }
+    }
+  ],
+  "comida": {
+    "platosTipicos": [
+      {
+        "nombre": "Souvlaki",
+        "descripcion": "Brochetas de carne a la parrilla servidas con pita, tomate, cebolla y, habitualmente, tzatziki. Uno de los almuerzos rápidos más accesibles del país.",
+        "precioAprox": 8,
+        "imagen": {
+          "url": "grecia-14-dias/souvlaki-griego-de-carne-a-la-parrilla-ebfff3.jpg",
+          "alt": "Souvlaki griego de carne a la parrilla",
+          "credito": "NikosLikomitros",
+          "licencia": "CC0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Greek_souvlaki.jpg"
+        }
+      },
+      {
+        "nombre": "Musaka",
+        "descripcion": "Preparación horneada en capas de berenjena, carne especiada y bechamel.",
+        "precioAprox": 17,
+        "imagen": {
+          "url": "grecia-14-dias/porcion-de-musaka-tradicional-8b5bb4.jpg",
+          "alt": "Porción de musaka tradicional",
+          "credito": "Cifo Buscemi",
+          "licencia": "CC BY 3.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Moussaka.jpg"
+        }
+      },
+      {
+        "nombre": "Ensalada horiatiki",
+        "descripcion": "Ensalada griega de tomate, pepino, cebolla, aceitunas y queso feta con aceite de oliva.",
+        "precioAprox": 11,
+        "imagen": {
+          "url": "grecia-14-dias/ensalada-griega-con-queso-feta-tomate-y-acf4bd.jpg",
+          "alt": "Ensalada griega con queso feta, tomate y aceitunas",
+          "credito": "pastitio",
+          "licencia": "CC BY 2.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Greek_salad.jpg"
+        }
+      },
+      {
+        "nombre": "Spanakopita",
+        "descripcion": "Pastel salado de hojaldre filo relleno de espinaca, queso feta y hierbas.",
+        "precioAprox": 5,
+        "imagen": {
+          "url": "grecia-14-dias/pastel-griego-de-espinaca-y-masa-filo-fd336e.jpg",
+          "alt": "Pastel griego de espinaca y masa filo",
+          "credito": "Alpha",
+          "licencia": "CC BY-SA 2.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Spanakopita.jpg"
+        }
+      },
+      {
+        "nombre": "Tzatziki",
+        "descripcion": "Salsa fría de yogur, pepino, ajo y hierbas, servida con pan o carnes a la parrilla.",
+        "precioAprox": 6,
+        "imagen": {
+          "url": "grecia-14-dias/tzatziki-cremoso-servido-en-un-recipient-3d84ba.jpg",
+          "alt": "Tzatziki cremoso servido en un recipiente",
+          "credito": "Robert Kindermann",
+          "licencia": "CC BY-SA 2.5",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Tzatziki01.jpg"
+        }
+      },
+      {
+        "nombre": "Baklava",
+        "descripcion": "Postre de capas de masa filo y frutos secos con almíbar o miel, presente en la tradición gastronómica griega y del Mediterráneo oriental.",
+        "precioAprox": 6,
+        "imagen": {
+          "url": "grecia-14-dias/porciones-de-baklava-con-frutos-secos-7b6759.jpg",
+          "alt": "Porciones de baklava con frutos secos",
+          "credito": "Amin1386123",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:BAKLAVA.jpg"
+        }
+      }
+    ]
+  },
+  "infoPractica": {
+    "visa": {
+      "requiere": false,
+      "tipo": "Exención de visa Schengen para turismo hasta 90 días en un período de 180 días; autorización ETIAS separada si está vigente para la fecha del viaje.",
+      "detalle": "Los titulares de pasaporte ordinario colombiano están exentos de visa para visitas turísticas cortas al espacio Schengen, incluido Grecia. Se exige pasaporte expedido en los últimos 10 años y válido al menos 3 meses después de la salida prevista del espacio Schengen. Pueden solicitar reserva de alojamiento, billete de regreso, fondos suficientes y comprobantes del motivo del viaje. La Unión Europea prevé ETIAS para viajeros exentos de visa: el coste oficial anunciado es 20 € por adulto sujeto a pago. Antes de mayo de 2028 hay que comprobar si el sistema está operativo, el período transitorio y la obligación específica aplicable. ETIAS no es una visa.",
+      "link": "https://www.mfa.gr/en/services/visas-for-foreigners-traveling-to-greece/countries-requiring-or-not-requiring-a-visa/"
+    },
+    "clima": [
+      {
+        "mes": 1,
+        "tempMin": 4.5,
+        "tempMax": 12.8,
+        "lluviaMm": 54
+      },
+      {
+        "mes": 2,
+        "tempMin": 5.3,
+        "tempMax": 13.7,
+        "lluviaMm": 53
+      },
+      {
+        "mes": 3,
+        "tempMin": 7.1,
+        "tempMax": 16.3,
+        "lluviaMm": 53
+      },
+      {
+        "mes": 4,
+        "tempMin": 9.3,
+        "tempMax": 20,
+        "lluviaMm": 30
+      },
+      {
+        "mes": 5,
+        "tempMin": 13.4,
+        "tempMax": 25.1,
+        "lluviaMm": 18
+      },
+      {
+        "mes": 6,
+        "tempMin": 18.2,
+        "tempMax": 29.6,
+        "lluviaMm": 8
+      },
+      {
+        "mes": 7,
+        "tempMin": 21.4,
+        "tempMax": 31.9,
+        "lluviaMm": 6
+      },
+      {
+        "mes": 8,
+        "tempMin": 22,
+        "tempMax": 32,
+        "lluviaMm": 7
+      },
+      {
+        "mes": 9,
+        "tempMin": 17.8,
+        "tempMax": 27.9,
+        "lluviaMm": 10
+      },
+      {
+        "mes": 10,
+        "tempMin": 13.5,
+        "tempMax": 22.8,
+        "lluviaMm": 47
+      },
+      {
+        "mes": 11,
+        "tempMin": 9.7,
+        "tempMax": 18.4,
+        "lluviaMm": 61
+      },
+      {
+        "mes": 12,
+        "tempMin": 6.3,
+        "tempMax": 14.6,
+        "lluviaMm": 71
+      }
+    ],
+    "vacunas": [
+      "Para entrada directa a Grecia desde Colombia no se exige de manera general un certificado internacional de fiebre amarilla; confirmar requisitos si la ruta aérea pasa por otros países.",
+      "Mantener al día las vacunas del esquema habitual colombiano, especialmente tétanos, difteria, tosferina, sarampión, rubéola y poliomielitis.",
+      "Revisar vacunación contra hepatitis A y hepatitis B según antecedentes, edad y recomendaciones médicas individuales.",
+      "Consultar las recomendaciones sanitarias internacionales y los requisitos de tránsito pocas semanas antes del viaje.",
+      "Llevar medicamentos de uso habitual en su empaque original, con fórmula médica cuando corresponda."
+    ],
+    "seguridad": "Grecia suele ser un destino turístico relativamente seguro. Los principales riesgos para el grupo son hurtos oportunistas en el metro y zonas concurridas de Atenas, robos de teléfonos en la vida nocturna, intoxicación por alcohol, conducción imprudente de cuatrimotos y accidentes junto a acantilados o playas con oleaje. Mantener documentos y dinero distribuidos, utilizar transporte registrado y evitar regresar solos de fiestas alejadas. El teléfono general de emergencias en la Unión Europea es 112. Consultar también las recomendaciones de viaje de la Cancillería colombiana antes de salir.",
+    "enchufe": {
+      "tipo": "C y F, clavijas europeas de dos pines redondos",
+      "voltaje": "230 V, 50 Hz",
+      "necesitaAdaptador": true
+    },
+    "propinas": "No son obligatorias. En restaurantes es habitual redondear la cuenta o dejar aproximadamente entre el 5 % y el 10 % cuando el servicio fue bueno. En taxis puede redondearse al euro siguiente. Verificar si el servicio ya está incluido.",
+    "idioma": "El idioma oficial es el griego. El inglés es común en hoteles, aeropuertos y zonas turísticas, pero menos extendido en áreas rurales. Aprender algunas frases de cortesía mejora la interacción con residentes.",
+    "conectividad": "Grecia dispone de buenas redes móviles en ciudades e islas principales, aunque la señal puede variar en ferris, carreteras montañosas y calas remotas. Para un grupo colombiano conviene comprar una eSIM europea compatible o una SIM local, descargar mapas sin conexión y activar alertas de consumo de datos. Verificar que el teléfono esté desbloqueado y admita eSIM antes de pagar.",
+    "transporteLocal": "Atenas cuenta con metro, autobuses y tranvías; el billete urbano sencillo de 90 minutos cuesta aproximadamente 1,20 €, mientras el metro del aeropuerto ronda los 9 €. Para Meteora se utiliza KTEL y taxis o vehículos reservados entre monasterios. Las conexiones entre islas dependen de ferris convencionales y rápidos; las salidas pueden cancelarse por viento. En Míkonos y Santorini los buses son económicos pero pueden estar llenos y los taxis son escasos. En Naxos, el transporte hacia pueblos interiores tiene frecuencias limitadas. Reservar los tramos más críticos antes de cerrar hoteles.",
+    "frases": [
+      {
+        "es": "Hola",
+        "local": "Γεια σας",
+        "pronunciacion": "Yá sas"
+      },
+      {
+        "es": "Muchas gracias",
+        "local": "Ευχαριστώ πολύ",
+        "pronunciacion": "Efjaristó polí"
+      },
+      {
+        "es": "Por favor / de nada",
+        "local": "Παρακαλώ",
+        "pronunciacion": "Parakaló"
+      },
+      {
+        "es": "Perdón",
+        "local": "Συγγνώμη",
+        "pronunciacion": "Signómi"
+      },
+      {
+        "es": "¿Cuánto cuesta?",
+        "local": "Πόσο κοστίζει;",
+        "pronunciacion": "Póso kostízi"
+      },
+      {
+        "es": "¿Dónde está el baño?",
+        "local": "Πού είναι η τουαλέτα;",
+        "pronunciacion": "Pu íne i tualéta"
+      },
+      {
+        "es": "No entiendo",
+        "local": "Δεν καταλαβαίνω",
+        "pronunciacion": "Den katalavéno"
+      },
+      {
+        "es": "¿Aceptan tarjeta?",
+        "local": "Δέχεστε κάρτα;",
+        "pronunciacion": "Déjeste kárta"
+      }
+    ],
+    "apps": [
+      {
+        "nombre": "Google Maps",
+        "para": "Orientación urbana, mapas sin conexión y recorridos a pie."
+      },
+      {
+        "nombre": "Ferryhopper",
+        "para": "Consultar ferris, rutas marítimas y cambios de horario."
+      },
+      {
+        "nombre": "OASA Telematics",
+        "para": "Consultar líneas de autobús y transporte urbano de Atenas."
+      },
+      {
+        "nombre": "FREENOW",
+        "para": "Solicitar taxis donde exista cobertura del servicio."
+      },
+      {
+        "nombre": "Google Translate",
+        "para": "Traducir griego y leer menús o avisos con la cámara."
+      },
+      {
+        "nombre": "Airalo",
+        "para": "Comprar y gestionar una eSIM de datos compatible con el teléfono."
+      }
+    ],
+    "consejos": [
+      "El grupo debería fijar un único día de compra para los vuelos internacionales y reservar alojamientos con cancelación razonable.",
+      "Mayo de 2028 todavía está fuera de muchas ventanas de reserva y publicación de horarios de ferris; reconfirmar rutas antes de cerrar el viaje.",
+      "Comprar las entradas de la Acrópolis y de otros monumentos exclusivamente desde sus canales oficiales.",
+      "Reservar un margen suficiente entre ferris y vuelos: un retraso por viento puede afectar conexiones posteriores.",
+      "En Meteora llevar ropa que cubra hombros y piernas para acceder a monasterios, y comprobar sus días de cierre.",
+      "En Santorini y Míkonos dividir los taxis privados entre integrantes del grupo para reducir el precio por persona.",
+      "Usar una tarjeta que permita pagar en euros sin una comisión de conversión elevada.",
+      "Rechazar conversiones dinámicas a pesos colombianos cuando el datáfono o cajero ofrezca elegir moneda; normalmente conviene la moneda local.",
+      "La mayoría de pueblos y miradores requieren caminar por cuestas y escaleras: llevar zapatos cómodos.",
+      "Para actividades marítimas y deportivas, revisar las coberturas de seguro específicas y seguir las instrucciones del operador.",
+      "No publicar en tiempo real la ubicación de la totalidad del grupo durante salidas nocturnas."
+    ],
+    "estafas": [
+      "Taxis sin taxímetro o sin precio pactado previamente, especialmente en puertos y aeropuertos.",
+      "Sitios no oficiales que cobran comisiones excesivas por entradas arqueológicas o autorizaciones ETIAS.",
+      "Carteristas en vagones llenos del metro de Atenas y alrededor de Monastiraki.",
+      "Locales nocturnos que no exhiben la carta ni informan claramente precios de bebidas y servicios.",
+      "Cajeros automáticos turísticos que ofrecen una conversión a COP desfavorable.",
+      "Alquileres de cuatrimotos o motos que reclaman daños sin un registro fotográfico del estado inicial."
+    ],
+    "checklist": [
+      "Pasaporte colombiano en buen estado, emitido hace menos de 10 años y válido por al menos 3 meses después de salir de Schengen.",
+      "Verificar la obligatoriedad y vigencia de ETIAS en la web oficial de la Unión Europea antes de mayo de 2028.",
+      "Comprar vuelo internacional Medellín-Atenas-Medellín con tiempos de escala suficientes.",
+      "Reservar vuelo Santorini-Atenas del último día con una conexión amplia al vuelo internacional.",
+      "Confirmar las 13 noches de alojamiento y sus condiciones de cancelación.",
+      "Reservar ferris Atenas-Míkonos, Míkonos-Naxos y Naxos-Santorini cuando se publique el horario de 2028.",
+      "Comprar seguro médico internacional que cubra todos los días y actividades elegidas.",
+      "Guardar entradas oficiales de Acrópolis, museos y excursiones que requieran reserva.",
+      "Preparar tarjeta bancaria internacional, tarjeta de respaldo y algunos euros en efectivo.",
+      "Llevar adaptador europeo tipo C o F y comprobar compatibilidad de los cargadores con 230 V.",
+      "Instalar eSIM o preparar SIM local, mapas descargados y números de contacto de los hoteles.",
+      "Empacar calzado para caminar, vestido de baño, protector solar, impermeable ligero y prenda para viento.",
+      "Guardar copias digitales de pasaporte, seguro, vuelos y reservas accesibles sin internet.",
+      "Compartir con todos los integrantes el punto de reunión, itinerario, contactos de emergencia y reglas del grupo."
+    ]
+  },
+  "fuentes": [
+    {
+      "titulo": "Ministerio de Asuntos Exteriores de Grecia: países que requieren o no visa",
+      "url": "https://www.mfa.gr/en/services/visas-for-foreigners-traveling-to-greece/countries-requiring-or-not-requiring-a-visa/"
+    },
+    {
+      "titulo": "Unión Europea: preguntas frecuentes oficiales de ETIAS",
+      "url": "https://travel-europe.europa.eu/etias/faq"
+    },
+    {
+      "titulo": "OASA: transporte público y tarifas de Atenas",
+      "url": "https://www.oasa.gr/en/visit-athens/"
+    },
+    {
+      "titulo": "KTEL Trikala: información de tarifas y conexiones terrestres",
+      "url": "https://ktel-trikala.gr/en/informations/ticket-prices/"
+    },
+    {
+      "titulo": "Ferries.gr: rutas de SeaJets entre las islas Cícladas",
+      "url": "https://www.ferries.gr/en/ferry-companies/seajets/route/ferries-between-cyclades/"
+    },
+    {
+      "titulo": "KTEL Santorini: tarifas oficiales de autobús",
+      "url": "https://ktel-santorini.gr/index.php/en/pricelist-eng"
+    },
+    {
+      "titulo": "Ministerio de Cultura de Grecia: sitio arqueológico y museo de Délos",
+      "url": "https://cyclades.culture.gov.gr/en/location/the-archaeological-site-and-museum-of-delos/"
+    },
+    {
+      "titulo": "Banco Central Europeo: tipos de cambio de referencia del euro",
+      "url": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/index.es.html"
+    }
+  ]
+}
