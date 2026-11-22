@@ -1,0 +1,4266 @@
+{
+  "meta": {
+    "titulo": "China en 14 días",
+    "resumen": "Pekín, Xi'an, Chengdu, Zhangjiajie y Shanghái: la Gran Muralla, la Ciudad Prohibida, el Ejército de Terracota, los pandas de Sichuan, las montañas de Avatar y la noche de Shanghái. Pensado para mayo.",
+    "destino": "China: Pekín, Xi'an, Chengdu, Zhangjiajie y Shanghái",
+    "pais": "China",
+    "region": "Asia",
+    "duracionDias": 14,
+    "mesesIdeales": [
+      4,
+      5,
+      9,
+      10
+    ],
+    "temporadaRecomendada": "Del 10 al 23 de mayo de 2028, evitando los primeros días de mayo por la congestión asociada a las vacaciones del Día del Trabajo. Primavera con temperaturas agradables en Pekín y Xi'an, clima más húmedo en Chengdu y Zhangjiajie y ambiente templado en Shanghái.",
+    "estilo": "medio",
+    "dificultad": "exigente",
+    "idealPara": [
+      "Grupos de amigos",
+      "Viajeros aventureros",
+      "Amantes de la naturaleza",
+      "Personas interesadas en culturas diferentes",
+      "Viajeros que disfrutan la gastronomía y la vida nocturna"
+    ],
+    "etiquetas": [
+      "China",
+      "Gran Muralla",
+      "historia imperial",
+      "aventura",
+      "montañas de Avatar",
+      "gastronomía",
+      "pandas",
+      "rascacielos",
+      "trenes de alta velocidad",
+      "vida nocturna"
+    ],
+    "fechaInvestigacion": "2026-11-21",
+    "colorAcento": "#8B2424",
+    "portada": {
+      "url": "china-14-dias/gran-muralla-china-en-mutianyu-949761.jpg",
+      "alt": "Gran Muralla China en Mutianyu",
+      "credito": "Velatrix",
+      "licencia": "CC0",
+      "fuente": "https://commons.wikimedia.org/wiki/File:Great_Wall_of_China_July_2006.JPG"
+    },
+    "galeria": [
+      {
+        "url": "china-14-dias/ciudad-prohibida-de-pekin-6cd4de.jpg",
+        "alt": "Ciudad Prohibida de Pekín",
+        "credito": "Güldem Üstün from Istanbul, TURKEY",
+        "licencia": "CC BY 2.0",
+        "fuente": "https://commons.wikimedia.org/wiki/File:China_(Beijing)_Aerial_view_of_Forbidden_City_(38884882275).jpg"
+      },
+      {
+        "url": "china-14-dias/ejercito-de-terracota-en-xi-an-ea0411.jpg",
+        "alt": "Ejército de Terracota en Xi'an",
+        "credito": "Gary Lee Todd, Ph.D.",
+        "licencia": "CC0",
+        "fuente": "https://commons.wikimedia.org/wiki/File:Qin_Terracotta_Army,_Pit_1_09.jpg"
+      },
+      {
+        "url": "china-14-dias/skyline-de-pudong-desde-el-bund-252169.jpg",
+        "alt": "Skyline de Pudong desde el Bund",
+        "credito": "King of Hearts",
+        "licencia": "CC BY-SA 4.0",
+        "fuente": "https://commons.wikimedia.org/wiki/File:Pudong_Shanghai_November_2017_HDR_panorama.jpg"
+      },
+      {
+        "url": "china-14-dias/panda-gigante-en-chengdu-aef7e3.jpg",
+        "alt": "Panda gigante en Chengdu",
+        "credito": "CEphoto, Uwe Aranas",
+        "licencia": "CC BY-SA 3.0",
+        "fuente": "https://commons.wikimedia.org/wiki/File:Chengdu_Sichuan_China_Panda-breeding-and-research-center-02.jpg"
+      }
+    ]
+  },
+  "moneda": {
+    "codigo": "CNY",
+    "simbolo": "¥",
+    "localPorUSD": 7.15,
+    "copPorUSD": 3461.92,
+    "fechaTasa": "2026-11-21"
+  },
+  "comoLlegar": {
+    "resumen": "No hay vuelo directo: se conecta una o dos veces hasta Pekín y se regresa desde Shanghái con un billete multidestino.",
+    "aeropuertoLlegada": "Aeropuerto Internacional de Pekín-Capital (PEK)",
+    "delAeropuertoAlCentro": "Desde PEK, el Airport Express conecta con Dongzhimen en unos 30 minutos por aproximadamente ¥25 por persona. Para llegar al hotel se continúa en metro o taxi. Un vehículo privado cuesta aproximadamente ¥180–300 en total, según destino, horario y tráfico.",
+    "rutas": [
+      {
+        "origen": "Medellín",
+        "ruta": "MDE → BOG → MAD → PEK / PVG → MAD → BOG → MDE",
+        "aerolineas": [
+          "Avianca",
+          "Air China",
+          "Iberia"
+        ],
+        "duracion": "25–34 h por sentido",
+        "escalas": 2,
+        "precioUSD": {
+          "min": 1350,
+          "max": 2100
+        }
+      },
+      {
+        "origen": "Bogotá",
+        "ruta": "BOG → CDG → PEK / PVG → CDG → BOG",
+        "aerolineas": [
+          "Air France",
+          "China Eastern"
+        ],
+        "duracion": "21–29 h por sentido",
+        "escalas": 1,
+        "precioUSD": {
+          "min": 1250,
+          "max": 1950
+        }
+      },
+      {
+        "origen": "Medellín",
+        "ruta": "MDE → BOG → IST → PEK / PVG → IST → BOG → MDE",
+        "aerolineas": [
+          "Avianca",
+          "Turkish Airlines"
+        ],
+        "duracion": "25–35 h por sentido",
+        "escalas": 2,
+        "precioUSD": {
+          "min": 1450,
+          "max": 2300
+        }
+      }
+    ]
+  },
+  "itinerario": [
+    {
+      "dia": 1,
+      "titulo": "Bienvenidos a Pekín: templos, hutongs y sabores imperiales",
+      "ciudad": "Pekín",
+      "coords": {
+        "lat": 39.9042,
+        "lng": 116.4074
+      },
+      "resumen": "Llegada a Pekín, instalación en el hotel y primera inmersión entre templos, hutongs y cocina imperial.",
+      "imagenes": [
+        {
+          "url": "china-14-dias/templo-del-cielo-en-pekin-733ca8.jpg",
+          "alt": "Templo del Cielo en Pekín",
+          "credito": "Maros M r a z (Maros)",
+          "licencia": "CC BY-SA 3.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Temple_of_Heaven,_Beijing,_China_-_010_edit.jpg"
+        },
+        {
+          "url": "china-14-dias/hutong-tradicional-de-pekin-1c6e21.jpg",
+          "alt": "Hutong tradicional de Pekín",
+          "credito": "N509FZ",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Datianshuijing_Hutong_(20210529190652).jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "12:30",
+          "nombre": "Paseo por los hutongs de Shichahai",
+          "descripcion": "Recorrido por callejones tradicionales, patios históricos y alrededores del lago Houhai.",
+          "duracion": "1 h 30 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 39.941,
+            "lng": 116.386
+          },
+          "consejo": "Respeta las viviendas privadas y evita fotografiar residentes sin permiso."
+        },
+        {
+          "hora": "15:00",
+          "nombre": "Templo de los Lamas",
+          "descripcion": "Visita a uno de los grandes templos budistas tibetanos de Pekín, famoso por su arquitectura y su enorme estatua de Maitreya.",
+          "duracion": "1 h 30 min",
+          "costo": 25,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 39.9476,
+            "lng": 116.4174
+          }
+        },
+        {
+          "hora": "17:30",
+          "nombre": "Calle Guijie",
+          "descripcion": "Exploración de la famosa calle gastronómica iluminada con faroles rojos.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 39.9419,
+            "lng": 116.4305
+          }
+        },
+        {
+          "niveles": [
+            "medio",
+            "alto"
+          ],
+          "hora": "20:30",
+          "nombre": "Experiencia nocturna en Sanlitun",
+          "descripcion": "Bares, música y ambiente internacional en el distrito de entretenimiento.",
+          "duracion": "2 h",
+          "costo": 0,
+          "tipo": "vida-nocturna",
+          "coords": {
+            "lat": 39.934,
+            "lng": 116.454
+          }
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "09:30",
+            "momento": "desayuno",
+            "lugar": "Tienda de desayunos en Dongzhimen",
+            "plato": "Baozi de cerdo y leche de soja",
+            "costo": 18
+          },
+          {
+            "hora": "14:00",
+            "momento": "almuerzo",
+            "lugar": "Restaurante de fideos en Shichahai",
+            "plato": "Zhajiangmian",
+            "costo": 35
+          },
+          {
+            "hora": "19:00",
+            "momento": "cena",
+            "lugar": "Puesto de comida de Guijie",
+            "plato": "Brochetas y dumplings",
+            "costo": 45
+          }
+        ],
+        "medio": [
+          {
+            "hora": "09:30",
+            "momento": "desayuno",
+            "lugar": "Restaurante del hotel",
+            "plato": "Desayuno buffet",
+            "costo": 0
+          },
+          {
+            "hora": "14:00",
+            "momento": "almuerzo",
+            "lugar": "Restaurante tradicional de Shichahai",
+            "plato": "Dumplings y verduras salteadas",
+            "costo": 85
+          },
+          {
+            "hora": "19:00",
+            "momento": "cena",
+            "lugar": "Haidilao Hot Pot",
+            "plato": "Hot pot con carne y vegetales",
+            "costo": 150,
+            "link": "https://www.haidilao.com/"
+          }
+        ],
+        "alto": [
+          {
+            "hora": "09:30",
+            "momento": "desayuno",
+            "lugar": "Waldorf Astoria Beijing",
+            "plato": "Desayuno internacional",
+            "costo": 0
+          },
+          {
+            "hora": "14:00",
+            "momento": "almuerzo",
+            "lugar": "Restaurante gastronómico del centro de Pekín",
+            "plato": "Menú chino de varios tiempos",
+            "costo": 260
+          },
+          {
+            "hora": "19:00",
+            "momento": "cena",
+            "lugar": "TRB Hutong",
+            "plato": "Menú degustación contemporáneo",
+            "costo": 850
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "09:00",
+          "de": "Aeropuerto PEK",
+          "a": "Dongzhimen",
+          "medio": "Airport Express",
+          "duracion": "30 min",
+          "costo": 25
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "09:00",
+          "de": "Aeropuerto PEK",
+          "a": "Hotel",
+          "medio": "Taxi",
+          "duracion": "55 min",
+          "costo": 95
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "09:00",
+          "de": "Aeropuerto PEK",
+          "a": "Waldorf Astoria",
+          "medio": "Traslado privado",
+          "duracion": "55 min",
+          "costo": 220
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "11:45",
+          "de": "Dongzhimen",
+          "a": "Shichahai",
+          "medio": "Metro",
+          "duracion": "30 min",
+          "costo": 5
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "11:45",
+          "de": "Hotel",
+          "a": "Shichahai",
+          "medio": "Taxi compartido",
+          "duracion": "25 min",
+          "costo": 25
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "11:45",
+          "de": "Hotel",
+          "a": "Shichahai",
+          "medio": "Vehículo privado",
+          "duracion": "25 min",
+          "costo": 80
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "14:35",
+          "de": "Shichahai",
+          "a": "Templo de los Lamas",
+          "medio": "Metro",
+          "duracion": "20 min",
+          "costo": 4
+        },
+        {
+          "niveles": [
+            "medio",
+            "alto"
+          ],
+          "hora": "14:35",
+          "de": "Shichahai",
+          "a": "Templo de los Lamas",
+          "medio": "Taxi",
+          "duracion": "20 min",
+          "costo": 25
+        },
+        {
+          "hora": "17:00",
+          "de": "Templo de los Lamas",
+          "a": "Guijie",
+          "medio": "Caminata",
+          "duracion": "25 min",
+          "costo": 0
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "20:00",
+          "de": "Guijie",
+          "a": "Hotel",
+          "medio": "Metro",
+          "duracion": "30 min",
+          "costo": 5
+        },
+        {
+          "niveles": [
+            "medio",
+            "alto"
+          ],
+          "hora": "20:00",
+          "de": "Guijie",
+          "a": "Sanlitun",
+          "medio": "Taxi",
+          "duracion": "20 min",
+          "costo": 30
+        },
+        {
+          "niveles": [
+            "medio",
+            "alto"
+          ],
+          "hora": "22:45",
+          "de": "Sanlitun",
+          "a": "Hotel",
+          "medio": "Taxi",
+          "duracion": "25 min",
+          "costo": 35
+        }
+      ],
+      "planB": "Si el vuelo se retrasa, conservar únicamente Shichahai y la cena. Si llueve, visitar el Museo Nacional de China cuando haya reservas disponibles."
+    },
+    {
+      "dia": 2,
+      "titulo": "La Ciudad Prohibida y el corazón del imperio",
+      "ciudad": "Pekín",
+      "coords": {
+        "lat": 39.9163,
+        "lng": 116.3972
+      },
+      "resumen": "Día dedicado al legado imperial chino, con palacios, jardines, arquitectura monumental y una cena tradicional de pato pekinés.",
+      "imagenes": [
+        {
+          "url": "china-14-dias/salon-de-la-suprema-armonia-ciudad-prohi-28da03.jpg",
+          "alt": "Salón de la Suprema Armonía, Ciudad Prohibida",
+          "credito": "Marcin Białek",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Hall_of_Supreme_Harmony_2010.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "08:30",
+          "nombre": "Plaza de Tiananmén",
+          "descripcion": "Visita a la gran plaza histórica de Pekín, sujeta a controles de seguridad y posibles requisitos de reserva.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 39.9055,
+            "lng": 116.3976
+          }
+        },
+        {
+          "hora": "10:00",
+          "nombre": "Ciudad Prohibida",
+          "descripcion": "Recorrido por el complejo palaciego de las dinastías Ming y Qing.",
+          "duracion": "3 h",
+          "costo": 60,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 39.9163,
+            "lng": 116.3972
+          },
+          "link": "https://intl.dpm.org.cn/",
+          "consejo": "Reservar anticipadamente y evitar programar la visita un lunes, día habitual de cierre."
+        },
+        {
+          "hora": "14:30",
+          "nombre": "Parque Jingshan",
+          "descripcion": "Ascenso al mirador con una de las mejores panorámicas de los tejados de la Ciudad Prohibida.",
+          "duracion": "1 h",
+          "costo": 2,
+          "tipo": "naturaleza",
+          "coords": {
+            "lat": 39.9251,
+            "lng": 116.3965
+          }
+        },
+        {
+          "niveles": [
+            "medio",
+            "alto"
+          ],
+          "hora": "16:00",
+          "nombre": "Ceremonia privada del té",
+          "descripcion": "Degustación guiada de variedades de té chino y explicación de sus tradiciones.",
+          "duracion": "1 h 15 min",
+          "costo": 180,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 39.931,
+            "lng": 116.399
+          }
+        },
+        {
+          "hora": "20:30",
+          "nombre": "Wangfujing nocturno",
+          "descripcion": "Paseo por una de las grandes calles comerciales del centro.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "compras",
+          "coords": {
+            "lat": 39.9146,
+            "lng": 116.411
+          }
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "07:15",
+            "momento": "desayuno",
+            "lugar": "Panadería local en Dongcheng",
+            "plato": "Jianbing y té",
+            "costo": 20
+          },
+          {
+            "hora": "13:15",
+            "momento": "almuerzo",
+            "lugar": "Restaurante de comida casera cerca de Jingshan",
+            "plato": "Arroz con cerdo y verduras",
+            "costo": 40
+          },
+          {
+            "hora": "19:00",
+            "momento": "cena",
+            "lugar": "Restaurante popular de pato pekinés en Wangfujing",
+            "plato": "Pato pekinés compartido",
+            "costo": 95
+          }
+        ],
+        "medio": [
+          {
+            "hora": "07:15",
+            "momento": "desayuno",
+            "lugar": "Hotel",
+            "plato": "Buffet",
+            "costo": 0
+          },
+          {
+            "hora": "13:15",
+            "momento": "almuerzo",
+            "lugar": "Restaurante tradicional en Dongcheng",
+            "plato": "Fideos y dumplings",
+            "costo": 95
+          },
+          {
+            "hora": "19:00",
+            "momento": "cena",
+            "lugar": "Quanjude",
+            "plato": "Pato pekinés con acompañamientos",
+            "costo": 220,
+            "link": "https://www.quanjude.com.cn/"
+          }
+        ],
+        "alto": [
+          {
+            "hora": "07:15",
+            "momento": "desayuno",
+            "lugar": "Waldorf Astoria Beijing",
+            "plato": "Desayuno premium",
+            "costo": 0
+          },
+          {
+            "hora": "13:15",
+            "momento": "almuerzo",
+            "lugar": "Restaurante gastronómico de Dongcheng",
+            "plato": "Menú chino contemporáneo",
+            "costo": 300
+          },
+          {
+            "hora": "19:00",
+            "momento": "cena",
+            "lugar": "Da Dong",
+            "plato": "Pato pekinés de autor",
+            "costo": 550,
+            "link": "https://www.dadongdadong.com/"
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "07:55",
+          "de": "Hotel",
+          "a": "Tiananmén",
+          "medio": "Metro",
+          "duracion": "25 min",
+          "costo": 4
+        },
+        {
+          "niveles": [
+            "medio",
+            "alto"
+          ],
+          "hora": "07:55",
+          "de": "Hotel",
+          "a": "Tiananmén",
+          "medio": "Taxi",
+          "duracion": "25 min",
+          "costo": 35
+        },
+        {
+          "hora": "09:35",
+          "de": "Tiananmén",
+          "a": "Ciudad Prohibida",
+          "medio": "Caminata y control de acceso",
+          "duracion": "25 min",
+          "costo": 0
+        },
+        {
+          "hora": "14:00",
+          "de": "Ciudad Prohibida",
+          "a": "Jingshan",
+          "medio": "Caminata",
+          "duracion": "15 min",
+          "costo": 0
+        },
+        {
+          "niveles": [
+            "medio",
+            "alto"
+          ],
+          "hora": "15:40",
+          "de": "Jingshan",
+          "a": "Casa de té",
+          "medio": "Taxi",
+          "duracion": "15 min",
+          "costo": 20
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "18:20",
+          "de": "Jingshan",
+          "a": "Restaurante",
+          "medio": "Metro",
+          "duracion": "25 min",
+          "costo": 4
+        },
+        {
+          "niveles": [
+            "medio",
+            "alto"
+          ],
+          "hora": "18:20",
+          "de": "Casa de té",
+          "a": "Restaurante",
+          "medio": "Taxi",
+          "duracion": "20 min",
+          "costo": 30
+        },
+        {
+          "hora": "20:10",
+          "de": "Restaurante",
+          "a": "Wangfujing",
+          "medio": "Caminata",
+          "duracion": "15 min",
+          "costo": 0
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "21:45",
+          "de": "Wangfujing",
+          "a": "Hotel",
+          "medio": "Metro",
+          "duracion": "20 min",
+          "costo": 4
+        },
+        {
+          "niveles": [
+            "medio",
+            "alto"
+          ],
+          "hora": "21:45",
+          "de": "Wangfujing",
+          "a": "Hotel",
+          "medio": "Taxi",
+          "duracion": "15 min",
+          "costo": 25
+        }
+      ],
+      "planB": "En caso de cierre de la Ciudad Prohibida, sustituirla por el Templo del Cielo y el Museo de la Capital."
+    },
+    {
+      "dia": 3,
+      "titulo": "La Gran Muralla: aventura sobre las montañas",
+      "ciudad": "Pekín",
+      "coords": {
+        "lat": 40.4319,
+        "lng": 116.5704
+      },
+      "resumen": "Excursión de día completo a Mutianyu, una de las secciones más espectaculares de la Gran Muralla, con senderismo y vistas montañosas.",
+      "imagenes": [
+        {
+          "url": "china-14-dias/gran-muralla-sobre-las-montanas-91cd66.jpg",
+          "alt": "Gran Muralla sobre las montañas",
+          "credito": "Jakub Hałun",
+          "licencia": "CC BY-SA 3.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:20090529_Great_Wall_8185.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "09:30",
+          "nombre": "Entrada a la Gran Muralla de Mutianyu",
+          "descripcion": "Acceso al sector histórico rodeado de montañas boscosas.",
+          "duracion": "45 min",
+          "costo": 45,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 40.4319,
+            "lng": 116.5704
+          }
+        },
+        {
+          "hora": "10:30",
+          "nombre": "Senderismo entre torres de vigilancia",
+          "descripcion": "Recorrido por las murallas y torres defensivas con panorámicas espectaculares.",
+          "duracion": "2 h 30 min",
+          "costo": 0,
+          "tipo": "aventura",
+          "coords": {
+            "lat": 40.4362,
+            "lng": 116.5618
+          },
+          "consejo": "Llevar calzado con agarre, agua y protección solar."
+        },
+        {
+          "niveles": [
+            "medio",
+            "alto"
+          ],
+          "hora": "13:15",
+          "nombre": "Descenso en tobogán de Mutianyu",
+          "descripcion": "Descenso recreativo por una pista de montaña, sujeto a condiciones operativas.",
+          "duracion": "45 min",
+          "costo": 100,
+          "tipo": "aventura",
+          "coords": {
+            "lat": 40.432,
+            "lng": 116.566
+          }
+        },
+        {
+          "hora": "16:30",
+          "nombre": "Parque Olímpico de Pekín",
+          "descripcion": "Visita exterior al Estadio Nacional, conocido como el Nido de Pájaro.",
+          "duracion": "1 h 15 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 39.9917,
+            "lng": 116.3907
+          }
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "06:45",
+            "momento": "desayuno",
+            "lugar": "Panadería cercana al hotel",
+            "plato": "Baozi y leche de soja",
+            "costo": 18
+          },
+          {
+            "hora": "14:15",
+            "momento": "almuerzo",
+            "lugar": "Restaurante familiar de Mutianyu",
+            "plato": "Fideos con carne",
+            "costo": 55
+          },
+          {
+            "hora": "19:00",
+            "momento": "cena",
+            "lugar": "Restaurante local en Pekín",
+            "plato": "Arroz frito y dumplings",
+            "costo": 45
+          }
+        ],
+        "medio": [
+          {
+            "hora": "06:45",
+            "momento": "desayuno",
+            "lugar": "Hotel",
+            "plato": "Buffet",
+            "costo": 0
+          },
+          {
+            "hora": "14:15",
+            "momento": "almuerzo",
+            "lugar": "Restaurante de Mutianyu",
+            "plato": "Pollo salteado y verduras",
+            "costo": 110
+          },
+          {
+            "hora": "19:00",
+            "momento": "cena",
+            "lugar": "Restaurante de Sanlitun",
+            "plato": "Cocina regional china",
+            "costo": 145
+          }
+        ],
+        "alto": [
+          {
+            "hora": "06:45",
+            "momento": "desayuno",
+            "lugar": "Waldorf Astoria Beijing",
+            "plato": "Desayuno premium",
+            "costo": 0
+          },
+          {
+            "hora": "14:15",
+            "momento": "almuerzo",
+            "lugar": "Restaurante privado en Mutianyu",
+            "plato": "Menú tradicional de varios platos",
+            "costo": 280
+          },
+          {
+            "hora": "19:00",
+            "momento": "cena",
+            "lugar": "Restaurante gastronómico de Pekín",
+            "plato": "Menú degustación",
+            "costo": 650
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "07:15",
+          "de": "Pekín",
+          "a": "Mutianyu",
+          "medio": "Autobús turístico compartido",
+          "duracion": "2 h",
+          "costo": 100
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "07:15",
+          "de": "Hotel",
+          "a": "Mutianyu",
+          "medio": "Miniván compartida",
+          "duracion": "1 h 45 min",
+          "costo": 160
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "07:15",
+          "de": "Hotel",
+          "a": "Mutianyu",
+          "medio": "Vehículo privado con conductor",
+          "duracion": "1 h 45 min",
+          "costo": 380
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "10:15",
+          "de": "Entrada Mutianyu",
+          "a": "Sector de senderismo",
+          "medio": "Caminata",
+          "duracion": "15 min",
+          "costo": 0
+        },
+        {
+          "niveles": [
+            "medio",
+            "alto"
+          ],
+          "hora": "10:15",
+          "de": "Entrada Mutianyu",
+          "a": "Muralla",
+          "medio": "Teleférico",
+          "duracion": "15 min",
+          "costo": 100
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "15:00",
+          "de": "Mutianyu",
+          "a": "Parque Olímpico",
+          "medio": "Autobús turístico",
+          "duracion": "1 h 30 min",
+          "costo": 80
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "15:00",
+          "de": "Mutianyu",
+          "a": "Parque Olímpico",
+          "medio": "Miniván",
+          "duracion": "1 h 30 min",
+          "costo": 120
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "15:00",
+          "de": "Mutianyu",
+          "a": "Parque Olímpico",
+          "medio": "Vehículo privado",
+          "duracion": "1 h 30 min",
+          "costo": 280
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "18:00",
+          "de": "Parque Olímpico",
+          "a": "Hotel",
+          "medio": "Metro",
+          "duracion": "35 min",
+          "costo": 5
+        },
+        {
+          "niveles": [
+            "medio",
+            "alto"
+          ],
+          "hora": "18:00",
+          "de": "Parque Olímpico",
+          "a": "Hotel",
+          "medio": "Taxi",
+          "duracion": "30 min",
+          "costo": 45
+        }
+      ],
+      "planB": "Si hay tormentas o cierre de la Muralla, realizar una visita al Palacio de Verano y trasladar Mutianyu a otra fecha únicamente si las reservas lo permiten."
+    },
+    {
+      "dia": 4,
+      "titulo": "De Pekín a Xi'an: la antigua Ruta de la Seda",
+      "ciudad": "Xi'an",
+      "coords": {
+        "lat": 34.3416,
+        "lng": 108.9398
+      },
+      "resumen": "Viaje en tren de alta velocidad hacia la antigua capital imperial y exploración de su famoso barrio musulmán.",
+      "imagenes": [
+        {
+          "url": "china-14-dias/muralla-de-xi-an-b25079.jpg",
+          "alt": "Muralla de Xi'an",
+          "credito": "Ideophagous",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Xi%27an_city_walls_(89479).jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "08:00",
+          "nombre": "Salida ferroviaria hacia Xi'an",
+          "descripcion": "Preparación y embarque en el tren de alta velocidad.",
+          "duracion": "45 min",
+          "costo": 0,
+          "tipo": "transporte",
+          "coords": {
+            "lat": 39.8652,
+            "lng": 116.3785
+          }
+        },
+        {
+          "hora": "15:30",
+          "nombre": "Torre de la Campana",
+          "descripcion": "Visita exterior a uno de los símbolos históricos de Xi'an.",
+          "duracion": "45 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 34.261,
+            "lng": 108.948
+          }
+        },
+        {
+          "hora": "16:30",
+          "nombre": "Barrio musulmán",
+          "descripcion": "Recorrido por sus callejones, mercados y arquitectura islámica china.",
+          "duracion": "1 h 30 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 34.2652,
+            "lng": 108.943
+          }
+        },
+        {
+          "hora": "20:00",
+          "nombre": "Murallas iluminadas de Xi'an",
+          "descripcion": "Paseo exterior por las fortificaciones de la ciudad.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 34.254,
+            "lng": 108.947
+          }
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "07:00",
+            "momento": "desayuno",
+            "lugar": "Hotel en Pekín",
+            "plato": "Pan chino y bebida caliente",
+            "costo": 20
+          },
+          {
+            "hora": "12:30",
+            "momento": "almuerzo",
+            "lugar": "Tren de alta velocidad",
+            "plato": "Caja de arroz con pollo",
+            "costo": 45
+          },
+          {
+            "hora": "18:30",
+            "momento": "cena",
+            "lugar": "Barrio musulmán",
+            "plato": "Roujiamo y liangpi",
+            "costo": 45
+          }
+        ],
+        "medio": [
+          {
+            "hora": "07:00",
+            "momento": "desayuno",
+            "lugar": "Hotel en Pekín",
+            "plato": "Buffet",
+            "costo": 0
+          },
+          {
+            "hora": "12:30",
+            "momento": "almuerzo",
+            "lugar": "Tren de alta velocidad",
+            "plato": "Menú de arroz y carne",
+            "costo": 80
+          },
+          {
+            "hora": "18:30",
+            "momento": "cena",
+            "lugar": "Restaurante tradicional del barrio musulmán",
+            "plato": "Yangrou paomo",
+            "costo": 110
+          }
+        ],
+        "alto": [
+          {
+            "hora": "07:00",
+            "momento": "desayuno",
+            "lugar": "Waldorf Astoria Beijing",
+            "plato": "Desayuno premium",
+            "costo": 0
+          },
+          {
+            "hora": "12:30",
+            "momento": "almuerzo",
+            "lugar": "Tren de alta velocidad",
+            "plato": "Comida premium",
+            "costo": 160
+          },
+          {
+            "hora": "18:30",
+            "momento": "cena",
+            "lugar": "Restaurante gastronómico de Xi'an",
+            "plato": "Banquete de especialidades de Shaanxi",
+            "costo": 380
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "07:15",
+          "de": "Hotel Pekín",
+          "a": "Beijing West",
+          "medio": "Metro",
+          "duracion": "35 min",
+          "costo": 5
+        },
+        {
+          "niveles": [
+            "medio",
+            "alto"
+          ],
+          "hora": "07:15",
+          "de": "Hotel Pekín",
+          "a": "Beijing West",
+          "medio": "Taxi",
+          "duracion": "35 min",
+          "costo": 55
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "09:00",
+          "de": "Beijing West",
+          "a": "Xi'an North",
+          "medio": "Tren de alta velocidad, segunda clase",
+          "duracion": "4 h 45 min",
+          "costo": 520
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "09:00",
+          "de": "Beijing West",
+          "a": "Xi'an North",
+          "medio": "Tren de alta velocidad, primera clase",
+          "duracion": "4 h 45 min",
+          "costo": 830
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "09:00",
+          "de": "Beijing West",
+          "a": "Xi'an North",
+          "medio": "Tren de alta velocidad, clase business",
+          "duracion": "4 h 45 min",
+          "costo": 1650
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "14:00",
+          "de": "Xi'an North",
+          "a": "Centro histórico",
+          "medio": "Metro",
+          "duracion": "45 min",
+          "costo": 6
+        },
+        {
+          "niveles": [
+            "medio",
+            "alto"
+          ],
+          "hora": "14:00",
+          "de": "Xi'an North",
+          "a": "Hotel",
+          "medio": "Taxi",
+          "duracion": "45 min",
+          "costo": 70
+        },
+        {
+          "hora": "16:15",
+          "de": "Torre de la Campana",
+          "a": "Barrio musulmán",
+          "medio": "Caminata",
+          "duracion": "10 min",
+          "costo": 0
+        },
+        {
+          "hora": "19:40",
+          "de": "Barrio musulmán",
+          "a": "Murallas",
+          "medio": "Caminata",
+          "duracion": "20 min",
+          "costo": 0
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "21:15",
+          "de": "Murallas",
+          "a": "Hotel",
+          "medio": "Metro",
+          "duracion": "20 min",
+          "costo": 4
+        },
+        {
+          "niveles": [
+            "medio",
+            "alto"
+          ],
+          "hora": "21:15",
+          "de": "Murallas",
+          "a": "Hotel",
+          "medio": "Taxi",
+          "duracion": "20 min",
+          "costo": 25
+        }
+      ],
+      "planB": "Si el tren se retrasa, eliminar la visita nocturna a las murallas y conservar el barrio musulmán."
+    },
+    {
+      "dia": 5,
+      "titulo": "El Ejército de Terracota y los secretos de Xi'an",
+      "ciudad": "Xi'an",
+      "coords": {
+        "lat": 34.3847,
+        "lng": 109.2785
+      },
+      "resumen": "Visita a uno de los mayores descubrimientos arqueológicos del mundo y recorrido por las fortificaciones de la antigua capital.",
+      "imagenes": [
+        {
+          "url": "china-14-dias/guerreros-de-terracota-79e949.jpg",
+          "alt": "Guerreros de terracota",
+          "credito": "Ideophagous",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Terracotta_warriors_(58322).jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "09:00",
+          "nombre": "Ejército de Terracota",
+          "descripcion": "Exploración de los fosos arqueológicos con miles de guerreros de tamaño natural.",
+          "duracion": "3 h",
+          "costo": 120,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 34.3847,
+            "lng": 109.2785
+          },
+          "consejo": "Reservar con pasaporte y llegar temprano."
+        },
+        {
+          "niveles": [
+            "medio",
+            "alto"
+          ],
+          "hora": "12:15",
+          "nombre": "Visita guiada arqueológica",
+          "descripcion": "Explicación especializada sobre el mausoleo de Qin Shi Huang y la fabricación de los guerreros.",
+          "duracion": "45 min",
+          "costo": 120,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 34.3847,
+            "lng": 109.2785
+          }
+        },
+        {
+          "hora": "16:00",
+          "nombre": "Muralla de Xi'an",
+          "descripcion": "Recorrido por la fortificación histórica mejor conservada de las grandes ciudades chinas.",
+          "duracion": "1 h 30 min",
+          "costo": 54,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 34.2541,
+            "lng": 108.9465
+          }
+        },
+        {
+          "niveles": [
+            "economico",
+            "medio"
+          ],
+          "hora": "17:30",
+          "nombre": "Bicicleta sobre la muralla",
+          "descripcion": "Recorrido recreativo por un sector de la fortificación.",
+          "duracion": "45 min",
+          "costo": 45,
+          "tipo": "aventura",
+          "coords": {
+            "lat": 34.2541,
+            "lng": 108.9465
+          }
+        },
+        {
+          "hora": "20:00",
+          "nombre": "Distrito Datang Everbright City",
+          "descripcion": "Paseo nocturno entre iluminación, espectáculos callejeros y arquitectura inspirada en la dinastía Tang.",
+          "duracion": "1 h 30 min",
+          "costo": 0,
+          "tipo": "vida-nocturna",
+          "coords": {
+            "lat": 34.2138,
+            "lng": 108.963
+          }
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "07:15",
+            "momento": "desayuno",
+            "lugar": "Tienda de desayuno en Xi'an",
+            "plato": "Bollos y bebida de soja",
+            "costo": 20
+          },
+          {
+            "hora": "13:15",
+            "momento": "almuerzo",
+            "lugar": "Restaurante cercano a Terracota",
+            "plato": "Biangbiang mian",
+            "costo": 45
+          },
+          {
+            "hora": "18:45",
+            "momento": "cena",
+            "lugar": "Restaurante de fideos de Xi'an",
+            "plato": "Fideos con carne",
+            "costo": 50
+          }
+        ],
+        "medio": [
+          {
+            "hora": "07:15",
+            "momento": "desayuno",
+            "lugar": "Hotel",
+            "plato": "Buffet",
+            "costo": 0
+          },
+          {
+            "hora": "13:15",
+            "momento": "almuerzo",
+            "lugar": "Restaurante de Lintong",
+            "plato": "Menú regional de Shaanxi",
+            "costo": 100
+          },
+          {
+            "hora": "18:45",
+            "momento": "cena",
+            "lugar": "Restaurante de Qujiang",
+            "plato": "Dumplings y especialidades locales",
+            "costo": 150
+          }
+        ],
+        "alto": [
+          {
+            "hora": "07:15",
+            "momento": "desayuno",
+            "lugar": "Sofitel Legend People's Grand Hotel Xi'an",
+            "plato": "Desayuno premium",
+            "costo": 0
+          },
+          {
+            "hora": "13:15",
+            "momento": "almuerzo",
+            "lugar": "Restaurante privado de Lintong",
+            "plato": "Menú tradicional de Shaanxi",
+            "costo": 260
+          },
+          {
+            "hora": "18:45",
+            "momento": "cena",
+            "lugar": "Restaurante gastronómico de Qujiang",
+            "plato": "Banquete regional",
+            "costo": 480
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "07:45",
+          "de": "Centro de Xi'an",
+          "a": "Terracota",
+          "medio": "Metro y autobús",
+          "duracion": "1 h 10 min",
+          "costo": 15
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "07:45",
+          "de": "Hotel",
+          "a": "Terracota",
+          "medio": "Miniván compartida",
+          "duracion": "1 h",
+          "costo": 95
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "07:45",
+          "de": "Hotel",
+          "a": "Terracota",
+          "medio": "Vehículo privado",
+          "duracion": "1 h",
+          "costo": 230
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "14:15",
+          "de": "Terracota",
+          "a": "Muralla de Xi'an",
+          "medio": "Autobús y metro",
+          "duracion": "1 h 20 min",
+          "costo": 15
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "14:15",
+          "de": "Terracota",
+          "a": "Muralla",
+          "medio": "Miniván",
+          "duracion": "1 h 15 min",
+          "costo": 90
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "14:15",
+          "de": "Terracota",
+          "a": "Muralla",
+          "medio": "Vehículo privado",
+          "duracion": "1 h 15 min",
+          "costo": 190
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "19:15",
+          "de": "Muralla",
+          "a": "Datang Everbright City",
+          "medio": "Metro",
+          "duracion": "30 min",
+          "costo": 5
+        },
+        {
+          "niveles": [
+            "medio",
+            "alto"
+          ],
+          "hora": "19:15",
+          "de": "Muralla",
+          "a": "Datang Everbright City",
+          "medio": "Taxi",
+          "duracion": "25 min",
+          "costo": 35
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "21:45",
+          "de": "Datang Everbright City",
+          "a": "Hotel",
+          "medio": "Metro",
+          "duracion": "30 min",
+          "costo": 5
+        },
+        {
+          "niveles": [
+            "medio",
+            "alto"
+          ],
+          "hora": "21:45",
+          "de": "Datang Everbright City",
+          "a": "Hotel",
+          "medio": "Taxi",
+          "duracion": "25 min",
+          "costo": 40
+        }
+      ],
+      "planB": "Si el sitio arqueológico no tiene entradas disponibles, visitar el Museo de Historia de Shaanxi con reserva previa y dedicar más tiempo a las murallas."
+    },
+    {
+      "dia": 6,
+      "titulo": "Chengdu: la capital del picante",
+      "ciudad": "Chengdu",
+      "coords": {
+        "lat": 30.5728,
+        "lng": 104.0668
+      },
+      "resumen": "Viaje hacia Sichuan, una de las regiones gastronómicas más famosas de China, y primera noche entre mercados, templos y comida picante.",
+      "imagenes": [
+        {
+          "url": "china-14-dias/callejones-kuanzhai-de-chengdu-652f0f.jpg",
+          "alt": "Callejones Kuanzhai de Chengdu",
+          "credito": "Daderot",
+          "licencia": "CC0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Shops_-_Kuanzhai_Alleys_-_Chengdu,_China_-_DSC05305.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "09:00",
+          "nombre": "Tren hacia Chengdu",
+          "descripcion": "Embarque en alta velocidad hacia Sichuan.",
+          "duracion": "30 min",
+          "costo": 0,
+          "tipo": "transporte",
+          "coords": {
+            "lat": 34.3764,
+            "lng": 108.9397
+          }
+        },
+        {
+          "hora": "15:30",
+          "nombre": "Templo Wuhou",
+          "descripcion": "Exploración del complejo histórico dedicado a personajes del período de los Tres Reinos.",
+          "duracion": "1 h 30 min",
+          "costo": 50,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 30.6468,
+            "lng": 104.0475
+          }
+        },
+        {
+          "hora": "17:15",
+          "nombre": "Jinli Ancient Street",
+          "descripcion": "Paseo por calles tradicionales, faroles y puestos artesanales.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 30.646,
+            "lng": 104.048
+          }
+        },
+        {
+          "hora": "20:30",
+          "nombre": "Noche en Jiuyan Bridge",
+          "descripcion": "Zona de bares, luces y entretenimiento junto al río.",
+          "duracion": "1 h 30 min",
+          "costo": 0,
+          "tipo": "vida-nocturna",
+          "coords": {
+            "lat": 30.6383,
+            "lng": 104.0885
+          }
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "07:15",
+            "momento": "desayuno",
+            "lugar": "Panadería de Xi'an",
+            "plato": "Baozi y té",
+            "costo": 20
+          },
+          {
+            "hora": "12:30",
+            "momento": "almuerzo",
+            "lugar": "Tren a Chengdu",
+            "plato": "Arroz con pollo",
+            "costo": 45
+          },
+          {
+            "hora": "19:00",
+            "momento": "cena",
+            "lugar": "Puesto de Jinli",
+            "plato": "Fideos dan dan",
+            "costo": 45
+          }
+        ],
+        "medio": [
+          {
+            "hora": "07:15",
+            "momento": "desayuno",
+            "lugar": "Hotel Xi'an",
+            "plato": "Buffet",
+            "costo": 0
+          },
+          {
+            "hora": "12:30",
+            "momento": "almuerzo",
+            "lugar": "Tren a Chengdu",
+            "plato": "Menú de carne y arroz",
+            "costo": 80
+          },
+          {
+            "hora": "19:00",
+            "momento": "cena",
+            "lugar": "Haidilao Chengdu",
+            "plato": "Hot pot de Sichuan",
+            "costo": 160,
+            "link": "https://www.haidilao.com/"
+          }
+        ],
+        "alto": [
+          {
+            "hora": "07:15",
+            "momento": "desayuno",
+            "lugar": "Sofitel Legend Xi'an",
+            "plato": "Desayuno premium",
+            "costo": 0
+          },
+          {
+            "hora": "12:30",
+            "momento": "almuerzo",
+            "lugar": "Tren a Chengdu",
+            "plato": "Menú premium",
+            "costo": 150
+          },
+          {
+            "hora": "19:00",
+            "momento": "cena",
+            "lugar": "Restaurante gastronómico de Chengdu",
+            "plato": "Banquete de Sichuan",
+            "costo": 600
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "07:45",
+          "de": "Hotel Xi'an",
+          "a": "Xi'an North",
+          "medio": "Metro",
+          "duracion": "40 min",
+          "costo": 6
+        },
+        {
+          "niveles": [
+            "medio",
+            "alto"
+          ],
+          "hora": "07:45",
+          "de": "Hotel Xi'an",
+          "a": "Xi'an North",
+          "medio": "Taxi",
+          "duracion": "40 min",
+          "costo": 65
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "09:30",
+          "de": "Xi'an North",
+          "a": "Chengdu East",
+          "medio": "Tren de alta velocidad, segunda clase",
+          "duracion": "4 h",
+          "costo": 270
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "09:30",
+          "de": "Xi'an North",
+          "a": "Chengdu East",
+          "medio": "Tren de alta velocidad, primera clase",
+          "duracion": "4 h",
+          "costo": 430
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "09:30",
+          "de": "Xi'an North",
+          "a": "Chengdu East",
+          "medio": "Tren de alta velocidad, business",
+          "duracion": "4 h",
+          "costo": 850
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "13:45",
+          "de": "Chengdu East",
+          "a": "Wuhou",
+          "medio": "Metro",
+          "duracion": "45 min",
+          "costo": 5
+        },
+        {
+          "niveles": [
+            "medio",
+            "alto"
+          ],
+          "hora": "13:45",
+          "de": "Chengdu East",
+          "a": "Hotel y Wuhou",
+          "medio": "Taxi",
+          "duracion": "55 min",
+          "costo": 65
+        },
+        {
+          "hora": "17:00",
+          "de": "Wuhou",
+          "a": "Jinli",
+          "medio": "Caminata",
+          "duracion": "10 min",
+          "costo": 0
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "20:00",
+          "de": "Jinli",
+          "a": "Jiuyan Bridge",
+          "medio": "Metro",
+          "duracion": "30 min",
+          "costo": 5
+        },
+        {
+          "niveles": [
+            "medio",
+            "alto"
+          ],
+          "hora": "20:00",
+          "de": "Jinli",
+          "a": "Jiuyan Bridge",
+          "medio": "Taxi",
+          "duracion": "25 min",
+          "costo": 35
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "22:15",
+          "de": "Jiuyan Bridge",
+          "a": "Hotel",
+          "medio": "Metro",
+          "duracion": "25 min",
+          "costo": 4
+        },
+        {
+          "niveles": [
+            "medio",
+            "alto"
+          ],
+          "hora": "22:15",
+          "de": "Jiuyan Bridge",
+          "a": "Hotel",
+          "medio": "Taxi",
+          "duracion": "20 min",
+          "costo": 30
+        }
+      ],
+      "planB": "Si el tren llega tarde, cancelar Wuhou y visitar solamente Jinli y Jiuyan Bridge."
+    },
+    {
+      "dia": 7,
+      "titulo": "Pandas gigantes y la vida cotidiana de Sichuan",
+      "ciudad": "Chengdu",
+      "coords": {
+        "lat": 30.7383,
+        "lng": 104.141
+      },
+      "resumen": "Encuentro con los pandas gigantes, parques tradicionales y una experiencia nocturna de ópera de Sichuan.",
+      "imagenes": [
+        {
+          "url": "china-14-dias/panda-gigante-comiendo-bambu-97badf.jpg",
+          "alt": "Panda gigante comiendo bambú",
+          "credito": "Alpha from Melbourne, Australia",
+          "licencia": "CC BY-SA 2.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Resting_Panda_-_Panda_Research_Centre,_Chengdu_(1483005621).jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "08:00",
+          "nombre": "Base de Investigación de Pandas Gigantes",
+          "descripcion": "Observación de pandas gigantes y pandas rojos en instalaciones de conservación.",
+          "duracion": "3 h",
+          "costo": 55,
+          "tipo": "naturaleza",
+          "coords": {
+            "lat": 30.7383,
+            "lng": 104.141
+          },
+          "consejo": "Visitar temprano porque los pandas suelen estar más activos antes del calor del mediodía."
+        },
+        {
+          "hora": "13:30",
+          "nombre": "People's Park",
+          "descripcion": "Parque urbano donde residentes practican tai chi, juegan mahjong y toman té.",
+          "duracion": "1 h 30 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 30.6607,
+            "lng": 104.0556
+          }
+        },
+        {
+          "niveles": [
+            "medio",
+            "alto"
+          ],
+          "hora": "15:15",
+          "nombre": "Experiencia de té de Sichuan",
+          "descripcion": "Servicio tradicional de té y explicación de la cultura local.",
+          "duracion": "1 h",
+          "costo": 90,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 30.6607,
+            "lng": 104.0556
+          }
+        },
+        {
+          "hora": "17:00",
+          "nombre": "Kuanzhai Alley",
+          "descripcion": "Recorrido por los callejones históricos y sus tiendas tradicionales.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 30.6695,
+            "lng": 104.0553
+          }
+        },
+        {
+          "niveles": [
+            "medio",
+            "alto"
+          ],
+          "hora": "20:00",
+          "nombre": "Ópera de Sichuan",
+          "descripcion": "Espectáculo tradicional con máscaras cambiantes y música regional.",
+          "duracion": "1 h 30 min",
+          "costo": 220,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 30.661,
+            "lng": 104.052
+          }
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "06:45",
+            "momento": "desayuno",
+            "lugar": "Tienda de desayuno de Chengdu",
+            "plato": "Baozi y leche de soja",
+            "costo": 20
+          },
+          {
+            "hora": "12:15",
+            "momento": "almuerzo",
+            "lugar": "Restaurante popular cercano a la base de pandas",
+            "plato": "Mapo tofu con arroz",
+            "costo": 45
+          },
+          {
+            "hora": "19:00",
+            "momento": "cena",
+            "lugar": "Restaurante de Kuanzhai",
+            "plato": "Pollo kung pao y arroz",
+            "costo": 55
+          }
+        ],
+        "medio": [
+          {
+            "hora": "06:45",
+            "momento": "desayuno",
+            "lugar": "Hotel",
+            "plato": "Buffet",
+            "costo": 0
+          },
+          {
+            "hora": "12:15",
+            "momento": "almuerzo",
+            "lugar": "Restaurante de cocina de Sichuan",
+            "plato": "Mapo tofu, cerdo y verduras",
+            "costo": 110
+          },
+          {
+            "hora": "19:00",
+            "momento": "cena",
+            "lugar": "Restaurante de Kuanzhai",
+            "plato": "Menú tradicional de Sichuan",
+            "costo": 160
+          }
+        ],
+        "alto": [
+          {
+            "hora": "06:45",
+            "momento": "desayuno",
+            "lugar": "The Temple House",
+            "plato": "Desayuno premium",
+            "costo": 0
+          },
+          {
+            "hora": "12:15",
+            "momento": "almuerzo",
+            "lugar": "Restaurante gastronómico de Chengdu",
+            "plato": "Cocina de Sichuan contemporánea",
+            "costo": 320
+          },
+          {
+            "hora": "19:00",
+            "momento": "cena",
+            "lugar": "Restaurante de autor en Taikoo Li",
+            "plato": "Menú degustación de Sichuan",
+            "costo": 650
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "07:00",
+          "de": "Hotel",
+          "a": "Base de pandas",
+          "medio": "Metro y autobús",
+          "duracion": "55 min",
+          "costo": 8
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "07:00",
+          "de": "Hotel",
+          "a": "Base de pandas",
+          "medio": "Taxi",
+          "duracion": "40 min",
+          "costo": 65
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "07:00",
+          "de": "Hotel",
+          "a": "Base de pandas",
+          "medio": "Vehículo privado",
+          "duracion": "40 min",
+          "costo": 160
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "11:30",
+          "de": "Base de pandas",
+          "a": "People's Park",
+          "medio": "Metro",
+          "duracion": "55 min",
+          "costo": 7
+        },
+        {
+          "niveles": [
+            "medio",
+            "alto"
+          ],
+          "hora": "11:30",
+          "de": "Base de pandas",
+          "a": "People's Park",
+          "medio": "Taxi",
+          "duracion": "45 min",
+          "costo": 70
+        },
+        {
+          "hora": "16:30",
+          "de": "People's Park",
+          "a": "Kuanzhai Alley",
+          "medio": "Caminata",
+          "duracion": "20 min",
+          "costo": 0
+        },
+        {
+          "niveles": [
+            "medio",
+            "alto"
+          ],
+          "hora": "19:35",
+          "de": "Restaurante",
+          "a": "Teatro de ópera",
+          "medio": "Taxi",
+          "duracion": "15 min",
+          "costo": 25
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "20:15",
+          "de": "Kuanzhai",
+          "a": "Hotel",
+          "medio": "Metro",
+          "duracion": "25 min",
+          "costo": 4
+        },
+        {
+          "niveles": [
+            "medio",
+            "alto"
+          ],
+          "hora": "21:45",
+          "de": "Teatro",
+          "a": "Hotel",
+          "medio": "Taxi",
+          "duracion": "20 min",
+          "costo": 30
+        }
+      ],
+      "planB": "En caso de lluvia intensa, visitar el Museo de Sichuan y mantener la ópera nocturna."
+    },
+    {
+      "dia": 8,
+      "titulo": "Rumbo a Zhangjiajie: montañas imposibles",
+      "ciudad": "Zhangjiajie",
+      "coords": {
+        "lat": 29.1171,
+        "lng": 110.4792
+      },
+      "resumen": "Vuelo de Chengdu a Zhangjiajie, puerta de entrada a uno de los paisajes naturales más extraordinarios de China.",
+      "imagenes": [
+        {
+          "url": "china-14-dias/paisaje-de-zhangjiajie-718ec2.jpg",
+          "alt": "Paisaje de Zhangjiajie",
+          "credito": "Raki_Man",
+          "licencia": "CC BY 3.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Zhangjiajie_landscape_-_panoramio.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "08:00",
+          "nombre": "Salida hacia Zhangjiajie",
+          "descripcion": "Proceso aeroportuario y vuelo doméstico.",
+          "duracion": "4 h 30 min",
+          "costo": 0,
+          "tipo": "transporte",
+          "coords": {
+            "lat": 30.5785,
+            "lng": 103.9471
+          }
+        },
+        {
+          "hora": "15:30",
+          "nombre": "Exploración de Wulingyuan",
+          "descripcion": "Primer paseo por la localidad que sirve de acceso al parque nacional.",
+          "duracion": "1 h 30 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 29.345,
+            "lng": 110.543
+          }
+        },
+        {
+          "hora": "17:30",
+          "nombre": "Mercado de Wulingyuan",
+          "descripcion": "Exploración de comercios y puestos gastronómicos.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "compras",
+          "coords": {
+            "lat": 29.347,
+            "lng": 110.543
+          }
+        },
+        {
+          "niveles": [
+            "medio",
+            "alto"
+          ],
+          "hora": "20:00",
+          "nombre": "Masaje tradicional de recuperación",
+          "descripcion": "Sesión de bienestar para preparar las caminatas de los próximos días.",
+          "duracion": "1 h",
+          "costo": 180,
+          "tipo": "descanso",
+          "coords": {
+            "lat": 29.345,
+            "lng": 110.543
+          }
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "06:00",
+            "momento": "desayuno",
+            "lugar": "Tienda de desayunos de Chengdu",
+            "plato": "Baozi y té",
+            "costo": 20
+          },
+          {
+            "hora": "13:00",
+            "momento": "almuerzo",
+            "lugar": "Restaurante de Zhangjiajie",
+            "plato": "Fideos con carne",
+            "costo": 45
+          },
+          {
+            "hora": "19:00",
+            "momento": "cena",
+            "lugar": "Restaurante local de Wulingyuan",
+            "plato": "Arroz con cerdo y verduras",
+            "costo": 55
+          }
+        ],
+        "medio": [
+          {
+            "hora": "06:00",
+            "momento": "desayuno",
+            "lugar": "Hotel Chengdu",
+            "plato": "Desayuno para llevar",
+            "costo": 0
+          },
+          {
+            "hora": "13:00",
+            "momento": "almuerzo",
+            "lugar": "Restaurante de Zhangjiajie",
+            "plato": "Menú de Hunan",
+            "costo": 100
+          },
+          {
+            "hora": "19:00",
+            "momento": "cena",
+            "lugar": "Restaurante de Wulingyuan",
+            "plato": "Pescado picante y arroz",
+            "costo": 150
+          }
+        ],
+        "alto": [
+          {
+            "hora": "06:00",
+            "momento": "desayuno",
+            "lugar": "The Temple House",
+            "plato": "Desayuno para llevar",
+            "costo": 0
+          },
+          {
+            "hora": "13:00",
+            "momento": "almuerzo",
+            "lugar": "Restaurante de hotel en Zhangjiajie",
+            "plato": "Menú regional premium",
+            "costo": 260
+          },
+          {
+            "hora": "19:00",
+            "momento": "cena",
+            "lugar": "Pullman Zhangjiajie",
+            "plato": "Cena de especialidades de Hunan",
+            "costo": 360
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "06:30",
+          "de": "Centro de Chengdu",
+          "a": "Aeropuerto Chengdu Shuangliu",
+          "medio": "Metro",
+          "duracion": "50 min",
+          "costo": 8
+        },
+        {
+          "niveles": [
+            "medio",
+            "alto"
+          ],
+          "hora": "06:30",
+          "de": "Hotel Chengdu",
+          "a": "Aeropuerto Chengdu Shuangliu",
+          "medio": "Taxi",
+          "duracion": "45 min",
+          "costo": 90
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "09:00",
+          "de": "Chengdu",
+          "a": "Zhangjiajie",
+          "medio": "Vuelo doméstico",
+          "duracion": "1 h 30 min",
+          "costo": 650,
+          "consejo": "Horario indicativo; puede requerir conexión."
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "09:00",
+          "de": "Chengdu",
+          "a": "Zhangjiajie",
+          "medio": "Vuelo doméstico, tarifa flexible",
+          "duracion": "1 h 30 min",
+          "costo": 950
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "09:00",
+          "de": "Chengdu",
+          "a": "Zhangjiajie",
+          "medio": "Vuelo doméstico, tarifa premium",
+          "duracion": "1 h 30 min",
+          "costo": 1500
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "11:30",
+          "de": "Aeropuerto Zhangjiajie",
+          "a": "Wulingyuan",
+          "medio": "Autobús",
+          "duracion": "1 h 15 min",
+          "costo": 20
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "11:30",
+          "de": "Aeropuerto Zhangjiajie",
+          "a": "Wulingyuan",
+          "medio": "Taxi",
+          "duracion": "55 min",
+          "costo": 100
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "11:30",
+          "de": "Aeropuerto Zhangjiajie",
+          "a": "Wulingyuan",
+          "medio": "Vehículo privado",
+          "duracion": "55 min",
+          "costo": 240
+        }
+      ],
+      "planB": "Si no existe vuelo directo compatible, utilizar una conexión doméstica y cancelar las actividades de la tarde. No asumir que la ruta aérea o los horarios estarán disponibles en 2028."
+    },
+    {
+      "dia": 9,
+      "titulo": "El mundo de Avatar: Zhangjiajie National Forest Park",
+      "ciudad": "Zhangjiajie",
+      "coords": {
+        "lat": 29.325,
+        "lng": 110.434
+      },
+      "resumen": "Día de aventura entre pilares gigantes de arenisca, bosques y miradores que recuerdan los paisajes de Avatar.",
+      "imagenes": [
+        {
+          "url": "china-14-dias/montanas-de-yuanjiajie-7bb183.jpg",
+          "alt": "Montañas de Yuanjiajie",
+          "credito": "Rocio Gil",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Stunning_rock_formations_in_Bailong_(%E7%99%BD%E9%BE%99%EF%BC%89Yuanjiajie_%EF%BC%88%E8%A2%81%E5%AE%B6%E7%95%8C%EF%BC%89scenic_area.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "08:00",
+          "nombre": "Parque Nacional Forestal de Zhangjiajie",
+          "descripcion": "Ingreso al parque natural, famoso por sus miles de columnas rocosas.",
+          "duracion": "1 h",
+          "costo": 227,
+          "tipo": "naturaleza",
+          "coords": {
+            "lat": 29.325,
+            "lng": 110.434
+          },
+          "consejo": "El pase vale varios días e incluye los autobuses internos."
+        },
+        {
+          "hora": "09:30",
+          "nombre": "Elevador Bailong",
+          "descripcion": "Ascensor panorámico construido junto a una enorme pared rocosa.",
+          "duracion": "45 min",
+          "costo": 65,
+          "tipo": "aventura",
+          "coords": {
+            "lat": 29.352,
+            "lng": 110.459
+          }
+        },
+        {
+          "hora": "11:00",
+          "nombre": "Miradores de Yuanjiajie",
+          "descripcion": "Recorrido por las plataformas con vistas a las famosas columnas de piedra.",
+          "duracion": "2 h",
+          "costo": 0,
+          "tipo": "naturaleza",
+          "coords": {
+            "lat": 29.355,
+            "lng": 110.448
+          }
+        },
+        {
+          "hora": "14:30",
+          "nombre": "Montaña Tianzi",
+          "descripcion": "Exploración de miradores sobre un mar de pilares rocosos.",
+          "duracion": "2 h",
+          "costo": 0,
+          "tipo": "naturaleza",
+          "coords": {
+            "lat": 29.374,
+            "lng": 110.435
+          }
+        },
+        {
+          "niveles": [
+            "medio",
+            "alto"
+          ],
+          "hora": "17:00",
+          "nombre": "Teleférico panorámico de Tianzi",
+          "descripcion": "Descenso con vistas aéreas del paisaje montañoso.",
+          "duracion": "45 min",
+          "costo": 72,
+          "tipo": "aventura",
+          "coords": {
+            "lat": 29.375,
+            "lng": 110.44
+          }
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "06:45",
+            "momento": "desayuno",
+            "lugar": "Tienda de Wulingyuan",
+            "plato": "Fideos y té",
+            "costo": 20
+          },
+          {
+            "hora": "13:15",
+            "momento": "almuerzo",
+            "lugar": "Zona de servicios de Yuanjiajie",
+            "plato": "Arroz con carne",
+            "costo": 55
+          },
+          {
+            "hora": "19:00",
+            "momento": "cena",
+            "lugar": "Restaurante local Wulingyuan",
+            "plato": "Tujia sanxiaguo",
+            "costo": 65
+          }
+        ],
+        "medio": [
+          {
+            "hora": "06:45",
+            "momento": "desayuno",
+            "lugar": "Hotel",
+            "plato": "Buffet",
+            "costo": 0
+          },
+          {
+            "hora": "13:15",
+            "momento": "almuerzo",
+            "lugar": "Restaurante del parque",
+            "plato": "Pollo con arroz y verduras",
+            "costo": 110
+          },
+          {
+            "hora": "19:00",
+            "momento": "cena",
+            "lugar": "Restaurante de Wulingyuan",
+            "plato": "Especialidades de Hunan",
+            "costo": 150
+          }
+        ],
+        "alto": [
+          {
+            "hora": "06:45",
+            "momento": "desayuno",
+            "lugar": "Pullman Zhangjiajie",
+            "plato": "Buffet premium",
+            "costo": 0
+          },
+          {
+            "hora": "13:15",
+            "momento": "almuerzo",
+            "lugar": "Restaurante panorámico del parque",
+            "plato": "Menú regional",
+            "costo": 240
+          },
+          {
+            "hora": "19:00",
+            "momento": "cena",
+            "lugar": "Pullman Zhangjiajie",
+            "plato": "Cena premium",
+            "costo": 420
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "07:15",
+          "de": "Hotel",
+          "a": "Entrada Wulingyuan",
+          "medio": "Autobús local",
+          "duracion": "20 min",
+          "costo": 5
+        },
+        {
+          "niveles": [
+            "medio",
+            "alto"
+          ],
+          "hora": "07:15",
+          "de": "Hotel",
+          "a": "Entrada Wulingyuan",
+          "medio": "Taxi",
+          "duracion": "15 min",
+          "costo": 20
+        },
+        {
+          "hora": "09:00",
+          "de": "Entrada del parque",
+          "a": "Elevador Bailong",
+          "medio": "Autobús interno incluido en pase",
+          "duracion": "25 min",
+          "costo": 0
+        },
+        {
+          "hora": "13:45",
+          "de": "Yuanjiajie",
+          "a": "Tianzi",
+          "medio": "Autobús interno del parque",
+          "duracion": "35 min",
+          "costo": 0
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "17:00",
+          "de": "Tianzi",
+          "a": "Salida del parque",
+          "medio": "Autobús interno y caminata",
+          "duracion": "1 h",
+          "costo": 0
+        },
+        {
+          "niveles": [
+            "medio",
+            "alto"
+          ],
+          "hora": "17:45",
+          "de": "Base del teleférico",
+          "a": "Salida del parque",
+          "medio": "Autobús interno",
+          "duracion": "30 min",
+          "costo": 0
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "18:15",
+          "de": "Salida del parque",
+          "a": "Hotel",
+          "medio": "Autobús",
+          "duracion": "20 min",
+          "costo": 5
+        },
+        {
+          "niveles": [
+            "medio",
+            "alto"
+          ],
+          "hora": "18:15",
+          "de": "Salida del parque",
+          "a": "Hotel",
+          "medio": "Taxi",
+          "duracion": "15 min",
+          "costo": 20
+        }
+      ],
+      "planB": "Si la niebla impide disfrutar los miradores, recorrer senderos forestales de menor altitud y reservar los miradores para el siguiente día si el tiempo mejora."
+    },
+    {
+      "dia": 10,
+      "titulo": "Pasarelas de cristal y el Gran Cañón",
+      "ciudad": "Zhangjiajie",
+      "coords": {
+        "lat": 29.398,
+        "lng": 110.698
+      },
+      "resumen": "Jornada de adrenalina en el Gran Cañón de Zhangjiajie, con su famoso puente de cristal y paisajes montañosos.",
+      "imagenes": [
+        {
+          "url": "china-14-dias/puente-de-cristal-del-gran-canon-de-zhan-7d099a.jpg",
+          "alt": "Puente de cristal del Gran Cañón de Zhangjiajie",
+          "credito": "Sunyiming",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Zhangjiajie_Glass_Bridge_20190726_(2).jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "09:00",
+          "nombre": "Puente de Cristal de Zhangjiajie",
+          "descripcion": "Cruce de un puente suspendido sobre un profundo cañón.",
+          "duracion": "1 h 30 min",
+          "costo": 138,
+          "tipo": "aventura",
+          "coords": {
+            "lat": 29.398,
+            "lng": 110.698
+          },
+          "consejo": "Verificar restricciones para cámaras, bolsos y objetos sueltos."
+        },
+        {
+          "hora": "11:00",
+          "nombre": "Senderos del Gran Cañón",
+          "descripcion": "Caminata por pasarelas y paisajes naturales del cañón.",
+          "duracion": "2 h",
+          "costo": 80,
+          "tipo": "naturaleza",
+          "coords": {
+            "lat": 29.394,
+            "lng": 110.697
+          }
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "14:30",
+          "nombre": "Experiencia de aventura supervisada",
+          "descripcion": "Actividad de altura operada por proveedor autorizado, sujeta a disponibilidad y condiciones meteorológicas.",
+          "duracion": "1 h",
+          "costo": 600,
+          "tipo": "aventura",
+          "coords": {
+            "lat": 29.398,
+            "lng": 110.698
+          }
+        },
+        {
+          "hora": "16:00",
+          "nombre": "Miradores del cañón",
+          "descripcion": "Fotografía y contemplación de las montañas circundantes.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "naturaleza",
+          "coords": {
+            "lat": 29.396,
+            "lng": 110.696
+          }
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "07:00",
+            "momento": "desayuno",
+            "lugar": "Tienda de Wulingyuan",
+            "plato": "Fideos y té",
+            "costo": 20
+          },
+          {
+            "hora": "13:15",
+            "momento": "almuerzo",
+            "lugar": "Restaurante de la zona del cañón",
+            "plato": "Arroz con cerdo",
+            "costo": 50
+          },
+          {
+            "hora": "19:00",
+            "momento": "cena",
+            "lugar": "Restaurante de Wulingyuan",
+            "plato": "Fideos y verduras salteadas",
+            "costo": 50
+          }
+        ],
+        "medio": [
+          {
+            "hora": "07:00",
+            "momento": "desayuno",
+            "lugar": "Hotel",
+            "plato": "Buffet",
+            "costo": 0
+          },
+          {
+            "hora": "13:15",
+            "momento": "almuerzo",
+            "lugar": "Restaurante del Gran Cañón",
+            "plato": "Menú regional",
+            "costo": 110
+          },
+          {
+            "hora": "19:00",
+            "momento": "cena",
+            "lugar": "Restaurante de Wulingyuan",
+            "plato": "Platos tradicionales de Hunan",
+            "costo": 160
+          }
+        ],
+        "alto": [
+          {
+            "hora": "07:00",
+            "momento": "desayuno",
+            "lugar": "Pullman Zhangjiajie",
+            "plato": "Buffet premium",
+            "costo": 0
+          },
+          {
+            "hora": "13:15",
+            "momento": "almuerzo",
+            "lugar": "Restaurante turístico del cañón",
+            "plato": "Menú de varios platos",
+            "costo": 240
+          },
+          {
+            "hora": "19:00",
+            "momento": "cena",
+            "lugar": "Pullman Zhangjiajie",
+            "plato": "Cena gastronómica",
+            "costo": 420
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "07:45",
+          "de": "Wulingyuan",
+          "a": "Gran Cañón",
+          "medio": "Autobús turístico",
+          "duracion": "1 h",
+          "costo": 25
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "07:45",
+          "de": "Hotel",
+          "a": "Gran Cañón",
+          "medio": "Taxi compartido",
+          "duracion": "50 min",
+          "costo": 75
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "07:45",
+          "de": "Hotel",
+          "a": "Gran Cañón",
+          "medio": "Vehículo privado",
+          "duracion": "50 min",
+          "costo": 180
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "17:30",
+          "de": "Gran Cañón",
+          "a": "Wulingyuan",
+          "medio": "Autobús turístico",
+          "duracion": "1 h",
+          "costo": 25
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "17:30",
+          "de": "Gran Cañón",
+          "a": "Hotel",
+          "medio": "Taxi",
+          "duracion": "50 min",
+          "costo": 75
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "17:30",
+          "de": "Gran Cañón",
+          "a": "Hotel",
+          "medio": "Vehículo privado",
+          "duracion": "50 min",
+          "costo": 180
+        }
+      ],
+      "planB": "Si el puente cierra por mal tiempo, visitar el Museo Geológico de Zhangjiajie o realizar actividades cubiertas en Wulingyuan."
+    },
+    {
+      "dia": 11,
+      "titulo": "Tianmen Mountain: la puerta del cielo",
+      "ciudad": "Zhangjiajie",
+      "coords": {
+        "lat": 29.05,
+        "lng": 110.482
+      },
+      "resumen": "Exploración de la montaña Tianmen, sus impresionantes teleféricos, pasarelas suspendidas y la célebre abertura natural conocida como Puerta del Cielo.",
+      "imagenes": [
+        {
+          "url": "china-14-dias/puerta-del-cielo-en-la-montana-tianmen-f8b184.jpg",
+          "alt": "Puerta del Cielo en la montaña Tianmen",
+          "credito": "xiquinhosilva",
+          "licencia": "CC BY 2.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Tianmen_38258-Zhangjiajie_(49047523437).jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "09:00",
+          "nombre": "Teleférico de Tianmen Mountain",
+          "descripcion": "Ascenso panorámico hacia la montaña.",
+          "duracion": "45 min",
+          "costo": 278,
+          "tipo": "aventura",
+          "coords": {
+            "lat": 29.05,
+            "lng": 110.482
+          }
+        },
+        {
+          "hora": "10:00",
+          "nombre": "Pasarelas sobre el precipicio",
+          "descripcion": "Recorrido por senderos elevados junto a paredes verticales.",
+          "duracion": "1 h 30 min",
+          "costo": 0,
+          "tipo": "aventura",
+          "coords": {
+            "lat": 29.053,
+            "lng": 110.48
+          }
+        },
+        {
+          "hora": "12:00",
+          "nombre": "Pasarela de cristal",
+          "descripcion": "Experiencia de caminar sobre una sección de suelo transparente.",
+          "duracion": "45 min",
+          "costo": 5,
+          "tipo": "aventura",
+          "coords": {
+            "lat": 29.052,
+            "lng": 110.482
+          }
+        },
+        {
+          "hora": "14:30",
+          "nombre": "Puerta del Cielo",
+          "descripcion": "Visita al enorme arco natural de roca y sus escaleras monumentales.",
+          "duracion": "1 h 30 min",
+          "costo": 0,
+          "tipo": "naturaleza",
+          "coords": {
+            "lat": 29.046,
+            "lng": 110.483
+          }
+        },
+        {
+          "hora": "17:00",
+          "nombre": "Regreso panorámico de Tianmen",
+          "descripcion": "Descenso por el circuito autorizado del parque.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "naturaleza",
+          "coords": {
+            "lat": 29.05,
+            "lng": 110.482
+          }
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "06:45",
+            "momento": "desayuno",
+            "lugar": "Wulingyuan",
+            "plato": "Baozi y té",
+            "costo": 20
+          },
+          {
+            "hora": "13:00",
+            "momento": "almuerzo",
+            "lugar": "Zona de servicios Tianmen",
+            "plato": "Arroz con pollo",
+            "costo": 55
+          },
+          {
+            "hora": "19:00",
+            "momento": "cena",
+            "lugar": "Restaurante de Zhangjiajie",
+            "plato": "Fideos con carne",
+            "costo": 55
+          }
+        ],
+        "medio": [
+          {
+            "hora": "06:45",
+            "momento": "desayuno",
+            "lugar": "Hotel",
+            "plato": "Buffet",
+            "costo": 0
+          },
+          {
+            "hora": "13:00",
+            "momento": "almuerzo",
+            "lugar": "Restaurante de Tianmen",
+            "plato": "Menú chino completo",
+            "costo": 115
+          },
+          {
+            "hora": "19:00",
+            "momento": "cena",
+            "lugar": "Restaurante de Zhangjiajie",
+            "plato": "Especialidades de Hunan",
+            "costo": 160
+          }
+        ],
+        "alto": [
+          {
+            "hora": "06:45",
+            "momento": "desayuno",
+            "lugar": "Pullman Zhangjiajie",
+            "plato": "Buffet premium",
+            "costo": 0
+          },
+          {
+            "hora": "13:00",
+            "momento": "almuerzo",
+            "lugar": "Restaurante turístico de Tianmen",
+            "plato": "Menú premium",
+            "costo": 240
+          },
+          {
+            "hora": "19:00",
+            "momento": "cena",
+            "lugar": "Pullman Zhangjiajie",
+            "plato": "Cena gastronómica",
+            "costo": 400
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "07:00",
+          "de": "Wulingyuan",
+          "a": "Estación inferior Tianmen",
+          "medio": "Autobús",
+          "duracion": "1 h",
+          "costo": 15
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "07:00",
+          "de": "Hotel",
+          "a": "Tianmen",
+          "medio": "Taxi",
+          "duracion": "50 min",
+          "costo": 90
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "07:00",
+          "de": "Hotel",
+          "a": "Tianmen",
+          "medio": "Vehículo privado",
+          "duracion": "50 min",
+          "costo": 210
+        },
+        {
+          "hora": "18:15",
+          "de": "Salida Tianmen",
+          "a": "Centro de Zhangjiajie",
+          "medio": "Caminata",
+          "duracion": "20 min",
+          "costo": 0
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "20:15",
+          "de": "Centro de Zhangjiajie",
+          "a": "Wulingyuan",
+          "medio": "Autobús",
+          "duracion": "1 h",
+          "costo": 15
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "20:15",
+          "de": "Centro de Zhangjiajie",
+          "a": "Hotel",
+          "medio": "Taxi",
+          "duracion": "50 min",
+          "costo": 90
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "20:15",
+          "de": "Centro de Zhangjiajie",
+          "a": "Hotel",
+          "medio": "Vehículo privado",
+          "duracion": "50 min",
+          "costo": 210
+        }
+      ],
+      "planB": "Si el teleférico se suspende por viento o tormenta, cambiar por actividades culturales en Zhangjiajie y gestionar el reembolso según condiciones del operador."
+    },
+    {
+      "dia": 12,
+      "titulo": "Shanghái: del paisaje salvaje al futuro",
+      "ciudad": "Shanghái",
+      "coords": {
+        "lat": 31.2304,
+        "lng": 121.4737
+      },
+      "resumen": "Vuelo a Shanghái y primera noche entre edificios coloniales, rascacielos futuristas y luces sobre el río Huangpu.",
+      "imagenes": [
+        {
+          "url": "china-14-dias/el-bund-de-shanghai-4c455d.jpg",
+          "alt": "El Bund de Shanghái",
+          "credito": "Dllu",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Blue_hour_view_of_the_Bund_from_the_Shanghai_World_Financial_Center_dllu.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "08:00",
+          "nombre": "Salida hacia Shanghái",
+          "descripcion": "Traslado y embarque en vuelo doméstico.",
+          "duracion": "4 h 30 min",
+          "costo": 0,
+          "tipo": "transporte",
+          "coords": {
+            "lat": 29.1028,
+            "lng": 110.443
+          }
+        },
+        {
+          "hora": "16:00",
+          "nombre": "The Bund",
+          "descripcion": "Paseo por el malecón histórico frente al horizonte futurista de Pudong.",
+          "duracion": "1 h 30 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 31.24,
+            "lng": 121.49
+          }
+        },
+        {
+          "hora": "18:00",
+          "nombre": "Nanjing Road",
+          "descripcion": "Recorrido por una de las avenidas comerciales más famosas de China.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "compras",
+          "coords": {
+            "lat": 31.235,
+            "lng": 121.475
+          }
+        },
+        {
+          "niveles": [
+            "medio",
+            "alto"
+          ],
+          "hora": "20:30",
+          "nombre": "Crucero nocturno por el Huangpu",
+          "descripcion": "Navegación frente a los edificios iluminados de Pudong y The Bund.",
+          "duracion": "1 h",
+          "costo": 150,
+          "tipo": "vida-nocturna",
+          "coords": {
+            "lat": 31.237,
+            "lng": 121.494
+          }
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "06:00",
+            "momento": "desayuno",
+            "lugar": "Wulingyuan",
+            "plato": "Fideos y té",
+            "costo": 20
+          },
+          {
+            "hora": "13:30",
+            "momento": "almuerzo",
+            "lugar": "Restaurante de Shanghái",
+            "plato": "Arroz con cerdo",
+            "costo": 55
+          },
+          {
+            "hora": "19:15",
+            "momento": "cena",
+            "lugar": "Restaurante de Nanjing Road",
+            "plato": "Xiaolongbao",
+            "costo": 65
+          }
+        ],
+        "medio": [
+          {
+            "hora": "06:00",
+            "momento": "desayuno",
+            "lugar": "Hotel Zhangjiajie",
+            "plato": "Desayuno para llevar",
+            "costo": 0
+          },
+          {
+            "hora": "13:30",
+            "momento": "almuerzo",
+            "lugar": "Restaurante de Shanghái",
+            "plato": "Dumplings y fideos",
+            "costo": 110
+          },
+          {
+            "hora": "19:15",
+            "momento": "cena",
+            "lugar": "Din Tai Fung",
+            "plato": "Xiaolongbao y acompañamientos",
+            "costo": 180,
+            "link": "https://www.dintaifung.com.tw/"
+          }
+        ],
+        "alto": [
+          {
+            "hora": "06:00",
+            "momento": "desayuno",
+            "lugar": "Pullman Zhangjiajie",
+            "plato": "Desayuno para llevar",
+            "costo": 0
+          },
+          {
+            "hora": "13:30",
+            "momento": "almuerzo",
+            "lugar": "Restaurante premium de Shanghái",
+            "plato": "Menú de cocina china",
+            "costo": 280
+          },
+          {
+            "hora": "19:15",
+            "momento": "cena",
+            "lugar": "Restaurante gastronómico de The Bund",
+            "plato": "Menú degustación",
+            "costo": 900
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "06:15",
+          "de": "Wulingyuan",
+          "a": "Aeropuerto Zhangjiajie",
+          "medio": "Autobús y taxi compartido",
+          "duracion": "1 h 15 min",
+          "costo": 45
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "06:15",
+          "de": "Hotel",
+          "a": "Aeropuerto Zhangjiajie",
+          "medio": "Taxi",
+          "duracion": "55 min",
+          "costo": 100
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "06:15",
+          "de": "Hotel",
+          "a": "Aeropuerto Zhangjiajie",
+          "medio": "Vehículo privado",
+          "duracion": "55 min",
+          "costo": 230
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "09:00",
+          "de": "Zhangjiajie",
+          "a": "Shanghái",
+          "medio": "Vuelo doméstico económico",
+          "duracion": "2 h 10 min",
+          "costo": 700
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "09:00",
+          "de": "Zhangjiajie",
+          "a": "Shanghái",
+          "medio": "Vuelo doméstico flexible",
+          "duracion": "2 h 10 min",
+          "costo": 1050
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "09:00",
+          "de": "Zhangjiajie",
+          "a": "Shanghái",
+          "medio": "Vuelo doméstico premium",
+          "duracion": "2 h 10 min",
+          "costo": 1650
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "12:00",
+          "de": "Aeropuerto Shanghái",
+          "a": "Centro",
+          "medio": "Metro",
+          "duracion": "1 h 15 min",
+          "costo": 8
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "12:00",
+          "de": "Aeropuerto Shanghái",
+          "a": "Hotel",
+          "medio": "Taxi",
+          "duracion": "1 h",
+          "costo": 100
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "12:00",
+          "de": "Aeropuerto Shanghái",
+          "a": "Hotel",
+          "medio": "Traslado privado",
+          "duracion": "1 h",
+          "costo": 260
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "15:15",
+          "de": "Hotel",
+          "a": "The Bund",
+          "medio": "Metro",
+          "duracion": "30 min",
+          "costo": 4
+        },
+        {
+          "niveles": [
+            "medio",
+            "alto"
+          ],
+          "hora": "15:15",
+          "de": "Hotel",
+          "a": "The Bund",
+          "medio": "Taxi",
+          "duracion": "25 min",
+          "costo": 35
+        },
+        {
+          "hora": "17:45",
+          "de": "The Bund",
+          "a": "Nanjing Road",
+          "medio": "Caminata",
+          "duracion": "15 min",
+          "costo": 0
+        },
+        {
+          "niveles": [
+            "medio",
+            "alto"
+          ],
+          "hora": "20:00",
+          "de": "Nanjing Road",
+          "a": "Embarcadero Huangpu",
+          "medio": "Caminata",
+          "duracion": "20 min",
+          "costo": 0
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "21:00",
+          "de": "Nanjing Road",
+          "a": "Hotel",
+          "medio": "Metro",
+          "duracion": "25 min",
+          "costo": 4
+        },
+        {
+          "niveles": [
+            "medio",
+            "alto"
+          ],
+          "hora": "22:00",
+          "de": "Embarcadero",
+          "a": "Hotel",
+          "medio": "Taxi",
+          "duracion": "25 min",
+          "costo": 40
+        }
+      ],
+      "planB": "Si el vuelo se retrasa, concentrar el recorrido en The Bund y Nanjing Road. El crucero se cancela si hay condiciones meteorológicas adversas."
+    },
+    {
+      "dia": 13,
+      "titulo": "Shanghái futurista: rascacielos, jardines y fiesta",
+      "ciudad": "Shanghái",
+      "coords": {
+        "lat": 31.2304,
+        "lng": 121.4737
+      },
+      "resumen": "Contraste entre la Shanghái tradicional y la metrópoli futurista, con jardines históricos, rascacielos y una última gran noche.",
+      "imagenes": [
+        {
+          "url": "china-14-dias/jardin-yuyuan-de-shanghai-f6d47a.jpg",
+          "alt": "Jardín Yuyuan de Shanghái",
+          "credito": "Stefan Fussan",
+          "licencia": "CC BY-SA 3.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Shanghai_-_Yu_Garden_-_0035.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "09:00",
+          "nombre": "Jardín Yuyuan",
+          "descripcion": "Visita a un jardín clásico chino con pabellones, estanques y arquitectura tradicional.",
+          "duracion": "1 h 30 min",
+          "costo": 40,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 31.2272,
+            "lng": 121.492
+          }
+        },
+        {
+          "hora": "11:00",
+          "nombre": "Ciudad antigua de Shanghái",
+          "descripcion": "Exploración de bazares y calles tradicionales.",
+          "duracion": "1 h 15 min",
+          "costo": 0,
+          "tipo": "compras",
+          "coords": {
+            "lat": 31.228,
+            "lng": 121.491
+          }
+        },
+        {
+          "hora": "14:30",
+          "nombre": "Distrito financiero de Lujiazui",
+          "descripcion": "Recorrido por la zona de rascacielos más famosa de Shanghái.",
+          "duracion": "1 h 30 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 31.2397,
+            "lng": 121.499
+          }
+        },
+        {
+          "niveles": [
+            "medio",
+            "alto"
+          ],
+          "hora": "16:30",
+          "nombre": "Mirador de Shanghai Tower",
+          "descripcion": "Ascenso a uno de los observatorios más altos del mundo.",
+          "duracion": "1 h 30 min",
+          "costo": 180,
+          "tipo": "aventura",
+          "coords": {
+            "lat": 31.2335,
+            "lng": 121.5055
+          }
+        },
+        {
+          "hora": "21:00",
+          "nombre": "Vida nocturna de Shanghái",
+          "descripcion": "Recorrido por bares y zonas de entretenimiento de Xintiandi.",
+          "duracion": "2 h",
+          "costo": 0,
+          "tipo": "vida-nocturna",
+          "coords": {
+            "lat": 31.219,
+            "lng": 121.475
+          }
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "07:45",
+            "momento": "desayuno",
+            "lugar": "Panadería de Shanghái",
+            "plato": "Shengjianbao y té",
+            "costo": 25
+          },
+          {
+            "hora": "12:30",
+            "momento": "almuerzo",
+            "lugar": "Restaurante popular de Yuyuan",
+            "plato": "Fideos y dumplings",
+            "costo": 55
+          },
+          {
+            "hora": "19:15",
+            "momento": "cena",
+            "lugar": "Restaurante local de Pudong",
+            "plato": "Arroz con cerdo",
+            "costo": 65
+          }
+        ],
+        "medio": [
+          {
+            "hora": "07:45",
+            "momento": "desayuno",
+            "lugar": "Hotel",
+            "plato": "Buffet",
+            "costo": 0
+          },
+          {
+            "hora": "12:30",
+            "momento": "almuerzo",
+            "lugar": "Restaurante tradicional de Yuyuan",
+            "plato": "Xiaolongbao y especialidades locales",
+            "costo": 140
+          },
+          {
+            "hora": "19:15",
+            "momento": "cena",
+            "lugar": "Restaurante de Xintiandi",
+            "plato": "Cocina china contemporánea",
+            "costo": 220
+          }
+        ],
+        "alto": [
+          {
+            "hora": "07:45",
+            "momento": "desayuno",
+            "lugar": "The Shanghai EDITION",
+            "plato": "Desayuno premium",
+            "costo": 0
+          },
+          {
+            "hora": "12:30",
+            "momento": "almuerzo",
+            "lugar": "Restaurante gastronómico de Yuyuan",
+            "plato": "Menú chino premium",
+            "costo": 350
+          },
+          {
+            "hora": "19:15",
+            "momento": "cena",
+            "lugar": "Restaurante gastronómico de Pudong",
+            "plato": "Menú degustación con vistas urbanas",
+            "costo": 1100
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "08:15",
+          "de": "Hotel",
+          "a": "Yuyuan",
+          "medio": "Metro",
+          "duracion": "30 min",
+          "costo": 4
+        },
+        {
+          "niveles": [
+            "medio",
+            "alto"
+          ],
+          "hora": "08:15",
+          "de": "Hotel",
+          "a": "Yuyuan",
+          "medio": "Taxi",
+          "duracion": "25 min",
+          "costo": 35
+        },
+        {
+          "hora": "10:45",
+          "de": "Jardín Yuyuan",
+          "a": "Ciudad antigua",
+          "medio": "Caminata",
+          "duracion": "10 min",
+          "costo": 0
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "13:45",
+          "de": "Yuyuan",
+          "a": "Lujiazui",
+          "medio": "Metro",
+          "duracion": "30 min",
+          "costo": 4
+        },
+        {
+          "niveles": [
+            "medio",
+            "alto"
+          ],
+          "hora": "13:45",
+          "de": "Yuyuan",
+          "a": "Lujiazui",
+          "medio": "Taxi",
+          "duracion": "25 min",
+          "costo": 40
+        },
+        {
+          "hora": "16:10",
+          "de": "Lujiazui",
+          "a": "Shanghai Tower",
+          "medio": "Caminata",
+          "duracion": "15 min",
+          "costo": 0
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "18:30",
+          "de": "Lujiazui",
+          "a": "Xintiandi",
+          "medio": "Metro",
+          "duracion": "30 min",
+          "costo": 5
+        },
+        {
+          "niveles": [
+            "medio",
+            "alto"
+          ],
+          "hora": "18:30",
+          "de": "Shanghai Tower",
+          "a": "Xintiandi",
+          "medio": "Taxi",
+          "duracion": "30 min",
+          "costo": 50
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "23:15",
+          "de": "Xintiandi",
+          "a": "Hotel",
+          "medio": "Taxi compartido",
+          "duracion": "25 min",
+          "costo": 25
+        },
+        {
+          "niveles": [
+            "medio",
+            "alto"
+          ],
+          "hora": "23:15",
+          "de": "Xintiandi",
+          "a": "Hotel",
+          "medio": "Taxi",
+          "duracion": "25 min",
+          "costo": 45
+        }
+      ],
+      "planB": "Si llueve, sustituir el paseo exterior de Lujiazui por el Museo de Shanghái o centros culturales cubiertos."
+    },
+    {
+      "dia": 14,
+      "titulo": "Últimas horas en China y regreso a Colombia",
+      "ciudad": "Shanghái",
+      "coords": {
+        "lat": 31.2304,
+        "lng": 121.4737
+      },
+      "resumen": "Últimas compras en Shanghái y vuelo internacional de regreso por la noche.",
+      "imagenes": [
+        {
+          "url": "china-14-dias/rascacielos-de-lujiazui-en-shanghai-5fa235.jpg",
+          "alt": "Rascacielos de Lujiazui en Shanghái",
+          "credito": "King of Hearts",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Pudong_Shanghai_November_2017_panorama.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "09:00",
+          "nombre": "Paseo por la Concesión Francesa",
+          "descripcion": "Recorrido por calles arboladas, edificios históricos y cafeterías.",
+          "duracion": "1 h 30 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 31.209,
+            "lng": 121.458
+          }
+        },
+        {
+          "hora": "11:00",
+          "nombre": "Tianzifang",
+          "descripcion": "Exploración de talleres, tiendas de diseño y callejones comerciales.",
+          "duracion": "1 h 30 min",
+          "costo": 0,
+          "tipo": "compras",
+          "coords": {
+            "lat": 31.2084,
+            "lng": 121.4686
+          }
+        },
+        {
+          "hora": "14:00",
+          "nombre": "Últimas compras",
+          "descripcion": "Tiempo para adquirir recuerdos y productos locales.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "compras",
+          "coords": {
+            "lat": 31.219,
+            "lng": 121.475
+          }
+        },
+        {
+          "hora": "16:00",
+          "nombre": "Preparación del vuelo internacional",
+          "descripcion": "Recogida de equipaje y desplazamiento al aeropuerto.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "transporte",
+          "coords": {
+            "lat": 31.1443,
+            "lng": 121.8083
+          }
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "07:45",
+            "momento": "desayuno",
+            "lugar": "Panadería local",
+            "plato": "Shengjianbao y té",
+            "costo": 25
+          },
+          {
+            "hora": "12:45",
+            "momento": "almuerzo",
+            "lugar": "Restaurante de Tianzifang",
+            "plato": "Fideos con carne",
+            "costo": 55
+          },
+          {
+            "hora": "18:00",
+            "momento": "cena",
+            "lugar": "Aeropuerto Pudong",
+            "plato": "Menú de arroz con pollo",
+            "costo": 75
+          }
+        ],
+        "medio": [
+          {
+            "hora": "07:45",
+            "momento": "desayuno",
+            "lugar": "Hotel",
+            "plato": "Buffet",
+            "costo": 0
+          },
+          {
+            "hora": "12:45",
+            "momento": "almuerzo",
+            "lugar": "Restaurante de Tianzifang",
+            "plato": "Dumplings y especialidades de Shanghái",
+            "costo": 140
+          },
+          {
+            "hora": "18:00",
+            "momento": "cena",
+            "lugar": "Aeropuerto Pudong",
+            "plato": "Menú asiático completo",
+            "costo": 140
+          }
+        ],
+        "alto": [
+          {
+            "hora": "07:45",
+            "momento": "desayuno",
+            "lugar": "The Shanghai EDITION",
+            "plato": "Desayuno premium",
+            "costo": 0
+          },
+          {
+            "hora": "12:45",
+            "momento": "almuerzo",
+            "lugar": "Restaurante premium de la Concesión Francesa",
+            "plato": "Menú degustación",
+            "costo": 450
+          },
+          {
+            "hora": "18:00",
+            "momento": "cena",
+            "lugar": "Restaurante premium del aeropuerto",
+            "plato": "Menú internacional",
+            "costo": 280
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "08:15",
+          "de": "Hotel",
+          "a": "Concesión Francesa",
+          "medio": "Metro",
+          "duracion": "30 min",
+          "costo": 4
+        },
+        {
+          "niveles": [
+            "medio",
+            "alto"
+          ],
+          "hora": "08:15",
+          "de": "Hotel",
+          "a": "Concesión Francesa",
+          "medio": "Taxi",
+          "duracion": "25 min",
+          "costo": 35
+        },
+        {
+          "hora": "10:45",
+          "de": "Concesión Francesa",
+          "a": "Tianzifang",
+          "medio": "Caminata",
+          "duracion": "15 min",
+          "costo": 0
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "13:40",
+          "de": "Tianzifang",
+          "a": "Xintiandi",
+          "medio": "Metro",
+          "duracion": "20 min",
+          "costo": 4
+        },
+        {
+          "niveles": [
+            "medio",
+            "alto"
+          ],
+          "hora": "13:40",
+          "de": "Tianzifang",
+          "a": "Xintiandi",
+          "medio": "Taxi",
+          "duracion": "15 min",
+          "costo": 25
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "15:15",
+          "de": "Centro y recogida de equipaje",
+          "a": "Aeropuerto Pudong",
+          "medio": "Metro",
+          "duracion": "1 h 30 min",
+          "costo": 10
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "15:15",
+          "de": "Centro y recogida de equipaje",
+          "a": "Aeropuerto Pudong",
+          "medio": "Taxi",
+          "duracion": "1 h 15 min",
+          "costo": 120
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "15:15",
+          "de": "Centro y recogida de equipaje",
+          "a": "Aeropuerto Pudong",
+          "medio": "Traslado privado",
+          "duracion": "1 h 15 min",
+          "costo": 300
+        }
+      ],
+      "planB": "Si el vuelo internacional sale antes de las 19:00, cancelar todas las visitas y trasladarse directamente al aeropuerto con al menos tres horas de anticipación."
+    }
+  ],
+  "presupuesto": {
+    "notas": "Por persona, en habitación doble compartida (cama en dormitorio en económico). Vuelos y seguro en dólares; lo demás en yuanes. Los vuelos domésticos y trenes están en los traslados de cada día. Precios de noviembre de 2026 para mayo de 2028.",
+    "categorias": [
+      {
+        "categoria": "vuelos",
+        "descripcion": "Billete multidestino Medellín–Pekín y Shanghái–Medellín en económica.",
+        "moneda": "USD",
+        "economico": 1450,
+        "medio": 1850,
+        "alto": 4200
+      },
+      {
+        "categoria": "seguro",
+        "descripcion": "Seguro médico internacional por el período de viaje, con cobertura de emergencias, hospitalización y asistencia.",
+        "moneda": "USD",
+        "economico": 65,
+        "medio": 110,
+        "alto": 210
+      },
+      {
+        "categoria": "visa",
+        "descripcion": "Visa turística china tipo L de una entrada.",
+        "moneda": "local",
+        "economico": 560,
+        "medio": 560,
+        "alto": 560
+      },
+      {
+        "categoria": "conectividad",
+        "descripcion": "Datos móviles durante 14 días, con diferentes capacidades y servicios.",
+        "moneda": "local",
+        "economico": 150,
+        "medio": 250,
+        "alto": 450
+      },
+      {
+        "categoria": "compras",
+        "descripcion": "Asignación para recuerdos, regalos y compras personales.",
+        "moneda": "local",
+        "economico": 350,
+        "medio": 1000,
+        "alto": 3000
+      },
+      {
+        "categoria": "extras",
+        "descripcion": "Bares, lavandería, propinas e imprevistos.",
+        "moneda": "local",
+        "economico": 500,
+        "medio": 1200,
+        "alto": 3000
+      }
+    ]
+  },
+  "alojamiento": [
+    {
+      "ciudad": "Pekín",
+      "noches": [
+        1,
+        2,
+        3
+      ],
+      "economico": {
+        "nombre": "Peking Station Hostel",
+        "zona": "Dongcheng",
+        "tipo": "Hostal",
+        "precioNoche": 170,
+        "incluye": "Cama en dormitorio compartido y wifi; desayuno no incluido.",
+        "descripcion": "Hostal céntrico para viajeros con presupuesto limitado.",
+        "link": "https://www.booking.com/searchresults.html?ss=Peking+Station+Hostel+Beijing"
+      },
+      "medio": {
+        "nombre": "Novotel Beijing Peace",
+        "zona": "Wangfujing",
+        "tipo": "Hotel de cuatro estrellas",
+        "precioNoche": 420,
+        "incluye": "Desayuno.",
+        "descripcion": "Hotel céntrico con acceso cómodo a los principales atractivos históricos.",
+        "link": "https://all.accor.com/"
+      },
+      "alto": {
+        "nombre": "Waldorf Astoria Beijing",
+        "zona": "Wangfujing",
+        "tipo": "Hotel de lujo",
+        "precioNoche": 1550,
+        "incluye": "Desayuno.",
+        "descripcion": "Alojamiento de alta gama en el corazón de Pekín.",
+        "link": "https://www.hilton.com/en/brands/waldorf-astoria/"
+      }
+    },
+    {
+      "ciudad": "Xi'an",
+      "noches": [
+        4,
+        5
+      ],
+      "economico": {
+        "nombre": "Xi'an The Facebook Youth Hostel",
+        "zona": "Centro histórico",
+        "tipo": "Hostal",
+        "precioNoche": 110,
+        "incluye": "Cama compartida y wifi; desayuno no incluido.",
+        "descripcion": "Alojamiento económico orientado a viajeros jóvenes.",
+        "link": "https://www.booking.com/searchresults.html?ss=Xi%27an+The+Facebook+Youth+Hostel"
+      },
+      "medio": {
+        "nombre": "Grand Mercure Xi'an on Renmin Square",
+        "zona": "Renmin Square",
+        "tipo": "Hotel de cuatro estrellas",
+        "precioNoche": 340,
+        "incluye": "Desayuno.",
+        "descripcion": "Hotel confortable cerca del centro histórico.",
+        "link": "https://all.accor.com/"
+      },
+      "alto": {
+        "nombre": "Sofitel Legend People's Grand Hotel Xi'an",
+        "zona": "Renmin Square",
+        "tipo": "Hotel de lujo",
+        "precioNoche": 1100,
+        "incluye": "Desayuno.",
+        "descripcion": "Hotel histórico de lujo con arquitectura clásica y jardines.",
+        "link": "https://all.accor.com/"
+      }
+    },
+    {
+      "ciudad": "Chengdu",
+      "noches": [
+        6,
+        7
+      ],
+      "economico": {
+        "nombre": "Chengdu Flipflop Hostel",
+        "zona": "Chunxi Road",
+        "tipo": "Hostal",
+        "precioNoche": 110,
+        "incluye": "Cama compartida y wifi; desayuno no incluido.",
+        "descripcion": "Hostal popular entre mochileros por su ubicación y ambiente social.",
+        "link": "https://www.booking.com/searchresults.html?ss=Chengdu+Flipflop+Hostel"
+      },
+      "medio": {
+        "nombre": "Dorsett Chengdu",
+        "zona": "Luomashi",
+        "tipo": "Hotel de cuatro estrellas",
+        "precioNoche": 320,
+        "incluye": "Desayuno.",
+        "descripcion": "Hotel moderno con buenas conexiones de transporte.",
+        "link": "https://www.booking.com/searchresults.html?ss=Dorsett+Chengdu"
+      },
+      "alto": {
+        "nombre": "The Temple House",
+        "zona": "Taikoo Li",
+        "tipo": "Hotel de lujo",
+        "precioNoche": 1800,
+        "incluye": "Desayuno.",
+        "descripcion": "Hotel de diseño contemporáneo integrado con arquitectura histórica.",
+        "link": "https://www.thehousecollective.com/en/the-temple-house/"
+      }
+    },
+    {
+      "ciudad": "Zhangjiajie",
+      "noches": [
+        8,
+        9,
+        10,
+        11
+      ],
+      "economico": {
+        "nombre": "Zhangjiajie Destination Youth Hostel",
+        "zona": "Wulingyuan",
+        "tipo": "Hostal",
+        "precioNoche": 120,
+        "incluye": "Cama compartida y wifi; desayuno no incluido.",
+        "descripcion": "Alojamiento económico cerca de la zona de acceso al parque nacional.",
+        "link": "https://www.booking.com/searchresults.html?ss=Zhangjiajie+Destination+Youth+Hostel"
+      },
+      "medio": {
+        "nombre": "Harmona Resort & Spa Zhangjiajie",
+        "zona": "Wulingyuan",
+        "tipo": "Resort",
+        "precioNoche": 480,
+        "incluye": "Desayuno.",
+        "descripcion": "Resort rodeado de naturaleza, con instalaciones de descanso.",
+        "link": "https://www.booking.com/searchresults.html?ss=Harmona+Resort+Zhangjiajie"
+      },
+      "alto": {
+        "nombre": "Pullman Zhangjiajie",
+        "zona": "Wulingyuan",
+        "tipo": "Hotel de alta gama",
+        "precioNoche": 900,
+        "incluye": "Desayuno.",
+        "descripcion": "Hotel internacional con instalaciones cómodas para recuperarse de las excursiones.",
+        "link": "https://all.accor.com/"
+      }
+    },
+    {
+      "ciudad": "Shanghái",
+      "noches": [
+        12,
+        13
+      ],
+      "economico": {
+        "nombre": "Shanghai Meego Youth Hostel",
+        "zona": "Jing'an",
+        "tipo": "Hostal",
+        "precioNoche": 170,
+        "incluye": "Cama compartida y wifi; desayuno no incluido.",
+        "descripcion": "Alojamiento económico con acceso al transporte urbano.",
+        "link": "https://www.booking.com/searchresults.html?ss=Shanghai+Meego+Youth+Hostel"
+      },
+      "medio": {
+        "nombre": "Central Hotel Shanghai",
+        "zona": "Nanjing East Road",
+        "tipo": "Hotel de cuatro estrellas",
+        "precioNoche": 500,
+        "incluye": "Desayuno.",
+        "descripcion": "Hotel céntrico cercano a The Bund y a las zonas comerciales.",
+        "link": "https://www.booking.com/searchresults.html?ss=Central+Hotel+Shanghai"
+      },
+      "alto": {
+        "nombre": "The Shanghai EDITION",
+        "zona": "Nanjing East Road",
+        "tipo": "Hotel de lujo",
+        "precioNoche": 1900,
+        "incluye": "Desayuno.",
+        "descripcion": "Hotel de diseño con vistas espectaculares al horizonte de Shanghái.",
+        "link": "https://www.marriott.com/en-us/brands/edition-hotels.mi"
+      }
+    }
+  ],
+  "comida": {
+    "platosTipicos": [
+      {
+        "nombre": "Pato pekinés",
+        "descripcion": "Pato asado de piel crujiente servido con tortillas finas, cebollín, pepino y salsa dulce. Especialidad emblemática de Pekín.",
+        "precioAprox": 160
+      },
+      {
+        "nombre": "Xiaolongbao",
+        "descripcion": "Pequeños dumplings rellenos de carne y caldo caliente, característicos de la gastronomía de Shanghái.",
+        "precioAprox": 45
+      },
+      {
+        "nombre": "Mapo tofu",
+        "descripcion": "Tofu suave en salsa picante con pimienta de Sichuan y carne picada, famoso por su combinación de picor y sensación de hormigueo.",
+        "precioAprox": 48
+      },
+      {
+        "nombre": "Hot pot de Sichuan",
+        "descripcion": "Caldo caliente y especiado en el que se cocinan carnes, vegetales, hongos y otros ingredientes directamente en la mesa.",
+        "precioAprox": 130
+      },
+      {
+        "nombre": "Roujiamo",
+        "descripcion": "Pan plano relleno de carne de cerdo cocinada lentamente con especias. Es una de las comidas callejeras más representativas de Xi'an.",
+        "precioAprox": 20
+      },
+      {
+        "nombre": "Biangbiang mian",
+        "descripcion": "Fideos anchos y artesanales típicos de Shaanxi, acompañados de aceite picante, ajo y condimentos.",
+        "precioAprox": 35
+      }
+    ]
+  },
+  "infoPractica": {
+    "visa": {
+      "requiere": true,
+      "tipo": "Visa turística china tipo L",
+      "detalle": "Los colombianos necesitan visa previa para China continental. Se solicita en la plataforma consular en línea y se sigue con la Embajada de China en Bogotá. La exención de tránsito no sirve para un viaje de 14 días.",
+      "link": "https://co.china-embassy.gov.cn/esp/lsfw/qzxx/202509/t20250913_11707967.htm"
+    },
+    "clima": [
+      {
+        "mes": 1,
+        "tempMin": -4,
+        "tempMax": 5,
+        "lluviaMm": 5
+      },
+      {
+        "mes": 2,
+        "tempMin": -2,
+        "tempMax": 8,
+        "lluviaMm": 8
+      },
+      {
+        "mes": 3,
+        "tempMin": 4,
+        "tempMax": 15,
+        "lluviaMm": 18
+      },
+      {
+        "mes": 4,
+        "tempMin": 10,
+        "tempMax": 22,
+        "lluviaMm": 35
+      },
+      {
+        "mes": 5,
+        "tempMin": 16,
+        "tempMax": 27,
+        "lluviaMm": 75
+      },
+      {
+        "mes": 6,
+        "tempMin": 21,
+        "tempMax": 30,
+        "lluviaMm": 120
+      },
+      {
+        "mes": 7,
+        "tempMin": 24,
+        "tempMax": 32,
+        "lluviaMm": 180
+      },
+      {
+        "mes": 8,
+        "tempMin": 23,
+        "tempMax": 31,
+        "lluviaMm": 155
+      },
+      {
+        "mes": 9,
+        "tempMin": 18,
+        "tempMax": 27,
+        "lluviaMm": 90
+      },
+      {
+        "mes": 10,
+        "tempMin": 11,
+        "tempMax": 21,
+        "lluviaMm": 50
+      },
+      {
+        "mes": 11,
+        "tempMin": 4,
+        "tempMax": 13,
+        "lluviaMm": 25
+      },
+      {
+        "mes": 12,
+        "tempMin": -2,
+        "tempMax": 7,
+        "lluviaMm": 10
+      }
+    ],
+    "vacunas": [
+      "No se identifica una vacunación obligatoria universal para todos los turistas colombianos que ingresan a China continental; verificar los requisitos aplicables al itinerario y a las escalas antes de viajar.",
+      "Consultar si se exige certificado de fiebre amarilla según el país de procedencia, las escalas y la normativa vigente en 2028.",
+      "Mantener actualizado el esquema rutinario de vacunación.",
+      "Consultar sobre hepatitis A y hepatitis B según antecedentes y tipo de viaje.",
+      "Consultar sobre fiebre tifoidea cuando las condiciones de alimentación y exposición lo justifiquen.",
+      "Contratar un seguro médico internacional que cubra atención hospitalaria y evacuación cuando corresponda."
+    ],
+    "seguridad": "China presenta generalmente buenas condiciones de seguridad para turistas en grandes ciudades. Son importantes las precauciones contra hurtos oportunistas, estafas turísticas y accidentes de tránsito. Respetar las normas locales, portar el pasaporte cuando se requiera y evitar fotografías de instalaciones militares o zonas restringidas. En Zhangjiajie es esencial respetar las barreras de seguridad y suspensiones por mal tiempo.",
+    "enchufe": {
+      "tipo": "A, C e I",
+      "voltaje": "220 V, 50 Hz",
+      "necesitaAdaptador": true
+    },
+    "propinas": "No existe una cultura generalizada de propinas obligatorias. En restaurantes locales normalmente no se deja propina. En servicios turísticos privados puede entregarse una gratificación voluntaria.",
+    "idioma": "El idioma oficial es el chino mandarín. En hoteles internacionales y lugares turísticos puede encontrarse personal que habla inglés, pero fuera de estos entornos el uso del inglés es limitado. Conviene llevar direcciones en caracteres chinos.",
+    "conectividad": "Alipay y WeChat Pay son herramientas importantes para realizar pagos. Es recomendable configurarlas antes de salir de Colombia y comprobar la vinculación de tarjetas internacionales. Algunos servicios occidentales, incluidos Google, WhatsApp y determinadas redes sociales, pueden estar restringidos en redes locales. Una eSIM internacional con itinerancia puede facilitar la conectividad, pero debe comprobarse previamente su compatibilidad y funcionamiento.",
+    "transporteLocal": "Las principales ciudades cuentan con extensas redes de metro, autobuses y servicios de taxi. Para trenes interurbanos se recomienda utilizar China Railway 12306, que admite la compra con pasaporte extranjero según las condiciones del servicio. Los controles de seguridad y verificación de identidad pueden requerir tiempo adicional. DiDi permite solicitar vehículos en muchas ciudades. Para vuelos internos se debe comprobar cuidadosamente el aeropuerto de salida y llegada.",
+    "frases": [
+      {
+        "es": "Hola",
+        "local": "你好",
+        "pronunciacion": "Nǐ hǎo"
+      },
+      {
+        "es": "Gracias",
+        "local": "谢谢",
+        "pronunciacion": "Xièxie"
+      },
+      {
+        "es": "Por favor",
+        "local": "请",
+        "pronunciacion": "Qǐng"
+      },
+      {
+        "es": "¿Cuánto cuesta?",
+        "local": "多少钱？",
+        "pronunciacion": "Duōshao qián?"
+      },
+      {
+        "es": "No entiendo",
+        "local": "我听不懂",
+        "pronunciacion": "Wǒ tīng bù dǒng"
+      },
+      {
+        "es": "¿Dónde está el baño?",
+        "local": "洗手间在哪里？",
+        "pronunciacion": "Xǐshǒujiān zài nǎlǐ?"
+      },
+      {
+        "es": "No quiero picante",
+        "local": "我不要辣",
+        "pronunciacion": "Wǒ bú yào là"
+      },
+      {
+        "es": "Ayuda, por favor",
+        "local": "请帮帮我",
+        "pronunciacion": "Qǐng bāngbang wǒ"
+      }
+    ],
+    "apps": [
+      {
+        "nombre": "Alipay",
+        "para": "Pagos mediante códigos QR y acceso a algunos servicios de transporte."
+      },
+      {
+        "nombre": "WeChat",
+        "para": "Mensajería, pagos y servicios locales."
+      },
+      {
+        "nombre": "DiDi",
+        "para": "Solicitar taxis y vehículos privados."
+      },
+      {
+        "nombre": "Railway 12306",
+        "para": "Consultar y reservar trenes oficiales."
+      },
+      {
+        "nombre": "Amap",
+        "para": "Mapas, navegación y búsqueda de lugares."
+      },
+      {
+        "nombre": "Trip.com",
+        "para": "Consultar hoteles, vuelos y actividades turísticas."
+      }
+    ],
+    "consejos": [
+      "Evitar los primeros días de mayo por la elevada demanda turística.",
+      "Reservar con anticipación la Ciudad Prohibida, el Ejército de Terracota y las principales atracciones de Zhangjiajie.",
+      "Registrar correctamente los nombres y números de pasaporte al comprar billetes ferroviarios.",
+      "Comprobar que cada hotel acepta huéspedes extranjeros y puede realizar el registro correspondiente.",
+      "Configurar Alipay y WeChat antes del viaje y conservar una tarjeta bancaria adicional.",
+      "Guardar direcciones de hoteles en chino y capturas sin conexión.",
+      "Llevar calzado adecuado para largas caminatas y escaleras en Zhangjiajie.",
+      "Tener un impermeable ligero para las lluvias de mayo.",
+      "Pedir comida sin picante cuando sea necesario, especialmente en Sichuan y Hunan.",
+      "No confiar en que todos los comercios aceptarán tarjetas internacionales directamente.",
+      "Consultar restricciones de equipaje, baterías externas y líquidos para trenes y vuelos.",
+      "Revisar el calendario de festivos chinos antes de comprar los billetes.",
+      "Verificar la política de visados de cualquier país donde sea necesario ingresar durante una escala."
+    ],
+    "estafas": [
+      "Invitaciones de desconocidos a ceremonias de té con precios excesivos, especialmente en zonas turísticas.",
+      "Taxis no oficiales que ofrecen tarifas elevadas sin taxímetro.",
+      "Personas que se presentan como guías sin acreditación y cobran servicios no acordados.",
+      "Venta de entradas falsas o paquetes turísticos con servicios diferentes a los anunciados.",
+      "Cobros adicionales por fotografías o actividades que inicialmente se presentan como gratuitas.",
+      "Tiendas que venden productos supuestamente auténticos a precios inflados."
+    ],
+    "checklist": [
+      "Pasaporte colombiano vigente y en buenas condiciones.",
+      "Visa turística china aprobada, si continúa siendo obligatoria.",
+      "Billetes internacionales de entrada y salida.",
+      "Reservas de alojamiento confirmadas.",
+      "Seguro médico internacional.",
+      "Tarjeta de entrada a China completada cuando corresponda.",
+      "Alipay y WeChat configurados.",
+      "Tarjetas bancarias habilitadas para compras internacionales.",
+      "eSIM o plan de conectividad compatible.",
+      "Aplicaciones de transporte y mapas instaladas.",
+      "Adaptador eléctrico universal.",
+      "Ropa para primavera y lluvia.",
+      "Calzado cómodo para senderismo.",
+      "Copias digitales y físicas de documentos importantes."
+    ]
+  },
+  "fuentes": [
+    {
+      "titulo": "Cancillería de Colombia — República Popular China y requisitos migratorios",
+      "url": "https://cancilleria.gov.co/politica-exterior/asuntos-bilaterales/asia/republica-popular-de-china"
+    },
+    {
+      "titulo": "Embajada de China en Colombia — Solicitud de visa en línea",
+      "url": "https://co.china-embassy.gov.cn/esp/lsfw/qzxx/202509/t20250913_11707967.htm"
+    },
+    {
+      "titulo": "Embajada de China en Colombia — Exenciones y facilidades de entrada",
+      "url": "https://co.china-embassy.gov.cn/esp/lsfw/qzxx/202502/t20250214_11554878.htm"
+    },
+    {
+      "titulo": "Administración Nacional de Inmigración de China — Política de exención de visa",
+      "url": "https://en.nia.gov.cn/n147418/n147463/c183390/content.html"
+    },
+    {
+      "titulo": "China Railway 12306 — Información oficial de billetes ferroviarios",
+      "url": "https://www.12306.cn/en/faq.html"
+    },
+    {
+      "titulo": "Gobierno de Shanghái — Compra de billetes de tren",
+      "url": "https://english.shanghai.gov.cn/en-Individuals-Transportation-PublicTransport/20260825/463ac3099fa344f39182e623f83943f7.html"
+    },
+    {
+      "titulo": "Museo del Palacio de Pekín — Portal internacional",
+      "url": "https://intl.dpm.org.cn/"
+    },
+    {
+      "titulo": "Embajada de China en Colombia — Tarjeta de entrada para extranjeros",
+      "url": "https://co.china-embassy.gov.cn/esp/lsfw/qzxx/202511/t20251128_11762200.htm"
+    }
+  ]
+}

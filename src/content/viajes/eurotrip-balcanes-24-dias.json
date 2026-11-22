@@ -1,0 +1,5629 @@
+{
+  "meta": {
+    "titulo": "Europa Central y Balcanes en 24 días",
+    "resumen": "De Berlín a Skopie por 11 países: Praga, Viena, Budapest, los Alpes eslovenos, Plitvice, Split, Mostar, Sarajevo, Kotor, los Alpes albaneses y el lago Ohrid. Ciudades alternativas, vida nocturna, aventura y paisajes. Pensado para mayo.",
+    "destino": "Eurotrip: Europa Central, Alpes y Balcanes",
+    "pais": "11 países",
+    "region": "Europa",
+    "duracionDias": 24,
+    "mesesIdeales": [
+      5,
+      6,
+      9
+    ],
+    "temporadaRecomendada": "Mayo y junio ofrecen temperaturas agradables, paisajes verdes y menos aglomeraciones que julio y agosto. En mayo todavía puede haber nieve en rutas elevadas de los Alpes albaneses y los Alpes Julianos.",
+    "estilo": "medio",
+    "dificultad": "exigente",
+    "idealPara": [
+      "Grupos de amigos",
+      "Viajeros aventureros",
+      "Amantes de la naturaleza",
+      "Viajeros interesados en culturas diferentes",
+      "Grupos de graduación"
+    ],
+    "etiquetas": [
+      "eurotrip",
+      "11 países",
+      "aventura",
+      "vida nocturna",
+      "montañas",
+      "Balcanes",
+      "historia",
+      "naturaleza",
+      "viaje grupal",
+      "lugares poco convencionales"
+    ],
+    "fechaInvestigacion": "2026-11-21",
+    "colorAcento": "#174D46",
+    "portada": {
+      "url": "eurotrip-balcanes-24-dias/bahia-de-kotor-montenegro-799cbb.jpg",
+      "alt": "Bahía de Kotor, Montenegro",
+      "credito": "miketnorton",
+      "licencia": "CC BY 2.0",
+      "fuente": "https://commons.wikimedia.org/wiki/File:Kotor_Bay_from_the_Fortress.jpg"
+    },
+    "galeria": [
+      {
+        "url": "eurotrip-balcanes-24-dias/puente-de-carlos-en-praga-8be01b.jpg",
+        "alt": "Puente de Carlos en Praga",
+        "credito": "A.Savin",
+        "licencia": "FAL",
+        "fuente": "https://commons.wikimedia.org/wiki/File:Prague_07-2016_View_from_Petrinska_Tower_img2.jpg"
+      },
+      {
+        "url": "eurotrip-balcanes-24-dias/parlamento-de-budapest-sobre-el-danubio-579217.jpg",
+        "alt": "Parlamento de Budapest sobre el Danubio",
+        "credito": "Godot13",
+        "licencia": "CC BY-SA 4.0",
+        "fuente": "https://commons.wikimedia.org/wiki/File:HUN-2015-Budapest-Hungarian_Parliament_(Budapest)_2015-02.jpg"
+      },
+      {
+        "url": "eurotrip-balcanes-24-dias/lago-bled-4a12f3.jpg",
+        "alt": "Lago Bled",
+        "credito": "Krzysztof Golik",
+        "licencia": "CC BY-SA 4.0",
+        "fuente": "https://commons.wikimedia.org/wiki/File:Bled_Island_%26_Bled_Castle_(1).jpg"
+      },
+      {
+        "url": "eurotrip-balcanes-24-dias/lagos-de-plitvice-d25902.jpg",
+        "alt": "Lagos de Plitvice",
+        "credito": "OrionCro",
+        "licencia": "CC BY-SA 4.0",
+        "fuente": "https://commons.wikimedia.org/wiki/File:Waterfalls_at_Plitvice_Lakes.jpg"
+      },
+      {
+        "url": "eurotrip-balcanes-24-dias/puente-viejo-de-mostar-d15315.jpg",
+        "alt": "Puente Viejo de Mostar",
+        "credito": "Ramirez",
+        "licencia": "CC BY-SA 4.0",
+        "fuente": "https://commons.wikimedia.org/wiki/File:Mostar_Old_Town_Panorama_2007.jpg"
+      }
+    ]
+  },
+  "moneda": {
+    "codigo": "EUR",
+    "simbolo": "€",
+    "localPorUSD": 0.9107,
+    "copPorUSD": 3461.92,
+    "fechaTasa": "2026-11-21"
+  },
+  "comoLlegar": {
+    "resumen": "Vuelo multidestino Medellín–Berlín y Skopie–Medellín, con las conexiones protegidas en un mismo tiquete.",
+    "aeropuertoLlegada": "Aeropuerto de Berlín-Brandeburgo Willy Brandt (BER), Alemania",
+    "delAeropuertoAlCentro": "Desde BER, el Airport Express FEX o un tren regional llegan a Berlin Hauptbahnhof en 25–35 min (unos 5 €). Un taxi cuesta 55–75 € por vehículo.",
+    "rutas": [
+      {
+        "origen": "Medellín",
+        "ruta": "MDE → MAD → BER / SKP → VIE → MAD → MDE",
+        "aerolineas": [
+          "Avianca",
+          "Iberia",
+          "Austrian Airlines"
+        ],
+        "duracion": "17 a 26 h por sentido",
+        "escalas": 2,
+        "precioUSD": {
+          "min": 1250,
+          "max": 2050
+        }
+      },
+      {
+        "origen": "Bogotá",
+        "ruta": "BOG → FRA → BER / SKP → FRA → BOG",
+        "aerolineas": [
+          "Lufthansa",
+          "Avianca"
+        ],
+        "duracion": "15 a 23 h por sentido",
+        "escalas": 1,
+        "precioUSD": {
+          "min": 1150,
+          "max": 1900
+        }
+      },
+      {
+        "origen": "Medellín",
+        "ruta": "MDE → MAD → BER / SKP → IST → BOG → MDE",
+        "aerolineas": [
+          "Avianca",
+          "Iberia",
+          "Turkish Airlines"
+        ],
+        "duracion": "19 a 30 h por sentido",
+        "escalas": 2,
+        "precioUSD": {
+          "min": 1350,
+          "max": 2200
+        }
+      }
+    ]
+  },
+  "itinerario": [
+    {
+      "dia": 1,
+      "titulo": "Bienvenidos a Berlín: historia y cultura alternativa",
+      "ciudad": "Berlín",
+      "coords": {
+        "lat": 52.52,
+        "lng": 13.405
+      },
+      "resumen": "Llegada a Berlín, instalación en el alojamiento y primer contacto con la historia y la escena urbana de la ciudad.",
+      "imagenes": [
+        {
+          "url": "eurotrip-balcanes-24-dias/puerta-de-brandeburgo-f593a7.jpg",
+          "alt": "Puerta de Brandeburgo",
+          "credito": "א (Aleph) Creator: Johann Gottfried Schadow",
+          "licencia": "CC BY-SA 2.5",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Brandenburg_Gate_Quadriga_at_Night.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "14:00",
+          "nombre": "Puerta de Brandeburgo",
+          "descripcion": "Visita al monumento más emblemático de la reunificación alemana y recorrido por Pariser Platz.",
+          "duracion": "45 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 52.5163,
+            "lng": 13.3777
+          },
+          "consejo": "La plaza es especialmente fotogénica durante la tarde."
+        },
+        {
+          "hora": "15:00",
+          "nombre": "Memorial del Holocausto",
+          "descripcion": "Recorrido respetuoso por el monumento dedicado a los judíos asesinados en Europa.",
+          "duracion": "45 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 52.5139,
+            "lng": 13.3787
+          }
+        },
+        {
+          "hora": "16:15",
+          "nombre": "Topografía del Terror",
+          "descripcion": "Exposición histórica sobre el aparato represivo del régimen nazi.",
+          "duracion": "1 h 15 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 52.5067,
+            "lng": 13.3826
+          },
+          "link": "https://www.topographie.de/"
+        },
+        {
+          "hora": "20:30",
+          "nombre": "Primera noche en Kreuzberg",
+          "descripcion": "Recorrido por bares y calles de uno de los barrios alternativos de Berlín. Consumos no incluidos.",
+          "duracion": "2 h",
+          "costo": 0,
+          "tipo": "vida-nocturna",
+          "coords": {
+            "lat": 52.4987,
+            "lng": 13.4033
+          }
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "08:00",
+            "momento": "desayuno",
+            "lugar": "Aeropuerto de llegada",
+            "plato": "Sándwich y café",
+            "costo": 9
+          },
+          {
+            "hora": "13:00",
+            "momento": "almuerzo",
+            "lugar": "Curry 36",
+            "plato": "Currywurst con papas",
+            "costo": 11,
+            "link": "https://curry36.de/"
+          },
+          {
+            "hora": "19:00",
+            "momento": "cena",
+            "lugar": "Mustafa's Gemüse Kebap",
+            "plato": "Kebab de pollo con vegetales",
+            "costo": 10
+          }
+        ],
+        "medio": [
+          {
+            "hora": "08:00",
+            "momento": "desayuno",
+            "lugar": "Aeropuerto o conexión internacional",
+            "plato": "Desayuno completo",
+            "costo": 15
+          },
+          {
+            "hora": "13:00",
+            "momento": "almuerzo",
+            "lugar": "Curry 36",
+            "plato": "Currywurst, papas y bebida",
+            "costo": 17,
+            "link": "https://curry36.de/"
+          },
+          {
+            "hora": "19:00",
+            "momento": "cena",
+            "lugar": "Max und Moritz",
+            "plato": "Schnitzel con acompañamiento",
+            "costo": 27
+          }
+        ],
+        "alto": [
+          {
+            "hora": "08:00",
+            "momento": "desayuno",
+            "lugar": "Aeropuerto o conexión internacional",
+            "plato": "Desayuno premium",
+            "costo": 25
+          },
+          {
+            "hora": "13:00",
+            "momento": "almuerzo",
+            "lugar": "Borchardt",
+            "plato": "Schnitzel vienés",
+            "costo": 45,
+            "link": "https://www.borchardt-restaurant.de/"
+          },
+          {
+            "hora": "19:00",
+            "momento": "cena",
+            "lugar": "Grill Royal",
+            "plato": "Corte de carne con guarnición",
+            "costo": 85,
+            "link": "https://grillroyal.com/"
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "11:30",
+          "de": "Aeropuerto BER",
+          "a": "Centro de Berlín",
+          "medio": "Tren regional",
+          "duracion": "35 min",
+          "costo": 5
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "11:30",
+          "de": "Aeropuerto BER",
+          "a": "Hotel",
+          "medio": "Tren Airport Express y transporte urbano",
+          "duracion": "45 min",
+          "costo": 7
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "11:30",
+          "de": "Aeropuerto BER",
+          "a": "Hotel",
+          "medio": "Traslado privado compartido",
+          "duracion": "40 min",
+          "costo": 35
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "18:00",
+          "de": "Centro",
+          "a": "Kreuzberg",
+          "medio": "Metro",
+          "duracion": "20 min",
+          "costo": 4
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "18:00",
+          "de": "Centro",
+          "a": "Kreuzberg",
+          "medio": "Metro",
+          "duracion": "20 min",
+          "costo": 4
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "18:00",
+          "de": "Centro",
+          "a": "Kreuzberg",
+          "medio": "Taxi compartido",
+          "duracion": "20 min",
+          "costo": 12
+        }
+      ],
+      "planB": "Si el vuelo llega tarde, eliminar la visita a Topografía del Terror y realizar únicamente el recorrido exterior por la Puerta de Brandeburgo y el memorial."
+    },
+    {
+      "dia": 2,
+      "titulo": "El Berlín alternativo y sus cicatrices históricas",
+      "ciudad": "Berlín",
+      "coords": {
+        "lat": 52.52,
+        "lng": 13.405
+      },
+      "resumen": "Arte urbano, Guerra Fría, barrios contraculturales y una noche dedicada a la escena musical berlinesa.",
+      "imagenes": [
+        {
+          "url": "eurotrip-balcanes-24-dias/east-side-gallery-2dee67.jpg",
+          "alt": "East Side Gallery",
+          "credito": "Ansgar Koreng",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Spree_und_East_Side_Gallery,_Berlin,_170331,_ako.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "09:30",
+          "nombre": "East Side Gallery",
+          "descripcion": "Recorrido por la sección conservada del Muro de Berlín cubierta de murales internacionales.",
+          "duracion": "1 h 15 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 52.505,
+            "lng": 13.4397
+          }
+        },
+        {
+          "hora": "11:30",
+          "nombre": "Memorial del Muro de Berlín",
+          "descripcion": "Visita al conjunto histórico de Bernauer Straße para comprender la división de la ciudad.",
+          "duracion": "1 h 30 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 52.5351,
+            "lng": 13.3908
+          },
+          "link": "https://www.berliner-mauer-gedenkstaette.de/"
+        },
+        {
+          "hora": "15:00",
+          "nombre": "Tempelhofer Feld",
+          "descripcion": "Exploración del antiguo aeropuerto convertido en un inmenso parque urbano.",
+          "duracion": "1 h 30 min",
+          "costo": 0,
+          "tipo": "naturaleza",
+          "coords": {
+            "lat": 52.4731,
+            "lng": 13.4039
+          }
+        },
+        {
+          "niveles": [
+            "medio",
+            "alto"
+          ],
+          "hora": "17:00",
+          "nombre": "Tour guiado de arte urbano",
+          "descripcion": "Recorrido especializado por murales, grafiti y movimientos culturales de Kreuzberg.",
+          "duracion": "2 h",
+          "costo": 25,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 52.5,
+            "lng": 13.43
+          }
+        },
+        {
+          "hora": "22:00",
+          "nombre": "Vida nocturna de Friedrichshain",
+          "descripcion": "Exploración de la escena nocturna; el acceso a los clubes depende de su política de puerta.",
+          "duracion": "3 h",
+          "costo": 20,
+          "tipo": "vida-nocturna",
+          "coords": {
+            "lat": 52.51,
+            "lng": 13.454
+          }
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "08:00",
+            "momento": "desayuno",
+            "lugar": "Supermercado REWE",
+            "plato": "Pan, yogur y fruta",
+            "costo": 6
+          },
+          {
+            "hora": "13:15",
+            "momento": "almuerzo",
+            "lugar": "Markthalle Neun",
+            "plato": "Comida callejera",
+            "costo": 13
+          },
+          {
+            "hora": "20:00",
+            "momento": "cena",
+            "lugar": "Imren Grill",
+            "plato": "Döner kebab",
+            "costo": 11
+          }
+        ],
+        "medio": [
+          {
+            "hora": "08:00",
+            "momento": "desayuno",
+            "lugar": "Hotel",
+            "plato": "Desayuno buffet",
+            "costo": 0
+          },
+          {
+            "hora": "13:15",
+            "momento": "almuerzo",
+            "lugar": "Markthalle Neun",
+            "plato": "Especialidad de mercado y bebida",
+            "costo": 22
+          },
+          {
+            "hora": "20:00",
+            "momento": "cena",
+            "lugar": "Zur letzten Instanz",
+            "plato": "Especialidad alemana",
+            "costo": 32
+          }
+        ],
+        "alto": [
+          {
+            "hora": "08:00",
+            "momento": "desayuno",
+            "lugar": "Hotel",
+            "plato": "Desayuno premium",
+            "costo": 0
+          },
+          {
+            "hora": "13:15",
+            "momento": "almuerzo",
+            "lugar": "Katz Orange",
+            "plato": "Menú de temporada",
+            "costo": 45
+          },
+          {
+            "hora": "20:00",
+            "momento": "cena",
+            "lugar": "Borchardt",
+            "plato": "Cena de cocina europea",
+            "costo": 75
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "09:00",
+          "de": "Alojamiento",
+          "a": "East Side Gallery",
+          "medio": "Metro y S-Bahn, pase diario",
+          "duracion": "25 min",
+          "costo": 11
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "09:00",
+          "de": "Hotel",
+          "a": "East Side Gallery",
+          "medio": "Transporte público, pase diario",
+          "duracion": "25 min",
+          "costo": 11
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "09:00",
+          "de": "Hotel",
+          "a": "East Side Gallery",
+          "medio": "Vehículo privado compartido durante el día",
+          "duracion": "25 min",
+          "costo": 65
+        }
+      ],
+      "planB": "En caso de lluvia intensa, sustituir Tempelhofer Feld por el Museo de la RDA, ajustando la entrada correspondiente."
+    },
+    {
+      "dia": 3,
+      "titulo": "De Alemania a la Praga medieval",
+      "ciudad": "Praga",
+      "coords": {
+        "lat": 50.0755,
+        "lng": 14.4378
+      },
+      "resumen": "Viaje en tren a Chequia y primera exploración del casco histórico de Praga.",
+      "imagenes": [
+        {
+          "url": "eurotrip-balcanes-24-dias/plaza-de-la-ciudad-vieja-de-praga-c49094.jpg",
+          "alt": "Plaza de la Ciudad Vieja de Praga",
+          "credito": "A.Savin",
+          "licencia": "FAL",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Prague_07-2016_View_from_Old_Town_Hall_Tower_img3.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "14:30",
+          "nombre": "Plaza de la Ciudad Vieja",
+          "descripcion": "Visita al corazón medieval de Praga, rodeado de edificios históricos y arquitectura gótica.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 50.0875,
+            "lng": 14.4213
+          }
+        },
+        {
+          "hora": "15:45",
+          "nombre": "Reloj Astronómico",
+          "descripcion": "Observación del reloj medieval y de la fachada del antiguo ayuntamiento.",
+          "duracion": "30 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 50.087,
+            "lng": 14.4208
+          }
+        },
+        {
+          "hora": "17:00",
+          "nombre": "Puente de Carlos",
+          "descripcion": "Cruce peatonal del puente histórico sobre el río Moldava.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 50.0865,
+            "lng": 14.4114
+          }
+        },
+        {
+          "hora": "21:00",
+          "nombre": "Bares del casco antiguo",
+          "descripcion": "Primera noche en Praga, conocida por sus cervecerías y locales musicales.",
+          "duracion": "2 h",
+          "costo": 0,
+          "tipo": "vida-nocturna",
+          "coords": {
+            "lat": 50.0875,
+            "lng": 14.4213
+          }
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "07:30",
+            "momento": "desayuno",
+            "lugar": "Panadería de Berlin Hauptbahnhof",
+            "plato": "Sándwich y café",
+            "costo": 8
+          },
+          {
+            "hora": "12:30",
+            "momento": "almuerzo",
+            "lugar": "Comida para llevar en el tren",
+            "plato": "Baguette, fruta y agua",
+            "costo": 11
+          },
+          {
+            "hora": "19:00",
+            "momento": "cena",
+            "lugar": "Lokál Dlouhááá",
+            "plato": "Gulash checo",
+            "costo": 15,
+            "link": "https://lokal-dlouha.ambi.cz/"
+          }
+        ],
+        "medio": [
+          {
+            "hora": "07:30",
+            "momento": "desayuno",
+            "lugar": "Hotel Berlín",
+            "plato": "Buffet",
+            "costo": 0
+          },
+          {
+            "hora": "12:30",
+            "momento": "almuerzo",
+            "lugar": "Servicio ferroviario",
+            "plato": "Sándwich gourmet y bebida",
+            "costo": 18
+          },
+          {
+            "hora": "19:00",
+            "momento": "cena",
+            "lugar": "Lokál Dlouhááá",
+            "plato": "Cerdo asado con knedlíky",
+            "costo": 25
+          }
+        ],
+        "alto": [
+          {
+            "hora": "07:30",
+            "momento": "desayuno",
+            "lugar": "Hotel Berlín",
+            "plato": "Desayuno premium",
+            "costo": 0
+          },
+          {
+            "hora": "12:30",
+            "momento": "almuerzo",
+            "lugar": "Servicio ferroviario de primera clase",
+            "plato": "Almuerzo y bebida",
+            "costo": 30
+          },
+          {
+            "hora": "19:00",
+            "momento": "cena",
+            "lugar": "La Degustation Bohême Bourgeoise",
+            "plato": "Menú degustación checo",
+            "costo": 150,
+            "link": "https://www.ladegustation.cz/"
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "08:15",
+          "de": "Berlin Hauptbahnhof",
+          "a": "Praha hlavní nádraží",
+          "medio": "Tren segunda clase",
+          "duracion": "4 h 20 min",
+          "costo": 35
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "08:15",
+          "de": "Berlin Hauptbahnhof",
+          "a": "Praha hlavní nádraží",
+          "medio": "Tren segunda clase con asiento reservado",
+          "duracion": "4 h 20 min",
+          "costo": 55
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "08:15",
+          "de": "Berlin Hauptbahnhof",
+          "a": "Praha hlavní nádraží",
+          "medio": "Tren primera clase",
+          "duracion": "4 h 20 min",
+          "costo": 95
+        },
+        {
+          "niveles": [
+            "economico",
+            "medio"
+          ],
+          "hora": "13:00",
+          "de": "Estación de Praga",
+          "a": "Alojamiento",
+          "medio": "Tranvía",
+          "duracion": "20 min",
+          "costo": 2
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "13:00",
+          "de": "Estación de Praga",
+          "a": "Hotel",
+          "medio": "Taxi",
+          "duracion": "15 min",
+          "costo": 12
+        }
+      ],
+      "planB": "Si el tren llega tarde, visitar solamente la Plaza de la Ciudad Vieja y el Puente de Carlos."
+    },
+    {
+      "dia": 4,
+      "titulo": "Castillos, callejones y la noche de Praga",
+      "ciudad": "Praga",
+      "coords": {
+        "lat": 50.0755,
+        "lng": 14.4378
+      },
+      "resumen": "Día completo de arquitectura, historia y vida nocturna checa.",
+      "imagenes": [
+        {
+          "url": "eurotrip-balcanes-24-dias/castillo-de-praga-f0afbe.jpg",
+          "alt": "Castillo de Praga",
+          "credito": "Diego Delso",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Castillo_de_Praga,_Praga,_Rep%C3%BAblica_Checa,_2022-07-01,_DD_23-25_HDR.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "09:00",
+          "nombre": "Castillo de Praga",
+          "descripcion": "Recorrido por el complejo del castillo, sus patios y la Catedral de San Vito.",
+          "duracion": "2 h 30 min",
+          "costo": 20,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 50.0911,
+            "lng": 14.4016
+          },
+          "link": "https://www.hrad.cz/"
+        },
+        {
+          "hora": "12:00",
+          "nombre": "Malá Strana",
+          "descripcion": "Paseo por calles barrocas y plazas históricas al pie del castillo.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 50.088,
+            "lng": 14.403
+          }
+        },
+        {
+          "hora": "15:00",
+          "nombre": "Mirador de Letná",
+          "descripcion": "Vista panorámica del Moldava y sus puentes.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "naturaleza",
+          "coords": {
+            "lat": 50.0954,
+            "lng": 14.416
+          }
+        },
+        {
+          "niveles": [
+            "medio",
+            "alto"
+          ],
+          "hora": "17:00",
+          "nombre": "Crucero por el Moldava",
+          "descripcion": "Paseo turístico en barco por el centro histórico.",
+          "duracion": "1 h",
+          "costo": 25,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 50.089,
+            "lng": 14.414
+          }
+        },
+        {
+          "hora": "22:00",
+          "nombre": "Fiesta en Praga",
+          "descripcion": "Noche de música y baile en el centro.",
+          "duracion": "3 h",
+          "costo": 15,
+          "tipo": "vida-nocturna",
+          "coords": {
+            "lat": 50.083,
+            "lng": 14.42
+          }
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "08:00",
+            "momento": "desayuno",
+            "lugar": "Supermercado Albert",
+            "plato": "Pan, fruta y yogur",
+            "costo": 5
+          },
+          {
+            "hora": "13:15",
+            "momento": "almuerzo",
+            "lugar": "Havelská Koruna",
+            "plato": "Plato tradicional checo",
+            "costo": 10
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Lokál",
+            "plato": "Svíčková con knedlíky",
+            "costo": 16
+          }
+        ],
+        "medio": [
+          {
+            "hora": "08:00",
+            "momento": "desayuno",
+            "lugar": "Hotel",
+            "plato": "Buffet",
+            "costo": 0
+          },
+          {
+            "hora": "13:15",
+            "momento": "almuerzo",
+            "lugar": "U Kroka",
+            "plato": "Cerdo asado tradicional",
+            "costo": 23
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Mincovna",
+            "plato": "Especialidad checa",
+            "costo": 32
+          }
+        ],
+        "alto": [
+          {
+            "hora": "08:00",
+            "momento": "desayuno",
+            "lugar": "Hotel",
+            "plato": "Buffet premium",
+            "costo": 0
+          },
+          {
+            "hora": "13:15",
+            "momento": "almuerzo",
+            "lugar": "Terasa U Zlaté Studně",
+            "plato": "Menú de temporada",
+            "costo": 65
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Field Restaurant",
+            "plato": "Menú degustación",
+            "costo": 150,
+            "link": "https://www.fieldrestaurant.cz/"
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "08:40",
+          "de": "Alojamiento",
+          "a": "Castillo de Praga",
+          "medio": "Tranvía y pase diario",
+          "duracion": "20 min",
+          "costo": 5
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "08:40",
+          "de": "Hotel",
+          "a": "Castillo de Praga",
+          "medio": "Tranvía y pase diario",
+          "duracion": "20 min",
+          "costo": 5
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "08:40",
+          "de": "Hotel",
+          "a": "Castillo de Praga",
+          "medio": "Taxi y desplazamientos privados",
+          "duracion": "20 min",
+          "costo": 35
+        }
+      ],
+      "planB": "En caso de lluvia, ampliar el recorrido por interiores del castillo y visitar el Museo Nacional."
+    },
+    {
+      "dia": 5,
+      "titulo": "De Praga a la Viena imperial",
+      "ciudad": "Viena",
+      "coords": {
+        "lat": 48.2082,
+        "lng": 16.3738
+      },
+      "resumen": "Tren hacia Austria y tarde de arquitectura monumental en Viena.",
+      "imagenes": [
+        {
+          "url": "eurotrip-balcanes-24-dias/palacio-de-schonbrunn-3c9d8f.jpg",
+          "alt": "Palacio de Schönbrunn",
+          "credito": "Martin Falbisoner",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Schoenbrunn_Palace_as_seen_from_Neptune_Fountain,_September_2016.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "14:00",
+          "nombre": "Catedral de San Esteban",
+          "descripcion": "Visita exterior y acceso a la nave principal de la catedral gótica.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 48.2085,
+            "lng": 16.3731
+          }
+        },
+        {
+          "hora": "15:15",
+          "nombre": "Palacio Hofburg",
+          "descripcion": "Recorrido por los patios y fachadas de la antigua residencia imperial.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 48.2065,
+            "lng": 16.3657
+          }
+        },
+        {
+          "hora": "16:45",
+          "nombre": "Jardines del Palacio Belvedere",
+          "descripcion": "Paseo por los jardines barrocos y vistas del palacio.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "naturaleza",
+          "coords": {
+            "lat": 48.1916,
+            "lng": 16.3807
+          }
+        },
+        {
+          "niveles": [
+            "medio",
+            "alto"
+          ],
+          "hora": "18:00",
+          "nombre": "Colección del Belvedere Superior",
+          "descripcion": "Visita al museo de arte austriaco, con obras de Gustav Klimt.",
+          "duracion": "1 h 30 min",
+          "costo": 22,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 48.1916,
+            "lng": 16.3807
+          },
+          "link": "https://www.belvedere.at/"
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "07:00",
+            "momento": "desayuno",
+            "lugar": "Panadería en Praga",
+            "plato": "Bollería y café",
+            "costo": 7
+          },
+          {
+            "hora": "12:30",
+            "momento": "almuerzo",
+            "lugar": "Estación Wien Hauptbahnhof",
+            "plato": "Sándwich y bebida",
+            "costo": 12
+          },
+          {
+            "hora": "20:00",
+            "momento": "cena",
+            "lugar": "Wiener Deewan",
+            "plato": "Buffet de cocina pakistaní",
+            "costo": 14
+          }
+        ],
+        "medio": [
+          {
+            "hora": "07:00",
+            "momento": "desayuno",
+            "lugar": "Hotel Praga",
+            "plato": "Buffet",
+            "costo": 0
+          },
+          {
+            "hora": "12:30",
+            "momento": "almuerzo",
+            "lugar": "Café Central",
+            "plato": "Plato ligero y café",
+            "costo": 25
+          },
+          {
+            "hora": "20:00",
+            "momento": "cena",
+            "lugar": "Figlmüller",
+            "plato": "Wiener Schnitzel",
+            "costo": 35,
+            "link": "https://www.figlmueller.at/"
+          }
+        ],
+        "alto": [
+          {
+            "hora": "07:00",
+            "momento": "desayuno",
+            "lugar": "Hotel Praga",
+            "plato": "Buffet premium",
+            "costo": 0
+          },
+          {
+            "hora": "12:30",
+            "momento": "almuerzo",
+            "lugar": "Café Sacher",
+            "plato": "Almuerzo vienés y tarta Sacher",
+            "costo": 50
+          },
+          {
+            "hora": "20:00",
+            "momento": "cena",
+            "lugar": "Steirereck",
+            "plato": "Menú de alta cocina austriaca",
+            "costo": 180,
+            "link": "https://www.steirereck.at/"
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "08:00",
+          "de": "Praga",
+          "a": "Viena",
+          "medio": "Tren segunda clase",
+          "duracion": "4 h",
+          "costo": 28
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "08:00",
+          "de": "Praga",
+          "a": "Viena",
+          "medio": "Tren segunda clase reservado",
+          "duracion": "4 h",
+          "costo": 45
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "08:00",
+          "de": "Praga",
+          "a": "Viena",
+          "medio": "Tren primera clase",
+          "duracion": "4 h",
+          "costo": 85
+        },
+        {
+          "niveles": [
+            "economico",
+            "medio"
+          ],
+          "hora": "13:00",
+          "de": "Wien Hauptbahnhof",
+          "a": "Centro",
+          "medio": "Metro y pase urbano",
+          "duracion": "20 min",
+          "costo": 8
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "13:00",
+          "de": "Wien Hauptbahnhof",
+          "a": "Hotel",
+          "medio": "Taxi y desplazamientos urbanos",
+          "duracion": "20 min",
+          "costo": 35
+        }
+      ],
+      "planB": "Si el tren se retrasa, visitar únicamente la catedral y el Hofburg."
+    },
+    {
+      "dia": 6,
+      "titulo": "Bratislava, la pequeña capital del Danubio",
+      "ciudad": "Bratislava",
+      "coords": {
+        "lat": 48.1486,
+        "lng": 17.1077
+      },
+      "resumen": "Traslado corto desde Viena para descubrir la capital eslovaca.",
+      "imagenes": [
+        {
+          "url": "eurotrip-balcanes-24-dias/castillo-de-bratislava-3d54f4.jpg",
+          "alt": "Castillo de Bratislava",
+          "credito": "Jakub Hałun",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Bratislava_Castle,_20210727_1004_0250.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "10:30",
+          "nombre": "Castillo de Bratislava",
+          "descripcion": "Recorrido por la colina del castillo y sus panorámicas del Danubio.",
+          "duracion": "1 h 30 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 48.1421,
+            "lng": 17.1002
+          }
+        },
+        {
+          "hora": "13:30",
+          "nombre": "Centro histórico",
+          "descripcion": "Exploración de calles medievales, plazas y edificios de colores.",
+          "duracion": "1 h 30 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 48.1438,
+            "lng": 17.1084
+          }
+        },
+        {
+          "hora": "16:00",
+          "nombre": "Iglesia Azul",
+          "descripcion": "Visita exterior al singular templo de estilo modernista.",
+          "duracion": "45 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 48.1435,
+            "lng": 17.1169
+          }
+        },
+        {
+          "hora": "17:30",
+          "nombre": "Paseo junto al Danubio",
+          "descripcion": "Caminata por la ribera y vistas de los puentes.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "naturaleza",
+          "coords": {
+            "lat": 48.137,
+            "lng": 17.109
+          }
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "08:00",
+            "momento": "desayuno",
+            "lugar": "Supermercado BILLA",
+            "plato": "Pan, fruta y café",
+            "costo": 6
+          },
+          {
+            "hora": "12:15",
+            "momento": "almuerzo",
+            "lugar": "Slovak Pub",
+            "plato": "Bryndzové halušky",
+            "costo": 13
+          },
+          {
+            "hora": "19:00",
+            "momento": "cena",
+            "lugar": "Bratislavský Meštiansky Pivovar",
+            "plato": "Sopa y plato eslovaco",
+            "costo": 17
+          }
+        ],
+        "medio": [
+          {
+            "hora": "08:00",
+            "momento": "desayuno",
+            "lugar": "Hotel Viena",
+            "plato": "Buffet",
+            "costo": 0
+          },
+          {
+            "hora": "12:15",
+            "momento": "almuerzo",
+            "lugar": "Slovak Pub",
+            "plato": "Halušky y bebida",
+            "costo": 22
+          },
+          {
+            "hora": "19:00",
+            "momento": "cena",
+            "lugar": "Modrá Hviezda",
+            "plato": "Especialidad eslovaca",
+            "costo": 32
+          }
+        ],
+        "alto": [
+          {
+            "hora": "08:00",
+            "momento": "desayuno",
+            "lugar": "Hotel Viena",
+            "plato": "Buffet premium",
+            "costo": 0
+          },
+          {
+            "hora": "12:15",
+            "momento": "almuerzo",
+            "lugar": "Zylinder",
+            "plato": "Cocina centroeuropea",
+            "costo": 42
+          },
+          {
+            "hora": "19:00",
+            "momento": "cena",
+            "lugar": "Savoy Restaurant",
+            "plato": "Cena de cocina internacional",
+            "costo": 75
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "09:00",
+          "de": "Viena",
+          "a": "Bratislava",
+          "medio": "Tren regional",
+          "duracion": "1 h",
+          "costo": 14
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "09:00",
+          "de": "Viena",
+          "a": "Bratislava",
+          "medio": "Tren regional",
+          "duracion": "1 h",
+          "costo": 18
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "09:00",
+          "de": "Viena",
+          "a": "Bratislava",
+          "medio": "Vehículo privado compartido",
+          "duracion": "1 h 15 min",
+          "costo": 65
+        },
+        {
+          "niveles": [
+            "economico",
+            "medio"
+          ],
+          "hora": "10:10",
+          "de": "Estación Bratislava",
+          "a": "Castillo",
+          "medio": "Transporte urbano",
+          "duracion": "20 min",
+          "costo": 2
+        }
+      ],
+      "planB": "Si llueve, visitar el Museo de Historia de Bratislava y los cafés del casco antiguo."
+    },
+    {
+      "dia": 7,
+      "titulo": "Budapest, la ciudad de las dos orillas",
+      "ciudad": "Budapest",
+      "coords": {
+        "lat": 47.4979,
+        "lng": 19.0402
+      },
+      "resumen": "Viaje a Hungría y exploración del Danubio, el Parlamento y el barrio judío.",
+      "imagenes": [
+        {
+          "url": "eurotrip-balcanes-24-dias/bastion-de-los-pescadores-7e7601.jpg",
+          "alt": "Bastión de los Pescadores",
+          "credito": "Ermell",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Budapest_Fisherman%27s_Bastion-20080321-RM-100000.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "13:30",
+          "nombre": "Parlamento de Hungría",
+          "descripcion": "Visita exterior a uno de los edificios parlamentarios más impresionantes de Europa.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 47.507,
+            "lng": 19.045
+          }
+        },
+        {
+          "hora": "15:00",
+          "nombre": "Zapatos en la orilla del Danubio",
+          "descripcion": "Visita al memorial dedicado a las víctimas del Holocausto.",
+          "duracion": "40 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 47.5039,
+            "lng": 19.0448
+          }
+        },
+        {
+          "hora": "16:30",
+          "nombre": "Basílica de San Esteban",
+          "descripcion": "Recorrido por el entorno de la basílica y su plaza.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 47.5009,
+            "lng": 19.0539
+          }
+        },
+        {
+          "hora": "21:00",
+          "nombre": "Szimpla Kert",
+          "descripcion": "Visita a uno de los ruin bars más famosos de Budapest.",
+          "duracion": "2 h",
+          "costo": 0,
+          "tipo": "vida-nocturna",
+          "coords": {
+            "lat": 47.497,
+            "lng": 19.0632
+          },
+          "link": "https://szimpla.hu/"
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "07:00",
+            "momento": "desayuno",
+            "lugar": "Supermercado en Bratislava",
+            "plato": "Pan y yogur",
+            "costo": 6
+          },
+          {
+            "hora": "12:30",
+            "momento": "almuerzo",
+            "lugar": "Bors GasztroBár",
+            "plato": "Sopa y baguette",
+            "costo": 12
+          },
+          {
+            "hora": "19:00",
+            "momento": "cena",
+            "lugar": "Frici Papa",
+            "plato": "Gulash húngaro",
+            "costo": 14
+          }
+        ],
+        "medio": [
+          {
+            "hora": "07:00",
+            "momento": "desayuno",
+            "lugar": "Hotel Bratislava",
+            "plato": "Buffet",
+            "costo": 0
+          },
+          {
+            "hora": "12:30",
+            "momento": "almuerzo",
+            "lugar": "Menza",
+            "plato": "Plato húngaro y bebida",
+            "costo": 23
+          },
+          {
+            "hora": "19:00",
+            "momento": "cena",
+            "lugar": "Gettó Gulyás",
+            "plato": "Gulash y acompañamiento",
+            "costo": 28
+          }
+        ],
+        "alto": [
+          {
+            "hora": "07:00",
+            "momento": "desayuno",
+            "lugar": "Hotel Bratislava",
+            "plato": "Desayuno premium",
+            "costo": 0
+          },
+          {
+            "hora": "12:30",
+            "momento": "almuerzo",
+            "lugar": "Kollázs",
+            "plato": "Menú de cocina europea",
+            "costo": 55
+          },
+          {
+            "hora": "19:00",
+            "momento": "cena",
+            "lugar": "Stand Restaurant",
+            "plato": "Menú degustación húngaro",
+            "costo": 160
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "08:00",
+          "de": "Bratislava",
+          "a": "Budapest",
+          "medio": "Tren segunda clase",
+          "duracion": "2 h 30 min",
+          "costo": 20
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "08:00",
+          "de": "Bratislava",
+          "a": "Budapest",
+          "medio": "Tren reservado",
+          "duracion": "2 h 30 min",
+          "costo": 32
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "08:00",
+          "de": "Bratislava",
+          "a": "Budapest",
+          "medio": "Tren primera clase",
+          "duracion": "2 h 30 min",
+          "costo": 60
+        },
+        {
+          "niveles": [
+            "economico",
+            "medio"
+          ],
+          "hora": "11:00",
+          "de": "Estación de Budapest",
+          "a": "Hotel",
+          "medio": "Metro y pase urbano",
+          "duracion": "25 min",
+          "costo": 5
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "11:00",
+          "de": "Estación de Budapest",
+          "a": "Hotel",
+          "medio": "Taxi",
+          "duracion": "20 min",
+          "costo": 15
+        }
+      ],
+      "planB": "Si hay retrasos ferroviarios, realizar el paseo por el Parlamento y visitar Szimpla Kert."
+    },
+    {
+      "dia": 8,
+      "titulo": "Termas, castillos y fiesta en Budapest",
+      "ciudad": "Budapest",
+      "coords": {
+        "lat": 47.4979,
+        "lng": 19.0402
+      },
+      "resumen": "Día de baños termales, panorámicas y vida nocturna.",
+      "imagenes": [
+        {
+          "url": "eurotrip-balcanes-24-dias/banos-szechenyi-79fc7f.jpg",
+          "alt": "Baños Széchenyi",
+          "credito": "Marc Ryckaert (MJJR)",
+          "licencia": "CC BY 3.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Budapest_Sz%C3%A9chenyi_Baths_R04.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "09:00",
+          "nombre": "Baños Széchenyi",
+          "descripcion": "Experiencia en uno de los complejos termales más famosos de Europa.",
+          "duracion": "2 h 30 min",
+          "costo": 35,
+          "tipo": "descanso",
+          "coords": {
+            "lat": 47.5187,
+            "lng": 19.0824
+          },
+          "link": "https://www.szechenyibath.hu/"
+        },
+        {
+          "hora": "12:00",
+          "nombre": "Plaza de los Héroes",
+          "descripcion": "Recorrido por el monumento del Milenio.",
+          "duracion": "45 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 47.5149,
+            "lng": 19.0779
+          }
+        },
+        {
+          "hora": "15:00",
+          "nombre": "Bastión de los Pescadores",
+          "descripcion": "Panorámica del Parlamento y el Danubio desde la colina de Buda.",
+          "duracion": "1 h 30 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 47.502,
+            "lng": 19.0348
+          }
+        },
+        {
+          "niveles": [
+            "medio",
+            "alto"
+          ],
+          "hora": "18:00",
+          "nombre": "Crucero por el Danubio",
+          "descripcion": "Paseo panorámico en barco por los principales monumentos.",
+          "duracion": "1 h",
+          "costo": 25,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 47.497,
+            "lng": 19.048
+          }
+        },
+        {
+          "hora": "22:00",
+          "nombre": "Noche en el barrio judío",
+          "descripcion": "Ruta por bares y locales musicales.",
+          "duracion": "3 h",
+          "costo": 15,
+          "tipo": "vida-nocturna",
+          "coords": {
+            "lat": 47.4975,
+            "lng": 19.0615
+          }
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "08:00",
+            "momento": "desayuno",
+            "lugar": "Supermercado SPAR",
+            "plato": "Pan, fruta y yogur",
+            "costo": 6
+          },
+          {
+            "hora": "13:00",
+            "momento": "almuerzo",
+            "lugar": "Mercado Central",
+            "plato": "Lángos",
+            "costo": 12
+          },
+          {
+            "hora": "20:00",
+            "momento": "cena",
+            "lugar": "Frici Papa",
+            "plato": "Paprikás csirke",
+            "costo": 15
+          }
+        ],
+        "medio": [
+          {
+            "hora": "08:00",
+            "momento": "desayuno",
+            "lugar": "Hotel",
+            "plato": "Buffet",
+            "costo": 0
+          },
+          {
+            "hora": "13:00",
+            "momento": "almuerzo",
+            "lugar": "Menza",
+            "plato": "Pollo al pimentón y bebida",
+            "costo": 25
+          },
+          {
+            "hora": "20:00",
+            "momento": "cena",
+            "lugar": "Mazel Tov",
+            "plato": "Cena de cocina mediterránea",
+            "costo": 35
+          }
+        ],
+        "alto": [
+          {
+            "hora": "08:00",
+            "momento": "desayuno",
+            "lugar": "Hotel",
+            "plato": "Buffet premium",
+            "costo": 0
+          },
+          {
+            "hora": "13:00",
+            "momento": "almuerzo",
+            "lugar": "Déryné",
+            "plato": "Almuerzo de cocina contemporánea",
+            "costo": 55
+          },
+          {
+            "hora": "20:00",
+            "momento": "cena",
+            "lugar": "Borkonyha Winekitchen",
+            "plato": "Menú degustación",
+            "costo": 120
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "08:30",
+          "de": "Alojamiento",
+          "a": "Baños Széchenyi y demás visitas",
+          "medio": "Pase diario de metro",
+          "duracion": "25 min",
+          "costo": 7
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "08:30",
+          "de": "Hotel",
+          "a": "Baños Széchenyi y demás visitas",
+          "medio": "Pase diario de metro",
+          "duracion": "25 min",
+          "costo": 7
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "08:30",
+          "de": "Hotel",
+          "a": "Baños Széchenyi y demás visitas",
+          "medio": "Vehículo privado compartido",
+          "duracion": "25 min",
+          "costo": 55
+        }
+      ],
+      "planB": "Si llueve, mantener los baños termales y sustituir las panorámicas exteriores por la Galería Nacional Húngara."
+    },
+    {
+      "dia": 9,
+      "titulo": "Eslovenia: llegada a Liubliana",
+      "ciudad": "Liubliana",
+      "coords": {
+        "lat": 46.0569,
+        "lng": 14.5058
+      },
+      "resumen": "Traslado desde Budapest a la capital eslovena, una de las ciudades más agradables y verdes de Europa.",
+      "imagenes": [
+        {
+          "url": "eurotrip-balcanes-24-dias/triple-puente-de-liubliana-c7c6b1.jpg",
+          "alt": "Triple Puente de Liubliana",
+          "credito": "Valerio2468",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Triple_Bridge_and_Preseren_Square_fron_the_Ljubljanica.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "15:00",
+          "nombre": "Puente Triple",
+          "descripcion": "Exploración del conjunto de puentes diseñado por Jože Plečnik.",
+          "duracion": "45 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 46.0515,
+            "lng": 14.506
+          }
+        },
+        {
+          "hora": "16:00",
+          "nombre": "Plaza Prešeren",
+          "descripcion": "Paseo por el centro histórico de Liubliana.",
+          "duracion": "45 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 46.0514,
+            "lng": 14.5059
+          }
+        },
+        {
+          "hora": "17:00",
+          "nombre": "Castillo de Liubliana",
+          "descripcion": "Ascenso a la colina del castillo para contemplar la ciudad.",
+          "duracion": "1 h 30 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 46.0489,
+            "lng": 14.5084
+          }
+        },
+        {
+          "hora": "20:30",
+          "nombre": "Metelkova",
+          "descripcion": "Recorrido por un espacio cultural alternativo conocido por su arte urbano.",
+          "duracion": "1 h 30 min",
+          "costo": 0,
+          "tipo": "vida-nocturna",
+          "coords": {
+            "lat": 46.0564,
+            "lng": 14.5164
+          }
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "07:00",
+            "momento": "desayuno",
+            "lugar": "Supermercado Budapest",
+            "plato": "Desayuno para llevar",
+            "costo": 7
+          },
+          {
+            "hora": "12:30",
+            "momento": "almuerzo",
+            "lugar": "Parada de carretera",
+            "plato": "Sándwich y bebida",
+            "costo": 12
+          },
+          {
+            "hora": "19:00",
+            "momento": "cena",
+            "lugar": "Klobasarna",
+            "plato": "Salchicha carniolana",
+            "costo": 13
+          }
+        ],
+        "medio": [
+          {
+            "hora": "07:00",
+            "momento": "desayuno",
+            "lugar": "Hotel Budapest",
+            "plato": "Buffet",
+            "costo": 0
+          },
+          {
+            "hora": "12:30",
+            "momento": "almuerzo",
+            "lugar": "Parada de carretera",
+            "plato": "Menú del día",
+            "costo": 20
+          },
+          {
+            "hora": "19:00",
+            "momento": "cena",
+            "lugar": "Gostilna Sokol",
+            "plato": "Especialidad eslovena",
+            "costo": 30
+          }
+        ],
+        "alto": [
+          {
+            "hora": "07:00",
+            "momento": "desayuno",
+            "lugar": "Hotel Budapest",
+            "plato": "Buffet premium",
+            "costo": 0
+          },
+          {
+            "hora": "12:30",
+            "momento": "almuerzo",
+            "lugar": "Restaurante en ruta",
+            "plato": "Almuerzo completo",
+            "costo": 35
+          },
+          {
+            "hora": "19:00",
+            "momento": "cena",
+            "lugar": "Restavracija Strelec",
+            "plato": "Menú degustación",
+            "costo": 120
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "08:00",
+          "de": "Budapest",
+          "a": "Liubliana",
+          "medio": "Bus interurbano",
+          "duracion": "6 h 30 min",
+          "costo": 35
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "08:00",
+          "de": "Budapest",
+          "a": "Liubliana",
+          "medio": "Bus interurbano reservado",
+          "duracion": "6 h 30 min",
+          "costo": 45
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "08:00",
+          "de": "Budapest",
+          "a": "Liubliana",
+          "medio": "Vehículo privado compartido",
+          "duracion": "5 h 30 min",
+          "costo": 145
+        },
+        {
+          "niveles": [
+            "economico",
+            "medio"
+          ],
+          "hora": "14:40",
+          "de": "Estación de Liubliana",
+          "a": "Centro histórico",
+          "medio": "Bus urbano",
+          "duracion": "15 min",
+          "costo": 2
+        }
+      ],
+      "planB": "Si el transporte llega tarde, visitar el centro histórico y Metelkova."
+    },
+    {
+      "dia": 10,
+      "titulo": "Lago Bled y los Alpes Julianos",
+      "ciudad": "Bled",
+      "coords": {
+        "lat": 46.3683,
+        "lng": 14.1146
+      },
+      "resumen": "Lagos alpinos, castillos, bosques y uno de los paisajes más fotogénicos de Eslovenia.",
+      "imagenes": [
+        {
+          "url": "eurotrip-balcanes-24-dias/castillo-de-bled-f74a06.jpg",
+          "alt": "Castillo de Bled",
+          "credito": "Mihael Grmek",
+          "licencia": "CC BY-SA 3.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Bled_Castle_05.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "10:00",
+          "nombre": "Lago Bled",
+          "descripcion": "Recorrido por la orilla del lago y observación de la isla central.",
+          "duracion": "1 h 30 min",
+          "costo": 0,
+          "tipo": "naturaleza",
+          "coords": {
+            "lat": 46.363,
+            "lng": 14.0938
+          }
+        },
+        {
+          "hora": "12:00",
+          "nombre": "Castillo de Bled",
+          "descripcion": "Visita al castillo medieval sobre el acantilado.",
+          "duracion": "1 h 30 min",
+          "costo": 18,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 46.3696,
+            "lng": 14.1008
+          },
+          "link": "https://www.blejski-grad.si/"
+        },
+        {
+          "hora": "15:00",
+          "nombre": "Mirador Ojstrica",
+          "descripcion": "Caminata corta pero empinada hasta una panorámica del lago.",
+          "duracion": "1 h 30 min",
+          "costo": 0,
+          "tipo": "aventura",
+          "coords": {
+            "lat": 46.3578,
+            "lng": 14.085
+          },
+          "consejo": "Usar calzado con buen agarre; el sendero puede estar resbaladizo."
+        },
+        {
+          "niveles": [
+            "medio",
+            "alto"
+          ],
+          "hora": "17:00",
+          "nombre": "Paseo en embarcación tradicional",
+          "descripcion": "Excursión en pletna hasta la isla del lago.",
+          "duracion": "1 h 30 min",
+          "costo": 22,
+          "tipo": "naturaleza",
+          "coords": {
+            "lat": 46.3625,
+            "lng": 14.09
+          }
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "08:00",
+            "momento": "desayuno",
+            "lugar": "Panadería en Liubliana",
+            "plato": "Burek y café",
+            "costo": 7
+          },
+          {
+            "hora": "13:45",
+            "momento": "almuerzo",
+            "lugar": "Restaurante económico en Bled",
+            "plato": "Pizza individual",
+            "costo": 14
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Gostilna Pri Planincu",
+            "plato": "Guiso esloveno",
+            "costo": 18
+          }
+        ],
+        "medio": [
+          {
+            "hora": "08:00",
+            "momento": "desayuno",
+            "lugar": "Hotel Liubliana",
+            "plato": "Buffet",
+            "costo": 0
+          },
+          {
+            "hora": "13:45",
+            "momento": "almuerzo",
+            "lugar": "Gostilna Murka",
+            "plato": "Trucha con papas",
+            "costo": 28
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Old Cellar Bled",
+            "plato": "Especialidad regional",
+            "costo": 38
+          }
+        ],
+        "alto": [
+          {
+            "hora": "08:00",
+            "momento": "desayuno",
+            "lugar": "Hotel Liubliana",
+            "plato": "Buffet premium",
+            "costo": 0
+          },
+          {
+            "hora": "13:45",
+            "momento": "almuerzo",
+            "lugar": "Restavracija 1906",
+            "plato": "Cocina alpina contemporánea",
+            "costo": 60
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Julijana Restaurant",
+            "plato": "Menú degustación",
+            "costo": 110
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "08:45",
+          "de": "Liubliana",
+          "a": "Bled",
+          "medio": "Bus regional",
+          "duracion": "1 h 15 min",
+          "costo": 8
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "08:45",
+          "de": "Liubliana",
+          "a": "Bled",
+          "medio": "Traslado compartido",
+          "duracion": "1 h",
+          "costo": 25
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "08:45",
+          "de": "Liubliana",
+          "a": "Bled",
+          "medio": "Vehículo privado",
+          "duracion": "1 h",
+          "costo": 65
+        }
+      ],
+      "planB": "Si el sendero Ojstrica está mojado o cerrado, recorrer el paseo del lago y visitar espacios interiores del castillo."
+    },
+    {
+      "dia": 11,
+      "titulo": "El río esmeralda: aventura en el valle del Soča",
+      "ciudad": "Bovec",
+      "coords": {
+        "lat": 46.3375,
+        "lng": 13.5528
+      },
+      "resumen": "Traslado a la región alpina de Bovec para practicar rafting y explorar uno de los ríos más hermosos de Europa.",
+      "imagenes": [
+        {
+          "url": "eurotrip-balcanes-24-dias/rio-soca-7ca004.jpg",
+          "alt": "Río Soča",
+          "credito": "Johann Jaritz",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Bovec_Spodnja_Trenta_So%C4%8Da_10032015_0684.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "11:00",
+          "nombre": "Miradores del valle del Soča",
+          "descripcion": "Paradas panorámicas en el valle alpino.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "naturaleza",
+          "coords": {
+            "lat": 46.337,
+            "lng": 13.579
+          }
+        },
+        {
+          "hora": "13:30",
+          "nombre": "Rafting en el río Soča",
+          "descripcion": "Descenso guiado en aguas bravas con equipo de seguridad.",
+          "duracion": "3 h",
+          "costo": 75,
+          "tipo": "aventura",
+          "coords": {
+            "lat": 46.332,
+            "lng": 13.59
+          },
+          "consejo": "Actividad sujeta al caudal, temperatura del agua y evaluación del operador."
+        },
+        {
+          "hora": "17:30",
+          "nombre": "Cascada Virje",
+          "descripcion": "Caminata corta hasta una cascada rodeada de vegetación.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "naturaleza",
+          "coords": {
+            "lat": 46.328,
+            "lng": 13.523
+          }
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "19:00",
+          "nombre": "Experiencia de bienestar alpino",
+          "descripcion": "Sesión privada de recuperación muscular y spa.",
+          "duracion": "1 h",
+          "costo": 65,
+          "tipo": "descanso",
+          "coords": {
+            "lat": 46.3375,
+            "lng": 13.5525
+          }
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "07:30",
+            "momento": "desayuno",
+            "lugar": "Panadería de Bled",
+            "plato": "Pan y café",
+            "costo": 7
+          },
+          {
+            "hora": "12:15",
+            "momento": "almuerzo",
+            "lugar": "Supermercado en Bovec",
+            "plato": "Sándwich y fruta",
+            "costo": 10
+          },
+          {
+            "hora": "20:30",
+            "momento": "cena",
+            "lugar": "Gostilna Sovdat",
+            "plato": "Plato tradicional alpino",
+            "costo": 20
+          }
+        ],
+        "medio": [
+          {
+            "hora": "07:30",
+            "momento": "desayuno",
+            "lugar": "Hotel Bled",
+            "plato": "Buffet",
+            "costo": 0
+          },
+          {
+            "hora": "12:15",
+            "momento": "almuerzo",
+            "lugar": "Restaurante en Bovec",
+            "plato": "Pasta y bebida",
+            "costo": 22
+          },
+          {
+            "hora": "20:30",
+            "momento": "cena",
+            "lugar": "Gostilna Sovdat",
+            "plato": "Trucha con vegetales",
+            "costo": 35
+          }
+        ],
+        "alto": [
+          {
+            "hora": "07:30",
+            "momento": "desayuno",
+            "lugar": "Hotel Bled",
+            "plato": "Buffet premium",
+            "costo": 0
+          },
+          {
+            "hora": "12:15",
+            "momento": "almuerzo",
+            "lugar": "Restaurante en Bovec",
+            "plato": "Almuerzo completo",
+            "costo": 40
+          },
+          {
+            "hora": "20:30",
+            "momento": "cena",
+            "lugar": "Restaurante boutique en Bovec",
+            "plato": "Menú regional de temporada",
+            "costo": 75
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "08:00",
+          "de": "Bled",
+          "a": "Bovec",
+          "medio": "Bus regional con conexiones",
+          "duracion": "3 h",
+          "costo": 20
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "08:00",
+          "de": "Bled",
+          "a": "Bovec",
+          "medio": "Minibús compartido",
+          "duracion": "2 h 30 min",
+          "costo": 45
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "08:00",
+          "de": "Bled",
+          "a": "Bovec",
+          "medio": "Vehículo privado",
+          "duracion": "2 h 15 min",
+          "costo": 95
+        },
+        {
+          "niveles": [
+            "economico",
+            "medio"
+          ],
+          "hora": "17:00",
+          "de": "Centro de Bovec",
+          "a": "Cascada Virje y regreso",
+          "medio": "Taxi compartido",
+          "duracion": "30 min en total",
+          "costo": 12
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "17:00",
+          "de": "Centro de Bovec",
+          "a": "Cascada Virje y regreso",
+          "medio": "Vehículo privado",
+          "duracion": "30 min en total",
+          "costo": 25
+        }
+      ],
+      "planB": "Si se cancela el rafting por seguridad, realizar una caminata guiada de baja dificultad por el valle."
+    },
+    {
+      "dia": 12,
+      "titulo": "Croacia: Zagreb y su ciudad alta",
+      "ciudad": "Zagreb",
+      "coords": {
+        "lat": 45.815,
+        "lng": 15.9819
+      },
+      "resumen": "Salida de los Alpes eslovenos hacia la capital croata.",
+      "imagenes": [
+        {
+          "url": "eurotrip-balcanes-24-dias/iglesia-de-san-marcos-zagreb-ce45f0.jpg",
+          "alt": "Iglesia de San Marcos, Zagreb",
+          "credito": "Paula Borkovic",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Roof_of_St,_Mark%27s_Church,_Zagreb.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "15:00",
+          "nombre": "Plaza Ban Jelačić",
+          "descripcion": "Recorrido por la plaza central de Zagreb.",
+          "duracion": "45 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 45.8131,
+            "lng": 15.9772
+          }
+        },
+        {
+          "hora": "16:00",
+          "nombre": "Iglesia de San Marcos",
+          "descripcion": "Visita exterior a la iglesia reconocida por su tejado de colores.",
+          "duracion": "45 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 45.8163,
+            "lng": 15.9737
+          }
+        },
+        {
+          "hora": "17:00",
+          "nombre": "Puerta de Piedra",
+          "descripcion": "Recorrido por una de las puertas históricas conservadas de la ciudad.",
+          "duracion": "45 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 45.8154,
+            "lng": 15.9745
+          }
+        },
+        {
+          "hora": "20:30",
+          "nombre": "Calle Tkalčićeva",
+          "descripcion": "Paseo nocturno por una calle conocida por sus bares y terrazas.",
+          "duracion": "1 h 30 min",
+          "costo": 0,
+          "tipo": "vida-nocturna",
+          "coords": {
+            "lat": 45.815,
+            "lng": 15.976
+          }
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "07:00",
+            "momento": "desayuno",
+            "lugar": "Supermercado Bovec",
+            "plato": "Desayuno para llevar",
+            "costo": 7
+          },
+          {
+            "hora": "12:30",
+            "momento": "almuerzo",
+            "lugar": "Parada en ruta",
+            "plato": "Sándwich y bebida",
+            "costo": 12
+          },
+          {
+            "hora": "19:00",
+            "momento": "cena",
+            "lugar": "La Štruk",
+            "plato": "Štrukli croata",
+            "costo": 15
+          }
+        ],
+        "medio": [
+          {
+            "hora": "07:00",
+            "momento": "desayuno",
+            "lugar": "Hotel Bovec",
+            "plato": "Buffet",
+            "costo": 0
+          },
+          {
+            "hora": "12:30",
+            "momento": "almuerzo",
+            "lugar": "Restaurante en ruta",
+            "plato": "Menú del día",
+            "costo": 22
+          },
+          {
+            "hora": "19:00",
+            "momento": "cena",
+            "lugar": "Stari Fijaker",
+            "plato": "Especialidad croata",
+            "costo": 30
+          }
+        ],
+        "alto": [
+          {
+            "hora": "07:00",
+            "momento": "desayuno",
+            "lugar": "Hotel Bovec",
+            "plato": "Buffet premium",
+            "costo": 0
+          },
+          {
+            "hora": "12:30",
+            "momento": "almuerzo",
+            "lugar": "Restaurante en ruta",
+            "plato": "Almuerzo completo",
+            "costo": 40
+          },
+          {
+            "hora": "19:00",
+            "momento": "cena",
+            "lugar": "Noel Zagreb",
+            "plato": "Menú degustación",
+            "costo": 120
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "08:00",
+          "de": "Bovec",
+          "a": "Zagreb",
+          "medio": "Buses regionales con conexiones",
+          "duracion": "6 h",
+          "costo": 38
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "08:00",
+          "de": "Bovec",
+          "a": "Zagreb",
+          "medio": "Traslado compartido",
+          "duracion": "5 h",
+          "costo": 75
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "08:00",
+          "de": "Bovec",
+          "a": "Zagreb",
+          "medio": "Vehículo privado",
+          "duracion": "4 h",
+          "costo": 155
+        }
+      ],
+      "planB": "En caso de llegada tardía, recorrer únicamente la Ciudad Alta y la calle Tkalčićeva."
+    },
+    {
+      "dia": 13,
+      "titulo": "Lagos de Plitvice: cascadas y bosques",
+      "ciudad": "Plitvice",
+      "coords": {
+        "lat": 44.88,
+        "lng": 15.616
+      },
+      "resumen": "Exploración del Parque Nacional de los Lagos de Plitvice, uno de los grandes paisajes naturales de Croacia.",
+      "imagenes": [
+        {
+          "url": "eurotrip-balcanes-24-dias/parque-nacional-de-plitvice-80df2a.jpg",
+          "alt": "Parque Nacional de Plitvice",
+          "credito": "Berthold Werner",
+          "licencia": "CC BY-SA 3.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Plitvice_Lakes_National_Park_BW_2014-10-13_13-29-14.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "10:30",
+          "nombre": "Lagos inferiores",
+          "descripcion": "Caminata por pasarelas junto a lagos y cascadas.",
+          "duracion": "2 h",
+          "costo": 30,
+          "tipo": "naturaleza",
+          "coords": {
+            "lat": 44.902,
+            "lng": 15.61
+          },
+          "consejo": "La entrada única cubre todo el parque, incluidos el barco y el tren panorámico."
+        },
+        {
+          "hora": "13:30",
+          "nombre": "Veliki Slap",
+          "descripcion": "Observación de la gran cascada del parque.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "naturaleza",
+          "coords": {
+            "lat": 44.9025,
+            "lng": 15.609
+          }
+        },
+        {
+          "hora": "15:00",
+          "nombre": "Lagos superiores",
+          "descripcion": "Recorrido por sectores boscosos y lagos escalonados.",
+          "duracion": "2 h",
+          "costo": 0,
+          "tipo": "naturaleza",
+          "coords": {
+            "lat": 44.87,
+            "lng": 15.602
+          }
+        },
+        {
+          "hora": "17:15",
+          "nombre": "Miradores del parque",
+          "descripcion": "Últimas panorámicas antes de salir.",
+          "duracion": "45 min",
+          "costo": 0,
+          "tipo": "naturaleza",
+          "coords": {
+            "lat": 44.9,
+            "lng": 15.61
+          }
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "07:00",
+            "momento": "desayuno",
+            "lugar": "Panadería Zagreb",
+            "plato": "Burek y café",
+            "costo": 7
+          },
+          {
+            "hora": "12:45",
+            "momento": "almuerzo",
+            "lugar": "Zona de picnic Plitvice",
+            "plato": "Sándwich preparado y fruta",
+            "costo": 11
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Restaurante local en Korenica",
+            "plato": "Carne a la parrilla",
+            "costo": 18
+          }
+        ],
+        "medio": [
+          {
+            "hora": "07:00",
+            "momento": "desayuno",
+            "lugar": "Hotel Zagreb",
+            "plato": "Buffet",
+            "costo": 0
+          },
+          {
+            "hora": "12:45",
+            "momento": "almuerzo",
+            "lugar": "Restaurante del parque",
+            "plato": "Plato caliente y bebida",
+            "costo": 25
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Restaurante local en Korenica",
+            "plato": "Trucha y papas",
+            "costo": 32
+          }
+        ],
+        "alto": [
+          {
+            "hora": "07:00",
+            "momento": "desayuno",
+            "lugar": "Hotel Zagreb",
+            "plato": "Buffet premium",
+            "costo": 0
+          },
+          {
+            "hora": "12:45",
+            "momento": "almuerzo",
+            "lugar": "Restaurante del parque",
+            "plato": "Almuerzo completo",
+            "costo": 40
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Restaurante de alojamiento rural",
+            "plato": "Cena regional de varios tiempos",
+            "costo": 65
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "08:00",
+          "de": "Zagreb",
+          "a": "Plitvice",
+          "medio": "Bus interurbano",
+          "duracion": "2 h 30 min",
+          "costo": 18
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "08:00",
+          "de": "Zagreb",
+          "a": "Plitvice",
+          "medio": "Minibús compartido",
+          "duracion": "2 h 15 min",
+          "costo": 35
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "08:00",
+          "de": "Zagreb",
+          "a": "Plitvice",
+          "medio": "Vehículo privado",
+          "duracion": "2 h 15 min",
+          "costo": 95
+        }
+      ],
+      "planB": "Si las rutas de pasarelas están cerradas por inundaciones, utilizar únicamente los circuitos autorizados y visitar el centro de interpretación."
+    },
+    {
+      "dia": 14,
+      "titulo": "Split: el Adriático y el palacio romano",
+      "ciudad": "Split",
+      "coords": {
+        "lat": 43.5081,
+        "lng": 16.4402
+      },
+      "resumen": "Traslado a la costa dálmata y exploración del centro histórico de Split.",
+      "imagenes": [
+        {
+          "url": "eurotrip-balcanes-24-dias/palacio-de-diocleciano-en-split-def0da.jpg",
+          "alt": "Palacio de Diocleciano en Split",
+          "credito": "Bernard Gagnon",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:View_of_Diocletian%27s_Palace,_Split_01.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "12:30",
+          "nombre": "Palacio de Diocleciano",
+          "descripcion": "Exploración del conjunto romano integrado en el casco antiguo.",
+          "duracion": "1 h 30 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 43.5083,
+            "lng": 16.4402
+          }
+        },
+        {
+          "hora": "15:00",
+          "nombre": "Paseo Riva",
+          "descripcion": "Caminata junto al puerto y sus terrazas.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "descanso",
+          "coords": {
+            "lat": 43.5065,
+            "lng": 16.438
+          }
+        },
+        {
+          "hora": "16:30",
+          "nombre": "Mirador de Marjan",
+          "descripcion": "Ascenso a un mirador sobre la ciudad y el mar.",
+          "duracion": "1 h 30 min",
+          "costo": 0,
+          "tipo": "naturaleza",
+          "coords": {
+            "lat": 43.5115,
+            "lng": 16.43
+          }
+        },
+        {
+          "hora": "21:30",
+          "nombre": "Noche en Split",
+          "descripcion": "Recorrido por bares y locales del casco antiguo.",
+          "duracion": "2 h",
+          "costo": 0,
+          "tipo": "vida-nocturna",
+          "coords": {
+            "lat": 43.508,
+            "lng": 16.44
+          }
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "07:00",
+            "momento": "desayuno",
+            "lugar": "Supermercado Plitvice",
+            "plato": "Pan, yogur y fruta",
+            "costo": 7
+          },
+          {
+            "hora": "14:15",
+            "momento": "almuerzo",
+            "lugar": "Kantun Paulina",
+            "plato": "Ćevapi",
+            "costo": 12
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Fife",
+            "plato": "Pescado con acompañamiento",
+            "costo": 20
+          }
+        ],
+        "medio": [
+          {
+            "hora": "07:00",
+            "momento": "desayuno",
+            "lugar": "Hotel Plitvice",
+            "plato": "Buffet",
+            "costo": 0
+          },
+          {
+            "hora": "14:15",
+            "momento": "almuerzo",
+            "lugar": "Konoba Fetivi",
+            "plato": "Pescado del Adriático",
+            "costo": 30
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Bokeria Kitchen & Wine",
+            "plato": "Cocina mediterránea",
+            "costo": 42
+          }
+        ],
+        "alto": [
+          {
+            "hora": "07:00",
+            "momento": "desayuno",
+            "lugar": "Hotel Plitvice",
+            "plato": "Buffet premium",
+            "costo": 0
+          },
+          {
+            "hora": "14:15",
+            "momento": "almuerzo",
+            "lugar": "Zrno Soli",
+            "plato": "Mariscos y pescado",
+            "costo": 65
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Dvor",
+            "plato": "Cena mediterránea frente al mar",
+            "costo": 95
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "08:30",
+          "de": "Plitvice",
+          "a": "Split",
+          "medio": "Bus interurbano",
+          "duracion": "3 h 30 min",
+          "costo": 25
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "08:30",
+          "de": "Plitvice",
+          "a": "Split",
+          "medio": "Minibús compartido",
+          "duracion": "3 h",
+          "costo": 45
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "08:30",
+          "de": "Plitvice",
+          "a": "Split",
+          "medio": "Vehículo privado",
+          "duracion": "3 h",
+          "costo": 115
+        }
+      ],
+      "planB": "En caso de lluvia, dedicar más tiempo al Palacio de Diocleciano y al Museo de la Ciudad de Split."
+    },
+    {
+      "dia": 15,
+      "titulo": "Bosnia: llegada a Mostar",
+      "ciudad": "Mostar",
+      "coords": {
+        "lat": 43.3438,
+        "lng": 17.8078
+      },
+      "resumen": "Cruce fronterizo hacia Bosnia y Herzegovina y exploración de Mostar.",
+      "imagenes": [
+        {
+          "url": "eurotrip-balcanes-24-dias/mostar-sobre-el-neretva-792947.jpg",
+          "alt": "Mostar sobre el Neretva",
+          "credito": "Ramirez HUN",
+          "licencia": "CC BY-SA 3.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Mostar_Old_Town_Panorama.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "13:00",
+          "nombre": "Puente Viejo de Mostar",
+          "descripcion": "Visita al Stari Most, símbolo histórico de la ciudad.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 43.3373,
+            "lng": 17.815
+          }
+        },
+        {
+          "hora": "14:30",
+          "nombre": "Bazar Kujundžiluk",
+          "descripcion": "Exploración de callejones otomanos, artesanías y tiendas tradicionales.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "compras",
+          "coords": {
+            "lat": 43.338,
+            "lng": 17.8145
+          }
+        },
+        {
+          "hora": "16:00",
+          "nombre": "Mezquita Koski Mehmed Pasha",
+          "descripcion": "Visita al entorno de la mezquita y su arquitectura otomana.",
+          "duracion": "1 h",
+          "costo": 8,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 43.339,
+            "lng": 17.8155
+          }
+        },
+        {
+          "hora": "18:00",
+          "nombre": "Ribera del Neretva",
+          "descripcion": "Paseo al atardecer junto al río.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "naturaleza",
+          "coords": {
+            "lat": 43.3365,
+            "lng": 17.815
+          }
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "07:30",
+            "momento": "desayuno",
+            "lugar": "Panadería Split",
+            "plato": "Burek y café",
+            "costo": 7
+          },
+          {
+            "hora": "12:00",
+            "momento": "almuerzo",
+            "lugar": "Restaurante de carretera",
+            "plato": "Sándwich y bebida",
+            "costo": 11
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Ćevabdžinica Tima-Irma",
+            "plato": "Ćevapi bosnio",
+            "costo": 13
+          }
+        ],
+        "medio": [
+          {
+            "hora": "07:30",
+            "momento": "desayuno",
+            "lugar": "Hotel Split",
+            "plato": "Buffet",
+            "costo": 0
+          },
+          {
+            "hora": "12:00",
+            "momento": "almuerzo",
+            "lugar": "Restaurante de carretera",
+            "plato": "Menú del día",
+            "costo": 20
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Hindin Han",
+            "plato": "Parrillada bosnia",
+            "costo": 28
+          }
+        ],
+        "alto": [
+          {
+            "hora": "07:30",
+            "momento": "desayuno",
+            "lugar": "Hotel Split",
+            "plato": "Buffet premium",
+            "costo": 0
+          },
+          {
+            "hora": "12:00",
+            "momento": "almuerzo",
+            "lugar": "Restaurante de carretera",
+            "plato": "Almuerzo completo",
+            "costo": 35
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Restaurante del Hotel Mepas",
+            "plato": "Cena de cocina balcánica",
+            "costo": 65
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "08:00",
+          "de": "Split",
+          "a": "Mostar",
+          "medio": "Bus internacional",
+          "duracion": "4 h 30 min",
+          "costo": 25
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "08:00",
+          "de": "Split",
+          "a": "Mostar",
+          "medio": "Minibús compartido",
+          "duracion": "4 h",
+          "costo": 45
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "08:00",
+          "de": "Split",
+          "a": "Mostar",
+          "medio": "Vehículo privado",
+          "duracion": "3 h 30 min",
+          "costo": 110
+        }
+      ],
+      "planB": "Si el paso fronterizo presenta demoras, concentrar las visitas en el Puente Viejo y el bazar."
+    },
+    {
+      "dia": 16,
+      "titulo": "Blagaj y Sarajevo: culturas de los Balcanes",
+      "ciudad": "Sarajevo",
+      "coords": {
+        "lat": 43.8563,
+        "lng": 18.4131
+      },
+      "resumen": "Visita al nacimiento del río Buna y continuación hacia Sarajevo.",
+      "imagenes": [
+        {
+          "url": "eurotrip-balcanes-24-dias/tekke-de-blagaj-b5aa9b.jpg",
+          "alt": "Tekke de Blagaj",
+          "credito": "Julian Nyča",
+          "licencia": "CC BY-SA 3.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Blagaj_%E2%80%93_Vrelo_Bune_3.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "09:00",
+          "nombre": "Blagaj Tekke",
+          "descripcion": "Visita al histórico monasterio sufí junto al nacimiento del río Buna.",
+          "duracion": "1 h 30 min",
+          "costo": 5,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 43.2569,
+            "lng": 17.9025
+          }
+        },
+        {
+          "hora": "15:00",
+          "nombre": "Baščaršija",
+          "descripcion": "Exploración del bazar otomano de Sarajevo.",
+          "duracion": "1 h 30 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 43.8591,
+            "lng": 18.431
+          }
+        },
+        {
+          "hora": "17:00",
+          "nombre": "Puente Latino",
+          "descripcion": "Visita al lugar asociado con el asesinato del archiduque Francisco Fernando en 1914.",
+          "duracion": "45 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 43.8576,
+            "lng": 18.429
+          }
+        },
+        {
+          "hora": "18:00",
+          "nombre": "Fuente Sebilj",
+          "descripcion": "Paseo por uno de los símbolos del casco antiguo.",
+          "duracion": "45 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 43.8595,
+            "lng": 18.4315
+          }
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "07:30",
+            "momento": "desayuno",
+            "lugar": "Panadería Mostar",
+            "plato": "Burek y yogur",
+            "costo": 6
+          },
+          {
+            "hora": "12:00",
+            "momento": "almuerzo",
+            "lugar": "Restaurante de carretera",
+            "plato": "Sándwich y bebida",
+            "costo": 10
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Ćevabdžinica Željo",
+            "plato": "Ćevapi con somun",
+            "costo": 12
+          }
+        ],
+        "medio": [
+          {
+            "hora": "07:30",
+            "momento": "desayuno",
+            "lugar": "Hotel Mostar",
+            "plato": "Buffet",
+            "costo": 0
+          },
+          {
+            "hora": "12:00",
+            "momento": "almuerzo",
+            "lugar": "Restaurante en ruta",
+            "plato": "Plato bosnio",
+            "costo": 20
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Inat Kuća",
+            "plato": "Sogan-dolma",
+            "costo": 28
+          }
+        ],
+        "alto": [
+          {
+            "hora": "07:30",
+            "momento": "desayuno",
+            "lugar": "Hotel Mostar",
+            "plato": "Buffet premium",
+            "costo": 0
+          },
+          {
+            "hora": "12:00",
+            "momento": "almuerzo",
+            "lugar": "Restaurante en ruta",
+            "plato": "Almuerzo completo",
+            "costo": 35
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "4 Sobe Gospođe Safije",
+            "plato": "Cena de cocina contemporánea",
+            "costo": 70
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "08:00",
+          "de": "Mostar",
+          "a": "Blagaj",
+          "medio": "Bus y taxi compartido",
+          "duracion": "40 min",
+          "costo": 8
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "08:00",
+          "de": "Mostar",
+          "a": "Blagaj",
+          "medio": "Taxi compartido",
+          "duracion": "25 min",
+          "costo": 15
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "08:00",
+          "de": "Mostar",
+          "a": "Blagaj",
+          "medio": "Vehículo privado",
+          "duracion": "25 min",
+          "costo": 35
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "11:00",
+          "de": "Blagaj",
+          "a": "Sarajevo",
+          "medio": "Taxi a Mostar y tren o bus a Sarajevo",
+          "duracion": "3 h 30 min",
+          "costo": 22
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "11:00",
+          "de": "Blagaj",
+          "a": "Sarajevo",
+          "medio": "Traslado compartido",
+          "duracion": "3 h",
+          "costo": 40
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "11:00",
+          "de": "Blagaj",
+          "a": "Sarajevo",
+          "medio": "Vehículo privado",
+          "duracion": "2 h 30 min",
+          "costo": 95
+        }
+      ],
+      "planB": "Si hay retrasos, omitir Blagaj y viajar directamente a Sarajevo."
+    },
+    {
+      "dia": 17,
+      "titulo": "Sarajevo y las huellas de la guerra",
+      "ciudad": "Sarajevo",
+      "coords": {
+        "lat": 43.8563,
+        "lng": 18.4131
+      },
+      "resumen": "Jornada dedicada a la historia contemporánea de Bosnia, sus miradores y su identidad multicultural.",
+      "imagenes": [
+        {
+          "url": "eurotrip-balcanes-24-dias/bascarsija-sarajevo-4e4248.jpg",
+          "alt": "Baščaršija, Sarajevo",
+          "credito": "I would appreciate being notified if you use my work outside Wikimedia. More of ",
+          "licencia": "CC BY 3.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Sarajevo,_Ba%C5%A1%C4%8Dar%C5%A1ija,_kopce.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "09:00",
+          "nombre": "Túnel de la Esperanza",
+          "descripcion": "Museo sobre el túnel utilizado durante el sitio de Sarajevo.",
+          "duracion": "1 h 30 min",
+          "costo": 8,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 43.8197,
+            "lng": 18.337
+          }
+        },
+        {
+          "hora": "12:00",
+          "nombre": "Galería 11/07/95",
+          "descripcion": "Exposición sobre el genocidio de Srebrenica.",
+          "duracion": "1 h 30 min",
+          "costo": 8,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 43.859,
+            "lng": 18.425
+          }
+        },
+        {
+          "hora": "15:00",
+          "nombre": "Mezquita Gazi Husrev-beg",
+          "descripcion": "Visita al entorno de una de las mezquitas históricas más importantes de Bosnia.",
+          "duracion": "1 h",
+          "costo": 3,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 43.859,
+            "lng": 18.428
+          }
+        },
+        {
+          "hora": "17:00",
+          "nombre": "Mirador de la Fortaleza Amarilla",
+          "descripcion": "Vista panorámica de Sarajevo entre montañas.",
+          "duracion": "1 h 30 min",
+          "costo": 0,
+          "tipo": "naturaleza",
+          "coords": {
+            "lat": 43.8615,
+            "lng": 18.44
+          }
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "08:00",
+            "momento": "desayuno",
+            "lugar": "Panadería local",
+            "plato": "Burek y café",
+            "costo": 6
+          },
+          {
+            "hora": "13:45",
+            "momento": "almuerzo",
+            "lugar": "Buregdžinica Bosna",
+            "plato": "Burek tradicional",
+            "costo": 9
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Ćevabdžinica Željo",
+            "plato": "Ćevapi",
+            "costo": 12
+          }
+        ],
+        "medio": [
+          {
+            "hora": "08:00",
+            "momento": "desayuno",
+            "lugar": "Hotel",
+            "plato": "Buffet",
+            "costo": 0
+          },
+          {
+            "hora": "13:45",
+            "momento": "almuerzo",
+            "lugar": "Dveri",
+            "plato": "Especialidad bosnia",
+            "costo": 25
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Inat Kuća",
+            "plato": "Cena tradicional",
+            "costo": 30
+          }
+        ],
+        "alto": [
+          {
+            "hora": "08:00",
+            "momento": "desayuno",
+            "lugar": "Hotel",
+            "plato": "Buffet premium",
+            "costo": 0
+          },
+          {
+            "hora": "13:45",
+            "momento": "almuerzo",
+            "lugar": "4 Sobe Gospođe Safije",
+            "plato": "Cocina contemporánea",
+            "costo": 50
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Kibe Mahala",
+            "plato": "Cena bosnia con vista panorámica",
+            "costo": 65
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "08:30",
+          "de": "Centro",
+          "a": "Túnel de la Esperanza y regreso",
+          "medio": "Bus y transporte urbano",
+          "duracion": "1 h 30 min en total",
+          "costo": 7
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "08:30",
+          "de": "Hotel",
+          "a": "Túnel de la Esperanza y regreso",
+          "medio": "Taxi compartido",
+          "duracion": "1 h en total",
+          "costo": 20
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "08:30",
+          "de": "Hotel",
+          "a": "Túnel de la Esperanza y visitas del día",
+          "medio": "Vehículo privado",
+          "duracion": "1 h 30 min de conducción total",
+          "costo": 65
+        }
+      ],
+      "planB": "Si el clima impide visitar el mirador, ampliar el recorrido por museos históricos."
+    },
+    {
+      "dia": 18,
+      "titulo": "Montenegro: la bahía de Kotor",
+      "ciudad": "Kotor",
+      "coords": {
+        "lat": 42.4247,
+        "lng": 18.7712
+      },
+      "resumen": "Traslado largo desde Sarajevo a Montenegro. Llegada a una ciudad medieval rodeada de montañas.",
+      "imagenes": [
+        {
+          "url": "eurotrip-balcanes-24-dias/casco-antiguo-de-kotor-0a0f38.jpg",
+          "alt": "Casco antiguo de Kotor",
+          "credito": "Jaakko Luttinen",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:View_of_Kotor_old_town.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "16:00",
+          "nombre": "Puerta del Mar",
+          "descripcion": "Entrada al casco histórico amurallado de Kotor.",
+          "duracion": "45 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 42.4247,
+            "lng": 18.77
+          }
+        },
+        {
+          "hora": "17:00",
+          "nombre": "Catedral de San Trifón",
+          "descripcion": "Visita exterior a la catedral románica.",
+          "duracion": "45 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 42.424,
+            "lng": 18.772
+          }
+        },
+        {
+          "hora": "18:00",
+          "nombre": "Callejones medievales",
+          "descripcion": "Exploración de plazas, pasajes y murallas.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 42.4245,
+            "lng": 18.772
+          }
+        },
+        {
+          "hora": "21:00",
+          "nombre": "Noche junto a la bahía",
+          "descripcion": "Paseo por terrazas y bares del centro.",
+          "duracion": "1 h 30 min",
+          "costo": 0,
+          "tipo": "vida-nocturna",
+          "coords": {
+            "lat": 42.425,
+            "lng": 18.769
+          }
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "06:30",
+            "momento": "desayuno",
+            "lugar": "Panadería Sarajevo",
+            "plato": "Burek y café",
+            "costo": 7
+          },
+          {
+            "hora": "12:30",
+            "momento": "almuerzo",
+            "lugar": "Parada en ruta",
+            "plato": "Sándwich y bebida",
+            "costo": 12
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "BBQ Tanjga",
+            "plato": "Parrillada balcánica",
+            "costo": 17
+          }
+        ],
+        "medio": [
+          {
+            "hora": "06:30",
+            "momento": "desayuno",
+            "lugar": "Hotel Sarajevo",
+            "plato": "Buffet",
+            "costo": 0
+          },
+          {
+            "hora": "12:30",
+            "momento": "almuerzo",
+            "lugar": "Restaurante en ruta",
+            "plato": "Almuerzo completo",
+            "costo": 22
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Konoba Scala Santa",
+            "plato": "Pescado y vegetales",
+            "costo": 35
+          }
+        ],
+        "alto": [
+          {
+            "hora": "06:30",
+            "momento": "desayuno",
+            "lugar": "Hotel Sarajevo",
+            "plato": "Buffet premium",
+            "costo": 0
+          },
+          {
+            "hora": "12:30",
+            "momento": "almuerzo",
+            "lugar": "Restaurante en ruta",
+            "plato": "Almuerzo completo",
+            "costo": 40
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Galion",
+            "plato": "Mariscos y pescado del Adriático",
+            "costo": 90
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "07:00",
+          "de": "Sarajevo",
+          "a": "Kotor",
+          "medio": "Bus internacional con conexión",
+          "duracion": "8 h 30 min",
+          "costo": 40
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "07:00",
+          "de": "Sarajevo",
+          "a": "Kotor",
+          "medio": "Minibús compartido",
+          "duracion": "7 h",
+          "costo": 75
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "07:00",
+          "de": "Sarajevo",
+          "a": "Kotor",
+          "medio": "Vehículo privado",
+          "duracion": "6 h 30 min",
+          "costo": 170
+        }
+      ],
+      "planB": "Si la frontera presenta demoras importantes, realizar únicamente el paseo nocturno por Kotor."
+    },
+    {
+      "dia": 19,
+      "titulo": "Kotor desde el mar y las montañas",
+      "ciudad": "Kotor",
+      "coords": {
+        "lat": 42.4247,
+        "lng": 18.7712
+      },
+      "resumen": "Día de aventura y paisajes en la bahía de Kotor.",
+      "imagenes": [
+        {
+          "url": "eurotrip-balcanes-24-dias/nuestra-senora-de-las-rocas-perast-5f533f.jpg",
+          "alt": "Nuestra Señora de las Rocas, Perast",
+          "credito": "Jocelyn Erskine-Kellie from London, UK",
+          "licencia": "CC BY-SA 2.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Church_of_Our_Lady_of_the_Rocks,_Perast_(49631172447).jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "08:00",
+          "nombre": "Ascenso a la Fortaleza de San Juan",
+          "descripcion": "Subida por las escaleras históricas hasta una panorámica de la bahía.",
+          "duracion": "2 h 30 min",
+          "costo": 15,
+          "tipo": "aventura",
+          "coords": {
+            "lat": 42.423,
+            "lng": 18.7765
+          },
+          "consejo": "Llevar agua y evitar el ascenso con calor intenso."
+        },
+        {
+          "hora": "12:00",
+          "nombre": "Paseo por el puerto",
+          "descripcion": "Recorrido junto a embarcaciones y vistas de las montañas.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "naturaleza",
+          "coords": {
+            "lat": 42.426,
+            "lng": 18.768
+          }
+        },
+        {
+          "hora": "15:00",
+          "nombre": "Excursión en barco por la bahía",
+          "descripcion": "Paseo compartido por la bahía, sujeto a condiciones marítimas.",
+          "duracion": "2 h",
+          "costo": 35,
+          "tipo": "aventura",
+          "coords": {
+            "lat": 42.425,
+            "lng": 18.767
+          }
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "18:00",
+          "nombre": "Experiencia privada al atardecer",
+          "descripcion": "Paseo adicional en embarcación privada compartida.",
+          "duracion": "1 h",
+          "costo": 85,
+          "tipo": "descanso",
+          "coords": {
+            "lat": 42.425,
+            "lng": 18.767
+          }
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "07:00",
+            "momento": "desayuno",
+            "lugar": "Panadería Kotor",
+            "plato": "Burek y yogur",
+            "costo": 7
+          },
+          {
+            "hora": "13:15",
+            "momento": "almuerzo",
+            "lugar": "BBQ Tanjga",
+            "plato": "Carne a la parrilla",
+            "costo": 15
+          },
+          {
+            "hora": "20:00",
+            "momento": "cena",
+            "lugar": "Pizzería del casco antiguo",
+            "plato": "Pizza individual",
+            "costo": 15
+          }
+        ],
+        "medio": [
+          {
+            "hora": "07:00",
+            "momento": "desayuno",
+            "lugar": "Hotel",
+            "plato": "Buffet",
+            "costo": 0
+          },
+          {
+            "hora": "13:15",
+            "momento": "almuerzo",
+            "lugar": "Konoba Scala Santa",
+            "plato": "Pasta con mariscos",
+            "costo": 30
+          },
+          {
+            "hora": "20:00",
+            "momento": "cena",
+            "lugar": "Konoba Portun",
+            "plato": "Pescado fresco",
+            "costo": 40
+          }
+        ],
+        "alto": [
+          {
+            "hora": "07:00",
+            "momento": "desayuno",
+            "lugar": "Hotel",
+            "plato": "Buffet premium",
+            "costo": 0
+          },
+          {
+            "hora": "13:15",
+            "momento": "almuerzo",
+            "lugar": "Galion",
+            "plato": "Mariscos",
+            "costo": 65
+          },
+          {
+            "hora": "20:00",
+            "momento": "cena",
+            "lugar": "Restaurante de Porto Montenegro",
+            "plato": "Cena mediterránea",
+            "costo": 95
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "niveles": [
+            "economico",
+            "medio"
+          ],
+          "hora": "14:30",
+          "de": "Alojamiento",
+          "a": "Puerto de Kotor",
+          "medio": "Transporte local",
+          "duracion": "15 min",
+          "costo": 3
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "14:30",
+          "de": "Hotel",
+          "a": "Puerto de Kotor",
+          "medio": "Taxi privado",
+          "duracion": "15 min",
+          "costo": 15
+        }
+      ],
+      "planB": "Si el mar está agitado, sustituir la navegación por una visita a Perast y sus edificios históricos."
+    },
+    {
+      "dia": 20,
+      "titulo": "Albania: rumbo a los Alpes albaneses",
+      "ciudad": "Shkodër",
+      "coords": {
+        "lat": 42.0683,
+        "lng": 19.5126
+      },
+      "resumen": "Cruce a Albania y preparación para visitar Theth.",
+      "imagenes": [
+        {
+          "url": "eurotrip-balcanes-24-dias/castillo-de-rozafa-en-shkoder-876a80.jpg",
+          "alt": "Castillo de Rozafa en Shkodër",
+          "credito": "Pasztilla aka Attila Terbócs",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Rozafa_Castle,_Shkod%C3%ABr,_plain_2016.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "13:00",
+          "nombre": "Castillo de Rozafa",
+          "descripcion": "Visita a la fortaleza histórica con vistas de los ríos y el lago.",
+          "duracion": "1 h 30 min",
+          "costo": 4,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 42.0476,
+            "lng": 19.493
+          }
+        },
+        {
+          "hora": "15:00",
+          "nombre": "Centro histórico de Shkodër",
+          "descripcion": "Exploración de calles peatonales y arquitectura albanesa.",
+          "duracion": "1 h 30 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 42.0683,
+            "lng": 19.5126
+          }
+        },
+        {
+          "hora": "17:00",
+          "nombre": "Lago Shkodër",
+          "descripcion": "Paseo junto a uno de los mayores lagos de los Balcanes.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "naturaleza",
+          "coords": {
+            "lat": 42.064,
+            "lng": 19.477
+          }
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "07:30",
+            "momento": "desayuno",
+            "lugar": "Panadería Kotor",
+            "plato": "Burek y café",
+            "costo": 7
+          },
+          {
+            "hora": "12:00",
+            "momento": "almuerzo",
+            "lugar": "Restaurante local Shkodër",
+            "plato": "Qofte y ensalada",
+            "costo": 11
+          },
+          {
+            "hora": "20:00",
+            "momento": "cena",
+            "lugar": "Tradita Geg & Tosk",
+            "plato": "Especialidad albanesa",
+            "costo": 17
+          }
+        ],
+        "medio": [
+          {
+            "hora": "07:30",
+            "momento": "desayuno",
+            "lugar": "Hotel Kotor",
+            "plato": "Buffet",
+            "costo": 0
+          },
+          {
+            "hora": "12:00",
+            "momento": "almuerzo",
+            "lugar": "Restaurante local Shkodër",
+            "plato": "Plato albanés",
+            "costo": 20
+          },
+          {
+            "hora": "20:00",
+            "momento": "cena",
+            "lugar": "Tradita Geg & Tosk",
+            "plato": "Cena tradicional",
+            "costo": 30
+          }
+        ],
+        "alto": [
+          {
+            "hora": "07:30",
+            "momento": "desayuno",
+            "lugar": "Hotel Kotor",
+            "plato": "Buffet premium",
+            "costo": 0
+          },
+          {
+            "hora": "12:00",
+            "momento": "almuerzo",
+            "lugar": "Restaurante de Shkodër",
+            "plato": "Almuerzo completo",
+            "costo": 35
+          },
+          {
+            "hora": "20:00",
+            "momento": "cena",
+            "lugar": "Tradita Geg & Tosk",
+            "plato": "Menú regional completo",
+            "costo": 50
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "08:00",
+          "de": "Kotor",
+          "a": "Shkodër",
+          "medio": "Bus con conexión fronteriza",
+          "duracion": "4 h",
+          "costo": 25
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "08:00",
+          "de": "Kotor",
+          "a": "Shkodër",
+          "medio": "Minibús compartido",
+          "duracion": "3 h 30 min",
+          "costo": 45
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "08:00",
+          "de": "Kotor",
+          "a": "Shkodër",
+          "medio": "Vehículo privado",
+          "duracion": "3 h",
+          "costo": 100
+        },
+        {
+          "niveles": [
+            "economico",
+            "medio"
+          ],
+          "hora": "16:45",
+          "de": "Centro Shkodër",
+          "a": "Lago y regreso",
+          "medio": "Taxi compartido",
+          "duracion": "30 min en total",
+          "costo": 8
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "16:45",
+          "de": "Centro Shkodër",
+          "a": "Lago y regreso",
+          "medio": "Vehículo privado",
+          "duracion": "30 min en total",
+          "costo": 20
+        }
+      ],
+      "planB": "Si hay demoras fronterizas, visitar solamente el centro histórico."
+    },
+    {
+      "dia": 21,
+      "titulo": "Theth: las montañas salvajes de Albania",
+      "ciudad": "Theth",
+      "coords": {
+        "lat": 42.395,
+        "lng": 19.774
+      },
+      "resumen": "Excursión a uno de los pueblos más espectaculares de los Alpes albaneses.",
+      "imagenes": [
+        {
+          "url": "eurotrip-balcanes-24-dias/valle-de-theth-fc90cb.jpg",
+          "alt": "Valle de Theth",
+          "credito": "Tom.whitehead337",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Theth_Valley,_June_2024.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "11:00",
+          "nombre": "Iglesia de Theth",
+          "descripcion": "Visita a la pequeña iglesia rodeada de montañas.",
+          "duracion": "45 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 42.395,
+            "lng": 19.774
+          }
+        },
+        {
+          "hora": "12:00",
+          "nombre": "Pueblo de Theth",
+          "descripcion": "Recorrido por casas tradicionales y paisajes rurales.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 42.395,
+            "lng": 19.774
+          }
+        },
+        {
+          "hora": "14:00",
+          "nombre": "Cascada de Grunas",
+          "descripcion": "Senderismo guiado hasta una cascada alpina.",
+          "duracion": "2 h 30 min",
+          "costo": 15,
+          "tipo": "aventura",
+          "coords": {
+            "lat": 42.382,
+            "lng": 19.784
+          },
+          "consejo": "No intentar rutas altas si hay nieve o lluvia intensa."
+        },
+        {
+          "hora": "17:00",
+          "nombre": "Atardecer en el valle",
+          "descripcion": "Contemplación del paisaje montañoso desde el pueblo.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "naturaleza",
+          "coords": {
+            "lat": 42.395,
+            "lng": 19.774
+          }
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "06:30",
+            "momento": "desayuno",
+            "lugar": "Panadería Shkodër",
+            "plato": "Pan, queso y café",
+            "costo": 6
+          },
+          {
+            "hora": "13:00",
+            "momento": "almuerzo",
+            "lugar": "Guesthouse en Theth",
+            "plato": "Sopa y pan casero",
+            "costo": 12
+          },
+          {
+            "hora": "19:00",
+            "momento": "cena",
+            "lugar": "Guesthouse en Theth",
+            "plato": "Cena casera albanesa",
+            "costo": 0
+          }
+        ],
+        "medio": [
+          {
+            "hora": "06:30",
+            "momento": "desayuno",
+            "lugar": "Hotel Shkodër",
+            "plato": "Buffet",
+            "costo": 0
+          },
+          {
+            "hora": "13:00",
+            "momento": "almuerzo",
+            "lugar": "Guesthouse en Theth",
+            "plato": "Plato de montaña",
+            "costo": 20
+          },
+          {
+            "hora": "19:00",
+            "momento": "cena",
+            "lugar": "Guesthouse en Theth",
+            "plato": "Cena tradicional",
+            "costo": 0
+          }
+        ],
+        "alto": [
+          {
+            "hora": "06:30",
+            "momento": "desayuno",
+            "lugar": "Hotel Shkodër",
+            "plato": "Buffet premium",
+            "costo": 0
+          },
+          {
+            "hora": "13:00",
+            "momento": "almuerzo",
+            "lugar": "Guesthouse en Theth",
+            "plato": "Almuerzo regional",
+            "costo": 30
+          },
+          {
+            "hora": "19:00",
+            "momento": "cena",
+            "lugar": "Guesthouse en Theth",
+            "plato": "Cena de productos locales",
+            "costo": 0
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "07:00",
+          "de": "Shkodër",
+          "a": "Theth",
+          "medio": "Minibús de montaña",
+          "duracion": "3 h 30 min",
+          "costo": 15
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "07:00",
+          "de": "Shkodër",
+          "a": "Theth",
+          "medio": "Minibús compartido reservado",
+          "duracion": "3 h",
+          "costo": 30
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "07:00",
+          "de": "Shkodër",
+          "a": "Theth",
+          "medio": "Vehículo 4x4 privado compartido",
+          "duracion": "2 h 45 min",
+          "costo": 85
+        }
+      ],
+      "planB": "Si el acceso a Theth está cerrado por nieve o desprendimientos, permanecer en Shkodër y realizar una excursión segura a los alrededores del lago."
+    },
+    {
+      "dia": 22,
+      "titulo": "De las montañas a Tirana",
+      "ciudad": "Tirana",
+      "coords": {
+        "lat": 41.3275,
+        "lng": 19.8187
+      },
+      "resumen": "Salida temprana de Theth hacia la capital albanesa.",
+      "imagenes": [
+        {
+          "url": "eurotrip-balcanes-24-dias/plaza-skanderbeg-en-tirana-aea286.jpg",
+          "alt": "Plaza Skanderbeg en Tirana",
+          "credito": "Pudelek",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Tirana_-_Skanderbeg_Square_(Sheshi_Sk%C3%ABnderbej)_-_by_Pudelek.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "15:00",
+          "nombre": "Plaza Skanderbeg",
+          "descripcion": "Visita a la plaza central y sus edificios históricos.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 41.3275,
+            "lng": 19.8187
+          }
+        },
+        {
+          "hora": "16:15",
+          "nombre": "Bunk'Art 2",
+          "descripcion": "Museo instalado en un antiguo búnker dedicado a la historia de la dictadura albanesa.",
+          "duracion": "1 h 30 min",
+          "costo": 9,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 41.3267,
+            "lng": 19.82
+          },
+          "link": "https://bunkart.al/"
+        },
+        {
+          "hora": "18:00",
+          "nombre": "Pirámide de Tirana",
+          "descripcion": "Visita al edificio reconvertido en centro cultural y tecnológico.",
+          "duracion": "45 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 41.323,
+            "lng": 19.821
+          }
+        },
+        {
+          "hora": "21:00",
+          "nombre": "Vida nocturna de Blloku",
+          "descripcion": "Exploración del barrio de bares y restaurantes de Tirana.",
+          "duracion": "2 h",
+          "costo": 0,
+          "tipo": "vida-nocturna",
+          "coords": {
+            "lat": 41.321,
+            "lng": 19.816
+          }
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "06:30",
+            "momento": "desayuno",
+            "lugar": "Guesthouse Theth",
+            "plato": "Desayuno casero",
+            "costo": 0
+          },
+          {
+            "hora": "12:30",
+            "momento": "almuerzo",
+            "lugar": "Restaurante en Shkodër",
+            "plato": "Byrek y bebida",
+            "costo": 10
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Oda",
+            "plato": "Tavë kosi",
+            "costo": 15
+          }
+        ],
+        "medio": [
+          {
+            "hora": "06:30",
+            "momento": "desayuno",
+            "lugar": "Guesthouse Theth",
+            "plato": "Desayuno casero",
+            "costo": 0
+          },
+          {
+            "hora": "12:30",
+            "momento": "almuerzo",
+            "lugar": "Restaurante en Shkodër",
+            "plato": "Plato albanés",
+            "costo": 20
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Mullixhiu",
+            "plato": "Cocina albanesa contemporánea",
+            "costo": 35
+          }
+        ],
+        "alto": [
+          {
+            "hora": "06:30",
+            "momento": "desayuno",
+            "lugar": "Guesthouse Theth",
+            "plato": "Desayuno casero",
+            "costo": 0
+          },
+          {
+            "hora": "12:30",
+            "momento": "almuerzo",
+            "lugar": "Restaurante en Shkodër",
+            "plato": "Almuerzo completo",
+            "costo": 35
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Padam Boutique Restaurant",
+            "plato": "Cena de cocina contemporánea",
+            "costo": 75
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "07:00",
+          "de": "Theth",
+          "a": "Shkodër",
+          "medio": "Minibús de montaña",
+          "duracion": "3 h 30 min",
+          "costo": 15
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "07:00",
+          "de": "Theth",
+          "a": "Shkodër",
+          "medio": "Minibús reservado",
+          "duracion": "3 h",
+          "costo": 30
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "07:00",
+          "de": "Theth",
+          "a": "Shkodër",
+          "medio": "Vehículo privado",
+          "duracion": "2 h 45 min",
+          "costo": 85
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "11:00",
+          "de": "Shkodër",
+          "a": "Tirana",
+          "medio": "Bus interurbano",
+          "duracion": "2 h 30 min",
+          "costo": 7
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "10:30",
+          "de": "Shkodër",
+          "a": "Tirana",
+          "medio": "Minibús compartido",
+          "duracion": "2 h",
+          "costo": 20
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "10:00",
+          "de": "Shkodër",
+          "a": "Tirana",
+          "medio": "Vehículo privado",
+          "duracion": "2 h",
+          "costo": 65
+        }
+      ],
+      "planB": "Si el descenso de Theth se retrasa, cancelar Bunk'Art 2 y realizar únicamente un paseo nocturno por Tirana."
+    },
+    {
+      "dia": 23,
+      "titulo": "Macedonia del Norte: el lago Ohrid",
+      "ciudad": "Ohrid",
+      "coords": {
+        "lat": 41.1231,
+        "lng": 20.8016
+      },
+      "resumen": "Cruce a Macedonia del Norte y exploración del lago Ohrid, uno de los lagos más antiguos de Europa.",
+      "imagenes": [
+        {
+          "url": "eurotrip-balcanes-24-dias/san-juan-de-kaneo-en-el-lago-ohrid-c35863.jpg",
+          "alt": "San Juan de Kaneo en el lago Ohrid",
+          "credito": "kallerna",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Church_of_St._John_at_Kaneo_6.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "13:00",
+          "nombre": "Casco antiguo de Ohrid",
+          "descripcion": "Paseo por calles empedradas y casas tradicionales.",
+          "duracion": "1 h 30 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 41.112,
+            "lng": 20.797
+          }
+        },
+        {
+          "hora": "15:00",
+          "nombre": "Iglesia de San Juan en Kaneo",
+          "descripcion": "Visita al exterior del templo sobre un acantilado junto al lago.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 41.111,
+            "lng": 20.788
+          }
+        },
+        {
+          "hora": "16:30",
+          "nombre": "Fortaleza de Samuel",
+          "descripcion": "Recorrido por la fortaleza medieval y sus vistas panorámicas.",
+          "duracion": "1 h",
+          "costo": 3,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 41.114,
+            "lng": 20.794
+          }
+        },
+        {
+          "hora": "18:00",
+          "nombre": "Atardecer en el lago Ohrid",
+          "descripcion": "Paseo por la ribera y contemplación del paisaje.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "naturaleza",
+          "coords": {
+            "lat": 41.115,
+            "lng": 20.798
+          }
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "07:00",
+            "momento": "desayuno",
+            "lugar": "Panadería Tirana",
+            "plato": "Byrek y café",
+            "costo": 6
+          },
+          {
+            "hora": "12:00",
+            "momento": "almuerzo",
+            "lugar": "Restaurante local Ohrid",
+            "plato": "Plato balcánico",
+            "costo": 12
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Restaurante tradicional Ohrid",
+            "plato": "Tavče gravče",
+            "costo": 15
+          }
+        ],
+        "medio": [
+          {
+            "hora": "07:00",
+            "momento": "desayuno",
+            "lugar": "Hotel Tirana",
+            "plato": "Buffet",
+            "costo": 0
+          },
+          {
+            "hora": "12:00",
+            "momento": "almuerzo",
+            "lugar": "Restaurante local Ohrid",
+            "plato": "Especialidad macedonia",
+            "costo": 22
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Dalga",
+            "plato": "Pescado del lago y acompañamiento",
+            "costo": 35
+          }
+        ],
+        "alto": [
+          {
+            "hora": "07:00",
+            "momento": "desayuno",
+            "lugar": "Hotel Tirana",
+            "plato": "Buffet premium",
+            "costo": 0
+          },
+          {
+            "hora": "12:00",
+            "momento": "almuerzo",
+            "lugar": "Restaurante frente al lago",
+            "plato": "Almuerzo completo",
+            "costo": 40
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Restaurante de hotel boutique",
+            "plato": "Cena de especialidades macedonias",
+            "costo": 65
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "07:30",
+          "de": "Tirana",
+          "a": "Ohrid",
+          "medio": "Bus internacional",
+          "duracion": "4 h 30 min",
+          "costo": 20
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "07:30",
+          "de": "Tirana",
+          "a": "Ohrid",
+          "medio": "Minibús compartido",
+          "duracion": "4 h",
+          "costo": 40
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "07:30",
+          "de": "Tirana",
+          "a": "Ohrid",
+          "medio": "Vehículo privado",
+          "duracion": "3 h 30 min",
+          "costo": 105
+        }
+      ],
+      "planB": "Si hay demoras fronterizas, visitar la iglesia de San Juan en Kaneo y el paseo del lago."
+    },
+    {
+      "dia": 24,
+      "titulo": "Skopie y regreso a Colombia",
+      "ciudad": "Skopie",
+      "coords": {
+        "lat": 41.9981,
+        "lng": 21.4254
+      },
+      "resumen": "Traslado de Ohrid a Skopie, último paseo y vuelo internacional nocturno.",
+      "imagenes": [
+        {
+          "url": "eurotrip-balcanes-24-dias/puente-de-piedra-de-skopie-bc8d03.jpg",
+          "alt": "Puente de Piedra de Skopie",
+          "credito": "kallerna",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Stone_Bridge_Skopje_4.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "11:30",
+          "nombre": "Puente de Piedra",
+          "descripcion": "Visita al puente histórico sobre el río Vardar.",
+          "duracion": "45 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 41.997,
+            "lng": 21.433
+          }
+        },
+        {
+          "hora": "12:30",
+          "nombre": "Plaza Macedonia",
+          "descripcion": "Recorrido por la plaza principal de la capital.",
+          "duracion": "45 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 41.9955,
+            "lng": 21.4315
+          }
+        },
+        {
+          "hora": "14:30",
+          "nombre": "Antiguo Bazar de Skopie",
+          "descripcion": "Exploración de calles comerciales y arquitectura otomana.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 42.001,
+            "lng": 21.436
+          }
+        },
+        {
+          "hora": "16:00",
+          "nombre": "Fortaleza Kale",
+          "descripcion": "Visita al entorno de la fortaleza con panorámicas de Skopie.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 42,
+            "lng": 21.433
+          }
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "07:00",
+            "momento": "desayuno",
+            "lugar": "Panadería Ohrid",
+            "plato": "Burek y café",
+            "costo": 6
+          },
+          {
+            "hora": "13:30",
+            "momento": "almuerzo",
+            "lugar": "Destan",
+            "plato": "Kebapi macedonio",
+            "costo": 12
+          },
+          {
+            "hora": "18:00",
+            "momento": "cena",
+            "lugar": "Aeropuerto de Skopie",
+            "plato": "Sándwich y bebida",
+            "costo": 15
+          }
+        ],
+        "medio": [
+          {
+            "hora": "07:00",
+            "momento": "desayuno",
+            "lugar": "Hotel Ohrid",
+            "plato": "Buffet",
+            "costo": 0
+          },
+          {
+            "hora": "13:30",
+            "momento": "almuerzo",
+            "lugar": "Old House",
+            "plato": "Especialidad macedonia",
+            "costo": 25
+          },
+          {
+            "hora": "18:00",
+            "momento": "cena",
+            "lugar": "Aeropuerto de Skopie",
+            "plato": "Cena ligera",
+            "costo": 25
+          }
+        ],
+        "alto": [
+          {
+            "hora": "07:00",
+            "momento": "desayuno",
+            "lugar": "Hotel Ohrid",
+            "plato": "Buffet premium",
+            "costo": 0
+          },
+          {
+            "hora": "13:30",
+            "momento": "almuerzo",
+            "lugar": "Pelister",
+            "plato": "Almuerzo de cocina internacional",
+            "costo": 45
+          },
+          {
+            "hora": "18:00",
+            "momento": "cena",
+            "lugar": "Sala VIP del aeropuerto",
+            "plato": "Cena buffet",
+            "costo": 0
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "08:00",
+          "de": "Ohrid",
+          "a": "Skopie",
+          "medio": "Bus interurbano",
+          "duracion": "3 h",
+          "costo": 12
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "08:00",
+          "de": "Ohrid",
+          "a": "Skopie",
+          "medio": "Minibús compartido",
+          "duracion": "2 h 45 min",
+          "costo": 25
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "08:00",
+          "de": "Ohrid",
+          "a": "Skopie",
+          "medio": "Vehículo privado",
+          "duracion": "2 h 30 min",
+          "costo": 75
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "17:15",
+          "de": "Centro de Skopie",
+          "a": "Aeropuerto SKP",
+          "medio": "Bus aeroportuario",
+          "duracion": "45 min",
+          "costo": 4
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "17:15",
+          "de": "Centro de Skopie",
+          "a": "Aeropuerto SKP",
+          "medio": "Taxi compartido",
+          "duracion": "30 min",
+          "costo": 15
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "17:15",
+          "de": "Centro de Skopie",
+          "a": "Aeropuerto SKP",
+          "medio": "Vehículo privado",
+          "duracion": "30 min",
+          "costo": 35
+        }
+      ],
+      "planB": "Si el vuelo internacional sale antes de las 21:00, cancelar las visitas de Skopie y trasladarse directamente desde Ohrid al aeropuerto con margen suficiente. Si no existe conexión internacional adecuada, será necesario añadir una noche y salir al día siguiente."
+    }
+  ],
+  "presupuesto": {
+    "notas": "Por persona, en habitación doble compartida (cama en dormitorio en económico). Vuelos y seguro en dólares; lo demás en euros, también en Chequia, Hungría, Bosnia, Albania y Macedonia del Norte, que tienen moneda propia. Precios de noviembre de 2026 para mayo de 2028.",
+    "categorias": [
+      {
+        "categoria": "vuelos",
+        "descripcion": "Multidestino Medellín–Berlín y Skopie–Medellín, con equipaje según nivel.",
+        "moneda": "USD",
+        "economico": 1450,
+        "medio": 1850,
+        "alto": 3600
+      },
+      {
+        "categoria": "seguro",
+        "descripcion": "Seguro de viaje para 24 días con cobertura médica internacional y asistencia.",
+        "moneda": "USD",
+        "economico": 90,
+        "medio": 145,
+        "alto": 260
+      },
+      {
+        "categoria": "visa",
+        "descripcion": "Colombianos no necesitan visa Schengen; se reservan 20 € para la autorización ETIAS si ya es obligatoria.",
+        "moneda": "local",
+        "economico": 20,
+        "medio": 20,
+        "alto": 20
+      },
+      {
+        "categoria": "conectividad",
+        "descripcion": "eSIM de la UE más paquetes para los países balcánicos fuera de la UE.",
+        "moneda": "local",
+        "economico": 45,
+        "medio": 75,
+        "alto": 120
+      },
+      {
+        "categoria": "compras",
+        "descripcion": "Souvenirs, recuerdos y compras personales.",
+        "moneda": "local",
+        "economico": 100,
+        "medio": 250,
+        "alto": 650
+      },
+      {
+        "categoria": "extras",
+        "descripcion": "Imprevistos, lavandería, salidas nocturnas y gastos personales.",
+        "moneda": "local",
+        "economico": 250,
+        "medio": 500,
+        "alto": 1200
+      }
+    ]
+  },
+  "alojamiento": [
+    {
+      "ciudad": "Berlín",
+      "noches": [
+        1,
+        2
+      ],
+      "economico": {
+        "nombre": "Generator Berlin Mitte",
+        "zona": "Mitte",
+        "tipo": "Hostal",
+        "precioNoche": 35,
+        "incluye": "Cama en dormitorio compartido y wifi. Desayuno no incluido.",
+        "descripcion": "Hostal céntrico con acceso al transporte público.",
+        "link": "https://staygenerator.com/"
+      },
+      "medio": {
+        "nombre": "Motel One Berlin-Hackescher Markt",
+        "zona": "Mitte",
+        "tipo": "Hotel",
+        "precioNoche": 85,
+        "incluye": "Desayuno.",
+        "descripcion": "Hotel moderno próximo a Alexanderplatz.",
+        "link": "https://www.motel-one.com/"
+      },
+      "alto": {
+        "nombre": "Hotel Adlon Kempinski Berlin",
+        "zona": "Puerta de Brandeburgo",
+        "tipo": "Hotel de lujo",
+        "precioNoche": 300,
+        "incluye": "Desayuno.",
+        "descripcion": "Hotel histórico de lujo frente a la Puerta de Brandeburgo.",
+        "link": "https://www.kempinski.com/"
+      }
+    },
+    {
+      "ciudad": "Praga",
+      "noches": [
+        3,
+        4
+      ],
+      "economico": {
+        "nombre": "Czech Inn",
+        "zona": "Vršovice",
+        "tipo": "Hostal",
+        "precioNoche": 25,
+        "incluye": "Cama en dormitorio y wifi.",
+        "descripcion": "Hostal moderno conectado con el centro.",
+        "link": "https://www.czech-inn.com/"
+      },
+      "medio": {
+        "nombre": "Motel One Prague-Florentinum",
+        "zona": "Florenc",
+        "tipo": "Hotel",
+        "precioNoche": 75,
+        "incluye": "Desayuno.",
+        "descripcion": "Hotel cómodo cerca del casco histórico.",
+        "link": "https://www.motel-one.com/"
+      },
+      "alto": {
+        "nombre": "Four Seasons Hotel Prague",
+        "zona": "Ciudad Vieja",
+        "tipo": "Hotel de lujo",
+        "precioNoche": 350,
+        "incluye": "Desayuno.",
+        "descripcion": "Hotel de lujo junto al Moldava.",
+        "link": "https://www.fourseasons.com/prague/"
+      }
+    },
+    {
+      "ciudad": "Viena",
+      "noches": [
+        5
+      ],
+      "economico": {
+        "nombre": "Wombat's City Hostel Vienna Naschmarkt",
+        "zona": "Naschmarkt",
+        "tipo": "Hostal",
+        "precioNoche": 35,
+        "incluye": "Cama en dormitorio y wifi.",
+        "descripcion": "Hostal con buena conexión al centro.",
+        "link": "https://www.wombats-hostels.com/"
+      },
+      "medio": {
+        "nombre": "Motel One Wien-Staatsoper",
+        "zona": "Centro",
+        "tipo": "Hotel",
+        "precioNoche": 95,
+        "incluye": "Desayuno.",
+        "descripcion": "Hotel céntrico cerca de la Ópera de Viena.",
+        "link": "https://www.motel-one.com/"
+      },
+      "alto": {
+        "nombre": "Hotel Sacher Wien",
+        "zona": "Ópera",
+        "tipo": "Hotel de lujo",
+        "precioNoche": 400,
+        "incluye": "Desayuno.",
+        "descripcion": "Hotel histórico de lujo vienés.",
+        "link": "https://www.sacher.com/"
+      }
+    },
+    {
+      "ciudad": "Bratislava",
+      "noches": [
+        6
+      ],
+      "economico": {
+        "nombre": "Patio Hostel",
+        "zona": "Centro",
+        "tipo": "Hostal",
+        "precioNoche": 25,
+        "incluye": "Cama en dormitorio y wifi.",
+        "descripcion": "Alojamiento económico en el centro.",
+        "link": "https://www.patiohostel.com/"
+      },
+      "medio": {
+        "nombre": "LOFT Hotel Bratislava",
+        "zona": "Centro",
+        "tipo": "Hotel",
+        "precioNoche": 85,
+        "incluye": "Desayuno.",
+        "descripcion": "Hotel moderno cerca del casco histórico.",
+        "link": "https://www.lofthotel.sk/"
+      },
+      "alto": {
+        "nombre": "Grand Hotel River Park",
+        "zona": "Danubio",
+        "tipo": "Hotel de lujo",
+        "precioNoche": 190,
+        "incluye": "Desayuno.",
+        "descripcion": "Hotel de lujo junto al Danubio.",
+        "link": "https://www.marriott.com/"
+      }
+    },
+    {
+      "ciudad": "Budapest",
+      "noches": [
+        7,
+        8
+      ],
+      "economico": {
+        "nombre": "Maverick City Lodge",
+        "zona": "Barrio judío",
+        "tipo": "Hostal",
+        "precioNoche": 28,
+        "incluye": "Cama en dormitorio y wifi.",
+        "descripcion": "Hostal en zona de bares y restaurantes.",
+        "link": "https://mavericklodges.com/"
+      },
+      "medio": {
+        "nombre": "Hotel Moments Budapest",
+        "zona": "Andrássy",
+        "tipo": "Hotel",
+        "precioNoche": 95,
+        "incluye": "Desayuno.",
+        "descripcion": "Hotel céntrico de diseño.",
+        "link": "https://hotelmomentsbudapest.hu/"
+      },
+      "alto": {
+        "nombre": "Four Seasons Hotel Gresham Palace Budapest",
+        "zona": "Puente de las Cadenas",
+        "tipo": "Hotel de lujo",
+        "precioNoche": 350,
+        "incluye": "Desayuno.",
+        "descripcion": "Palacio histórico con vistas al Danubio.",
+        "link": "https://www.fourseasons.com/budapest/"
+      }
+    },
+    {
+      "ciudad": "Liubliana",
+      "noches": [
+        9
+      ],
+      "economico": {
+        "nombre": "Hostel Celica",
+        "zona": "Metelkova",
+        "tipo": "Hostal",
+        "precioNoche": 35,
+        "incluye": "Cama en dormitorio y wifi.",
+        "descripcion": "Hostal cultural instalado en una antigua prisión.",
+        "link": "https://www.hostelcelica.com/"
+      },
+      "medio": {
+        "nombre": "City Hotel Ljubljana",
+        "zona": "Centro",
+        "tipo": "Hotel",
+        "precioNoche": 85,
+        "incluye": "Desayuno.",
+        "descripcion": "Hotel cómodo cerca del casco antiguo.",
+        "link": "https://www.cityhotel.si/"
+      },
+      "alto": {
+        "nombre": "InterContinental Ljubljana",
+        "zona": "Centro",
+        "tipo": "Hotel de lujo",
+        "precioNoche": 210,
+        "incluye": "Desayuno.",
+        "descripcion": "Hotel de lujo con vistas panorámicas.",
+        "link": "https://www.ihg.com/intercontinental/"
+      }
+    },
+    {
+      "ciudad": "Bled",
+      "noches": [
+        10
+      ],
+      "economico": {
+        "nombre": "Bled Hostel",
+        "zona": "Centro de Bled",
+        "tipo": "Hostal",
+        "precioNoche": 35,
+        "incluye": "Cama en dormitorio y wifi.",
+        "descripcion": "Alojamiento económico cerca del lago.",
+        "link": "https://www.booking.com/"
+      },
+      "medio": {
+        "nombre": "Hotel Park Bled",
+        "zona": "Lago Bled",
+        "tipo": "Hotel",
+        "precioNoche": 115,
+        "incluye": "Desayuno.",
+        "descripcion": "Hotel junto al lago.",
+        "link": "https://www.sava-hotels-resorts.com/"
+      },
+      "alto": {
+        "nombre": "Grand Hotel Toplice",
+        "zona": "Lago Bled",
+        "tipo": "Hotel de lujo",
+        "precioNoche": 260,
+        "incluye": "Desayuno.",
+        "descripcion": "Hotel histórico con vistas al lago.",
+        "link": "https://www.sava-hotels-resorts.com/"
+      }
+    },
+    {
+      "ciudad": "Bovec",
+      "noches": [
+        11
+      ],
+      "economico": {
+        "nombre": "Hostel Soča Rocks",
+        "zona": "Centro de Bovec",
+        "tipo": "Hostal",
+        "precioNoche": 35,
+        "incluye": "Cama en dormitorio y wifi.",
+        "descripcion": "Hostal orientado a viajeros de aventura.",
+        "link": "https://www.socarocks.com/"
+      },
+      "medio": {
+        "nombre": "Hotel Mangart",
+        "zona": "Bovec",
+        "tipo": "Hotel",
+        "precioNoche": 90,
+        "incluye": "Desayuno.",
+        "descripcion": "Hotel de montaña.",
+        "link": "https://www.booking.com/"
+      },
+      "alto": {
+        "nombre": "Hotel Soča",
+        "zona": "Bovec",
+        "tipo": "Hotel boutique",
+        "precioNoche": 180,
+        "incluye": "Desayuno.",
+        "descripcion": "Alojamiento de categoría superior en Bovec.",
+        "link": "https://www.hotel-soca.si/"
+      }
+    },
+    {
+      "ciudad": "Zagreb",
+      "noches": [
+        12
+      ],
+      "economico": {
+        "nombre": "Swanky Mint Hostel",
+        "zona": "Centro",
+        "tipo": "Hostal",
+        "precioNoche": 30,
+        "incluye": "Cama en dormitorio y wifi.",
+        "descripcion": "Hostal de diseño en una antigua fábrica.",
+        "link": "https://www.swanky-hostel.com/"
+      },
+      "medio": {
+        "nombre": "Hotel Dubrovnik Zagreb",
+        "zona": "Plaza Ban Jelačić",
+        "tipo": "Hotel",
+        "precioNoche": 90,
+        "incluye": "Desayuno.",
+        "descripcion": "Hotel tradicional en pleno centro.",
+        "link": "https://hotel-dubrovnik.hr/"
+      },
+      "alto": {
+        "nombre": "Esplanade Zagreb Hotel",
+        "zona": "Centro",
+        "tipo": "Hotel de lujo",
+        "precioNoche": 220,
+        "incluye": "Desayuno.",
+        "descripcion": "Hotel histórico de lujo.",
+        "link": "https://esplanade.hr/"
+      }
+    },
+    {
+      "ciudad": "Plitvice",
+      "noches": [
+        13
+      ],
+      "economico": {
+        "nombre": "Guesthouse en Korenica",
+        "zona": "Korenica",
+        "tipo": "Pensión rural",
+        "precioNoche": 30,
+        "incluye": "Habitación compartida.",
+        "descripcion": "Pensión rural.",
+        "link": "https://www.booking.com/"
+      },
+      "medio": {
+        "nombre": "Hotel Jezero",
+        "zona": "Parque Nacional Plitvice",
+        "tipo": "Hotel",
+        "precioNoche": 100,
+        "incluye": "Desayuno.",
+        "descripcion": "Hotel dentro del entorno del parque.",
+        "link": "https://np-plitvicka-jezera.hr/"
+      },
+      "alto": {
+        "nombre": "Plitvice Holiday Resort",
+        "zona": "Grabovac",
+        "tipo": "Resort",
+        "precioNoche": 170,
+        "incluye": "Desayuno.",
+        "descripcion": "Resort rodeado de naturaleza.",
+        "link": "https://www.plitvice.com/"
+      }
+    },
+    {
+      "ciudad": "Split",
+      "noches": [
+        14
+      ],
+      "economico": {
+        "nombre": "En Route Hostel",
+        "zona": "Split",
+        "tipo": "Hostal",
+        "precioNoche": 35,
+        "incluye": "Cama en dormitorio y wifi.",
+        "descripcion": "Hostal económico en Split.",
+        "link": "https://www.booking.com/"
+      },
+      "medio": {
+        "nombre": "Cornaro Hotel",
+        "zona": "Centro histórico",
+        "tipo": "Hotel",
+        "precioNoche": 145,
+        "incluye": "Desayuno.",
+        "descripcion": "Hotel próximo al Palacio de Diocleciano.",
+        "link": "https://www.cornarohotel.com/"
+      },
+      "alto": {
+        "nombre": "Hotel Ambasador Split",
+        "zona": "Puerto",
+        "tipo": "Hotel de lujo",
+        "precioNoche": 250,
+        "incluye": "Desayuno.",
+        "descripcion": "Hotel de lujo frente al mar.",
+        "link": "https://www.ambasadorsplit.com/"
+      }
+    },
+    {
+      "ciudad": "Mostar",
+      "noches": [
+        15
+      ],
+      "economico": {
+        "nombre": "Hostel Miran Mostar",
+        "zona": "Centro",
+        "tipo": "Hostal",
+        "precioNoche": 20,
+        "incluye": "Cama en dormitorio y wifi.",
+        "descripcion": "Hostal económico próximo al centro histórico.",
+        "link": "https://www.booking.com/"
+      },
+      "medio": {
+        "nombre": "Hotel Mepas",
+        "zona": "Centro",
+        "tipo": "Hotel",
+        "precioNoche": 65,
+        "incluye": "Desayuno.",
+        "descripcion": "Hotel moderno de categoría superior.",
+        "link": "https://www.mepas-hotel.ba/"
+      },
+      "alto": {
+        "nombre": "Hotel Mepas",
+        "zona": "Centro",
+        "tipo": "Hotel de lujo",
+        "precioNoche": 115,
+        "incluye": "Desayuno.",
+        "descripcion": "Habitación superior del mismo hotel.",
+        "link": "https://www.mepas-hotel.ba/"
+      }
+    },
+    {
+      "ciudad": "Sarajevo",
+      "noches": [
+        16,
+        17
+      ],
+      "economico": {
+        "nombre": "Hostel Franz Ferdinand",
+        "zona": "Centro histórico",
+        "tipo": "Hostal",
+        "precioNoche": 25,
+        "incluye": "Cama en dormitorio y wifi.",
+        "descripcion": "Hostal temático cerca de los principales monumentos.",
+        "link": "https://www.booking.com/"
+      },
+      "medio": {
+        "nombre": "Hotel Europe Sarajevo",
+        "zona": "Centro histórico",
+        "tipo": "Hotel",
+        "precioNoche": 90,
+        "incluye": "Desayuno.",
+        "descripcion": "Hotel histórico en el centro de Sarajevo.",
+        "link": "https://www.hoteleurope.ba/"
+      },
+      "alto": {
+        "nombre": "Swissôtel Sarajevo",
+        "zona": "Centro",
+        "tipo": "Hotel de lujo",
+        "precioNoche": 160,
+        "incluye": "Desayuno.",
+        "descripcion": "Hotel de lujo contemporáneo.",
+        "link": "https://www.swissotel.com/"
+      }
+    },
+    {
+      "ciudad": "Kotor",
+      "noches": [
+        18,
+        19
+      ],
+      "economico": {
+        "nombre": "Old Town Hostel Kotor",
+        "zona": "Casco antiguo",
+        "tipo": "Hostal",
+        "precioNoche": 35,
+        "incluye": "Cama en dormitorio y wifi.",
+        "descripcion": "Hostal dentro de las murallas medievales.",
+        "link": "https://www.booking.com/"
+      },
+      "medio": {
+        "nombre": "Hotel Cattaro",
+        "zona": "Casco antiguo",
+        "tipo": "Hotel",
+        "precioNoche": 110,
+        "incluye": "Desayuno.",
+        "descripcion": "Hotel en edificio histórico.",
+        "link": "https://www.hotelcattaro.com/"
+      },
+      "alto": {
+        "nombre": "Hyatt Regency Kotor Bay Resort",
+        "zona": "Bahía de Kotor",
+        "tipo": "Resort de lujo",
+        "precioNoche": 260,
+        "incluye": "Desayuno.",
+        "descripcion": "Resort de lujo junto a la bahía.",
+        "link": "https://www.hyatt.com/"
+      }
+    },
+    {
+      "ciudad": "Shkodër",
+      "noches": [
+        20
+      ],
+      "economico": {
+        "nombre": "The Wanderers Hostel",
+        "zona": "Centro",
+        "tipo": "Hostal",
+        "precioNoche": 20,
+        "incluye": "Cama en dormitorio y wifi.",
+        "descripcion": "Hostal frecuentado por viajeros de montaña.",
+        "link": "https://www.booking.com/"
+      },
+      "medio": {
+        "nombre": "Hotel Colosseo & Spa",
+        "zona": "Centro",
+        "tipo": "Hotel",
+        "precioNoche": 55,
+        "incluye": "Desayuno.",
+        "descripcion": "Hotel céntrico.",
+        "link": "https://www.booking.com/"
+      },
+      "alto": {
+        "nombre": "Hotel Colosseo & Spa",
+        "zona": "Centro",
+        "tipo": "Hotel superior",
+        "precioNoche": 95,
+        "incluye": "Desayuno.",
+        "descripcion": "Alojamiento de categoría superior en Shkodër.",
+        "link": "https://www.booking.com/"
+      }
+    },
+    {
+      "ciudad": "Theth",
+      "noches": [
+        21
+      ],
+      "economico": {
+        "nombre": "Guesthouse familiar en Theth",
+        "zona": "Valle de Theth",
+        "tipo": "Casa de huéspedes",
+        "precioNoche": 30,
+        "incluye": "Desayuno y cena casera.",
+        "descripcion": "Alojamiento rural.",
+        "link": "https://www.booking.com/"
+      },
+      "medio": {
+        "nombre": "Guesthouse familiar superior en Theth",
+        "zona": "Valle de Theth",
+        "tipo": "Casa de huéspedes",
+        "precioNoche": 55,
+        "incluye": "Desayuno y cena casera.",
+        "descripcion": "Habitación privada en alojamiento rural.",
+        "link": "https://www.booking.com/"
+      },
+      "alto": {
+        "nombre": "Guesthouse premium en Theth",
+        "zona": "Valle de Theth",
+        "tipo": "Alojamiento rural superior",
+        "precioNoche": 95,
+        "incluye": "Desayuno y cena casera.",
+        "descripcion": "Alojamiento rural de mayor comodidad.",
+        "link": "https://www.booking.com/"
+      }
+    },
+    {
+      "ciudad": "Tirana",
+      "noches": [
+        22
+      ],
+      "economico": {
+        "nombre": "Trip'n'Hostel",
+        "zona": "Centro",
+        "tipo": "Hostal",
+        "precioNoche": 25,
+        "incluye": "Cama en dormitorio y wifi.",
+        "descripcion": "Hostal próximo al centro de Tirana.",
+        "link": "https://www.booking.com/"
+      },
+      "medio": {
+        "nombre": "Maritim Hotel Plaza Tirana",
+        "zona": "Plaza Skanderbeg",
+        "tipo": "Hotel",
+        "precioNoche": 110,
+        "incluye": "Desayuno.",
+        "descripcion": "Hotel moderno en el centro.",
+        "link": "https://www.plazatirana.com/"
+      },
+      "alto": {
+        "nombre": "Maritim Hotel Plaza Tirana",
+        "zona": "Plaza Skanderbeg",
+        "tipo": "Hotel de lujo",
+        "precioNoche": 180,
+        "incluye": "Desayuno.",
+        "descripcion": "Alojamiento de lujo en la capital albanesa.",
+        "link": "https://www.plazatirana.com/"
+      }
+    },
+    {
+      "ciudad": "Ohrid",
+      "noches": [
+        23
+      ],
+      "economico": {
+        "nombre": "Sunny Lake Hostel",
+        "zona": "Centro de Ohrid",
+        "tipo": "Hostal",
+        "precioNoche": 22,
+        "incluye": "Cama en dormitorio y wifi.",
+        "descripcion": "Alojamiento económico próximo al lago.",
+        "link": "https://www.booking.com/"
+      },
+      "medio": {
+        "nombre": "Hotel Tino Ohrid",
+        "zona": "Ribera del lago",
+        "tipo": "Hotel",
+        "precioNoche": 65,
+        "incluye": "Desayuno.",
+        "descripcion": "Hotel frente al lago Ohrid.",
+        "link": "https://www.booking.com/"
+      },
+      "alto": {
+        "nombre": "Inex Olgica Hotel & Spa",
+        "zona": "Lago Ohrid",
+        "tipo": "Hotel de lujo",
+        "precioNoche": 125,
+        "incluye": "Desayuno.",
+        "descripcion": "Hotel con instalaciones de bienestar y vistas al lago.",
+        "link": "https://www.booking.com/"
+      }
+    }
+  ],
+  "comida": {
+    "platosTipicos": [
+      {
+        "nombre": "Currywurst",
+        "descripcion": "Salchicha alemana cortada y servida con salsa de tomate especiada y curry. Muy popular en Berlín.",
+        "precioAprox": 10
+      },
+      {
+        "nombre": "Svíčková",
+        "descripcion": "Plato tradicional checo de carne con salsa cremosa de vegetales y dumplings de pan.",
+        "precioAprox": 17
+      },
+      {
+        "nombre": "Gulash húngaro",
+        "descripcion": "Guiso o sopa de carne condimentado con pimentón, característico de Hungría.",
+        "precioAprox": 16
+      },
+      {
+        "nombre": "Ćevapi",
+        "descripcion": "Pequeñas porciones de carne picada a la parrilla, acompañadas de pan y cebolla. Muy comunes en Bosnia y otros países balcánicos.",
+        "precioAprox": 12
+      },
+      {
+        "nombre": "Tavë kosi",
+        "descripcion": "Plato albanés preparado tradicionalmente con cordero, arroz y yogur horneado.",
+        "precioAprox": 15
+      },
+      {
+        "nombre": "Tavče gravče",
+        "descripcion": "Especialidad macedonia de frijoles cocinados y horneados en recipiente de barro.",
+        "precioAprox": 13
+      }
+    ]
+  },
+  "infoPractica": {
+    "visa": {
+      "requiere": false,
+      "tipo": "Exención de visa Schengen para turismo de corta duración; posible autorización ETIAS y controles migratorios independientes en países balcánicos.",
+      "detalle": "Los colombianos entran al espacio Schengen sin visa hasta 90 días en 180; si ETIAS ya funciona, se tramita en línea antes del viaje (20 €). Bosnia y Herzegovina, Montenegro, Albania y Macedonia del Norte están fuera de Schengen y tienen sus propias reglas de entrada. Lleva reservas, seguro, fondos y tiquete de salida.",
+      "link": "https://travel-europe.europa.eu/etias/"
+    },
+    "clima": [
+      {
+        "mes": 1,
+        "tempMin": -3,
+        "tempMax": 5,
+        "lluviaMm": 45
+      },
+      {
+        "mes": 2,
+        "tempMin": -2,
+        "tempMax": 7,
+        "lluviaMm": 43
+      },
+      {
+        "mes": 3,
+        "tempMin": 2,
+        "tempMax": 12,
+        "lluviaMm": 50
+      },
+      {
+        "mes": 4,
+        "tempMin": 6,
+        "tempMax": 18,
+        "lluviaMm": 58
+      },
+      {
+        "mes": 5,
+        "tempMin": 10,
+        "tempMax": 22,
+        "lluviaMm": 78
+      },
+      {
+        "mes": 6,
+        "tempMin": 14,
+        "tempMax": 27,
+        "lluviaMm": 85
+      },
+      {
+        "mes": 7,
+        "tempMin": 16,
+        "tempMax": 30,
+        "lluviaMm": 75
+      },
+      {
+        "mes": 8,
+        "tempMin": 16,
+        "tempMax": 30,
+        "lluviaMm": 70
+      },
+      {
+        "mes": 9,
+        "tempMin": 12,
+        "tempMax": 24,
+        "lluviaMm": 70
+      },
+      {
+        "mes": 10,
+        "tempMin": 7,
+        "tempMax": 18,
+        "lluviaMm": 65
+      },
+      {
+        "mes": 11,
+        "tempMin": 3,
+        "tempMax": 11,
+        "lluviaMm": 60
+      },
+      {
+        "mes": 12,
+        "tempMin": -1,
+        "tempMax": 6,
+        "lluviaMm": 52
+      }
+    ],
+    "vacunas": [
+      "Mantener al día las vacunas habituales según el esquema colombiano.",
+      "Revisar vacunación contra sarampión, rubéola y paperas.",
+      "Considerar hepatitis A y hepatitis B según antecedentes, actividades y recomendación médica.",
+      "La vacuna contra fiebre amarilla no se exige de forma general para esta ruta; verificar requisitos específicos de aerolíneas y países de tránsito.",
+      "Consultar medicina del viajero con 4 a 8 semanas de anticipación.",
+      "Para senderismo rural prolongado, consultar la pertinencia de vacunación contra encefalitis transmitida por garrapatas según zonas y exposición."
+    ],
+    "seguridad": "Alemania, Chequia, Austria, Eslovaquia, Hungría, Eslovenia y Croacia tienen infraestructura turística desarrollada. En las grandes ciudades hay riesgo de carteristas y robos oportunistas. En los Balcanes conviene utilizar transportistas identificados, evitar taxis sin tarifa acordada y no caminar fuera de senderos señalizados en zonas rurales de Bosnia y Herzegovina por el riesgo residual de minas terrestres. En Theth y el valle del Soča, comprobar clima, caudal, condiciones de senderos y experiencia requerida. No dejar pertenencias sin vigilancia en hostales ni bares.",
+    "enchufe": {
+      "tipo": "C y F principalmente; pueden existir variaciones locales",
+      "voltaje": "220-240 V, 50 Hz",
+      "necesitaAdaptador": true
+    },
+    "propinas": "En Alemania, Austria y Europa Central es habitual redondear la cuenta o dejar aproximadamente 5-10% cuando el servicio es satisfactorio. En los Balcanes las propinas suelen ser voluntarias y de menor cuantía. Verificar si ya se incluye cargo por servicio.",
+    "idioma": "Se utilizan alemán, checo, eslovaco, húngaro, esloveno, croata, bosnio, montenegrino, albanés y macedonio. El inglés suele ser útil en establecimientos turísticos y entre personas jóvenes, aunque menos en zonas rurales.",
+    "conectividad": "Una eSIM europea puede ofrecer roaming en los países de la Unión Europea incluidos en el recorrido, sujeto a las condiciones del proveedor. Bosnia y Herzegovina, Montenegro, Albania y Macedonia del Norte pueden requerir paquetes adicionales o una eSIM regional balcánica. Descargar mapas sin conexión antes de entrar a las montañas.",
+    "transporteLocal": "Se combinan trenes internacionales, buses regionales, minibuses, transporte urbano y algunos traslados privados. Para el grupo conviene reservar trenes con anticipación y confirmar por escrito los transportes fronterizos. En Theth los minibuses pueden tener horarios limitados. En las capitales se recomienda caminar y utilizar metro, tranvía o bus.",
+    "frases": [
+      {
+        "es": "Hola",
+        "local": "Hallo (alemán)",
+        "pronunciacion": "já-lo"
+      },
+      {
+        "es": "Gracias",
+        "local": "Děkuji (checo)",
+        "pronunciacion": "dié-ku-yi"
+      },
+      {
+        "es": "Buenos días",
+        "local": "Jó napot (húngaro)",
+        "pronunciacion": "yó ná-pot"
+      },
+      {
+        "es": "Gracias",
+        "local": "Hvala (esloveno, croata, bosnio y montenegrino)",
+        "pronunciacion": "jvá-la"
+      },
+      {
+        "es": "Hola",
+        "local": "Përshëndetje (albanés)",
+        "pronunciacion": "per-shen-dé-tie"
+      },
+      {
+        "es": "Gracias",
+        "local": "Faleminderit (albanés)",
+        "pronunciacion": "fa-le-min-dé-rit"
+      },
+      {
+        "es": "Gracias",
+        "local": "Благодарам / Blagodaram (macedonio)",
+        "pronunciacion": "bla-go-dá-ram"
+      },
+      {
+        "es": "¿Cuánto cuesta?",
+        "local": "How much does it cost? (inglés)",
+        "pronunciacion": "jáu mach das it cost"
+      }
+    ],
+    "apps": [
+      {
+        "nombre": "Google Maps",
+        "para": "Navegación, mapas sin conexión y localización de establecimientos."
+      },
+      {
+        "nombre": "Organic Maps",
+        "para": "Mapas descargables y orientación sin conexión en zonas rurales."
+      },
+      {
+        "nombre": "Omio",
+        "para": "Comparar trenes y buses en distintos países europeos."
+      },
+      {
+        "nombre": "FlixBus",
+        "para": "Consultar y reservar determinadas conexiones interurbanas."
+      },
+      {
+        "nombre": "Google Translate",
+        "para": "Traducción de menús, letreros y conversaciones."
+      },
+      {
+        "nombre": "Wise",
+        "para": "Gestionar pagos y consultar conversiones de divisas, sujeto a disponibilidad para residentes colombianos."
+      }
+    ],
+    "consejos": [
+      "Comprar vuelos multidestino para evitar regresar a Berlín.",
+      "Viajar con equipaje ligero y mochila pequeña para excursiones.",
+      "Reservar alojamientos con cancelación flexible mientras se confirman los transportes.",
+      "Comprobar los requisitos migratorios de los cuatro países balcánicos no Schengen.",
+      "Llevar tarjeta bancaria y una cantidad moderada de efectivo en moneda local.",
+      "No depender exclusivamente del euro en Chequia, Hungría, Bosnia, Albania o Macedonia del Norte.",
+      "Reservar con anticipación las actividades de rafting y los alojamientos en Theth.",
+      "Verificar que los senderos alpinos estén abiertos en mayo.",
+      "Evitar planear actividades importantes inmediatamente después de cruces fronterizos largos.",
+      "Llevar una chaqueta impermeable y ropa por capas.",
+      "Comprobar los horarios reales de los trenes antes de fijar hoteles no reembolsables.",
+      "Revisar que el vuelo de regreso desde Skopie permita llegar al aeropuerto con suficiente anticipación."
+    ],
+    "estafas": [
+      "Taxis sin taxímetro o sin precio acordado previamente.",
+      "Casas de cambio con comisiones ocultas.",
+      "Cajeros automáticos que ofrecen conversiones desfavorables.",
+      "Carteristas en estaciones, metros y zonas turísticas.",
+      "Restaurantes que no muestran claramente precios o cargos adicionales.",
+      "Excursiones de aventura ofrecidas por operadores sin certificaciones o seguros adecuados."
+    ],
+    "checklist": [
+      "Pasaporte colombiano vigente y con validez suficiente para todas las fronteras.",
+      "Confirmar ETIAS y requisitos migratorios de los países balcánicos.",
+      "Tiquetes internacionales multidestino.",
+      "Reservas de las 23 noches de alojamiento.",
+      "Seguro médico internacional con cobertura para actividades de aventura.",
+      "Confirmación de trenes, buses y traslados fronterizos.",
+      "Tarjetas bancarias habilitadas para uso internacional.",
+      "Dinero de emergencia y acceso a moneda local.",
+      "Adaptador europeo tipo C/F.",
+      "eSIM o plan de datos con cobertura balcánica.",
+      "Calzado de senderismo y ropa impermeable.",
+      "Documentos y mapas descargados sin conexión.",
+      "Medicamentos personales y botiquín básico.",
+      "Reservas y comprobación de seguridad de rafting y excursión a Theth."
+    ]
+  },
+  "fuentes": [
+    {
+      "titulo": "Unión Europea - ETIAS, requisitos y países participantes",
+      "url": "https://travel-europe.europa.eu/etias/about-etias/who-should-apply"
+    },
+    {
+      "titulo": "Unión Europea - Preguntas frecuentes sobre ETIAS",
+      "url": "https://travel-europe.europa.eu/etias/faq"
+    },
+    {
+      "titulo": "Comisión Europea - Diferencias entre EES y ETIAS",
+      "url": "https://home-affairs.ec.europa.eu/news/main-differences-between-ees-and-etias-what-travellers-need-know-2026-04-28_en"
+    },
+    {
+      "titulo": "Turismo oficial de Eslovenia",
+      "url": "https://www.slovenia.info/"
+    },
+    {
+      "titulo": "Parque Nacional de los Lagos de Plitvice",
+      "url": "https://np-plitvicka-jezera.hr/"
+    },
+    {
+      "titulo": "Deutsche Bahn - Ferrocarriles alemanes",
+      "url": "https://int.bahn.de/"
+    },
+    {
+      "titulo": "ÖBB - Ferrocarriles austriacos",
+      "url": "https://www.oebb.at/"
+    },
+    {
+      "titulo": "Turismo oficial de Albania",
+      "url": "https://akt.gov.al/"
+    }
+  ]
+}

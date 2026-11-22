@@ -1,0 +1,3631 @@
+{
+  "meta": {
+    "titulo": "Letonia en 14 días",
+    "resumen": "Riga medieval y art nouveau, la playa de Jūrmala, los castillos y la aventura de Sigulda, Cēsis, la Kuldīga de la UNESCO y la costa báltica de Liepāja. Pensado para mayo.",
+    "destino": "Letonia",
+    "pais": "Letonia",
+    "region": "Europa",
+    "duracionDias": 14,
+    "mesesIdeales": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "temporadaRecomendada": "Del 15 de mayo al 15 de septiembre. Mayo ofrece paisajes verdes, jornadas de luz prolongadas y menos concentración turística que julio y agosto. Para este viaje se propone una salida durante la segunda quincena de mayo de 2028.",
+    "estilo": "medio",
+    "dificultad": "moderada",
+    "idealPara": [
+      "Grupos de amigos",
+      "Viajeros aventureros",
+      "Amantes de la naturaleza",
+      "Interesados en historia y arquitectura",
+      "Viajeros que buscan destinos poco convencionales"
+    ],
+    "etiquetas": [
+      "países bálticos",
+      "castillos",
+      "historia medieval",
+      "naturaleza",
+      "senderismo",
+      "aventura",
+      "gastronomía",
+      "playas",
+      "patrimonio UNESCO",
+      "viaje en grupo"
+    ],
+    "fechaInvestigacion": "2026-11-21",
+    "colorAcento": "#751D35",
+    "portada": {
+      "url": "letonia-14-dias/fachada-historica-de-la-casa-de-las-cabe-11e330.jpg",
+      "alt": "Fachada histórica de la Casa de las Cabezas Negras en el centro de Riga, Letonia",
+      "credito": "Ken Eckert",
+      "licencia": "CC BY-SA 4.0",
+      "fuente": "https://commons.wikimedia.org/wiki/File:House_of_Blackheads,_Riga,_Latvia.jpg"
+    },
+    "galeria": [
+      {
+        "url": "letonia-14-dias/fachada-art-nouveau-de-alberta-iela-13-e-e3eb86.jpg",
+        "alt": "Fachada art nouveau de Alberta iela 13 en Riga",
+        "credito": "Rīgas pašvaldības aģentūra “Rīgas investīciju un tūrisma aģentūra”",
+        "licencia": "CC BY 4.0",
+        "fuente": "https://commons.wikimedia.org/wiki/File:Alberta-iela-13.jpg"
+      },
+      {
+        "url": "letonia-14-dias/playa-de-arena-de-jurmala-junto-al-mar-b-caeaa3.jpg",
+        "alt": "Playa de arena de Jūrmala junto al mar Báltico",
+        "credito": "Ken Eckert",
+        "licencia": "CC BY-SA 4.0",
+        "fuente": "https://commons.wikimedia.org/wiki/File:Jurmala_Beach,_Latvia.jpg"
+      },
+      {
+        "url": "letonia-14-dias/castillo-medieval-de-turaida-sobre-los-b-c8dae4.jpg",
+        "alt": "Castillo medieval de Turaida sobre los bosques del valle del Gauja",
+        "credito": "Ivo Kruusamägi",
+        "licencia": "CC BY-SA 4.0",
+        "fuente": "https://commons.wikimedia.org/wiki/File:Turaida_Castle_from_Sigulda.JPG"
+      },
+      {
+        "url": "letonia-14-dias/rio-gauja-rodeado-de-bosques-verdes-en-l-384a3b.jpg",
+        "alt": "Río Gauja rodeado de bosques verdes en Letonia",
+        "credito": "Elvijs8",
+        "licencia": "CC BY-SA 4.0",
+        "fuente": "https://commons.wikimedia.org/wiki/File:Gauja_National_park.jpg"
+      },
+      {
+        "url": "letonia-14-dias/torres-y-murallas-medievales-del-castill-b5a83a.jpg",
+        "alt": "Torres y murallas medievales del castillo de Cēsis",
+        "credito": "AgrisR",
+        "licencia": "CC BY-SA 4.0",
+        "fuente": "https://commons.wikimedia.org/wiki/File:C%C4%93sis_Castle.jpg"
+      },
+      {
+        "url": "letonia-14-dias/cascada-ventas-rumba-rodeada-de-vegetaci-83b124.jpg",
+        "alt": "Cascada Ventas Rumba rodeada de vegetación en Kuldīga",
+        "credito": "Zairon",
+        "licencia": "CC BY-SA 4.0",
+        "fuente": "https://commons.wikimedia.org/wiki/File:Kuldiga_Ventas_rumba_20.JPG"
+      },
+      {
+        "url": "letonia-14-dias/amplia-playa-de-arena-blanca-de-liepaja-f98cc4.jpg",
+        "alt": "Amplia playa de arena blanca de Liepāja frente al mar Báltico",
+        "credito": "Андрей Романенко",
+        "licencia": "CC BY-SA 4.0",
+        "fuente": "https://commons.wikimedia.org/wiki/File:Liep%C4%81ja_beach.jpg"
+      },
+      {
+        "url": "letonia-14-dias/antigua-prision-militar-de-karosta-en-li-3c5cc6.jpg",
+        "alt": "Antigua prisión militar de Karosta en Liepāja",
+        "credito": "Keith Ruffles",
+        "licencia": "CC BY 3.0",
+        "fuente": "https://commons.wikimedia.org/wiki/File:Karosta_Prison_-_panoramio.jpg"
+      }
+    ]
+  },
+  "moneda": {
+    "codigo": "EUR",
+    "simbolo": "€",
+    "localPorUSD": 0.91135,
+    "copPorUSD": 3423.61,
+    "fechaTasa": "2026-11-21"
+  },
+  "comoLlegar": {
+    "resumen": "No hay vuelo directo: desde Medellín se conecta por Madrid con airBaltic, o desde Bogotá por Ámsterdam.",
+    "aeropuertoLlegada": "Aeropuerto Internacional de Riga, RIX, situado aproximadamente a 10 km del centro de Riga.",
+    "delAeropuertoAlCentro": "El autobús 22 llega al centro en 30–40 min (1,50 € con billete anticipado). Un taxi por app cuesta 18–35 € por vehículo.",
+    "rutas": [
+      {
+        "origen": "Medellín, aeropuerto José María Córdova",
+        "ruta": "MDE → MAD → RIX",
+        "aerolineas": [
+          "Avianca",
+          "airBaltic"
+        ],
+        "duracion": "18–25 h, incluyendo conexión",
+        "escalas": 1,
+        "precioUSD": {
+          "min": 1050,
+          "max": 1750
+        }
+      },
+      {
+        "origen": "Bogotá, aeropuerto El Dorado",
+        "ruta": "BOG → AMS → RIX",
+        "aerolineas": [
+          "KLM",
+          "airBaltic"
+        ],
+        "duracion": "15–22 h, incluyendo conexión",
+        "escalas": 1,
+        "precioUSD": {
+          "min": 950,
+          "max": 1650
+        }
+      },
+      {
+        "origen": "Medellín, aeropuerto José María Córdova",
+        "ruta": "MDE → BOG → CDG → RIX",
+        "aerolineas": [
+          "Avianca",
+          "Air France",
+          "airBaltic"
+        ],
+        "duracion": "20–30 h, incluyendo conexiones",
+        "escalas": 2,
+        "precioUSD": {
+          "min": 1150,
+          "max": 1950
+        }
+      }
+    ]
+  },
+  "itinerario": [
+    {
+      "dia": 1,
+      "titulo": "Bienvenida a Riga, la capital del Báltico",
+      "ciudad": "Riga",
+      "coords": {
+        "lat": 56.9496,
+        "lng": 24.1052
+      },
+      "resumen": "Llegada, traslado al alojamiento y primer recorrido tranquilo por el centro medieval y la ribera del Daugava.",
+      "imagenes": [
+        {
+          "url": "letonia-14-dias/fachada-historica-de-la-casa-de-las-cabe-11e330.jpg",
+          "alt": "Edificio histórico de la Casa de las Cabezas Negras en Riga",
+          "credito": "Ken Eckert",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:House_of_Blackheads,_Riga,_Latvia.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "15:30",
+          "nombre": "Primer paseo por Vecrīga",
+          "descripcion": "Recorrido a pie por las callejuelas adoquinadas del centro histórico, patrimonio de la humanidad, con sus casas medievales y plazas.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 56.949,
+            "lng": 24.105
+          },
+          "consejo": "No programes actividades con entrada no reembolsable el primer día: una conexión aérea puede retrasarse."
+        },
+        {
+          "hora": "17:00",
+          "nombre": "Plaza de la Catedral de Riga",
+          "descripcion": "Visita exterior a la catedral y su plaza histórica, rodeadas de edificios de distintas épocas.",
+          "duracion": "45 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 56.9491,
+            "lng": 24.1047
+          }
+        },
+        {
+          "hora": "18:30",
+          "nombre": "Paseo por la ribera del Daugava",
+          "descripcion": "Primer contacto con el río, los puentes y el panorama urbano desde el paseo peatonal del casco antiguo.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "descanso",
+          "coords": {
+            "lat": 56.9466,
+            "lng": 24.1011
+          },
+          "consejo": "En mayo todavía puede hacer bastante viento junto al río."
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "11:30",
+            "momento": "desayuno",
+            "lugar": "Narvesen, aeropuerto de Riga",
+            "plato": "Sándwich, yogur y café",
+            "costo": 7,
+            "link": "https://www.narvesen.lv/"
+          },
+          {
+            "hora": "14:00",
+            "momento": "almuerzo",
+            "lugar": "LIDO Vērmanītis, Riga",
+            "plato": "Albóndigas con papas y ensalada de remolacha",
+            "costo": 11,
+            "link": "https://www.lido.lv/"
+          },
+          {
+            "hora": "20:00",
+            "momento": "cena",
+            "lugar": "Folkklubs ALA Pagrabs",
+            "plato": "Cerdo asado con repollo y papas",
+            "costo": 15
+          }
+        ],
+        "medio": [
+          {
+            "hora": "11:30",
+            "momento": "desayuno",
+            "lugar": "Caffeine, aeropuerto de Riga",
+            "plato": "Croissant, capuchino y fruta",
+            "costo": 12
+          },
+          {
+            "hora": "14:00",
+            "momento": "almuerzo",
+            "lugar": "Restaurante Milda, Riga",
+            "plato": "Sopa de remolacha y plato de pescado báltico",
+            "costo": 23
+          },
+          {
+            "hora": "20:00",
+            "momento": "cena",
+            "lugar": "Restaurante Rozengrāls",
+            "plato": "Cena de inspiración medieval con carne, vegetales y postre",
+            "costo": 32
+          }
+        ],
+        "alto": [
+          {
+            "hora": "11:30",
+            "momento": "desayuno",
+            "lugar": "Caffeine, aeropuerto de Riga",
+            "plato": "Desayuno completo con café de especialidad",
+            "costo": 18
+          },
+          {
+            "hora": "14:00",
+            "momento": "almuerzo",
+            "lugar": "Restaurante Kolonāde, Riga",
+            "plato": "Pescado de temporada con guarnición y postre",
+            "costo": 46
+          },
+          {
+            "hora": "20:00",
+            "momento": "cena",
+            "lugar": "Restaurante Barents, Riga",
+            "plato": "Menú de degustación de cocina nórdica y báltica",
+            "costo": 125,
+            "link": "https://barents.lv/"
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "12:15",
+          "de": "Aeropuerto RIX",
+          "a": "Centro de Riga",
+          "medio": "Autobús público 22",
+          "duracion": "40 min",
+          "costo": 1.5,
+          "consejo": "Comprar el billete de 90 minutos antes de abordar."
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "12:15",
+          "de": "Aeropuerto RIX",
+          "a": "Wellton Riverside SPA Hotel",
+          "medio": "Taxi compartido por cuatro personas",
+          "duracion": "25 min",
+          "costo": 7
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "12:15",
+          "de": "Aeropuerto RIX",
+          "a": "Grand Poet Hotel",
+          "medio": "Traslado ejecutivo privado compartido por cuatro personas",
+          "duracion": "25 min",
+          "costo": 25
+        }
+      ],
+      "planB": "Si la llegada se retrasa, cenar cerca del hotel y dejar el paseo por Vecrīga para el día 2."
+    },
+    {
+      "dia": 2,
+      "titulo": "La Riga medieval y sus grandes monumentos",
+      "ciudad": "Riga",
+      "coords": {
+        "lat": 56.9496,
+        "lng": 24.1052
+      },
+      "resumen": "Día completo por los monumentos históricos de Riga. El plan económico disfruta de las plazas y fachadas; el medio entra al patrimonio histórico y el alto incorpora visitas de mayor profundidad.",
+      "imagenes": [
+        {
+          "url": "letonia-14-dias/fachada-historica-de-la-casa-de-las-cabe-11e330.jpg",
+          "alt": "Casa de las Cabezas Negras, uno de los símbolos de Riga",
+          "credito": "Ken Eckert",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:House_of_Blackheads,_Riga,_Latvia.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "09:30",
+          "nombre": "Los Tres Hermanos y las calles medievales",
+          "descripcion": "Recorrido por los Tres Hermanos, un conjunto de viviendas históricas, y por las calles antiguas cercanas.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 56.9504,
+            "lng": 24.1041
+          }
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "11:00",
+          "nombre": "Casa de las Cabezas Negras desde la plaza",
+          "descripcion": "Observación de la fachada reconstruida, la plaza del Ayuntamiento y la estatua de Rolando.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 56.9472,
+            "lng": 24.1069
+          },
+          "link": "https://www.melngalvjunams.lv/en/"
+        },
+        {
+          "niveles": [
+            "medio",
+            "alto"
+          ],
+          "hora": "11:00",
+          "nombre": "Interior de la Casa de las Cabezas Negras",
+          "descripcion": "Visita a los salones históricos y sótanos medievales; en alto, con explicación privada.",
+          "duracion": "1 h 30 min",
+          "costo": 25,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 56.9472,
+            "lng": 24.1069
+          },
+          "link": "https://www.melngalvjunams.lv/en/visit-us/exposition-and-working-hours"
+        },
+        {
+          "hora": "15:00",
+          "nombre": "Bastejkalns y Monumento a la Libertad",
+          "descripcion": "Paseo por el parque del canal y el monumento que representa la independencia de Letonia.",
+          "duracion": "1 h 30 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 56.9515,
+            "lng": 24.1134
+          }
+        },
+        {
+          "hora": "17:15",
+          "nombre": "Iglesia de San Pedro y alrededores",
+          "descripcion": "Recorrido exterior por la iglesia de San Pedro y las calles comerciales del casco antiguo.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 56.9475,
+            "lng": 24.109
+          },
+          "link": "https://www.liveriga.com/en/visit/what-to-see/sightseeing/churches/st-peter-s-church"
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "08:00",
+            "momento": "desayuno",
+            "lugar": "Cinnamon Sally Backpackers Hostel",
+            "plato": "Desayuno continental incluido",
+            "costo": 0,
+            "link": "https://www.cinnamonsally.com/"
+          },
+          {
+            "hora": "13:00",
+            "momento": "almuerzo",
+            "lugar": "LIDO, centro de Riga",
+            "plato": "Sopa del día y kotletes con puré",
+            "costo": 12,
+            "link": "https://www.lido.lv/"
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Folkklubs ALA Pagrabs",
+            "plato": "Guiso tradicional de cerdo y papas",
+            "costo": 16
+          }
+        ],
+        "medio": [
+          {
+            "hora": "08:00",
+            "momento": "desayuno",
+            "lugar": "Wellton Riverside SPA Hotel",
+            "plato": "Desayuno buffet incluido",
+            "costo": 0,
+            "link": "https://www.wellton.com/en/hotels/wellton-riverside-spa-hotel"
+          },
+          {
+            "hora": "13:00",
+            "momento": "almuerzo",
+            "lugar": "Restaurante Milda",
+            "plato": "Guiso de res con vegetales de temporada",
+            "costo": 24
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Restaurante Rozengrāls",
+            "plato": "Cena de cocina medieval con postre",
+            "costo": 35
+          }
+        ],
+        "alto": [
+          {
+            "hora": "08:00",
+            "momento": "desayuno",
+            "lugar": "Grand Poet Hotel by Semarah",
+            "plato": "Desayuno premium incluido",
+            "costo": 0,
+            "link": "https://grandpoet.semarahhotels.com/en/"
+          },
+          {
+            "hora": "13:00",
+            "momento": "almuerzo",
+            "lugar": "Restaurante Kolonāde",
+            "plato": "Pescado báltico, vegetales y postre",
+            "costo": 47
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Restaurante Barents",
+            "plato": "Menú gastronómico de temporada",
+            "costo": 135,
+            "link": "https://barents.lv/"
+          }
+        ]
+      },
+      "traslados": [],
+      "planB": "Si llueve, dedicar más tiempo al interior de la Casa de las Cabezas Negras y visitar una exposición cubierta en el centro histórico."
+    },
+    {
+      "dia": 3,
+      "titulo": "Art nouveau, mercados y la Riga contemporánea",
+      "ciudad": "Riga",
+      "coords": {
+        "lat": 56.9559,
+        "lng": 24.1133
+      },
+      "resumen": "Exploración de la arquitectura modernista, los productos del Mercado Central y los espacios públicos del centro de Riga.",
+      "imagenes": [
+        {
+          "url": "letonia-14-dias/fachada-art-nouveau-de-alberta-iela-13-e-e3eb86.jpg",
+          "alt": "Ornamentos de una fachada modernista en Alberta iela",
+          "credito": "Rīgas pašvaldības aģentūra “Rīgas investīciju un tūrisma aģentūra”",
+          "licencia": "CC BY 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Alberta-iela-13.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "09:30",
+          "nombre": "Arquitectura art nouveau de Alberta iela",
+          "descripcion": "Paseo por una de las calles más representativas del modernismo europeo, con fachadas ornamentadas y esculturas.",
+          "duracion": "1 h 30 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 56.9594,
+            "lng": 24.1077
+          }
+        },
+        {
+          "niveles": [
+            "medio",
+            "alto"
+          ],
+          "hora": "11:15",
+          "nombre": "Museo Art Nouveau de Riga",
+          "descripcion": "Visita a un apartamento modernista restaurado, con interiores y mobiliario de comienzos del siglo XX.",
+          "duracion": "1 h",
+          "costo": 12,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 56.9598,
+            "lng": 24.1088
+          },
+          "link": "https://jugendstils.riga.lv/eng/"
+        },
+        {
+          "hora": "14:30",
+          "nombre": "Mercado Central de Riga",
+          "descripcion": "Exploración de los pabellones históricos, alimentos locales, panes de centeno, productos ahumados y puestos de comerciantes.",
+          "duracion": "1 h 30 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 56.9445,
+            "lng": 24.1148
+          }
+        },
+        {
+          "hora": "17:00",
+          "nombre": "Parque Vērmanes",
+          "descripcion": "Paseo entre jardines y edificios históricos en el centro de Riga.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "descanso",
+          "coords": {
+            "lat": 56.9513,
+            "lng": 24.1208
+          }
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "08:00",
+            "momento": "desayuno",
+            "lugar": "Cinnamon Sally Backpackers Hostel",
+            "plato": "Desayuno continental incluido",
+            "costo": 0
+          },
+          {
+            "hora": "12:45",
+            "momento": "almuerzo",
+            "lugar": "LIDO Vērmanītis",
+            "plato": "Pollo al horno con arroz y ensalada",
+            "costo": 11,
+            "link": "https://www.lido.lv/"
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Folkklubs ALA Pagrabs",
+            "plato": "Pelēkie zirņi con tocino y pan de centeno",
+            "costo": 15
+          }
+        ],
+        "medio": [
+          {
+            "hora": "08:00",
+            "momento": "desayuno",
+            "lugar": "Wellton Riverside SPA Hotel",
+            "plato": "Buffet incluido",
+            "costo": 0
+          },
+          {
+            "hora": "12:45",
+            "momento": "almuerzo",
+            "lugar": "Restaurante Milda",
+            "plato": "Sopa fría de remolacha y cerdo asado",
+            "costo": 25
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Restaurante Kolonāde",
+            "plato": "Salmón con vegetales y postre",
+            "costo": 39
+          }
+        ],
+        "alto": [
+          {
+            "hora": "08:00",
+            "momento": "desayuno",
+            "lugar": "Grand Poet Hotel by Semarah",
+            "plato": "Desayuno premium incluido",
+            "costo": 0
+          },
+          {
+            "hora": "12:45",
+            "momento": "almuerzo",
+            "lugar": "Restaurante Ferma",
+            "plato": "Menú de cocina contemporánea con ingredientes regionales",
+            "costo": 54
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Restaurante Barents",
+            "plato": "Degustación de pescados y mariscos del norte de Europa",
+            "costo": 145,
+            "link": "https://barents.lv/"
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "niveles": [
+            "economico",
+            "medio"
+          ],
+          "hora": "11:30",
+          "de": "Distrito art nouveau",
+          "a": "Centro de Riga",
+          "medio": "Transporte urbano con billete de 90 minutos",
+          "duracion": "15 min",
+          "costo": 1.5
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "12:15",
+          "de": "Museo Art Nouveau",
+          "a": "Restaurante Ferma",
+          "medio": "Taxi compartido por cuatro personas",
+          "duracion": "15 min",
+          "costo": 4
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "14:00",
+          "de": "Restaurante Ferma",
+          "a": "Mercado Central",
+          "medio": "Taxi compartido por cuatro personas",
+          "duracion": "15 min",
+          "costo": 4
+        }
+      ],
+      "planB": "Visitar el Museo Art Nouveau, ampliar la visita al Mercado Central y recorrer espacios cubiertos del casco antiguo."
+    },
+    {
+      "dia": 4,
+      "titulo": "Jūrmala: playas, bosques y bienestar",
+      "ciudad": "Jūrmala",
+      "coords": {
+        "lat": 56.968,
+        "lng": 23.7704
+      },
+      "resumen": "Excursión de día completo desde Riga a la costa del Báltico, con playa, arquitectura de madera, parque forestal y una experiencia de spa para el nivel alto. Se regresa a dormir a Riga.",
+      "imagenes": [
+        {
+          "url": "letonia-14-dias/playa-de-arena-de-jurmala-junto-al-mar-b-caeaa3.jpg",
+          "alt": "Playas arenosas y bosque costero de Jūrmala",
+          "credito": "Ken Eckert",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Jurmala_Beach,_Latvia.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "10:00",
+          "nombre": "Calle Jomas y arquitectura de madera",
+          "descripcion": "Paseo por la calle peatonal principal de Majori y observación de las casas tradicionales de verano.",
+          "duracion": "1 h 15 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 56.9715,
+            "lng": 23.798
+          }
+        },
+        {
+          "hora": "11:30",
+          "nombre": "Playa de Majori",
+          "descripcion": "Caminata por la arena blanca de la costa báltica y descanso frente al mar.",
+          "duracion": "1 h 30 min",
+          "costo": 0,
+          "tipo": "naturaleza",
+          "coords": {
+            "lat": 56.9788,
+            "lng": 23.8
+          },
+          "consejo": "En mayo el mar suele estar frío. La actividad está pensada como paseo costero, no como jornada de baño."
+        },
+        {
+          "hora": "15:00",
+          "nombre": "Parque forestal Dzintari",
+          "descripcion": "Senderos entre pinos, zonas de descanso y recorrido por el bosque costero.",
+          "duracion": "1 h 30 min",
+          "costo": 0,
+          "tipo": "naturaleza",
+          "coords": {
+            "lat": 56.9735,
+            "lng": 23.817
+          }
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "16:45",
+          "nombre": "Experiencia de spa en Baltic Beach Hotel",
+          "descripcion": "Circuito de bienestar con piscinas, sauna y áreas de relajación, sujeto a la disponibilidad del pase de spa.",
+          "duracion": "1 h",
+          "costo": 55,
+          "tipo": "descanso",
+          "coords": {
+            "lat": 56.9761,
+            "lng": 23.7987
+          },
+          "link": "https://www.balticbeach.lv/en/"
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "07:45",
+            "momento": "desayuno",
+            "lugar": "Cinnamon Sally Backpackers Hostel",
+            "plato": "Desayuno continental incluido",
+            "costo": 0
+          },
+          {
+            "hora": "13:15",
+            "momento": "almuerzo",
+            "lugar": "LIDO, zona de Jomas iela",
+            "plato": "Plato caliente de carne, papas y ensalada",
+            "costo": 14,
+            "link": "https://www.lido.lv/"
+          },
+          {
+            "hora": "20:00",
+            "momento": "cena",
+            "lugar": "LIDO Vērmanītis, Riga",
+            "plato": "Sopa del día y tortitas de papa",
+            "costo": 12,
+            "link": "https://www.lido.lv/"
+          }
+        ],
+        "medio": [
+          {
+            "hora": "07:45",
+            "momento": "desayuno",
+            "lugar": "Wellton Riverside SPA Hotel",
+            "plato": "Buffet incluido",
+            "costo": 0
+          },
+          {
+            "hora": "13:15",
+            "momento": "almuerzo",
+            "lugar": "Restaurante 36.line, Jūrmala",
+            "plato": "Pescado a la parrilla con vegetales",
+            "costo": 34,
+            "link": "https://36line.com/"
+          },
+          {
+            "hora": "20:00",
+            "momento": "cena",
+            "lugar": "Restaurante Milda, Riga",
+            "plato": "Carne estofada y postre tradicional",
+            "costo": 32
+          }
+        ],
+        "alto": [
+          {
+            "hora": "07:45",
+            "momento": "desayuno",
+            "lugar": "Grand Poet Hotel",
+            "plato": "Desayuno premium incluido",
+            "costo": 0
+          },
+          {
+            "hora": "13:15",
+            "momento": "almuerzo",
+            "lugar": "Restaurante 36.line, Jūrmala",
+            "plato": "Mariscos o pescado del día con postre",
+            "costo": 65,
+            "link": "https://36line.com/"
+          },
+          {
+            "hora": "20:00",
+            "momento": "cena",
+            "lugar": "Restaurante Kolonāde, Riga",
+            "plato": "Menú de tres tiempos de cocina europea contemporánea",
+            "costo": 62
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "niveles": [
+            "economico",
+            "medio"
+          ],
+          "hora": "09:00",
+          "de": "Riga Central",
+          "a": "Estación Majori, Jūrmala",
+          "medio": "Tren regional Vivi",
+          "duracion": "35 min",
+          "costo": 2.3,
+          "consejo": "Consultar horarios reales para mayo de 2028 en vivi.lv."
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "09:00",
+          "de": "Grand Poet Hotel",
+          "a": "Jūrmala, Jomas iela",
+          "medio": "Automóvil privado con conductor, costo dividido entre cuatro",
+          "duracion": "35 min",
+          "costo": 25
+        },
+        {
+          "niveles": [
+            "economico",
+            "medio"
+          ],
+          "hora": "18:30",
+          "de": "Estación Majori",
+          "a": "Riga Central",
+          "medio": "Tren regional Vivi",
+          "duracion": "35 min",
+          "costo": 2.3
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "18:30",
+          "de": "Baltic Beach Hotel",
+          "a": "Grand Poet Hotel, Riga",
+          "medio": "Automóvil privado con conductor, costo dividido entre cuatro",
+          "duracion": "40 min",
+          "costo": 25
+        }
+      ],
+      "planB": "Si el tiempo es lluvioso, visitar cafés y galerías de Jomas iela; en el nivel alto, ampliar la experiencia de spa."
+    },
+    {
+      "dia": 5,
+      "titulo": "Sigulda: la puerta del Parque Nacional Gauja",
+      "ciudad": "Sigulda",
+      "coords": {
+        "lat": 57.1534,
+        "lng": 24.8542
+      },
+      "resumen": "Salida de Riga hacia Sigulda para conocer castillos, paisajes forestales, la cueva de Gūtmanis y los miradores del valle del río Gauja.",
+      "imagenes": [
+        {
+          "url": "letonia-14-dias/rio-gauja-rodeado-de-bosques-verdes-en-l-384a3b.jpg",
+          "alt": "Bosques y río en el Parque Nacional Gauja",
+          "credito": "Elvijs8",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Gauja_National_park.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "11:00",
+          "nombre": "Castillo de Sigulda y su entorno",
+          "descripcion": "Visita exterior al conjunto de castillos y los jardines del recinto histórico.",
+          "duracion": "1 h 15 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 57.1652,
+            "lng": 24.8411
+          }
+        },
+        {
+          "hora": "13:45",
+          "nombre": "Barrio creativo del Castillo Nuevo",
+          "descripcion": "Recorrido por los talleres artesanales y edificios restaurados del entorno del Castillo Nuevo de Sigulda.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 57.1644,
+            "lng": 24.8408
+          }
+        },
+        {
+          "hora": "15:30",
+          "nombre": "Cueva de Gūtmanis",
+          "descripcion": "Visita a una histórica cavidad de arenisca con inscripciones antiguas y leyendas locales.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "naturaleza",
+          "coords": {
+            "lat": 57.1767,
+            "lng": 24.8489
+          },
+          "consejo": "Proteger las paredes de arenisca: está prohibido escribir o tallar nuevas inscripciones."
+        },
+        {
+          "hora": "17:00",
+          "nombre": "Panorámicas del valle de Gauja",
+          "descripcion": "Observación de las laderas boscosas y del paisaje del valle cerca de Krimulda.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "naturaleza",
+          "coords": {
+            "lat": 57.1733,
+            "lng": 24.835
+          }
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "07:45",
+            "momento": "desayuno",
+            "lugar": "Cinnamon Sally Backpackers Hostel",
+            "plato": "Desayuno continental incluido",
+            "costo": 0
+          },
+          {
+            "hora": "12:30",
+            "momento": "almuerzo",
+            "lugar": "Mr. Biskvīts, Sigulda",
+            "plato": "Sopa casera y sándwich",
+            "costo": 12
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Restaurante del Hotel Sigulda",
+            "plato": "Cerdo con papas y ensalada",
+            "costo": 18,
+            "link": "https://hotelsigulda.lv/"
+          }
+        ],
+        "medio": [
+          {
+            "hora": "07:45",
+            "momento": "desayuno",
+            "lugar": "Wellton Riverside SPA Hotel",
+            "plato": "Buffet incluido",
+            "costo": 0
+          },
+          {
+            "hora": "12:30",
+            "momento": "almuerzo",
+            "lugar": "Restaurante Kungu Rija",
+            "plato": "Pollo de campo con verduras",
+            "costo": 26
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Restaurante Aparjods",
+            "plato": "Trucha con papas y vegetales",
+            "costo": 34
+          }
+        ],
+        "alto": [
+          {
+            "hora": "07:45",
+            "momento": "desayuno",
+            "lugar": "Grand Poet Hotel",
+            "plato": "Desayuno premium incluido",
+            "costo": 0
+          },
+          {
+            "hora": "12:30",
+            "momento": "almuerzo",
+            "lugar": "Restaurante Kungu Rija",
+            "plato": "Menú de temporada con entrada y plato principal",
+            "costo": 45
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Restaurante SPA Hotel Ezeri",
+            "plato": "Cena de tres tiempos con productos regionales",
+            "costo": 58,
+            "link": "https://hotelezeri.lv/en"
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "niveles": [
+            "economico",
+            "medio"
+          ],
+          "hora": "09:00",
+          "de": "Riga Central",
+          "a": "Sigulda",
+          "medio": "Tren regional Vivi",
+          "duracion": "1 h 10 min",
+          "costo": 2.8
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "09:00",
+          "de": "Grand Poet Hotel, Riga",
+          "a": "SPA Hotel Ezeri, Sigulda",
+          "medio": "Traslado privado compartido por cuatro personas",
+          "duracion": "1 h 15 min",
+          "costo": 40
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "14:55",
+          "de": "Centro de Sigulda",
+          "a": "Zona de Gūtmanis",
+          "medio": "Autobús local",
+          "duracion": "20 min",
+          "costo": 2
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "14:55",
+          "de": "Centro de Sigulda",
+          "a": "Zona de Gūtmanis",
+          "medio": "Taxi compartido",
+          "duracion": "12 min",
+          "costo": 5
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "14:55",
+          "de": "Centro de Sigulda",
+          "a": "Zona de Gūtmanis",
+          "medio": "Vehículo privado",
+          "duracion": "12 min",
+          "costo": 10
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "18:10",
+          "de": "Zona de Krimulda",
+          "a": "Centro de Sigulda",
+          "medio": "Autobús local",
+          "duracion": "25 min",
+          "costo": 2
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "18:10",
+          "de": "Zona de Krimulda",
+          "a": "Centro de Sigulda",
+          "medio": "Taxi compartido",
+          "duracion": "15 min",
+          "costo": 6
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "18:10",
+          "de": "Zona de Krimulda",
+          "a": "SPA Hotel Ezeri",
+          "medio": "Vehículo privado",
+          "duracion": "20 min",
+          "costo": 12
+        }
+      ],
+      "planB": "Visitar los edificios cubiertos del conjunto del Castillo Nuevo de Sigulda y realizar un circuito de bienestar en el hotel si la lluvia impide el senderismo."
+    },
+    {
+      "dia": 6,
+      "titulo": "Turaida, bosques y aventura extrema",
+      "ciudad": "Sigulda",
+      "coords": {
+        "lat": 57.1664,
+        "lng": 24.85
+      },
+      "resumen": "Un día de castillos y naturaleza en el valle del Gauja. Los planes medio y alto incorporan experiencias de adrenalina con intensidad diferente.",
+      "imagenes": [
+        {
+          "url": "letonia-14-dias/castillo-medieval-de-turaida-sobre-los-b-c8dae4.jpg",
+          "alt": "Torre del castillo de Turaida sobre los bosques del Gauja",
+          "credito": "Ivo Kruusamägi",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Turaida_Castle_from_Sigulda.JPG"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "10:00",
+          "nombre": "Castillo y reserva-museo de Turaida",
+          "descripcion": "Recorrido por el castillo medieval y las exposiciones de la reserva histórica. La entrada permite explorar el conjunto habilitado.",
+          "duracion": "2 h",
+          "costo": 10,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 57.1822,
+            "lng": 24.8504
+          },
+          "link": "https://tmr.gov.lv/en/ticket-info",
+          "consejo": "El precio es una estimación: la entrada vigente cambia según temporada y tipo de visitante."
+        },
+        {
+          "hora": "12:15",
+          "nombre": "Colina de las Canciones Populares",
+          "descripcion": "Paseo por Dainu kalns, espacio cultural con esculturas relacionadas con el folclor letón.",
+          "duracion": "45 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 57.182,
+            "lng": 24.852
+          }
+        },
+        {
+          "hora": "14:30",
+          "nombre": "Senderismo por el bosque del Gauja",
+          "descripcion": "Caminata por senderos y miradores de la zona del valle, adaptada a las condiciones del grupo.",
+          "duracion": "1 h 30 min",
+          "costo": 0,
+          "tipo": "naturaleza",
+          "coords": {
+            "lat": 57.175,
+            "lng": 24.842
+          }
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "16:30",
+          "nombre": "Parque de cuerdas y tirolesas Tarzāns",
+          "descripcion": "Circuito de obstáculos, puentes suspendidos y tirolesas en el entorno forestal de Sigulda.",
+          "duracion": "1 h 30 min",
+          "costo": 30,
+          "tipo": "aventura",
+          "coords": {
+            "lat": 57.1595,
+            "lng": 24.831
+          },
+          "link": "https://www.tarzans.lv/",
+          "consejo": "Verificar restricciones de peso, altura, edad y estado de apertura antes de reservar."
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "16:30",
+          "nombre": "Bungee jumping en Sigulda",
+          "descripcion": "Experiencia extrema operada por proveedor especializado, sujeta a calendario, condiciones meteorológicas y requisitos físicos.",
+          "duracion": "1 h 30 min",
+          "costo": 99,
+          "tipo": "aventura",
+          "coords": {
+            "lat": 57.1702,
+            "lng": 24.8318
+          },
+          "link": "https://siguldaadventures.com/en",
+          "consejo": "No se puede garantizar que existan saltos el día exacto del viaje; reservar solamente cuando se publique el calendario oficial de mayo de 2028."
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "08:00",
+            "momento": "desayuno",
+            "lugar": "Mr. Biskvīts, Sigulda",
+            "plato": "Avena, pastel y café",
+            "costo": 9
+          },
+          {
+            "hora": "13:15",
+            "momento": "almuerzo",
+            "lugar": "Cafetería de la reserva-museo de Turaida",
+            "plato": "Sopa de temporada y pan de centeno",
+            "costo": 12,
+            "link": "https://tmr.gov.lv/en/visitors"
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Restaurante Hotel Sigulda",
+            "plato": "Pollo con puré y ensalada",
+            "costo": 17,
+            "link": "https://hotelsigulda.lv/"
+          }
+        ],
+        "medio": [
+          {
+            "hora": "08:00",
+            "momento": "desayuno",
+            "lugar": "Hotel Sigulda",
+            "plato": "Buffet de desayuno incluido",
+            "costo": 0
+          },
+          {
+            "hora": "13:15",
+            "momento": "almuerzo",
+            "lugar": "Cafetería de la reserva-museo de Turaida",
+            "plato": "Plato regional de carne y vegetales",
+            "costo": 20,
+            "link": "https://tmr.gov.lv/en/visitors"
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Restaurante Aparjods",
+            "plato": "Pescado ahumado con papas y postre",
+            "costo": 38
+          }
+        ],
+        "alto": [
+          {
+            "hora": "08:00",
+            "momento": "desayuno",
+            "lugar": "SPA Hotel Ezeri",
+            "plato": "Desayuno completo incluido",
+            "costo": 0
+          },
+          {
+            "hora": "13:15",
+            "momento": "almuerzo",
+            "lugar": "Cafetería de la reserva-museo de Turaida",
+            "plato": "Menú regional con plato principal y postre",
+            "costo": 27,
+            "link": "https://tmr.gov.lv/en/visitors"
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Restaurante SPA Hotel Ezeri",
+            "plato": "Menú gastronómico de tres tiempos",
+            "costo": 65,
+            "link": "https://hotelezeri.lv/en"
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "09:00",
+          "de": "Sigulda",
+          "a": "Reserva de Turaida",
+          "medio": "Autobús local",
+          "duracion": "25 min",
+          "costo": 2.5
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "09:00",
+          "de": "Hotel Sigulda",
+          "a": "Turaida",
+          "medio": "Taxi compartido",
+          "duracion": "15 min",
+          "costo": 6
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "09:00",
+          "de": "SPA Hotel Ezeri",
+          "a": "Turaida",
+          "medio": "Vehículo privado compartido",
+          "duracion": "20 min",
+          "costo": 14
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "16:10",
+          "de": "Senderos del Gauja",
+          "a": "Centro de Sigulda",
+          "medio": "Autobús local",
+          "duracion": "25 min",
+          "costo": 2.5
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "16:10",
+          "de": "Senderos del Gauja",
+          "a": "Tarzāns",
+          "medio": "Taxi compartido",
+          "duracion": "15 min",
+          "costo": 6
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "16:10",
+          "de": "Senderos del Gauja",
+          "a": "Área de actividades Sigulda Adventures",
+          "medio": "Vehículo privado",
+          "duracion": "15 min",
+          "costo": 12
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "18:15",
+          "de": "Tarzāns",
+          "a": "Hotel Sigulda",
+          "medio": "Taxi compartido",
+          "duracion": "15 min",
+          "costo": 6
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "18:15",
+          "de": "Zona de aventura",
+          "a": "SPA Hotel Ezeri",
+          "medio": "Vehículo privado",
+          "duracion": "20 min",
+          "costo": 12
+        }
+      ],
+      "planB": "Si se cancelan las actividades extremas, cambiar a una visita cubierta del patrimonio de Sigulda y a un circuito de spa."
+    },
+    {
+      "dia": 7,
+      "titulo": "Cēsis: un viaje a la Edad Media",
+      "ciudad": "Cēsis",
+      "coords": {
+        "lat": 57.3137,
+        "lng": 25.2723
+      },
+      "resumen": "Viaje corto desde Sigulda hacia Cēsis, una de las ciudades históricas más atractivas de Letonia. Exploración de su castillo, parque y centro antiguo.",
+      "imagenes": [
+        {
+          "url": "letonia-14-dias/torres-y-murallas-medievales-del-castill-b5a83a.jpg",
+          "alt": "Murallas y torre del castillo medieval de Cēsis",
+          "credito": "AgrisR",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:C%C4%93sis_Castle.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "11:00",
+          "nombre": "Castillo medieval de Cēsis",
+          "descripcion": "Exploración de la fortaleza y su museo. El recorrido incluye sectores medievales habilitados y exposiciones históricas.",
+          "duracion": "2 h",
+          "costo": 12,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 57.3147,
+            "lng": 25.2715
+          },
+          "link": "https://cesupils.lv/en/plan-your-visit/prices/"
+        },
+        {
+          "hora": "14:30",
+          "nombre": "Parque del Castillo de Cēsis",
+          "descripcion": "Caminata por senderos, jardines y alrededores del estanque histórico.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "naturaleza",
+          "coords": {
+            "lat": 57.3144,
+            "lng": 25.2679
+          }
+        },
+        {
+          "hora": "16:00",
+          "nombre": "Centro histórico de Cēsis",
+          "descripcion": "Paseo por sus calles tradicionales y edificios medievales restaurados.",
+          "duracion": "1 h 15 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 57.3125,
+            "lng": 25.2736
+          }
+        },
+        {
+          "hora": "17:30",
+          "nombre": "Iglesia de San Juan",
+          "descripcion": "Observación de la iglesia medieval, su arquitectura y el entorno de la plaza histórica.",
+          "duracion": "45 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 57.3128,
+            "lng": 25.2741
+          }
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "07:45",
+            "momento": "desayuno",
+            "lugar": "Mr. Biskvīts, Sigulda",
+            "plato": "Sándwich, café y fruta",
+            "costo": 9
+          },
+          {
+            "hora": "13:15",
+            "momento": "almuerzo",
+            "lugar": "Café Pagrabiņš, Cēsis",
+            "plato": "Sopa del día con pan y plato casero",
+            "costo": 13,
+            "link": "https://visit.cesis.lv/en/cesis-municipality/cesis/"
+          },
+          {
+            "hora": "19:00",
+            "momento": "cena",
+            "lugar": "Café Pagrabiņš",
+            "plato": "Pizza o plato de pasta",
+            "costo": 15
+          }
+        ],
+        "medio": [
+          {
+            "hora": "07:45",
+            "momento": "desayuno",
+            "lugar": "Hotel Sigulda",
+            "plato": "Buffet incluido",
+            "costo": 0
+          },
+          {
+            "hora": "13:15",
+            "momento": "almuerzo",
+            "lugar": "Restaurante Jāņoga, Cēsis",
+            "plato": "Pollo de campo con ensalada de temporada",
+            "costo": 25,
+            "link": "https://visit.cesis.lv/en/place/janoga-cesis/"
+          },
+          {
+            "hora": "19:00",
+            "momento": "cena",
+            "lugar": "H.E. Vanadziņš, Cēsis",
+            "plato": "Pescado con guarnición regional",
+            "costo": 37,
+            "link": "https://vanadzinarestorans.lv/en/"
+          }
+        ],
+        "alto": [
+          {
+            "hora": "07:45",
+            "momento": "desayuno",
+            "lugar": "SPA Hotel Ezeri",
+            "plato": "Desayuno incluido",
+            "costo": 0
+          },
+          {
+            "hora": "13:15",
+            "momento": "almuerzo",
+            "lugar": "Restaurante Jāņoga",
+            "plato": "Menú de temporada de dos tiempos",
+            "costo": 40,
+            "link": "https://visit.cesis.lv/en/place/janoga-cesis/"
+          },
+          {
+            "hora": "19:00",
+            "momento": "cena",
+            "lugar": "H.E. Vanadziņš",
+            "plato": "Menú degustación de cocina nórdica",
+            "costo": 75,
+            "link": "https://vanadzinarestorans.lv/en/"
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "niveles": [
+            "economico",
+            "medio"
+          ],
+          "hora": "09:00",
+          "de": "Estación de Sigulda",
+          "a": "Estación de Cēsis",
+          "medio": "Tren regional Vivi",
+          "duracion": "40 min",
+          "costo": 2.5
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "09:00",
+          "de": "SPA Hotel Ezeri",
+          "a": "Villa Santa, Cēsis",
+          "medio": "Traslado privado compartido entre cuatro",
+          "duracion": "45 min",
+          "costo": 28
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "10:30",
+          "de": "Villa Santa",
+          "a": "Castillo de Cēsis",
+          "medio": "Taxi privado compartido",
+          "duracion": "10 min",
+          "costo": 5
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "18:30",
+          "de": "Centro de Cēsis",
+          "a": "Villa Santa",
+          "medio": "Taxi privado compartido",
+          "duracion": "10 min",
+          "costo": 5
+        }
+      ],
+      "planB": "Dedicar más tiempo a las exposiciones cubiertas del castillo y visitar las galerías y cafeterías del centro histórico."
+    },
+    {
+      "dia": 8,
+      "titulo": "Bosques y vida cultural en Cēsis",
+      "ciudad": "Cēsis",
+      "coords": {
+        "lat": 57.3137,
+        "lng": 25.2723
+      },
+      "resumen": "Jornada de senderismo por los bosques próximos a Cēsis y visita a sus espacios culturales, con una experiencia gastronómica adicional para los viajeros de mayor presupuesto.",
+      "imagenes": [
+        {
+          "url": "letonia-14-dias/rio-gauja-rodeado-de-bosques-verdes-en-l-384a3b.jpg",
+          "alt": "Paisaje natural de bosques y río en la región del Gauja",
+          "credito": "Elvijs8",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Gauja_National_park.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "09:15",
+          "nombre": "Senderos naturales de Cīrulīši",
+          "descripcion": "Caminata entre bosques, barrancos y afloramientos de arenisca en el entorno de Cēsis.",
+          "duracion": "2 h 30 min",
+          "costo": 0,
+          "tipo": "naturaleza",
+          "coords": {
+            "lat": 57.304,
+            "lng": 25.232
+          },
+          "consejo": "Llevar calzado con buena adherencia; los caminos forestales pueden estar húmedos."
+        },
+        {
+          "hora": "14:30",
+          "nombre": "Centro de Arte Contemporáneo de Cēsis",
+          "descripcion": "Visita a los espacios de exposiciones del entorno cultural de la ciudad, según programación.",
+          "duracion": "1 h",
+          "costo": 8,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 57.3122,
+            "lng": 25.2734
+          },
+          "consejo": "La exposición y el importe dependen de la programación cultural de mayo de 2028."
+        },
+        {
+          "hora": "16:00",
+          "nombre": "Plaza Rožu y cafeterías históricas",
+          "descripcion": "Paseo por una de las plazas tradicionales de Cēsis y su arquitectura urbana.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 57.3119,
+            "lng": 25.2721
+          }
+        },
+        {
+          "niveles": [
+            "medio",
+            "alto"
+          ],
+          "hora": "17:30",
+          "nombre": "Degustación guiada de productos regionales",
+          "descripcion": "Degustación privada de quesos, pan de centeno, conservas y productos de temporada para un grupo pequeño.",
+          "duracion": "1 h",
+          "costo": 28,
+          "tipo": "comida",
+          "coords": {
+            "lat": 57.3125,
+            "lng": 25.273
+          },
+          "consejo": "Requiere reserva previa."
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "08:00",
+            "momento": "desayuno",
+            "lugar": "Café Pagrabiņš, Cēsis",
+            "plato": "Pastel, café y yogur",
+            "costo": 9
+          },
+          {
+            "hora": "12:15",
+            "momento": "almuerzo",
+            "lugar": "Café Pagrabiņš",
+            "plato": "Sopa de vegetales, pollo y papas",
+            "costo": 13
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Café Pagrabiņš",
+            "plato": "Plato caliente de carne y vegetales",
+            "costo": 16
+          }
+        ],
+        "medio": [
+          {
+            "hora": "08:00",
+            "momento": "desayuno",
+            "lugar": "Hotel Cēsis",
+            "plato": "Desayuno buffet incluido",
+            "costo": 0
+          },
+          {
+            "hora": "12:15",
+            "momento": "almuerzo",
+            "lugar": "Restaurante Jāņoga",
+            "plato": "Trucha con papas y ensalada",
+            "costo": 27
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "H.E. Vanadziņš",
+            "plato": "Carne estofada y vegetales",
+            "costo": 37,
+            "link": "https://vanadzinarestorans.lv/en/"
+          }
+        ],
+        "alto": [
+          {
+            "hora": "08:00",
+            "momento": "desayuno",
+            "lugar": "Villa Santa",
+            "plato": "Desayuno premium incluido",
+            "costo": 0
+          },
+          {
+            "hora": "12:15",
+            "momento": "almuerzo",
+            "lugar": "Restaurante Jāņoga",
+            "plato": "Menú regional de dos tiempos",
+            "costo": 43
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Restaurante Villa Santa",
+            "plato": "Cena gastronómica de tres tiempos",
+            "costo": 68,
+            "link": "https://visit.cesis.lv/en/place/villa-santa-hotel/"
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "08:45",
+          "de": "Centro de Cēsis",
+          "a": "Entrada de los senderos de Cīrulīši",
+          "medio": "Autobús urbano o regional",
+          "duracion": "20 min",
+          "costo": 1.5
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "08:45",
+          "de": "Hotel Cēsis",
+          "a": "Senderos de Cīrulīši",
+          "medio": "Taxi compartido",
+          "duracion": "15 min",
+          "costo": 5
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "08:45",
+          "de": "Villa Santa",
+          "a": "Senderos de Cīrulīši",
+          "medio": "Taxi compartido",
+          "duracion": "10 min",
+          "costo": 6
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "11:45",
+          "de": "Cīrulīši",
+          "a": "Centro de Cēsis",
+          "medio": "Autobús local",
+          "duracion": "20 min",
+          "costo": 1.5
+        },
+        {
+          "niveles": [
+            "medio",
+            "alto"
+          ],
+          "hora": "11:45",
+          "de": "Cīrulīši",
+          "a": "Centro de Cēsis",
+          "medio": "Taxi compartido",
+          "duracion": "15 min",
+          "costo": 5
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "18:45",
+          "de": "Centro de Cēsis",
+          "a": "Villa Santa",
+          "medio": "Taxi compartido",
+          "duracion": "10 min",
+          "costo": 5
+        }
+      ],
+      "planB": "Sustituir el senderismo por una visita más extensa a los museos históricos y culturales del centro de Cēsis."
+    },
+    {
+      "dia": 9,
+      "titulo": "Kuldīga: cascadas y patrimonio UNESCO",
+      "ciudad": "Kuldīga",
+      "coords": {
+        "lat": 56.968,
+        "lng": 21.969
+      },
+      "resumen": "Traslado desde Cēsis hasta Kuldīga y descubrimiento de su centro histórico, el río Venta y su célebre cascada. En transporte público se viaja vía Riga.",
+      "imagenes": [
+        {
+          "url": "letonia-14-dias/cascada-ventas-rumba-rodeada-de-vegetaci-83b124.jpg",
+          "alt": "Cascada Ventas Rumba en Kuldīga",
+          "credito": "Zairon",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Kuldiga_Ventas_rumba_20.JPG"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "15:00",
+          "nombre": "Centro histórico UNESCO de Kuldīga",
+          "descripcion": "Paseo por calles con arquitectura tradicional, casas de madera y edificios vinculados al antiguo ducado de Curlandia.",
+          "duracion": "1 h 15 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 56.967,
+            "lng": 21.9695
+          }
+        },
+        {
+          "hora": "16:45",
+          "nombre": "Cascada Ventas Rumba",
+          "descripcion": "Contemplación de la extensa cascada natural del río Venta, considerada una de las más anchas de Europa.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "naturaleza",
+          "coords": {
+            "lat": 56.9683,
+            "lng": 21.9782
+          }
+        },
+        {
+          "hora": "18:15",
+          "nombre": "Puente histórico de ladrillo sobre el Venta",
+          "descripcion": "Paseo y fotografías desde el antiguo puente de ladrillo rojo y las orillas del río.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 56.971,
+            "lng": 21.981
+          }
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "07:00",
+            "momento": "desayuno",
+            "lugar": "Café Pagrabiņš, Cēsis",
+            "plato": "Sándwich preparado para llevar y bebida",
+            "costo": 9
+          },
+          {
+            "hora": "13:45",
+            "momento": "almuerzo",
+            "lugar": "Café Pagrabiņš, Kuldīga",
+            "plato": "Sopa y plato de carne casero",
+            "costo": 14,
+            "link": "https://visitkuldiga.com/en/taste-objects/restaurants-and-cafes/"
+          },
+          {
+            "hora": "20:00",
+            "momento": "cena",
+            "lugar": "Café Pagrabiņš, Kuldīga",
+            "plato": "Tortitas de papa con crema agria",
+            "costo": 15
+          }
+        ],
+        "medio": [
+          {
+            "hora": "07:00",
+            "momento": "desayuno",
+            "lugar": "Hotel Cēsis",
+            "plato": "Desayuno incluido, solicitado temprano",
+            "costo": 0
+          },
+          {
+            "hora": "13:45",
+            "momento": "almuerzo",
+            "lugar": "Goldingen Room, Kuldīga",
+            "plato": "Pasta fresca con vegetales y ensalada",
+            "costo": 26,
+            "link": "https://visitkuldiga.com/en/taste-objects/restorani-un-kafejnicas/restorans-goldingen-room/"
+          },
+          {
+            "hora": "20:00",
+            "momento": "cena",
+            "lugar": "Restaurante Bangert's",
+            "plato": "Pescado con vegetales y postre",
+            "costo": 37,
+            "link": "https://visitkuldiga.com/en/taste-objects/restorani-un-kafejnicas/restorans-bangerts/"
+          }
+        ],
+        "alto": [
+          {
+            "hora": "07:30",
+            "momento": "desayuno",
+            "lugar": "Villa Santa, Cēsis",
+            "plato": "Desayuno premium incluido",
+            "costo": 0
+          },
+          {
+            "hora": "13:45",
+            "momento": "almuerzo",
+            "lugar": "Goldingen Room",
+            "plato": "Menú completo de cocina mediterránea contemporánea",
+            "costo": 45,
+            "link": "https://visitkuldiga.com/en/taste-objects/restorani-un-kafejnicas/restorans-goldingen-room/"
+          },
+          {
+            "hora": "20:00",
+            "momento": "cena",
+            "lugar": "Restaurante Bangert's",
+            "plato": "Menú de tres tiempos con ingredientes regionales",
+            "costo": 62,
+            "link": "https://visitkuldiga.com/en/taste-objects/restorani-un-kafejnicas/restorans-bangerts/"
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "niveles": [
+            "economico",
+            "medio"
+          ],
+          "hora": "07:45",
+          "de": "Cēsis",
+          "a": "Riga Central",
+          "medio": "Tren regional Vivi",
+          "duracion": "1 h 45 min",
+          "costo": 5.5
+        },
+        {
+          "niveles": [
+            "economico",
+            "medio"
+          ],
+          "hora": "10:15",
+          "de": "Terminal de autobuses de Riga",
+          "a": "Kuldīga",
+          "medio": "Autobús interurbano",
+          "duracion": "2 h 45 min",
+          "costo": 10,
+          "consejo": "Deja margen entre el tren y el autobús."
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "09:00",
+          "de": "Villa Santa, Cēsis",
+          "a": "Noliktava No5, Kuldīga",
+          "medio": "Traslado privado puerta a puerta compartido por cuatro",
+          "duracion": "3 h 30 min",
+          "costo": 85
+        }
+      ],
+      "planB": "Si se retrasa el traslado, visitar únicamente el centro UNESCO y la cascada, aplazando el puente histórico para el día siguiente."
+    },
+    {
+      "dia": 10,
+      "titulo": "Kuldīga: cuevas de arena y patrimonio tradicional",
+      "ciudad": "Kuldīga",
+      "coords": {
+        "lat": 56.968,
+        "lng": 21.969
+      },
+      "resumen": "Día dedicado a los rincones tradicionales de Kuldīga, sus pequeños saltos de agua y las cuevas de arena de Riežupe.",
+      "imagenes": [
+        {
+          "url": "letonia-14-dias/cascada-ventas-rumba-rodeada-de-vegetaci-83b124.jpg",
+          "alt": "Paisaje del río Venta y sus rápidos en Kuldīga",
+          "credito": "Zairon",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Kuldiga_Ventas_rumba_20.JPG"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "09:00",
+          "nombre": "Cascada de Alekšupīte",
+          "descripcion": "Visita al pequeño salto de agua que atraviesa la trama histórica de Kuldīga.",
+          "duracion": "45 min",
+          "costo": 0,
+          "tipo": "naturaleza",
+          "coords": {
+            "lat": 56.9695,
+            "lng": 21.977
+          }
+        },
+        {
+          "hora": "11:00",
+          "nombre": "Cuevas de arena de Riežupe",
+          "descripcion": "Recorrido guiado por una red subterránea de antiguas excavaciones de arena, sujeto a las condiciones de apertura.",
+          "duracion": "1 h",
+          "costo": 10,
+          "tipo": "aventura",
+          "coords": {
+            "lat": 57.0025,
+            "lng": 21.994
+          },
+          "link": "https://smilsualas.lv/en/visit/",
+          "consejo": "Llevar abrigo ligero: la temperatura subterránea es fresca durante todo el año."
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "15:00",
+          "nombre": "Talleres y tiendas artesanales del casco antiguo",
+          "descripcion": "Visita libre a comercios artesanales y escaparates tradicionales de la zona histórica.",
+          "duracion": "1 h 15 min",
+          "costo": 0,
+          "tipo": "compras",
+          "coords": {
+            "lat": 56.9669,
+            "lng": 21.9705
+          }
+        },
+        {
+          "niveles": [
+            "medio",
+            "alto"
+          ],
+          "hora": "15:00",
+          "nombre": "Experiencia artesanal de Curlandia",
+          "descripcion": "Taller de introducción a la artesanía local.",
+          "duracion": "1 h 15 min",
+          "costo": 35,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 56.9669,
+            "lng": 21.9705
+          },
+          "consejo": "Requiere reserva previa con un taller local."
+        },
+        {
+          "hora": "17:00",
+          "nombre": "Paseo por las riberas del Venta",
+          "descripcion": "Caminata relajada junto al río para contemplar el paisaje de la cascada desde otros ángulos.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "naturaleza",
+          "coords": {
+            "lat": 56.9692,
+            "lng": 21.9785
+          }
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "08:00",
+            "momento": "desayuno",
+            "lugar": "Daigas beķereja, Kuldīga",
+            "plato": "Pan dulce, café y sándwich",
+            "costo": 8
+          },
+          {
+            "hora": "13:00",
+            "momento": "almuerzo",
+            "lugar": "Café Pagrabiņš, Kuldīga",
+            "plato": "Sopa de carne y papas",
+            "costo": 14
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Café Pagrabiņš, Kuldīga",
+            "plato": "Plato casero con carne y vegetales",
+            "costo": 15
+          }
+        ],
+        "medio": [
+          {
+            "hora": "08:00",
+            "momento": "desayuno",
+            "lugar": "Hotel Jēkaba sēta",
+            "plato": "Desayuno incluido",
+            "costo": 0,
+            "link": "https://jekabaseta.lv/"
+          },
+          {
+            "hora": "13:00",
+            "momento": "almuerzo",
+            "lugar": "Goldingen Room",
+            "plato": "Pasta fresca y ensalada",
+            "costo": 26
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Restaurante Bangert's",
+            "plato": "Carne asada con verduras y postre",
+            "costo": 38
+          }
+        ],
+        "alto": [
+          {
+            "hora": "08:00",
+            "momento": "desayuno",
+            "lugar": "Noliktava No5",
+            "plato": "Desayuno incluido",
+            "costo": 0,
+            "link": "https://visitkuldiga.com/en/accommodation-objects/viesnicas/viesnica-noliktava-no5/"
+          },
+          {
+            "hora": "13:00",
+            "momento": "almuerzo",
+            "lugar": "Restaurante Bangert's",
+            "plato": "Pescado con verduras y postre",
+            "costo": 42
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Goldingen Room",
+            "plato": "Cena de varios tiempos con productos seleccionados",
+            "costo": 59
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "10:15",
+          "de": "Centro de Kuldīga",
+          "a": "Cuevas de Riežupe",
+          "medio": "Taxi compartido",
+          "duracion": "15 min",
+          "costo": 7
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "10:15",
+          "de": "Noliktava No5",
+          "a": "Cuevas de Riežupe",
+          "medio": "Vehículo privado compartido",
+          "duracion": "15 min",
+          "costo": 14
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "12:00",
+          "de": "Cuevas de Riežupe",
+          "a": "Centro de Kuldīga",
+          "medio": "Taxi compartido",
+          "duracion": "15 min",
+          "costo": 7
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "12:00",
+          "de": "Cuevas de Riežupe",
+          "a": "Noliktava No5",
+          "medio": "Vehículo privado compartido",
+          "duracion": "15 min",
+          "costo": 14
+        }
+      ],
+      "planB": "Si las cuevas cierran o no tienen cupos, ampliar el recorrido por el patrimonio urbano de Kuldīga y visitar un espacio cultural cubierto. En el plan económico, el desplazamiento hasta las cuevas se realiza caminando y requiere aproximadamente 5 km de ida y otros 5 km de regreso; esta alternativa exige empezar el trayecto antes de la hora de entrada y adaptar el horario del desayuno."
+    },
+    {
+      "dia": 11,
+      "titulo": "Liepāja: la ciudad donde nace el viento",
+      "ciudad": "Liepāja",
+      "coords": {
+        "lat": 56.5047,
+        "lng": 21.0108
+      },
+      "resumen": "Traslado desde Kuldīga hasta Liepāja, ciudad portuaria del mar Báltico, con arquitectura histórica, música y paseos por la costa.",
+      "imagenes": [
+        {
+          "url": "letonia-14-dias/amplia-playa-de-arena-blanca-de-liepaja-f98cc4.jpg",
+          "alt": "Playa báltica de Liepāja",
+          "credito": "Андрей Романенко",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Liep%C4%81ja_beach.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "13:45",
+          "nombre": "Plaza de las Rosas",
+          "descripcion": "Primer recorrido por el corazón de Liepāja y su entorno urbano histórico.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 56.5065,
+            "lng": 21.0111
+          }
+        },
+        {
+          "hora": "15:30",
+          "nombre": "Catedral de la Santísima Trinidad",
+          "descripcion": "Observación de la iglesia histórica y su célebre órgano.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 56.5084,
+            "lng": 21.0113
+          }
+        },
+        {
+          "hora": "17:00",
+          "nombre": "Gran Ámbar, centro de conciertos",
+          "descripcion": "Recorrido exterior por el edificio contemporáneo de conciertos Lielais dzintars.",
+          "duracion": "45 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 56.5098,
+            "lng": 21.0103
+          },
+          "link": "https://lielaisdzintars.lv/"
+        },
+        {
+          "hora": "18:15",
+          "nombre": "Paseo por la costa de Liepāja",
+          "descripcion": "Recorrido por el parque costero y acercamiento a la playa del mar Báltico.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "naturaleza",
+          "coords": {
+            "lat": 56.5052,
+            "lng": 20.9988
+          }
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "07:45",
+            "momento": "desayuno",
+            "lugar": "Daigas beķereja, Kuldīga",
+            "plato": "Pastel, sándwich y café",
+            "costo": 9
+          },
+          {
+            "hora": "12:15",
+            "momento": "almuerzo",
+            "lugar": "Hot Potato, Liepāja",
+            "plato": "Hamburguesa con papas",
+            "costo": 15,
+            "link": "https://liepaja.travel/en/catering/restaurant-bar-hot-potato/"
+          },
+          {
+            "hora": "20:00",
+            "momento": "cena",
+            "lugar": "Restaurante Upe",
+            "plato": "Plato regional de cerdo con papas",
+            "costo": 18,
+            "link": "https://liepaja.travel/en/catering/restaurant-upe/"
+          }
+        ],
+        "medio": [
+          {
+            "hora": "07:45",
+            "momento": "desayuno",
+            "lugar": "Hotel Jēkaba sēta",
+            "plato": "Buffet incluido",
+            "costo": 0
+          },
+          {
+            "hora": "12:15",
+            "momento": "almuerzo",
+            "lugar": "Pastnieka māja, Liepāja",
+            "plato": "Pescado del día con guarnición",
+            "costo": 26,
+            "link": "https://liepaja.travel/en/catering/restaurant-pastnieka-maja/"
+          },
+          {
+            "hora": "20:00",
+            "momento": "cena",
+            "lugar": "MO Liepāja",
+            "plato": "Carne a la parrilla y postre",
+            "costo": 39,
+            "link": "https://liepaja.travel/en/catering/restaurant-mo-liepaja-2/"
+          }
+        ],
+        "alto": [
+          {
+            "hora": "07:45",
+            "momento": "desayuno",
+            "lugar": "Noliktava No5, Kuldīga",
+            "plato": "Desayuno incluido",
+            "costo": 0
+          },
+          {
+            "hora": "12:15",
+            "momento": "almuerzo",
+            "lugar": "Pastnieka māja",
+            "plato": "Menú completo de pescado y postre",
+            "costo": 45,
+            "link": "https://liepaja.travel/en/catering/restaurant-pastnieka-maja/"
+          },
+          {
+            "hora": "20:00",
+            "momento": "cena",
+            "lugar": "Restaurante MO Liepāja",
+            "plato": "Menú gastronómico de tres tiempos",
+            "costo": 70,
+            "link": "https://liepaja.travel/en/catering/restaurant-mo-liepaja-2/"
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "niveles": [
+            "economico",
+            "medio"
+          ],
+          "hora": "09:30",
+          "de": "Kuldīga",
+          "a": "Liepāja",
+          "medio": "Autobús interurbano",
+          "duracion": "2 h",
+          "costo": 7.5
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "09:30",
+          "de": "Noliktava No5, Kuldīga",
+          "a": "Promenade Hotel, Liepāja",
+          "medio": "Traslado privado compartido por cuatro",
+          "duracion": "1 h 30 min",
+          "costo": 45
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "17:45",
+          "de": "Centro de Liepāja",
+          "a": "Parque costero",
+          "medio": "Autobús urbano",
+          "duracion": "15 min",
+          "costo": 1.5
+        },
+        {
+          "niveles": [
+            "medio",
+            "alto"
+          ],
+          "hora": "17:45",
+          "de": "Centro de Liepāja",
+          "a": "Parque costero",
+          "medio": "Taxi compartido",
+          "duracion": "10 min",
+          "costo": 4
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "19:15",
+          "de": "Parque costero",
+          "a": "Centro de Liepāja",
+          "medio": "Autobús urbano",
+          "duracion": "15 min",
+          "costo": 1.5
+        },
+        {
+          "niveles": [
+            "medio",
+            "alto"
+          ],
+          "hora": "19:15",
+          "de": "Parque costero",
+          "a": "Centro de Liepāja",
+          "medio": "Taxi compartido",
+          "duracion": "10 min",
+          "costo": 4
+        }
+      ],
+      "planB": "Si hay viento fuerte o lluvia, visitar espacios cubiertos de arte y música y reducir el paseo costero."
+    },
+    {
+      "dia": 12,
+      "titulo": "Karosta: fortalezas militares y playas del Báltico",
+      "ciudad": "Liepāja",
+      "coords": {
+        "lat": 56.545,
+        "lng": 21.016
+      },
+      "resumen": "Día dedicado a la historia militar de Karosta, la antigua prisión, las defensas costeras y el paisaje del mar Báltico.",
+      "imagenes": [
+        {
+          "url": "letonia-14-dias/antigua-prision-militar-de-karosta-en-li-3c5cc6.jpg",
+          "alt": "Edificio histórico de la prisión militar de Karosta",
+          "credito": "Keith Ruffles",
+          "licencia": "CC BY 3.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Karosta_Prison_-_panoramio.jpg"
+        },
+        {
+          "url": "letonia-14-dias/amplia-playa-de-arena-blanca-de-liepaja-f98cc4.jpg",
+          "alt": "Playa de Liepāja frente al Báltico",
+          "credito": "Андрей Романенко",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Liep%C4%81ja_beach.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "09:30",
+          "nombre": "Catedral Naval de San Nicolás",
+          "descripcion": "Visita exterior a la monumental iglesia ortodoxa del distrito de Karosta.",
+          "duracion": "45 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 56.5464,
+            "lng": 21.0205
+          }
+        },
+        {
+          "hora": "10:45",
+          "nombre": "Tour histórico por la prisión de Karosta",
+          "descripcion": "Visita guiada a la antigua prisión militar, con explicaciones sobre su historia y los distintos períodos de ocupación.",
+          "duracion": "1 h 15 min",
+          "costo": 12,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 56.5435,
+            "lng": 21.0112
+          },
+          "link": "https://www.karosta.lv/karostas-cietums-1/",
+          "consejo": "Solo se visita con guía. Confirmar idioma y horario; puede ser necesario reservar un guía en inglés."
+        },
+        {
+          "hora": "14:00",
+          "nombre": "Fuertes del Norte",
+          "descripcion": "Exploración exterior del entorno de las fortificaciones costeras abandonadas.",
+          "duracion": "1 h 30 min",
+          "costo": 0,
+          "tipo": "aventura",
+          "coords": {
+            "lat": 56.593,
+            "lng": 21.0065
+          },
+          "consejo": "No entrar en estructuras inestables ni caminar sobre bordes erosionados por el mar."
+        },
+        {
+          "hora": "17:15",
+          "nombre": "Playa de Liepāja al atardecer",
+          "descripcion": "Paseo por la playa y contemplación del litoral báltico.",
+          "duracion": "1 h 30 min",
+          "costo": 0,
+          "tipo": "naturaleza",
+          "coords": {
+            "lat": 56.503,
+            "lng": 20.992
+          }
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "19:00",
+          "nombre": "Experiencia cultural privada sobre la historia de Karosta",
+          "descripcion": "Visita privada con guía especializado.",
+          "duracion": "1 h",
+          "costo": 45,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 56.5098,
+            "lng": 21.0103
+          },
+          "consejo": "Requiere reserva previa del guía."
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "08:00",
+            "momento": "desayuno",
+            "lugar": "Restaurante Upe",
+            "plato": "Huevos, pan y café",
+            "costo": 11,
+            "link": "https://liepaja.travel/en/catering/restaurant-upe/"
+          },
+          {
+            "hora": "12:30",
+            "momento": "almuerzo",
+            "lugar": "Cafetería de la prisión de Karosta",
+            "plato": "Plato sencillo de estilo cantina y bebida",
+            "costo": 12,
+            "link": "https://liepaja.travel/en/see-and-do/karosta-prison-museum/"
+          },
+          {
+            "hora": "20:15",
+            "momento": "cena",
+            "lugar": "Hot Potato",
+            "plato": "Hamburguesa y papas",
+            "costo": 17,
+            "link": "https://liepaja.travel/en/catering/restaurant-bar-hot-potato/"
+          }
+        ],
+        "medio": [
+          {
+            "hora": "08:00",
+            "momento": "desayuno",
+            "lugar": "Hotel Līva",
+            "plato": "Buffet incluido",
+            "costo": 0,
+            "link": "https://www.livahotel.lv/en/"
+          },
+          {
+            "hora": "12:30",
+            "momento": "almuerzo",
+            "lugar": "Cafetería de la prisión de Karosta",
+            "plato": "Menú tradicional de carne, papas y bebida",
+            "costo": 18
+          },
+          {
+            "hora": "20:15",
+            "momento": "cena",
+            "lugar": "Pastnieka māja",
+            "plato": "Liepājas menciņi, especialidad con pescado ahumado y papas",
+            "costo": 36,
+            "link": "https://liepaja.travel/en/catering/restaurant-pastnieka-maja/"
+          }
+        ],
+        "alto": [
+          {
+            "hora": "08:00",
+            "momento": "desayuno",
+            "lugar": "Promenade Hotel",
+            "plato": "Desayuno premium incluido",
+            "costo": 0
+          },
+          {
+            "hora": "12:30",
+            "momento": "almuerzo",
+            "lugar": "Cafetería de la prisión de Karosta",
+            "plato": "Almuerzo temático de inspiración histórica",
+            "costo": 24
+          },
+          {
+            "hora": "20:30",
+            "momento": "cena",
+            "lugar": "MO Liepāja",
+            "plato": "Menú degustación de cocina moderna",
+            "costo": 78,
+            "link": "https://liepaja.travel/en/catering/restaurant-mo-liepaja-2/"
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "08:45",
+          "de": "Centro de Liepāja",
+          "a": "Karosta",
+          "medio": "Autobús urbano",
+          "duracion": "30 min",
+          "costo": 1.5
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "08:45",
+          "de": "Hotel Līva",
+          "a": "Karosta",
+          "medio": "Taxi compartido",
+          "duracion": "20 min",
+          "costo": 7
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "08:45",
+          "de": "Promenade Hotel",
+          "a": "Karosta",
+          "medio": "Vehículo privado",
+          "duracion": "20 min",
+          "costo": 13
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "13:15",
+          "de": "Prisión de Karosta",
+          "a": "Zona de los Fuertes del Norte",
+          "medio": "Autobús regional y caminata",
+          "duracion": "40 min",
+          "costo": 2.5
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "13:15",
+          "de": "Prisión de Karosta",
+          "a": "Fuertes del Norte",
+          "medio": "Taxi compartido",
+          "duracion": "20 min",
+          "costo": 8
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "13:15",
+          "de": "Prisión de Karosta",
+          "a": "Fuertes del Norte",
+          "medio": "Vehículo privado",
+          "duracion": "20 min",
+          "costo": 12
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "15:45",
+          "de": "Fuertes del Norte",
+          "a": "Centro de Liepāja",
+          "medio": "Autobús regional y urbano",
+          "duracion": "55 min",
+          "costo": 3
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "15:45",
+          "de": "Fuertes del Norte",
+          "a": "Playa de Liepāja",
+          "medio": "Taxi compartido",
+          "duracion": "30 min",
+          "costo": 10
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "15:45",
+          "de": "Fuertes del Norte",
+          "a": "Playa de Liepāja",
+          "medio": "Vehículo privado",
+          "duracion": "30 min",
+          "costo": 15
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "19:00",
+          "de": "Playa",
+          "a": "Centro de Liepāja",
+          "medio": "Autobús urbano",
+          "duracion": "20 min",
+          "costo": 1.5
+        },
+        {
+          "niveles": [
+            "medio",
+            "alto"
+          ],
+          "hora": "19:00",
+          "de": "Playa",
+          "a": "Centro de Liepāja",
+          "medio": "Taxi compartido",
+          "duracion": "15 min",
+          "costo": 5
+        }
+      ],
+      "planB": "Si el viento o la lluvia hacen inseguro el litoral, sustituir los Fuertes del Norte por espacios cubiertos del Museo de Liepāja y ampliar la visita histórica de Karosta."
+    },
+    {
+      "dia": 13,
+      "titulo": "Regreso a Riga y últimos descubrimientos",
+      "ciudad": "Riga",
+      "coords": {
+        "lat": 56.9496,
+        "lng": 24.1052
+      },
+      "resumen": "Regreso a la capital y paseo por espacios culturales situados al otro lado del río Daugava. Última noche en Riga.",
+      "imagenes": [
+        {
+          "url": "letonia-14-dias/fachada-historica-de-la-casa-de-las-cabe-11e330.jpg",
+          "alt": "Arquitectura histórica de Riga",
+          "credito": "Ken Eckert",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:House_of_Blackheads,_Riga,_Latvia.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "08:30",
+          "nombre": "Despedida del mar Báltico",
+          "descripcion": "Última caminata por la playa de Liepāja antes de partir.",
+          "duracion": "45 min",
+          "costo": 0,
+          "tipo": "naturaleza",
+          "coords": {
+            "lat": 56.502,
+            "lng": 20.992
+          }
+        },
+        {
+          "hora": "15:15",
+          "nombre": "Biblioteca Nacional de Letonia",
+          "descripcion": "Visita a los espacios públicos habilitados del edificio contemporáneo conocido como Castillo de Luz.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 56.9412,
+            "lng": 24.0961
+          },
+          "link": "https://www.lnb.lv/en/"
+        },
+        {
+          "hora": "16:45",
+          "nombre": "Mercado Āgenskalns",
+          "descripcion": "Recorrido por un mercado histórico renovado con puestos gastronómicos y productos locales.",
+          "duracion": "1 h 15 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 56.934,
+            "lng": 24.0765
+          }
+        },
+        {
+          "hora": "18:45",
+          "nombre": "Último paseo por la ribera del Daugava",
+          "descripcion": "Despedida de la ciudad con vistas al centro histórico.",
+          "duracion": "45 min",
+          "costo": 0,
+          "tipo": "descanso",
+          "coords": {
+            "lat": 56.9454,
+            "lng": 24.0997
+          }
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "07:30",
+            "momento": "desayuno",
+            "lugar": "Restaurante Upe, Liepāja",
+            "plato": "Huevos con pan y café",
+            "costo": 11
+          },
+          {
+            "hora": "14:15",
+            "momento": "almuerzo",
+            "lugar": "LIDO, Riga",
+            "plato": "Albóndigas con puré y ensalada",
+            "costo": 12,
+            "link": "https://www.lido.lv/"
+          },
+          {
+            "hora": "20:00",
+            "momento": "cena",
+            "lugar": "Folkklubs ALA Pagrabs",
+            "plato": "Cerdo asado con papas",
+            "costo": 16
+          }
+        ],
+        "medio": [
+          {
+            "hora": "07:30",
+            "momento": "desayuno",
+            "lugar": "Hotel Līva, Liepāja",
+            "plato": "Buffet incluido",
+            "costo": 0
+          },
+          {
+            "hora": "14:15",
+            "momento": "almuerzo",
+            "lugar": "Restaurante Milda, Riga",
+            "plato": "Sopa fría de remolacha y carne asada",
+            "costo": 27
+          },
+          {
+            "hora": "20:00",
+            "momento": "cena",
+            "lugar": "Restaurante Kolonāde",
+            "plato": "Cena de tres tiempos",
+            "costo": 44
+          }
+        ],
+        "alto": [
+          {
+            "hora": "07:30",
+            "momento": "desayuno",
+            "lugar": "Promenade Hotel, Liepāja",
+            "plato": "Desayuno premium incluido",
+            "costo": 0
+          },
+          {
+            "hora": "14:15",
+            "momento": "almuerzo",
+            "lugar": "Restaurante Kolonāde",
+            "plato": "Pescado y postre de temporada",
+            "costo": 49
+          },
+          {
+            "hora": "20:00",
+            "momento": "cena",
+            "lugar": "Restaurante Barents",
+            "plato": "Menú degustación de despedida",
+            "costo": 150,
+            "link": "https://barents.lv/"
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "niveles": [
+            "economico",
+            "medio"
+          ],
+          "hora": "10:15",
+          "de": "Terminal de Liepāja",
+          "a": "Terminal de autobuses de Riga",
+          "medio": "Autobús interurbano",
+          "duracion": "3 h 30 min",
+          "costo": 11
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "10:15",
+          "de": "Promenade Hotel, Liepāja",
+          "a": "Grand Poet Hotel, Riga",
+          "medio": "Traslado privado compartido por cuatro",
+          "duracion": "3 h 15 min",
+          "costo": 85
+        },
+        {
+          "niveles": [
+            "economico",
+            "medio"
+          ],
+          "hora": "14:45",
+          "de": "Centro de Riga",
+          "a": "Biblioteca Nacional",
+          "medio": "Transporte público urbano",
+          "duracion": "20 min",
+          "costo": 1.5
+        },
+        {
+          "niveles": [
+            "economico",
+            "medio"
+          ],
+          "hora": "16:20",
+          "de": "Biblioteca Nacional",
+          "a": "Mercado Āgenskalns",
+          "medio": "Transporte público urbano",
+          "duracion": "15 min",
+          "costo": 1.5
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "14:50",
+          "de": "Centro de Riga",
+          "a": "Biblioteca Nacional",
+          "medio": "Taxi compartido",
+          "duracion": "10 min",
+          "costo": 4
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "16:20",
+          "de": "Biblioteca Nacional",
+          "a": "Mercado Āgenskalns",
+          "medio": "Taxi compartido",
+          "duracion": "10 min",
+          "costo": 4
+        },
+        {
+          "niveles": [
+            "economico",
+            "medio"
+          ],
+          "hora": "18:10",
+          "de": "Āgenskalns",
+          "a": "Centro de Riga",
+          "medio": "Transporte público urbano",
+          "duracion": "20 min",
+          "costo": 1.5
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "18:10",
+          "de": "Āgenskalns",
+          "a": "Centro de Riga",
+          "medio": "Taxi compartido",
+          "duracion": "15 min",
+          "costo": 4
+        }
+      ],
+      "planB": "Si el traslado interurbano llega tarde, visitar únicamente la Biblioteca Nacional o el Mercado Āgenskalns."
+    },
+    {
+      "dia": 14,
+      "titulo": "Despedida de Letonia y regreso a Colombia",
+      "ciudad": "Riga",
+      "coords": {
+        "lat": 56.9496,
+        "lng": 24.1052
+      },
+      "resumen": "Últimas visitas a pie, compras pequeñas y traslado al aeropuerto de Riga para el vuelo de la tarde.",
+      "imagenes": [
+        {
+          "url": "letonia-14-dias/fachada-art-nouveau-de-alberta-iela-13-e-e3eb86.jpg",
+          "alt": "Detalle de arquitectura histórica art nouveau de Riga",
+          "credito": "Rīgas pašvaldības aģentūra “Rīgas investīciju un tūrisma aģentūra”",
+          "licencia": "CC BY 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Alberta-iela-13.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "09:00",
+          "nombre": "Torre de la Pólvora y entorno histórico",
+          "descripcion": "Último paseo exterior por las antiguas defensas de Riga.",
+          "duracion": "45 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 56.9513,
+            "lng": 24.1083
+          }
+        },
+        {
+          "hora": "10:15",
+          "nombre": "Museo de la Ocupación de Letonia",
+          "descripcion": "Visita a la exposición histórica sobre el siglo XX y las ocupaciones de Letonia.",
+          "duracion": "1 h 30 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 56.947,
+            "lng": 24.1069
+          },
+          "link": "https://okupacijasmuzejs.lv/en",
+          "consejo": "La entrada general puede funcionar mediante donación sugerida. Confirmar condiciones y horario."
+        },
+        {
+          "hora": "13:00",
+          "nombre": "Último recorrido por el casco antiguo",
+          "descripcion": "Paseo breve y compras personales de recuerdos de Letonia antes del traslado al aeropuerto.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "compras",
+          "coords": {
+            "lat": 56.949,
+            "lng": 24.105
+          }
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "08:00",
+            "momento": "desayuno",
+            "lugar": "Cinnamon Sally Backpackers Hostel",
+            "plato": "Desayuno incluido",
+            "costo": 0
+          },
+          {
+            "hora": "12:00",
+            "momento": "almuerzo",
+            "lugar": "LIDO Vērmanītis",
+            "plato": "Pollo con papas y ensalada",
+            "costo": 12,
+            "link": "https://www.lido.lv/"
+          },
+          {
+            "hora": "17:30",
+            "momento": "cena",
+            "lugar": "Narvesen, aeropuerto RIX",
+            "plato": "Sándwich, fruta y bebida",
+            "costo": 10,
+            "link": "https://www.narvesen.lv/"
+          }
+        ],
+        "medio": [
+          {
+            "hora": "08:00",
+            "momento": "desayuno",
+            "lugar": "Wellton Riverside SPA Hotel",
+            "plato": "Buffet incluido",
+            "costo": 0
+          },
+          {
+            "hora": "12:00",
+            "momento": "almuerzo",
+            "lugar": "Restaurante Milda",
+            "plato": "Pescado con guarnición y postre",
+            "costo": 26
+          },
+          {
+            "hora": "17:30",
+            "momento": "cena",
+            "lugar": "Restaurante de la terminal del aeropuerto RIX",
+            "plato": "Plato caliente con bebida",
+            "costo": 24,
+            "link": "https://www.riga-airport.com/en"
+          }
+        ],
+        "alto": [
+          {
+            "hora": "08:00",
+            "momento": "desayuno",
+            "lugar": "Grand Poet Hotel",
+            "plato": "Desayuno premium incluido",
+            "costo": 0
+          },
+          {
+            "hora": "12:00",
+            "momento": "almuerzo",
+            "lugar": "Restaurante Kolonāde",
+            "plato": "Menú completo de despedida",
+            "costo": 48
+          },
+          {
+            "hora": "17:30",
+            "momento": "cena",
+            "lugar": "Sala VIP del aeropuerto de Riga",
+            "plato": "Buffet de comida caliente y bebidas",
+            "costo": 45,
+            "link": "https://www.riga-airport.com/en"
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "15:00",
+          "de": "Centro de Riga",
+          "a": "Aeropuerto RIX",
+          "medio": "Autobús público 22",
+          "duracion": "40 min",
+          "costo": 1.5
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "15:00",
+          "de": "Wellton Riverside SPA Hotel",
+          "a": "Aeropuerto RIX",
+          "medio": "Taxi compartido por cuatro personas",
+          "duracion": "25 min",
+          "costo": 8
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "15:00",
+          "de": "Grand Poet Hotel",
+          "a": "Aeropuerto RIX",
+          "medio": "Traslado ejecutivo privado compartido por cuatro",
+          "duracion": "25 min",
+          "costo": 25
+        }
+      ],
+      "planB": "Si el vuelo sale temprano, cancelar las visitas y salir directamente del hotel hacia RIX con al menos tres horas de anticipación. Si el aeropuerto o la aerolínea exige mayor margen, respetar ese requisito."
+    }
+  ],
+  "presupuesto": {
+    "notas": "Por persona, en habitación doble compartida. Vuelos y seguro en dólares; lo demás en euros. Los traslados privados se dividen entre cuatro viajeros. Precios de noviembre de 2026 para mayo de 2028.",
+    "categorias": [
+      {
+        "categoria": "vuelos",
+        "descripcion": "Ida y vuelta Medellín–Riga; medio con equipaje y tarifa flexible, alto en cabina ejecutiva.",
+        "moneda": "USD",
+        "economico": 1250,
+        "medio": 1650,
+        "alto": 3900
+      },
+      {
+        "categoria": "seguro",
+        "descripcion": "Seguro médico internacional para 14 días; el alto con mayores coberturas.",
+        "moneda": "USD",
+        "economico": 65,
+        "medio": 130,
+        "alto": 250
+      },
+      {
+        "categoria": "visa",
+        "descripcion": "Colombianos no necesitan visa Schengen; se reservan 20 € para la autorización ETIAS si ya es obligatoria.",
+        "moneda": "local",
+        "economico": 20,
+        "medio": 20,
+        "alto": 20
+      },
+      {
+        "categoria": "conectividad",
+        "descripcion": "eSIM de datos para 14 días.",
+        "moneda": "local",
+        "economico": 15,
+        "medio": 30,
+        "alto": 50
+      },
+      {
+        "categoria": "compras",
+        "descripcion": "Recuerdos, artesanías y compras personales.",
+        "moneda": "local",
+        "economico": 80,
+        "medio": 180,
+        "alto": 450
+      },
+      {
+        "categoria": "extras",
+        "descripcion": "Propinas, lavandería e imprevistos.",
+        "moneda": "local",
+        "economico": 90,
+        "medio": 180,
+        "alto": 450
+      }
+    ]
+  },
+  "alojamiento": [
+    {
+      "ciudad": "Riga",
+      "noches": [
+        1,
+        2,
+        3,
+        4,
+        13
+      ],
+      "economico": {
+        "nombre": "Cinnamon Sally Backpackers Hostel",
+        "zona": "Centro de Riga, próximo a la estación central",
+        "tipo": "Hostal, cama individual en dormitorio compartido",
+        "precioNoche": 24,
+        "incluye": "Desayuno continental, wifi, cocina compartida y casillero.",
+        "descripcion": "Hostal social para viajeros jóvenes, ideal para grupos que buscan ahorrar y conocer otros viajeros. Muy próximo a transporte y principales atracciones.",
+        "link": "https://www.cinnamonsally.com/"
+      },
+      "medio": {
+        "nombre": "Wellton Riverside SPA Hotel",
+        "zona": "Vecrīga, junto al río Daugava",
+        "tipo": "Hotel de cuatro estrellas, habitación doble compartida",
+        "precioNoche": 65,
+        "incluye": "Desayuno, wifi y gimnasio; spa aparte.",
+        "descripcion": "Hotel cómodo ubicado junto al casco antiguo y próximo a plazas, restaurantes y transporte.",
+        "link": "https://www.wellton.com/en/hotels/wellton-riverside-spa-hotel"
+      },
+      "alto": {
+        "nombre": "Grand Poet Hotel by Semarah",
+        "zona": "Centro histórico, junto a parques y el Monumento a la Libertad",
+        "tipo": "Hotel de cinco estrellas, habitación doble compartida",
+        "precioNoche": 135,
+        "incluye": "Desayuno premium, wifi y servicios de bienestar.",
+        "descripcion": "Hotel de lujo con habitaciones elegantes, spa y restaurante, apropiado para una experiencia de alto nivel en Riga.",
+        "link": "https://grandpoet.semarahhotels.com/en/"
+      }
+    },
+    {
+      "ciudad": "Sigulda",
+      "noches": [
+        5,
+        6
+      ],
+      "economico": {
+        "nombre": "Hostel Livonija",
+        "zona": "Sigulda, área residencial próxima al centro",
+        "tipo": "Hostal o casa de huéspedes, cama o habitación sencilla",
+        "precioNoche": 23,
+        "incluye": "Wifi y acceso a instalaciones compartidas según habitación reservada. Desayuno no incluido.",
+        "descripcion": "Alojamiento sencillo con ambiente tranquilo y jardín, apropiado para viajeros con presupuesto controlado.",
+        "link": "https://www.booking.com/hotel/lv/hostel-livonija.html"
+      },
+      "medio": {
+        "nombre": "Hotel Sigulda",
+        "zona": "Centro de Sigulda",
+        "tipo": "Hotel, habitación doble compartida",
+        "precioNoche": 55,
+        "incluye": "Desayuno y wifi; spa aparte.",
+        "descripcion": "Hotel bien ubicado para acceder al transporte regional y a las principales atracciones de Sigulda.",
+        "link": "https://hotelsigulda.lv/"
+      },
+      "alto": {
+        "nombre": "SPA Hotel Ezeri",
+        "zona": "Entorno natural de Sigulda",
+        "tipo": "Hotel spa, habitación doble superior compartida",
+        "precioNoche": 105,
+        "incluye": "Desayuno, wifi y paquete de bienestar.",
+        "descripcion": "Hotel de ambiente campestre con servicios de spa y restaurante, orientado al descanso después de las actividades de aventura.",
+        "link": "https://hotelezeri.lv/en"
+      }
+    },
+    {
+      "ciudad": "Cēsis",
+      "noches": [
+        7,
+        8
+      ],
+      "economico": {
+        "nombre": "Hotel Katrina",
+        "zona": "Centro histórico de Cēsis",
+        "tipo": "Hotel sencillo, habitación doble compartida",
+        "precioNoche": 30,
+        "incluye": "Wifi y habitación privada. Desayuno no incluido.",
+        "descripcion": "Alojamiento económico y céntrico que facilita recorrer el casco antiguo a pie.",
+        "link": "https://www.booking.com/hotel/lv/katrina.html"
+      },
+      "medio": {
+        "nombre": "Hotel Cēsis",
+        "zona": "Centro, junto a los parques históricos",
+        "tipo": "Hotel tradicional, habitación doble compartida",
+        "precioNoche": 62,
+        "incluye": "Desayuno y wifi.",
+        "descripcion": "Hotel céntrico de estilo clásico, cerca del castillo y de los principales restaurantes.",
+        "link": "https://www.hotelcesis.lv/en/home"
+      },
+      "alto": {
+        "nombre": "Villa Santa",
+        "zona": "Entorno forestal de Cēsis",
+        "tipo": "Hotel boutique superior, habitación doble compartida",
+        "precioNoche": 120,
+        "incluye": "Desayuno, wifi y servicios de bienestar.",
+        "descripcion": "Alojamiento boutique en edificios elegantes rodeados de naturaleza, con ambiente exclusivo y restaurante.",
+        "link": "https://visit.cesis.lv/en/place/villa-santa-hotel/"
+      }
+    },
+    {
+      "ciudad": "Kuldīga",
+      "noches": [
+        9,
+        10
+      ],
+      "economico": {
+        "nombre": "Kuldīgas Metropole",
+        "zona": "Centro histórico de Kuldīga",
+        "tipo": "Hotel tradicional, habitación doble compartida",
+        "precioNoche": 37,
+        "incluye": "Wifi y habitación privada. Desayuno no incluido.",
+        "descripcion": "Alojamiento céntrico y funcional para explorar las calles antiguas de Kuldīga sin depender de taxis.",
+        "link": "https://kuldigasmetropole.hotelonia.com/"
+      },
+      "medio": {
+        "nombre": "Jēkaba sēta",
+        "zona": "Centro histórico peatonal",
+        "tipo": "Hotel tradicional, habitación doble compartida",
+        "precioNoche": 58,
+        "incluye": "Desayuno y wifi.",
+        "descripcion": "Hotel tradicional distribuido en edificios históricos alrededor de un patio interior.",
+        "link": "https://visitkuldiga.com/naktsmiers/viesnicas/viesnica-jekaba-seta/?lang=en"
+      },
+      "alto": {
+        "nombre": "Noliktava No5",
+        "zona": "Centro histórico de Kuldīga",
+        "tipo": "Hotel boutique, habitación doble superior compartida",
+        "precioNoche": 110,
+        "incluye": "Desayuno, wifi y servicios propios del alojamiento.",
+        "descripcion": "Hotel boutique en un edificio histórico rehabilitado, con una experiencia de alojamiento de diseño.",
+        "link": "https://visitkuldiga.com/en/accommodation-objects/viesnicas/viesnica-noliktava-no5/"
+      }
+    },
+    {
+      "ciudad": "Liepāja",
+      "noches": [
+        11,
+        12
+      ],
+      "economico": {
+        "nombre": "SportHotel",
+        "zona": "Sur de Liepāja",
+        "tipo": "Hotel económico, habitación doble compartida",
+        "precioNoche": 24,
+        "incluye": "Wifi y habitación privada. Desayuno no incluido.",
+        "descripcion": "Hotel funcional con tarifas económicas, situado entre el mar y el lago de Liepāja.",
+        "link": "https://www.sporthotel.lv/?lang=en"
+      },
+      "medio": {
+        "nombre": "Hotel Līva",
+        "zona": "Plaza de las Rosas, centro de Liepāja",
+        "tipo": "Hotel, habitación doble compartida",
+        "precioNoche": 51,
+        "incluye": "Desayuno, wifi y gimnasio.",
+        "descripcion": "Hotel céntrico de larga trayectoria, apropiado para recorrer la ciudad a pie.",
+        "link": "https://www.livahotel.lv/en/"
+      },
+      "alto": {
+        "nombre": "Promenade Hotel",
+        "zona": "Puerto histórico y centro de Liepāja",
+        "tipo": "Hotel de cinco estrellas, habitación doble compartida",
+        "precioNoche": 125,
+        "incluye": "Desayuno premium, wifi y servicios de hotel superior.",
+        "descripcion": "Hotel de diseño ubicado en un antiguo almacén portuario restaurado, con arte y gastronomía.",
+        "link": "https://liepaja.travel/en/accommodation/promenade-hotel-2/"
+      }
+    }
+  ],
+  "comida": {
+    "platosTipicos": [
+      {
+        "nombre": "Pelēkie zirņi ar speķi",
+        "descripcion": "Guisantes grises tradicionales preparados con tocino y cebolla, uno de los platos más representativos de la cocina letona.",
+        "precioAprox": 11,
+        "imagen": {
+          "url": "letonia-14-dias/plato-tradicional-leton-de-guisantes-gri-70df04.jpg",
+          "alt": "Plato tradicional letón de guisantes grises con tocino y verduras",
+          "credito": "JIP",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Grey_peas_at_restaurant_Milda_in_Riga.jpg"
+        }
+      },
+      {
+        "nombre": "Aukstā zupa",
+        "descripcion": "Sopa fría de remolacha de color rosado, elaborada generalmente con kéfir, pepino, hierbas y huevo; popular durante la primavera y el verano.",
+        "precioAprox": 9,
+        "imagen": {
+          "url": "letonia-14-dias/sopa-fria-de-remolacha-letona-servida-co-3243df.jpg",
+          "alt": "Sopa fría de remolacha letona servida con papas",
+          "credito": "Андрей Романенко",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Latvian_cold_borscht.jpg"
+        }
+      },
+      {
+        "nombre": "Sklandrausis",
+        "descripcion": "Pequeña tarta tradicional de Curlandia elaborada con masa de centeno y relleno de zanahoria y papa, con un sabor ligeramente dulce.",
+        "precioAprox": 4,
+        "imagen": {
+          "url": "letonia-14-dias/tartaletas-tradicionales-letonas-sklandr-a56f41.jpg",
+          "alt": "Tartaletas tradicionales letonas sklandrausis",
+          "credito": "Denis tarasov",
+          "licencia": "CC BY-SA 3.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Sklandrausis.jpg"
+        }
+      },
+      {
+        "nombre": "Speķa pīrāgi",
+        "descripcion": "Pequeños panes horneados rellenos de tocino y cebolla, populares en celebraciones y panaderías tradicionales.",
+        "precioAprox": 5,
+        "imagen": {
+          "url": "letonia-14-dias/panes-tradicionales-letones-rellenos-de-cff83b.jpg",
+          "alt": "Panes tradicionales letones rellenos de tocino",
+          "credito": "Sara McCleary",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Latvian_piragi_(bacon_buns).jpg"
+        }
+      },
+      {
+        "nombre": "Rupjmaizes kārtojums",
+        "descripcion": "Postre elaborado por capas de pan de centeno dulce desmenuzado, crema y frutas o mermelada.",
+        "precioAprox": 7,
+        "imagen": {
+          "url": "letonia-14-dias/postre-leton-de-capas-de-pan-de-centeno-a244b1.jpg",
+          "alt": "Postre letón de capas de pan de centeno, crema y frutas",
+          "credito": "Krists Luhaers",
+          "licencia": "CC BY 2.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Rupjmaizes_k%C4%81rtojums.jpg"
+        }
+      }
+    ]
+  },
+  "infoPractica": {
+    "visa": {
+      "requiere": false,
+      "tipo": "Exención de visa Schengen para turismo de hasta 90 días dentro de cualquier período de 180 días; ETIAS podría ser obligatorio en mayo de 2028.",
+      "detalle": "Los colombianos entran al espacio Schengen sin visa hasta 90 días en 180. El pasaporte debe tener menos de 10 años y vigencia de al menos tres meses tras la salida; pueden pedir alojamiento, tiquete de regreso, seguro y fondos. ETIAS (20 €) es una autorización en línea, no una visa.",
+      "link": "https://www.mfa.gov.lv/en/countries-and-territories-whose-citizens-may-enter-latvia-without-visa"
+    },
+    "clima": [
+      {
+        "mes": 1,
+        "tempMin": -5,
+        "tempMax": -1,
+        "lluviaMm": 46
+      },
+      {
+        "mes": 2,
+        "tempMin": -5,
+        "tempMax": 0,
+        "lluviaMm": 39
+      },
+      {
+        "mes": 3,
+        "tempMin": -3,
+        "tempMax": 4,
+        "lluviaMm": 39
+      },
+      {
+        "mes": 4,
+        "tempMin": 2,
+        "tempMax": 10,
+        "lluviaMm": 42
+      },
+      {
+        "mes": 5,
+        "tempMin": 8,
+        "tempMax": 16,
+        "lluviaMm": 52
+      },
+      {
+        "mes": 6,
+        "tempMin": 12,
+        "tempMax": 20,
+        "lluviaMm": 73
+      },
+      {
+        "mes": 7,
+        "tempMin": 15,
+        "tempMax": 22,
+        "lluviaMm": 71
+      },
+      {
+        "mes": 8,
+        "tempMin": 15,
+        "tempMax": 21,
+        "lluviaMm": 80
+      },
+      {
+        "mes": 9,
+        "tempMin": 11,
+        "tempMax": 17,
+        "lluviaMm": 68
+      },
+      {
+        "mes": 10,
+        "tempMin": 6,
+        "tempMax": 10,
+        "lluviaMm": 80
+      },
+      {
+        "mes": 11,
+        "tempMin": 1,
+        "tempMax": 5,
+        "lluviaMm": 58
+      },
+      {
+        "mes": 12,
+        "tempMin": -2,
+        "tempMax": 1,
+        "lluviaMm": 49
+      }
+    ],
+    "vacunas": [
+      "No se identificó una obligación general de vacunación contra fiebre amarilla para el ingreso turístico a Letonia desde Colombia. Revisar nuevamente los requisitos de entrada y tránsito antes de viajar.",
+      "Tener actualizado el esquema rutinario de vacunación, especialmente tétanos, difteria, sarampión, rubéola y poliomielitis.",
+      "Revisar con medicina del viajero la indicación de hepatitis A y hepatitis B según antecedentes individuales.",
+      "Considerar evaluación de vacunación contra encefalitis transmitida por garrapatas para actividades frecuentes o prolongadas en zonas forestales de Letonia.",
+      "Llevar información sobre los medicamentos de uso habitual y su prescripción cuando sea necesario."
+    ],
+    "seguridad": "Letonia es un destino generalmente seguro para viajeros, pero conviene mantener precauciones normales en estaciones, bares y zonas turísticas de Riga. Evitar taxis sin identificación o sin precio claro, proteger el teléfono en lugares concurridos y vigilar las pertenencias en transporte público. En los bosques pueden existir garrapatas; utilizar ropa adecuada y repelente. En los Fuertes del Norte de Liepāja hay estructuras deterioradas que no deben explorarse por dentro sin autorización y condiciones seguras. El teléfono de emergencias europeo es 112. Revisar la información de seguridad y fronteras antes de viajar, particularmente por la proximidad regional a Rusia y Bielorrusia.",
+    "enchufe": {
+      "tipo": "C y F",
+      "voltaje": "230 V, 50 Hz",
+      "necesitaAdaptador": true
+    },
+    "propinas": "Las propinas no son obligatorias. En restaurantes con servicio a la mesa puede dejarse aproximadamente un 5–10 % si el servicio fue bueno y no está incluido. En taxis y cafeterías se puede redondear voluntariamente.",
+    "idioma": "El idioma oficial es el letón. El inglés se utiliza ampliamente en hoteles, restaurantes turísticos y entre personas jóvenes de Riga. En localidades pequeñas puede ser menos frecuente. El ruso también se escucha en distintas zonas del país, pero no debe suponerse que todos prefieren utilizarlo.",
+    "conectividad": "Las redes móviles principales incluyen LMT, Tele2 y Bite. La cobertura urbana suele ser buena y en áreas rurales pueden existir zonas de señal más limitada. Para 14 días se recomienda adquirir una eSIM europea compatible con Letonia o una SIM prepago local. Verificar que el teléfono esté desbloqueado y que la eSIM permita compartir datos si el grupo lo necesita. Muchos hoteles ofrecen wifi sin costo adicional.",
+    "transporteLocal": "En Riga funcionan tranvías, trolebuses y autobuses operados por Rīgas satiksme. Los billetes temporales deben validarse correctamente. El autobús 22 conecta el centro con el aeropuerto. Los trenes nacionales son operados por Vivi y permiten llegar a Jūrmala, Sigulda y Cēsis; otros desplazamientos requieren autobuses regionales. Para consultar servicios y comprar billetes son útiles vivi.lv, 1188.lv y Mobilly. Bolt es práctico para taxis urbanos. Para viajar entre Cēsis y Kuldīga en transporte público normalmente se requiere conexión vía Riga. En ciudades pequeñas, los servicios pueden reducirse los domingos y festivos.",
+    "frases": [
+      {
+        "es": "Hola",
+        "local": "Sveiki",
+        "pronunciacion": "SVÉI-ki"
+      },
+      {
+        "es": "Buenos días",
+        "local": "Labrīt",
+        "pronunciacion": "la-BRÍIT"
+      },
+      {
+        "es": "Gracias",
+        "local": "Paldies",
+        "pronunciacion": "PÁL-dies"
+      },
+      {
+        "es": "Por favor",
+        "local": "Lūdzu",
+        "pronunciacion": "LÚUD-zu"
+      },
+      {
+        "es": "¿Cuánto cuesta?",
+        "local": "Cik tas maksā?",
+        "pronunciacion": "tsik tas MÁK-saa"
+      },
+      {
+        "es": "¿Dónde está la estación?",
+        "local": "Kur ir stacija?",
+        "pronunciacion": "kur ir STÁ-tsi-ya"
+      },
+      {
+        "es": "No entiendo",
+        "local": "Es nesaprotu",
+        "pronunciacion": "es ne-SÁ-pro-tu"
+      },
+      {
+        "es": "Adiós",
+        "local": "Uz redzēšanos",
+        "pronunciacion": "uz red-ZÉE-sha-nos"
+      }
+    ],
+    "apps": [
+      {
+        "nombre": "Google Maps",
+        "para": "Orientación urbana, rutas peatonales, restaurantes y lugares guardados."
+      },
+      {
+        "nombre": "Vivi",
+        "para": "Consultar trenes nacionales y adquirir billetes ferroviarios disponibles."
+      },
+      {
+        "nombre": "Mobilly",
+        "para": "Consultar o pagar determinados servicios de transporte, billetes y estacionamiento."
+      },
+      {
+        "nombre": "Bolt",
+        "para": "Solicitar taxis y comprobar el precio aproximado antes de viajar."
+      },
+      {
+        "nombre": "Google Translate",
+        "para": "Traducir entre español, inglés y letón y descargar idiomas compatibles para uso sin conexión."
+      },
+      {
+        "nombre": "airBaltic",
+        "para": "Gestionar vuelos operados por airBaltic, tarjetas de embarque y avisos del itinerario."
+      }
+    ],
+    "consejos": [
+      "Llevar ropa por capas: en mayo pueden alternarse días templados con mañanas frías y viento.",
+      "Empacar chaqueta impermeable y calzado apropiado para senderismo húmedo.",
+      "Verificar el ETIAS únicamente en el portal oficial de la Unión Europea y evitar intermediarios con cargos elevados.",
+      "Para viajar en grupo, reservar con anticipación las actividades privadas y comprobar el tamaño máximo admitido.",
+      "Consultar los horarios de museos y restaurantes porque algunos cambian durante la primavera.",
+      "En zonas forestales usar repelente de insectos y revisar la piel después de las caminatas.",
+      "No depender únicamente del último tren o autobús del día en las ciudades pequeñas.",
+      "Llevar tarjeta bancaria internacional y una pequeña cantidad de euros en efectivo.",
+      "En mayo todavía no se garantiza que estén disponibles todas las actividades estacionales de aventura.",
+      "Para pasajeros colombianos en tránsito por Madrid o Ámsterdam, comprobar las condiciones de tránsito según el billete completo y el aeropuerto.",
+      "Guardar en el teléfono copias del pasaporte, reservas, seguro y contactos de emergencia."
+    ],
+    "estafas": [
+      "Taxis que ofrecen servicios sin tarifa visible o sin reserva verificable, especialmente en lugares concurridos.",
+      "Cobros excesivos en ciertos establecimientos nocturnos cuando no se comprueban previamente los precios de bebidas y servicios.",
+      "Carteristas oportunistas en estaciones y zonas turísticas; mantener protegidas las pertenencias.",
+      "Páginas no oficiales que venden autorizaciones ETIAS o servicios de intermediación con recargos innecesarios.",
+      "Ofertas de excursiones o alojamientos que exigen transferencias a cuentas personales sin documentación de reserva.",
+      "Cajeros automáticos o terminales de pago que ofrecen conversión a pesos colombianos con un tipo de cambio desfavorable; normalmente conviene evaluar el cobro en euros."
+    ],
+    "checklist": [
+      "Pasaporte colombiano vigente y en buen estado.",
+      "Comprobar vigencia mínima del pasaporte y reglas de 90 días en 180.",
+      "Verificar si ETIAS está operativo y tramitarlo cuando corresponda.",
+      "Billetes internacionales de ida y regreso confirmados.",
+      "Reservas de alojamiento para todas las noches.",
+      "Seguro médico internacional con cobertura suficiente.",
+      "Confirmación de actividades privadas y tours sujetos a disponibilidad.",
+      "Tarjetas bancarias habilitadas para compras internacionales.",
+      "Adaptador europeo de enchufe tipo C o F.",
+      "Chaqueta impermeable y ropa de abrigo por capas.",
+      "Zapatos adecuados para caminatas por bosque.",
+      "eSIM o plan móvil internacional activo.",
+      "Documentos digitales, contactos de emergencia y reservas descargadas."
+    ]
+  },
+  "fuentes": [
+    {
+      "titulo": "Ministerio de Asuntos Exteriores de Letonia: países exentos de visa",
+      "url": "https://www.mfa.gov.lv/en/countries-and-territories-whose-citizens-may-enter-latvia-without-visa"
+    },
+    {
+      "titulo": "Unión Europea: portal oficial ETIAS y requisitos",
+      "url": "https://travel-europe.europa.eu/en/etias/about-etias"
+    },
+    {
+      "titulo": "Oficina oficial de turismo de Letonia: principales atracciones",
+      "url": "https://www.latvia.travel/en/top-10-attractions-latvia"
+    },
+    {
+      "titulo": "LiveRiga: guía oficial de turismo de Riga",
+      "url": "https://www.liveriga.com/en/"
+    },
+    {
+      "titulo": "Vivi: operador ferroviario de Letonia",
+      "url": "https://www.vivi.lv/en/"
+    },
+    {
+      "titulo": "Aeropuerto Internacional de Riga: transporte público",
+      "url": "https://www.riga-airport.com/en/public-transport"
+    },
+    {
+      "titulo": "Visit Kuldīga: información turística y alojamientos",
+      "url": "https://visitkuldiga.com/en/"
+    },
+    {
+      "titulo": "Liepāja Travel: turismo, alojamientos, gastronomía y atracciones",
+      "url": "https://liepaja.travel/en/"
+    }
+  ]
+}

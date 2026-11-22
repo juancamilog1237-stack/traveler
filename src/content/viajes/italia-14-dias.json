@@ -1,0 +1,3639 @@
+{
+  "meta": {
+    "titulo": "Italia en 14 días",
+    "resumen": "Roma, Nápoles, Florencia y Venecia: el Coliseo y el Vaticano, Pompeya y la Costa Amalfitana, el Renacimiento florentino con Siena y San Gimignano, y los canales y las islas de Venecia. Pensado para mayo.",
+    "destino": "Italia",
+    "pais": "Italia",
+    "region": "Europa",
+    "duracionDias": 14,
+    "mesesIdeales": [
+      4,
+      5,
+      6,
+      9,
+      10
+    ],
+    "temporadaRecomendada": "Mayo es especialmente recomendable por sus temperaturas moderadas, días largos y menor calor que en julio y agosto. Se esperan temperaturas aproximadas de 12 a 25 °C según la ciudad.",
+    "estilo": "medio",
+    "dificultad": "moderada",
+    "idealPara": [
+      "Grupos de amigos",
+      "Parejas",
+      "Viajeros interesados en historia",
+      "Amantes de la gastronomía",
+      "Viajeros culturales"
+    ],
+    "etiquetas": [
+      "historia",
+      "gastronomía",
+      "arte",
+      "arquitectura",
+      "playas",
+      "vida nocturna",
+      "trenes",
+      "ciudades históricas"
+    ],
+    "fechaInvestigacion": "2026-11-21",
+    "colorAcento": "#28513D",
+    "portada": {
+      "url": "italia-14-dias/vista-del-coliseo-de-roma-uno-de-los-mon-617a8f.jpg",
+      "alt": "Vista del Coliseo de Roma, uno de los monumentos más representativos de Italia",
+      "credito": "Podluzhnaya",
+      "licencia": "CC BY-SA 3.0",
+      "fuente": "https://commons.wikimedia.org/wiki/File:Colosseum,_Rome.JPG"
+    },
+    "galeria": [
+      {
+        "url": "italia-14-dias/vista-del-coliseo-de-roma-uno-de-los-mon-617a8f.jpg",
+        "alt": "Exterior del Coliseo de Roma",
+        "credito": "Podluzhnaya",
+        "licencia": "CC BY-SA 3.0",
+        "fuente": "https://commons.wikimedia.org/wiki/File:Colosseum,_Rome.JPG"
+      },
+      {
+        "url": "italia-14-dias/fontana-di-trevi-ceef8e.jpg",
+        "alt": "Fontana di Trevi",
+        "credito": "Wilfredor",
+        "licencia": "CC0",
+        "fuente": "https://commons.wikimedia.org/wiki/File:Fontaine_Trevi_-_Rome.jpg"
+      },
+      {
+        "url": "italia-14-dias/positano-en-la-costa-amalfitana-c7e7b4.jpg",
+        "alt": "Positano en la Costa Amalfitana",
+        "credito": "Bernard Gagnon",
+        "licencia": "CC BY 4.0",
+        "fuente": "https://commons.wikimedia.org/wiki/File:Positano_(Italy)_04.jpg"
+      },
+      {
+        "url": "italia-14-dias/catedral-de-florencia-733bdd.jpg",
+        "alt": "Catedral de Florencia",
+        "credito": "Rhododendrites",
+        "licencia": "CC BY-SA 4.0",
+        "fuente": "https://commons.wikimedia.org/wiki/File:Florence_from_the_Duomo_terrace_(61408p).jpg"
+      },
+      {
+        "url": "italia-14-dias/gran-canal-de-venecia-f3bf60.jpg",
+        "alt": "Gran Canal de Venecia",
+        "credito": "kallerna",
+        "licencia": "CC BY-SA 4.0",
+        "fuente": "https://commons.wikimedia.org/wiki/File:Ponte_di_Rialto_Venice_1.jpg"
+      },
+      {
+        "url": "italia-14-dias/casas-de-colores-de-burano-4657ad.jpg",
+        "alt": "Casas de colores de Burano",
+        "credito": "Marco Ober",
+        "licencia": "CC BY-SA 4.0",
+        "fuente": "https://commons.wikimedia.org/wiki/File:Via_vigna_House_entrance_in_Burano,_detail.jpg"
+      }
+    ]
+  },
+  "moneda": {
+    "codigo": "EUR",
+    "simbolo": "€",
+    "localPorUSD": 0.9107,
+    "copPorUSD": 3461.92,
+    "fechaTasa": "2026-11-21"
+  },
+  "comoLlegar": {
+    "resumen": "Desde Medellín se llega a Roma con una conexión y se regresa desde Venecia con un boleto multidestino.",
+    "aeropuertoLlegada": "Aeropuerto Internacional Leonardo da Vinci de Roma-Fiumicino (FCO)",
+    "delAeropuertoAlCentro": "El Leonardo Express une Fiumicino con Roma Termini en 32 min (unos 14 €). El regreso del día 14 sale desde el aeropuerto Marco Polo de Venecia.",
+    "rutas": [
+      {
+        "origen": "Medellín",
+        "ruta": "MDE → MAD → FCO / VCE → MAD → MDE",
+        "aerolineas": [
+          "Avianca",
+          "Iberia",
+          "Air Europa"
+        ],
+        "duracion": "14 a 19 h por trayecto",
+        "escalas": 1,
+        "precioUSD": {
+          "min": 850,
+          "max": 1450
+        }
+      },
+      {
+        "origen": "Bogotá",
+        "ruta": "BOG → MAD → FCO / VCE → MAD → BOG",
+        "aerolineas": [
+          "Iberia",
+          "Avianca"
+        ],
+        "duracion": "13 a 18 h por trayecto",
+        "escalas": 1,
+        "precioUSD": {
+          "min": 780,
+          "max": 1350
+        }
+      },
+      {
+        "origen": "Medellín",
+        "ruta": "MDE → BOG → CDG → FCO / VCE → CDG → BOG → MDE",
+        "aerolineas": [
+          "Avianca",
+          "Air France"
+        ],
+        "duracion": "17 a 24 h por trayecto",
+        "escalas": 2,
+        "precioUSD": {
+          "min": 950,
+          "max": 1650
+        }
+      }
+    ]
+  },
+  "itinerario": [
+    {
+      "dia": 1,
+      "titulo": "Bienvenidos a la Ciudad Eterna",
+      "ciudad": "Roma",
+      "coords": {
+        "lat": 41.9028,
+        "lng": 12.4964
+      },
+      "resumen": "Llegada a Roma, instalación en el alojamiento y primera caminata por sus plazas históricas.",
+      "imagenes": [
+        {
+          "url": "italia-14-dias/vista-del-coliseo-de-roma-uno-de-los-mon-617a8f.jpg",
+          "alt": "Coliseo de Roma",
+          "credito": "Podluzhnaya",
+          "licencia": "CC BY-SA 3.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Colosseum,_Rome.JPG"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "11:30",
+          "nombre": "Piazza della Repubblica",
+          "descripcion": "Primer recorrido por el centro de Roma y visita exterior a la Fuente de las Náyades.",
+          "duracion": "40 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 41.9024,
+            "lng": 12.4957
+          }
+        },
+        {
+          "hora": "14:30",
+          "nombre": "Fontana di Trevi",
+          "descripcion": "Visita a la famosa fuente barroca y sus alrededores.",
+          "duracion": "45 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 41.9009,
+            "lng": 12.4833
+          },
+          "consejo": "Puede haber control de acceso o cobro para acercarse a la fuente."
+        },
+        {
+          "hora": "16:00",
+          "nombre": "Panteón de Agripa",
+          "descripcion": "Visita exterior al templo romano convertido en iglesia, con posibilidad de contemplar su monumental pórtico.",
+          "duracion": "40 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 41.8986,
+            "lng": 12.4769
+          }
+        },
+        {
+          "hora": "17:15",
+          "nombre": "Piazza Navona",
+          "descripcion": "Paseo por una de las plazas barrocas más bellas de Italia, rodeada de palacios y fuentes.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 41.8992,
+            "lng": 12.4731
+          }
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "10:45",
+            "momento": "desayuno",
+            "lugar": "Mercato Centrale Roma",
+            "plato": "Cornetto y cappuccino",
+            "costo": 6
+          },
+          {
+            "hora": "13:15",
+            "momento": "almuerzo",
+            "lugar": "Pastificio Guerra",
+            "plato": "Pasta fresca del día",
+            "costo": 7
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Pizzeria da Baffetto",
+            "plato": "Pizza margherita y bebida",
+            "costo": 15
+          }
+        ],
+        "medio": [
+          {
+            "hora": "10:45",
+            "momento": "desayuno",
+            "lugar": "Hotel Artemide",
+            "plato": "Desayuno de bienvenida",
+            "costo": 18
+          },
+          {
+            "hora": "13:15",
+            "momento": "almuerzo",
+            "lugar": "Armando al Pantheon",
+            "plato": "Pasta alla carbonara",
+            "costo": 27,
+            "link": "https://www.armandoalpantheon.it/"
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Osteria da Fortunata",
+            "plato": "Tonnarelli cacio e pepe",
+            "costo": 29
+          }
+        ],
+        "alto": [
+          {
+            "hora": "10:45",
+            "momento": "desayuno",
+            "lugar": "Hotel de Russie",
+            "plato": "Desayuno a la carta",
+            "costo": 38
+          },
+          {
+            "hora": "13:15",
+            "momento": "almuerzo",
+            "lugar": "Roscioli Salumeria con Cucina",
+            "plato": "Degustación de especialidades romanas",
+            "costo": 65
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Pierluigi",
+            "plato": "Pescado mediterráneo y antipasti",
+            "costo": 95
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "niveles": [
+            "economico",
+            "medio"
+          ],
+          "hora": "10:00",
+          "de": "Aeropuerto Fiumicino",
+          "a": "Roma Termini",
+          "medio": "Tren Leonardo Express",
+          "duracion": "32 min",
+          "costo": 14
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "10:00",
+          "de": "Aeropuerto Fiumicino",
+          "a": "Hotel de Russie",
+          "medio": "Traslado privado compartido entre cuatro viajeros",
+          "duracion": "50 min",
+          "costo": 22
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "14:00",
+          "de": "Termini",
+          "a": "Barberini",
+          "medio": "Metro",
+          "duracion": "10 min",
+          "costo": 1.5
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "14:00",
+          "de": "Via Nazionale",
+          "a": "Fontana di Trevi",
+          "medio": "Taxi compartido",
+          "duracion": "15 min",
+          "costo": 5
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "14:00",
+          "de": "Hotel de Russie",
+          "a": "Fontana di Trevi",
+          "medio": "Vehículo privado",
+          "duracion": "15 min",
+          "costo": 12
+        }
+      ],
+      "planB": "Si llueve, sustituir el paseo prolongado por una visita a los Museos Capitolinos, ajustando horarios y entradas."
+    },
+    {
+      "dia": 2,
+      "titulo": "Gladiadores y emperadores",
+      "ciudad": "Roma",
+      "coords": {
+        "lat": 41.9028,
+        "lng": 12.4964
+      },
+      "resumen": "Día dedicado al corazón arqueológico de Roma: Coliseo, Foro Romano, Palatino y miradores históricos.",
+      "imagenes": [
+        {
+          "url": "italia-14-dias/vista-del-coliseo-de-roma-uno-de-los-mon-617a8f.jpg",
+          "alt": "Arquitectura exterior del Coliseo",
+          "credito": "Podluzhnaya",
+          "licencia": "CC BY-SA 3.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Colosseum,_Rome.JPG"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "09:00",
+          "nombre": "Coliseo",
+          "descripcion": "Recorrido por el anfiteatro romano más famoso del mundo.",
+          "duracion": "1 h 30 min",
+          "costo": 18,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 41.8902,
+            "lng": 12.4922
+          },
+          "link": "https://colosseo.it/",
+          "consejo": "Reserva la entrada con horario."
+        },
+        {
+          "niveles": [
+            "medio",
+            "alto"
+          ],
+          "hora": "09:00",
+          "nombre": "Complemento de visita guiada al Coliseo",
+          "descripcion": "Guía especializado durante el recorrido arqueológico. Este costo es adicional a la entrada general.",
+          "duracion": "1 h 30 min",
+          "costo": 35,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 41.8902,
+            "lng": 12.4922
+          }
+        },
+        {
+          "hora": "11:00",
+          "nombre": "Foro Romano y Palatino",
+          "descripcion": "Recorrido por templos, edificios públicos y residencias imperiales.",
+          "duracion": "2 h",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 41.8925,
+            "lng": 12.4853
+          },
+          "consejo": "Incluido en la entrada combinada del Coliseo."
+        },
+        {
+          "hora": "15:00",
+          "nombre": "Campidoglio",
+          "descripcion": "Exploración de la plaza diseñada por Miguel Ángel y sus vistas hacia el Foro.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 41.8933,
+            "lng": 12.4828
+          }
+        },
+        {
+          "hora": "17:00",
+          "nombre": "Circo Máximo",
+          "descripcion": "Paseo por el antiguo recinto de carreras de carros romanos.",
+          "duracion": "45 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 41.886,
+            "lng": 12.4853
+          }
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "07:45",
+            "momento": "desayuno",
+            "lugar": "The RomeHello",
+            "plato": "Café y desayuno sencillo",
+            "costo": 8
+          },
+          {
+            "hora": "13:30",
+            "momento": "almuerzo",
+            "lugar": "La Prezzemolina",
+            "plato": "Pizza al taglio",
+            "costo": 9
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Trattoria Luzzi",
+            "plato": "Pasta amatriciana",
+            "costo": 17
+          }
+        ],
+        "medio": [
+          {
+            "hora": "07:45",
+            "momento": "desayuno",
+            "lugar": "Hotel Artemide",
+            "plato": "Bufé del hotel",
+            "costo": 0
+          },
+          {
+            "hora": "13:30",
+            "momento": "almuerzo",
+            "lugar": "La Taverna dei Fori Imperiali",
+            "plato": "Rigatoni alla gricia",
+            "costo": 25
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Trattoria Monti",
+            "plato": "Pasta artesanal y postre",
+            "costo": 38
+          }
+        ],
+        "alto": [
+          {
+            "hora": "07:45",
+            "momento": "desayuno",
+            "lugar": "Hotel de Russie",
+            "plato": "Desayuno del hotel",
+            "costo": 0
+          },
+          {
+            "hora": "13:30",
+            "momento": "almuerzo",
+            "lugar": "Aroma Restaurant",
+            "plato": "Menú de cocina italiana contemporánea",
+            "costo": 110
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "La Pergola",
+            "plato": "Menú degustación de alta cocina",
+            "costo": 350
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "08:15",
+          "de": "Repubblica",
+          "a": "Colosseo",
+          "medio": "Metro",
+          "duracion": "15 min",
+          "costo": 1.5
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "08:15",
+          "de": "Hotel Artemide",
+          "a": "Coliseo",
+          "medio": "Taxi compartido",
+          "duracion": "15 min",
+          "costo": 5
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "08:15",
+          "de": "Hotel de Russie",
+          "a": "Coliseo",
+          "medio": "Vehículo privado",
+          "duracion": "20 min",
+          "costo": 15
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "18:15",
+          "de": "Circo Massimo",
+          "a": "Termini",
+          "medio": "Metro",
+          "duracion": "20 min",
+          "costo": 1.5
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "18:15",
+          "de": "Circo Massimo",
+          "a": "Hotel Artemide",
+          "medio": "Taxi compartido",
+          "duracion": "20 min",
+          "costo": 6
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "18:15",
+          "de": "Circo Massimo",
+          "a": "Hotel de Russie",
+          "medio": "Vehículo privado",
+          "duracion": "25 min",
+          "costo": 15
+        }
+      ],
+      "planB": "Si el Coliseo cierra excepcionalmente, visitar los Museos Capitolinos y reprogramar la entrada arqueológica."
+    },
+    {
+      "dia": 3,
+      "titulo": "El Vaticano y la Roma barroca",
+      "ciudad": "Roma",
+      "coords": {
+        "lat": 41.9028,
+        "lng": 12.4964
+      },
+      "resumen": "Museos Vaticanos, Capilla Sixtina, Plaza de San Pedro y una tarde junto al río Tíber.",
+      "imagenes": [
+        {
+          "url": "italia-14-dias/basilica-de-san-pedro-df3492.jpg",
+          "alt": "Basílica de San Pedro",
+          "credito": "Alvesgaspar",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "09:00",
+          "nombre": "Museos Vaticanos y Capilla Sixtina",
+          "descripcion": "Colecciones artísticas papales y frescos de Miguel Ángel.",
+          "duracion": "3 h",
+          "costo": 25,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 41.9065,
+            "lng": 12.4536
+          },
+          "link": "https://www.museivaticani.va/"
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "09:00",
+          "nombre": "Guía privado del Vaticano",
+          "descripcion": "Acompañamiento especializado durante la visita, con costo adicional a la entrada.",
+          "duracion": "3 h",
+          "costo": 90,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 41.9065,
+            "lng": 12.4536
+          }
+        },
+        {
+          "hora": "13:30",
+          "nombre": "Plaza y Basílica de San Pedro",
+          "descripcion": "Visita a la gran plaza monumental y al interior de la basílica, sujeta a celebraciones religiosas.",
+          "duracion": "1 h 30 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 41.9022,
+            "lng": 12.4539
+          }
+        },
+        {
+          "hora": "16:00",
+          "nombre": "Castel Sant'Angelo",
+          "descripcion": "Visita exterior al antiguo mausoleo imperial y paseo por el puente de los Ángeles.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 41.9031,
+            "lng": 12.4663
+          }
+        },
+        {
+          "niveles": [
+            "medio",
+            "alto"
+          ],
+          "hora": "17:15",
+          "nombre": "Terraza panorámica de Castel Sant'Angelo",
+          "descripcion": "Entrada al museo y vistas elevadas del Vaticano y Roma.",
+          "duracion": "1 h 15 min",
+          "costo": 16,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 41.9031,
+            "lng": 12.4663
+          }
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "07:30",
+            "momento": "desayuno",
+            "lugar": "The RomeHello",
+            "plato": "Desayuno sencillo",
+            "costo": 8
+          },
+          {
+            "hora": "12:15",
+            "momento": "almuerzo",
+            "lugar": "Pizzarium Bonci",
+            "plato": "Pizza al taglio",
+            "costo": 12
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Pastasciutta",
+            "plato": "Pasta fresca",
+            "costo": 13
+          }
+        ],
+        "medio": [
+          {
+            "hora": "07:30",
+            "momento": "desayuno",
+            "lugar": "Hotel Artemide",
+            "plato": "Bufé",
+            "costo": 0
+          },
+          {
+            "hora": "12:15",
+            "momento": "almuerzo",
+            "lugar": "Il Sorpasso",
+            "plato": "Pasta y antipasto",
+            "costo": 28
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "La Zanzara",
+            "plato": "Risotto y postre",
+            "costo": 39
+          }
+        ],
+        "alto": [
+          {
+            "hora": "07:30",
+            "momento": "desayuno",
+            "lugar": "Hotel de Russie",
+            "plato": "Desayuno del hotel",
+            "costo": 0
+          },
+          {
+            "hora": "12:15",
+            "momento": "almuerzo",
+            "lugar": "Il Sorpasso",
+            "plato": "Tabla gourmet y especialidades italianas",
+            "costo": 55
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Il Pagliaccio",
+            "plato": "Menú degustación",
+            "costo": 220
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "08:10",
+          "de": "Termini",
+          "a": "Ottaviano",
+          "medio": "Metro",
+          "duracion": "25 min",
+          "costo": 1.5
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "08:10",
+          "de": "Hotel Artemide",
+          "a": "Museos Vaticanos",
+          "medio": "Taxi compartido",
+          "duracion": "30 min",
+          "costo": 8
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "08:10",
+          "de": "Hotel de Russie",
+          "a": "Museos Vaticanos",
+          "medio": "Vehículo privado",
+          "duracion": "25 min",
+          "costo": 18
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "18:45",
+          "de": "Lepanto",
+          "a": "Termini",
+          "medio": "Metro",
+          "duracion": "20 min",
+          "costo": 1.5
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "18:45",
+          "de": "Castel Sant'Angelo",
+          "a": "Hotel Artemide",
+          "medio": "Taxi compartido",
+          "duracion": "25 min",
+          "costo": 8
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "18:45",
+          "de": "Castel Sant'Angelo",
+          "a": "Hotel de Russie",
+          "medio": "Vehículo privado",
+          "duracion": "20 min",
+          "costo": 15
+        }
+      ],
+      "planB": "En caso de cierre de los Museos Vaticanos, visitar la Galería Borghese con reserva previa."
+    },
+    {
+      "dia": 4,
+      "titulo": "Nápoles: pizza, callejones y tradición",
+      "ciudad": "Nápoles",
+      "coords": {
+        "lat": 40.8518,
+        "lng": 14.2681
+      },
+      "resumen": "Viaje en tren desde Roma a Nápoles, recorrido por el centro histórico y primera noche en la ciudad de la pizza.",
+      "imagenes": [
+        {
+          "url": "italia-14-dias/spaccanapoli-napoles-81cbb3.jpg",
+          "alt": "Spaccanapoli, Nápoles",
+          "credito": "DimiTalen",
+          "licencia": "CC0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:View_of_Spaccanapoli_and_the_Centro_Direzionale_from_Castel_Sant%27Elmo,_Naples,_2010.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "11:00",
+          "nombre": "Spaccanapoli",
+          "descripcion": "Recorrido por la calle histórica que atraviesa el casco antiguo.",
+          "duracion": "1 h 15 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 40.8473,
+            "lng": 14.2555
+          }
+        },
+        {
+          "hora": "14:00",
+          "nombre": "Catedral de Nápoles",
+          "descripcion": "Visita a la catedral dedicada a Santa María de la Asunción.",
+          "duracion": "45 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 40.8526,
+            "lng": 14.2597
+          }
+        },
+        {
+          "hora": "15:30",
+          "nombre": "Via San Gregorio Armeno",
+          "descripcion": "Exploración de los talleres artesanales de figuras para pesebres.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "compras",
+          "coords": {
+            "lat": 40.8488,
+            "lng": 14.257
+          }
+        },
+        {
+          "hora": "17:30",
+          "nombre": "Piazza del Plebiscito",
+          "descripcion": "Paseo por la plaza monumental junto al Palacio Real.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 40.8359,
+            "lng": 14.2488
+          }
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "07:00",
+            "momento": "desayuno",
+            "lugar": "The RomeHello",
+            "plato": "Café y cornetto",
+            "costo": 7
+          },
+          {
+            "hora": "12:30",
+            "momento": "almuerzo",
+            "lugar": "L'Antica Pizzeria da Michele",
+            "plato": "Pizza margherita",
+            "costo": 8
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Di Matteo",
+            "plato": "Pizza fritta",
+            "costo": 12
+          }
+        ],
+        "medio": [
+          {
+            "hora": "07:00",
+            "momento": "desayuno",
+            "lugar": "Hotel Artemide",
+            "plato": "Bufé",
+            "costo": 0
+          },
+          {
+            "hora": "12:30",
+            "momento": "almuerzo",
+            "lugar": "Gino e Toto Sorbillo",
+            "plato": "Pizza napolitana y bebida",
+            "costo": 20
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Trattoria da Nennella",
+            "plato": "Pasta e patate con provola",
+            "costo": 28
+          }
+        ],
+        "alto": [
+          {
+            "hora": "07:00",
+            "momento": "desayuno",
+            "lugar": "Hotel de Russie",
+            "plato": "Desayuno del hotel",
+            "costo": 0
+          },
+          {
+            "hora": "12:30",
+            "momento": "almuerzo",
+            "lugar": "Palazzo Petrucci Pizzeria",
+            "plato": "Pizza gourmet",
+            "costo": 45
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "George Restaurant",
+            "plato": "Menú degustación",
+            "costo": 170
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "08:00",
+          "de": "Roma Termini",
+          "a": "Napoli Centrale",
+          "medio": "Tren regional o Intercity",
+          "duracion": "2 h 30 min",
+          "costo": 16
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "08:30",
+          "de": "Roma Termini",
+          "a": "Napoli Centrale",
+          "medio": "Tren Frecciarossa estándar",
+          "duracion": "1 h 15 min",
+          "costo": 35
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "08:30",
+          "de": "Roma Termini",
+          "a": "Napoli Centrale",
+          "medio": "Frecciarossa Executive",
+          "duracion": "1 h 15 min",
+          "costo": 110
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "10:40",
+          "de": "Napoli Centrale",
+          "a": "Centro histórico",
+          "medio": "Metro",
+          "duracion": "15 min",
+          "costo": 1.5
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "10:00",
+          "de": "Napoli Centrale",
+          "a": "Hotel Piazza Bellini",
+          "medio": "Taxi compartido",
+          "duracion": "20 min",
+          "costo": 7
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "10:00",
+          "de": "Napoli Centrale",
+          "a": "Grand Hotel Vesuvio",
+          "medio": "Vehículo privado",
+          "duracion": "25 min",
+          "costo": 18
+        }
+      ],
+      "planB": "En caso de lluvia intensa, visitar el Museo Arqueológico Nacional de Nápoles."
+    },
+    {
+      "dia": 5,
+      "titulo": "Pompeya y el Vesubio",
+      "ciudad": "Nápoles",
+      "coords": {
+        "lat": 40.8518,
+        "lng": 14.2681
+      },
+      "resumen": "Excursión arqueológica a Pompeya y acercamiento al volcán Vesubio.",
+      "imagenes": [
+        {
+          "url": "italia-14-dias/foro-de-pompeya-con-el-vesubio-ffa224.jpg",
+          "alt": "Foro de Pompeya con el Vesubio",
+          "credito": "Commonists",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Forum_(Pompeii)_and_the_Vesuvio.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "09:30",
+          "nombre": "Parque Arqueológico de Pompeya",
+          "descripcion": "Recorrido por calles, viviendas, teatros y edificios conservados tras la erupción del año 79.",
+          "duracion": "3 h",
+          "costo": 20,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 40.7484,
+            "lng": 14.4848
+          },
+          "link": "https://pompeiisites.org/"
+        },
+        {
+          "niveles": [
+            "medio",
+            "alto"
+          ],
+          "hora": "09:30",
+          "nombre": "Guía arqueológico de Pompeya",
+          "descripcion": "Visita guiada especializada, con costo adicional a la entrada.",
+          "duracion": "3 h",
+          "costo": 35,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 40.7484,
+            "lng": 14.4848
+          }
+        },
+        {
+          "hora": "14:00",
+          "nombre": "Parque Nacional del Vesubio",
+          "descripcion": "Caminata por el sendero autorizado hacia el borde del cráter, dependiendo de las condiciones de seguridad.",
+          "duracion": "2 h",
+          "costo": 15,
+          "tipo": "aventura",
+          "coords": {
+            "lat": 40.8214,
+            "lng": 14.4265
+          },
+          "link": "https://www.parconazionaledelvesuvio.it/"
+        },
+        {
+          "hora": "17:30",
+          "nombre": "Paseo marítimo de Nápoles",
+          "descripcion": "Atardecer junto al golfo de Nápoles con vistas al Castel dell'Ovo.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "naturaleza",
+          "coords": {
+            "lat": 40.8283,
+            "lng": 14.2476
+          }
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "07:00",
+            "momento": "desayuno",
+            "lugar": "Hostel of the Sun",
+            "plato": "Desayuno sencillo",
+            "costo": 0
+          },
+          {
+            "hora": "12:45",
+            "momento": "almuerzo",
+            "lugar": "Zona de Porta Marina, Pompeya",
+            "plato": "Panino y bebida comprados en comercio local",
+            "costo": 12
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Di Matteo",
+            "plato": "Pizza napolitana",
+            "costo": 13
+          }
+        ],
+        "medio": [
+          {
+            "hora": "07:00",
+            "momento": "desayuno",
+            "lugar": "Hotel Piazza Bellini",
+            "plato": "Desayuno del hotel",
+            "costo": 0
+          },
+          {
+            "hora": "12:45",
+            "momento": "almuerzo",
+            "lugar": "Hortus Pompei",
+            "plato": "Pasta y ensalada",
+            "costo": 25
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "La Cantina dei Lazzari",
+            "plato": "Pasta con mariscos",
+            "costo": 36
+          }
+        ],
+        "alto": [
+          {
+            "hora": "07:00",
+            "momento": "desayuno",
+            "lugar": "Grand Hotel Vesuvio",
+            "plato": "Desayuno del hotel",
+            "costo": 0
+          },
+          {
+            "hora": "12:45",
+            "momento": "almuerzo",
+            "lugar": "Hortus Pompei",
+            "plato": "Menú italiano completo",
+            "costo": 45
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Caruso Roof Garden",
+            "plato": "Pescado fresco y especialidades campanas",
+            "costo": 100
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "08:00",
+          "de": "Napoli Piazza Garibaldi",
+          "a": "Pompei Scavi",
+          "medio": "Tren Circumvesuviana",
+          "duracion": "40 min",
+          "costo": 4
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "08:00",
+          "de": "Nápoles",
+          "a": "Pompeya",
+          "medio": "Tren turístico Campania Express",
+          "duracion": "40 min",
+          "costo": 15
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "08:00",
+          "de": "Grand Hotel Vesuvio",
+          "a": "Pompeya",
+          "medio": "Vehículo privado",
+          "duracion": "45 min",
+          "costo": 35
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "13:00",
+          "de": "Pompeya",
+          "a": "Vesubio",
+          "medio": "Autobús turístico de acceso al parque",
+          "duracion": "45 min",
+          "costo": 18
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "13:00",
+          "de": "Pompeya",
+          "a": "Vesubio",
+          "medio": "Minibús turístico",
+          "duracion": "45 min",
+          "costo": 25
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "13:00",
+          "de": "Pompeya",
+          "a": "Vesubio",
+          "medio": "Vehículo privado",
+          "duracion": "45 min",
+          "costo": 30
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "16:15",
+          "de": "Vesubio",
+          "a": "Nápoles",
+          "medio": "Autobús y tren",
+          "duracion": "1 h 15 min",
+          "costo": 12
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "16:15",
+          "de": "Vesubio",
+          "a": "Nápoles",
+          "medio": "Minibús compartido",
+          "duracion": "1 h",
+          "costo": 22
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "16:15",
+          "de": "Vesubio",
+          "a": "Nápoles",
+          "medio": "Vehículo privado",
+          "duracion": "1 h",
+          "costo": 35
+        }
+      ],
+      "planB": "Si el sendero del Vesubio está cerrado por meteorología o actividad volcánica, dedicar la tarde al Museo Arqueológico Nacional de Nápoles."
+    },
+    {
+      "dia": 6,
+      "titulo": "La Costa Amalfitana",
+      "ciudad": "Nápoles",
+      "coords": {
+        "lat": 40.8518,
+        "lng": 14.2681
+      },
+      "resumen": "Excursión intensa a Positano y Amalfi, con pueblos coloridos, vistas del Mediterráneo y tiempo junto al mar.",
+      "imagenes": [
+        {
+          "url": "italia-14-dias/amalfi-d3e662.jpg",
+          "alt": "Amalfi",
+          "credito": "Mайкл Гиммельфарб",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Amalfi_Coast,_Italy_Panoramic.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "10:00",
+          "nombre": "Miradores de Positano",
+          "descripcion": "Recorrido por las calles escalonadas del pueblo y sus vistas panorámicas.",
+          "duracion": "1 h 30 min",
+          "costo": 0,
+          "tipo": "naturaleza",
+          "coords": {
+            "lat": 40.6281,
+            "lng": 14.4845
+          }
+        },
+        {
+          "hora": "12:00",
+          "nombre": "Spiaggia Grande",
+          "descripcion": "Descanso junto a la playa principal de Positano, utilizando el sector público.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "descanso",
+          "coords": {
+            "lat": 40.6264,
+            "lng": 14.4856
+          }
+        },
+        {
+          "hora": "15:00",
+          "nombre": "Centro histórico de Amalfi",
+          "descripcion": "Paseo por las calles y pequeñas plazas del antiguo centro marítimo.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 40.634,
+            "lng": 14.6027
+          }
+        },
+        {
+          "hora": "16:15",
+          "nombre": "Catedral de Amalfi",
+          "descripcion": "Contemplación de la fachada monumental y su escalinata.",
+          "duracion": "45 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 40.6345,
+            "lng": 14.6029
+          }
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "06:30",
+            "momento": "desayuno",
+            "lugar": "Hostel of the Sun",
+            "plato": "Desayuno sencillo",
+            "costo": 0
+          },
+          {
+            "hora": "13:15",
+            "momento": "almuerzo",
+            "lugar": "Collina Bakery, Positano",
+            "plato": "Focaccia y bebida",
+            "costo": 14
+          },
+          {
+            "hora": "19:45",
+            "momento": "cena",
+            "lugar": "Nápoles, Pizzeria da Michele",
+            "plato": "Pizza margherita",
+            "costo": 10
+          }
+        ],
+        "medio": [
+          {
+            "hora": "06:30",
+            "momento": "desayuno",
+            "lugar": "Hotel Piazza Bellini",
+            "plato": "Desayuno del hotel",
+            "costo": 0
+          },
+          {
+            "hora": "13:15",
+            "momento": "almuerzo",
+            "lugar": "Chez Black, Positano",
+            "plato": "Spaghetti alle vongole",
+            "costo": 38
+          },
+          {
+            "hora": "19:45",
+            "momento": "cena",
+            "lugar": "La Cantina dei Lazzari, Nápoles",
+            "plato": "Pescado y verduras",
+            "costo": 42
+          }
+        ],
+        "alto": [
+          {
+            "hora": "06:30",
+            "momento": "desayuno",
+            "lugar": "Grand Hotel Vesuvio",
+            "plato": "Desayuno del hotel",
+            "costo": 0
+          },
+          {
+            "hora": "13:15",
+            "momento": "almuerzo",
+            "lugar": "La Sponda, Positano",
+            "plato": "Menú mediterráneo",
+            "costo": 130
+          },
+          {
+            "hora": "19:45",
+            "momento": "cena",
+            "lugar": "Caruso Roof Garden, Nápoles",
+            "plato": "Cena de cocina campana",
+            "costo": 95
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "07:00",
+          "de": "Nápoles",
+          "a": "Sorrento",
+          "medio": "Tren Circumvesuviana",
+          "duracion": "1 h 15 min",
+          "costo": 5
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "08:20",
+          "de": "Sorrento",
+          "a": "Positano",
+          "medio": "Autobús SITA",
+          "duracion": "1 h 10 min",
+          "costo": 4
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "07:30",
+          "de": "Nápoles",
+          "a": "Positano",
+          "medio": "Minibús turístico",
+          "duracion": "2 h 15 min",
+          "costo": 45
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "07:30",
+          "de": "Nápoles",
+          "a": "Positano",
+          "medio": "Vehículo privado",
+          "duracion": "2 h",
+          "costo": 85
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "14:00",
+          "de": "Positano",
+          "a": "Amalfi",
+          "medio": "Autobús SITA",
+          "duracion": "55 min",
+          "costo": 4
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "14:00",
+          "de": "Positano",
+          "a": "Amalfi",
+          "medio": "Ferry",
+          "duracion": "30 min",
+          "costo": 15
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "14:00",
+          "de": "Positano",
+          "a": "Amalfi",
+          "medio": "Lancha privada compartida",
+          "duracion": "35 min",
+          "costo": 95
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "17:15",
+          "de": "Amalfi",
+          "a": "Nápoles vía Sorrento",
+          "medio": "Autobús y tren",
+          "duracion": "2 h 30 min",
+          "costo": 12
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "17:15",
+          "de": "Amalfi",
+          "a": "Nápoles",
+          "medio": "Minibús turístico",
+          "duracion": "2 h 15 min",
+          "costo": 45
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "17:15",
+          "de": "Amalfi",
+          "a": "Nápoles",
+          "medio": "Vehículo privado",
+          "duracion": "2 h 15 min",
+          "costo": 85
+        }
+      ],
+      "planB": "Si el mar impide operar los ferris, utilizar transporte terrestre. Con lluvias fuertes, permanecer en Nápoles y visitar el Palacio Real."
+    },
+    {
+      "dia": 7,
+      "titulo": "Florencia, capital del Renacimiento",
+      "ciudad": "Florencia",
+      "coords": {
+        "lat": 43.7696,
+        "lng": 11.2558
+      },
+      "resumen": "Traslado hacia Toscana y descubrimiento de la catedral, plazas y calles históricas de Florencia.",
+      "imagenes": [
+        {
+          "url": "italia-14-dias/ponte-vecchio-de-florencia-6ce139.jpg",
+          "alt": "Ponte Vecchio de Florencia",
+          "credito": "Martin Falbisoner",
+          "licencia": "CC BY-SA 3.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Ponte_Vecchio_at_dusk_1.JPG"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "12:00",
+          "nombre": "Piazza del Duomo",
+          "descripcion": "Recorrido exterior por la catedral de Santa María del Fiore, el campanario y el baptisterio.",
+          "duracion": "1 h 15 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 43.7731,
+            "lng": 11.256
+          }
+        },
+        {
+          "hora": "14:30",
+          "nombre": "Piazza della Signoria",
+          "descripcion": "Exploración de esculturas públicas y arquitectura renacentista.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 43.7696,
+            "lng": 11.2558
+          }
+        },
+        {
+          "hora": "16:00",
+          "nombre": "Ponte Vecchio",
+          "descripcion": "Paseo por el puente medieval y sus tradicionales joyerías.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 43.768,
+            "lng": 11.2531
+          }
+        },
+        {
+          "hora": "17:30",
+          "nombre": "Piazzale Michelangelo",
+          "descripcion": "Mirador panorámico sobre los tejados y monumentos de Florencia.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "naturaleza",
+          "coords": {
+            "lat": 43.7629,
+            "lng": 11.2651
+          }
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "07:00",
+            "momento": "desayuno",
+            "lugar": "Hostel of the Sun",
+            "plato": "Desayuno sencillo",
+            "costo": 0
+          },
+          {
+            "hora": "13:30",
+            "momento": "almuerzo",
+            "lugar": "All'Antico Vinaio",
+            "plato": "Schiacciata rellena",
+            "costo": 10
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Mercato Centrale Firenze",
+            "plato": "Pasta toscana",
+            "costo": 17
+          }
+        ],
+        "medio": [
+          {
+            "hora": "07:00",
+            "momento": "desayuno",
+            "lugar": "Hotel Piazza Bellini",
+            "plato": "Desayuno del hotel",
+            "costo": 0
+          },
+          {
+            "hora": "13:30",
+            "momento": "almuerzo",
+            "lugar": "Trattoria Zà Zà",
+            "plato": "Pappardelle al ragù",
+            "costo": 29
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Osteria Santo Spirito",
+            "plato": "Gnocchi gratinados",
+            "costo": 35
+          }
+        ],
+        "alto": [
+          {
+            "hora": "07:00",
+            "momento": "desayuno",
+            "lugar": "Grand Hotel Vesuvio",
+            "plato": "Desayuno del hotel",
+            "costo": 0
+          },
+          {
+            "hora": "13:30",
+            "momento": "almuerzo",
+            "lugar": "Il Latini",
+            "plato": "Bistecca alla fiorentina",
+            "costo": 75
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Enoteca Pinchiorri",
+            "plato": "Menú degustación",
+            "costo": 280
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "08:00",
+          "de": "Napoli Centrale",
+          "a": "Firenze Santa Maria Novella",
+          "medio": "Tren de alta velocidad",
+          "duracion": "3 h",
+          "costo": 35
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "08:00",
+          "de": "Napoli Centrale",
+          "a": "Firenze Santa Maria Novella",
+          "medio": "Frecciarossa estándar",
+          "duracion": "3 h",
+          "costo": 65
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "08:00",
+          "de": "Napoli Centrale",
+          "a": "Firenze Santa Maria Novella",
+          "medio": "Frecciarossa Executive",
+          "duracion": "3 h",
+          "costo": 170
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "17:00",
+          "de": "Centro de Florencia",
+          "a": "Piazzale Michelangelo",
+          "medio": "Autobús urbano",
+          "duracion": "20 min",
+          "costo": 1.7
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "17:00",
+          "de": "Centro de Florencia",
+          "a": "Piazzale Michelangelo",
+          "medio": "Taxi compartido",
+          "duracion": "15 min",
+          "costo": 6
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "17:00",
+          "de": "Centro de Florencia",
+          "a": "Piazzale Michelangelo",
+          "medio": "Vehículo privado",
+          "duracion": "15 min",
+          "costo": 15
+        }
+      ],
+      "planB": "Si llueve, sustituir el mirador por una visita a las capillas de los Médici."
+    },
+    {
+      "dia": 8,
+      "titulo": "Miguel Ángel, los Médici y el arte italiano",
+      "ciudad": "Florencia",
+      "coords": {
+        "lat": 43.7696,
+        "lng": 11.2558
+      },
+      "resumen": "Día dedicado a los grandes museos renacentistas y a la arquitectura monumental de Florencia.",
+      "imagenes": [
+        {
+          "url": "italia-14-dias/galeria-uffizi-en-florencia-87ac51.jpg",
+          "alt": "Galería Uffizi en Florencia",
+          "credito": "Txllxt TxllxT",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Firenze_-_Florence_-_Galleria_degli_Uffizi_-_Vasari_Corridor_1566_-_View_NNE_through_the_Uffizi_Courtyard_towards_Palazzo_Vecchio.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "09:00",
+          "nombre": "Galería de la Academia",
+          "descripcion": "Visita al David original de Miguel Ángel y otras obras escultóricas.",
+          "duracion": "1 h 30 min",
+          "costo": 20,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 43.7768,
+            "lng": 11.2587
+          },
+          "link": "https://www.galleriaaccademiafirenze.it/"
+        },
+        {
+          "hora": "11:00",
+          "nombre": "Galería Uffizi",
+          "descripcion": "Colección de pinturas renacentistas, incluyendo obras de Botticelli.",
+          "duracion": "2 h 30 min",
+          "costo": 29,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 43.7687,
+            "lng": 11.255
+          },
+          "link": "https://www.uffizi.it/"
+        },
+        {
+          "hora": "15:00",
+          "nombre": "Basílica de Santa Croce",
+          "descripcion": "Visita a la iglesia donde descansan personajes históricos como Miguel Ángel y Galileo.",
+          "duracion": "1 h",
+          "costo": 10,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 43.7686,
+            "lng": 11.2626
+          }
+        },
+        {
+          "hora": "17:00",
+          "nombre": "Barrio de Oltrarno",
+          "descripcion": "Exploración de talleres artesanales y calles tradicionales.",
+          "duracion": "1 h 15 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 43.7666,
+            "lng": 11.2476
+          }
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "07:45",
+            "momento": "desayuno",
+            "lugar": "PLUS Florence",
+            "plato": "Café y bollería",
+            "costo": 7
+          },
+          {
+            "hora": "13:45",
+            "momento": "almuerzo",
+            "lugar": "I' Girone De' Ghiotti",
+            "plato": "Schiacciata",
+            "costo": 11
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Mercato Centrale Firenze",
+            "plato": "Pasta y bebida",
+            "costo": 18
+          }
+        ],
+        "medio": [
+          {
+            "hora": "07:45",
+            "momento": "desayuno",
+            "lugar": "Hotel Spadai",
+            "plato": "Desayuno del hotel",
+            "costo": 0
+          },
+          {
+            "hora": "13:45",
+            "momento": "almuerzo",
+            "lugar": "Trattoria Mario",
+            "plato": "Ribollita y carne toscana",
+            "costo": 30
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Il Santo Bevitore",
+            "plato": "Pasta artesanal y postre",
+            "costo": 48
+          }
+        ],
+        "alto": [
+          {
+            "hora": "07:45",
+            "momento": "desayuno",
+            "lugar": "Four Seasons Hotel Firenze",
+            "plato": "Desayuno del hotel",
+            "costo": 0
+          },
+          {
+            "hora": "13:45",
+            "momento": "almuerzo",
+            "lugar": "Cammillo",
+            "plato": "Especialidades florentinas",
+            "costo": 75
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Il Palagio",
+            "plato": "Menú de alta cocina toscana",
+            "costo": 180
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "08:20",
+          "de": "PLUS Florence",
+          "a": "Galería de la Academia",
+          "medio": "Autobús urbano",
+          "duracion": "15 min",
+          "costo": 1.7
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "08:20",
+          "de": "Hotel Spadai",
+          "a": "Galería de la Academia",
+          "medio": "Taxi compartido",
+          "duracion": "10 min",
+          "costo": 5
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "08:20",
+          "de": "Four Seasons Hotel Firenze",
+          "a": "Galería de la Academia",
+          "medio": "Vehículo privado",
+          "duracion": "15 min",
+          "costo": 15
+        }
+      ],
+      "planB": "Las actividades principales son interiores. En caso de cierres, sustituir el museo afectado por el Museo del Bargello."
+    },
+    {
+      "dia": 9,
+      "titulo": "Toscana medieval: Siena y San Gimignano",
+      "ciudad": "Florencia",
+      "coords": {
+        "lat": 43.7696,
+        "lng": 11.2558
+      },
+      "resumen": "Excursión por las colinas toscanas y dos de sus ciudades medievales más representativas.",
+      "imagenes": [
+        {
+          "url": "italia-14-dias/piazza-del-campo-de-siena-c2acdb.jpg",
+          "alt": "Piazza del Campo de Siena",
+          "credito": "Perituss",
+          "licencia": "CC0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Piazza_del_Campo_2014_01.jpg"
+        },
+        {
+          "url": "italia-14-dias/torres-de-san-gimignano-84bd5f.jpg",
+          "alt": "Torres de San Gimignano",
+          "credito": "Julian Lupyan",
+          "licencia": "CC0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:The_Towers_of_San_Gimignano_at_Sunset_from_the_Rocca_of_Montestaffoli.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "09:30",
+          "nombre": "Piazza del Campo",
+          "descripcion": "Visita a la famosa plaza de Siena, escenario de la carrera tradicional del Palio.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 43.3186,
+            "lng": 11.3317
+          }
+        },
+        {
+          "hora": "11:00",
+          "nombre": "Catedral de Siena",
+          "descripcion": "Visita al templo gótico y sus elementos artísticos.",
+          "duracion": "1 h",
+          "costo": 12,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 43.3177,
+            "lng": 11.3286
+          }
+        },
+        {
+          "hora": "14:30",
+          "nombre": "Centro histórico de San Gimignano",
+          "descripcion": "Recorrido por sus torres medievales y calles empedradas.",
+          "duracion": "1 h 30 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 43.4678,
+            "lng": 11.0434
+          }
+        },
+        {
+          "hora": "16:15",
+          "nombre": "Piazza della Cisterna",
+          "descripcion": "Descanso en la plaza medieval y degustación opcional de helado.",
+          "duracion": "45 min",
+          "costo": 0,
+          "tipo": "descanso",
+          "coords": {
+            "lat": 43.4675,
+            "lng": 11.0433
+          }
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "07:00",
+            "momento": "desayuno",
+            "lugar": "PLUS Florence",
+            "plato": "Café y pan",
+            "costo": 7
+          },
+          {
+            "hora": "12:15",
+            "momento": "almuerzo",
+            "lugar": "Antica Pizzicheria al Palazzo della Chigiana, Siena",
+            "plato": "Panino de embutidos toscanos",
+            "costo": 13
+          },
+          {
+            "hora": "16:30",
+            "momento": "snack",
+            "lugar": "Gelateria Dondoli",
+            "plato": "Gelato artesanal",
+            "costo": 5
+          },
+          {
+            "hora": "20:00",
+            "momento": "cena",
+            "lugar": "Mercato Centrale Firenze",
+            "plato": "Pasta",
+            "costo": 17
+          }
+        ],
+        "medio": [
+          {
+            "hora": "07:00",
+            "momento": "desayuno",
+            "lugar": "Hotel Spadai",
+            "plato": "Desayuno del hotel",
+            "costo": 0
+          },
+          {
+            "hora": "12:15",
+            "momento": "almuerzo",
+            "lugar": "Osteria Le Logge, Siena",
+            "plato": "Pici al ragù",
+            "costo": 38
+          },
+          {
+            "hora": "16:30",
+            "momento": "snack",
+            "lugar": "Gelateria Dondoli",
+            "plato": "Gelato artesanal",
+            "costo": 6
+          },
+          {
+            "hora": "20:00",
+            "momento": "cena",
+            "lugar": "Trattoria Zà Zà, Florencia",
+            "plato": "Bistecca y guarnición",
+            "costo": 45
+          }
+        ],
+        "alto": [
+          {
+            "hora": "07:00",
+            "momento": "desayuno",
+            "lugar": "Four Seasons Hotel Firenze",
+            "plato": "Desayuno del hotel",
+            "costo": 0
+          },
+          {
+            "hora": "12:15",
+            "momento": "almuerzo",
+            "lugar": "Osteria Le Logge, Siena",
+            "plato": "Menú degustación toscano",
+            "costo": 90
+          },
+          {
+            "hora": "16:30",
+            "momento": "snack",
+            "lugar": "Gelateria Dondoli",
+            "plato": "Gelato artesanal",
+            "costo": 6
+          },
+          {
+            "hora": "20:00",
+            "momento": "cena",
+            "lugar": "Il Palagio, Florencia",
+            "plato": "Cena gourmet",
+            "costo": 180
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "07:30",
+          "de": "Florencia",
+          "a": "Siena",
+          "medio": "Autobús interurbano",
+          "duracion": "1 h 20 min",
+          "costo": 10
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "07:30",
+          "de": "Florencia",
+          "a": "Siena",
+          "medio": "Minibús turístico",
+          "duracion": "1 h 20 min",
+          "costo": 35
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "07:30",
+          "de": "Florencia",
+          "a": "Siena",
+          "medio": "Vehículo privado",
+          "duracion": "1 h 15 min",
+          "costo": 65
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "13:00",
+          "de": "Siena",
+          "a": "San Gimignano",
+          "medio": "Autobús interurbano con conexión",
+          "duracion": "1 h 20 min",
+          "costo": 8
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "13:00",
+          "de": "Siena",
+          "a": "San Gimignano",
+          "medio": "Minibús turístico",
+          "duracion": "50 min",
+          "costo": 25
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "13:00",
+          "de": "Siena",
+          "a": "San Gimignano",
+          "medio": "Vehículo privado",
+          "duracion": "50 min",
+          "costo": 40
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "17:15",
+          "de": "San Gimignano",
+          "a": "Florencia",
+          "medio": "Autobús con conexión en Poggibonsi",
+          "duracion": "1 h 45 min",
+          "costo": 12
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "17:15",
+          "de": "San Gimignano",
+          "a": "Florencia",
+          "medio": "Minibús turístico",
+          "duracion": "1 h 15 min",
+          "costo": 35
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "17:15",
+          "de": "San Gimignano",
+          "a": "Florencia",
+          "medio": "Vehículo privado",
+          "duracion": "1 h 15 min",
+          "costo": 65
+        }
+      ],
+      "planB": "Con lluvia intensa, dedicar más tiempo al interior de la catedral de Siena y reducir los recorridos exteriores."
+    },
+    {
+      "dia": 10,
+      "titulo": "Venecia: la ciudad sobre el agua",
+      "ciudad": "Venecia",
+      "coords": {
+        "lat": 45.4408,
+        "lng": 12.3155
+      },
+      "resumen": "Viaje a Venecia y primera exploración de sus canales, puentes y plazas monumentales.",
+      "imagenes": [
+        {
+          "url": "italia-14-dias/gondolas-en-el-gran-canal-b03c17.jpg",
+          "alt": "Góndolas en el Gran Canal",
+          "credito": "This Photo was taken by Wolfgang Moroder. Feel free to use my photos, but please",
+          "licencia": "CC BY-SA 3.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Canal_Grande_Chiesa_della_Salute_e_Dogana_dal_ponte_dell_Accademia.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "12:00",
+          "nombre": "Puente de Rialto",
+          "descripcion": "Paseo por uno de los puentes más emblemáticos del Gran Canal.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 45.438,
+            "lng": 12.3359
+          }
+        },
+        {
+          "hora": "14:30",
+          "nombre": "Plaza de San Marcos",
+          "descripcion": "Recorrido por el centro monumental de Venecia.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 45.4342,
+            "lng": 12.3385
+          }
+        },
+        {
+          "hora": "16:00",
+          "nombre": "Puente de los Suspiros",
+          "descripcion": "Observación del puente histórico que conecta el Palacio Ducal con las antiguas prisiones.",
+          "duracion": "45 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 45.4337,
+            "lng": 12.3407
+          }
+        },
+        {
+          "hora": "17:30",
+          "nombre": "Riva degli Schiavoni",
+          "descripcion": "Paseo junto a la laguna con vistas a San Giorgio Maggiore.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "naturaleza",
+          "coords": {
+            "lat": 45.4336,
+            "lng": 12.344
+          }
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "07:00",
+            "momento": "desayuno",
+            "lugar": "PLUS Florence",
+            "plato": "Café y bollería",
+            "costo": 7
+          },
+          {
+            "hora": "13:15",
+            "momento": "almuerzo",
+            "lugar": "Dal Moro's Fresh Pasta To Go",
+            "plato": "Pasta fresca",
+            "costo": 12
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Antico Forno",
+            "plato": "Pizza al taglio",
+            "costo": 15
+          }
+        ],
+        "medio": [
+          {
+            "hora": "07:00",
+            "momento": "desayuno",
+            "lugar": "Hotel Spadai",
+            "plato": "Desayuno del hotel",
+            "costo": 0
+          },
+          {
+            "hora": "13:15",
+            "momento": "almuerzo",
+            "lugar": "Trattoria Al Gazzettino",
+            "plato": "Risotto de mariscos",
+            "costo": 35
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Osteria alle Testiere",
+            "plato": "Pescado del Adriático",
+            "costo": 65
+          }
+        ],
+        "alto": [
+          {
+            "hora": "07:00",
+            "momento": "desayuno",
+            "lugar": "Four Seasons Hotel Firenze",
+            "plato": "Desayuno del hotel",
+            "costo": 0
+          },
+          {
+            "hora": "13:15",
+            "momento": "almuerzo",
+            "lugar": "Ristorante Quadri",
+            "plato": "Menú veneciano contemporáneo",
+            "costo": 130
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Glam Enrico Bartolini",
+            "plato": "Menú degustación",
+            "costo": 240
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "08:30",
+          "de": "Firenze Santa Maria Novella",
+          "a": "Venezia Santa Lucia",
+          "medio": "Tren de alta velocidad anticipado",
+          "duracion": "2 h 15 min",
+          "costo": 30
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "08:30",
+          "de": "Firenze Santa Maria Novella",
+          "a": "Venezia Santa Lucia",
+          "medio": "Frecciarossa estándar",
+          "duracion": "2 h 15 min",
+          "costo": 55
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "08:30",
+          "de": "Firenze Santa Maria Novella",
+          "a": "Venezia Santa Lucia",
+          "medio": "Frecciarossa Executive",
+          "duracion": "2 h 15 min",
+          "costo": 130
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "11:00",
+          "de": "Santa Lucia",
+          "a": "Rialto",
+          "medio": "Vaporetto",
+          "duracion": "25 min",
+          "costo": 9.5
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "11:00",
+          "de": "Santa Lucia",
+          "a": "Rialto",
+          "medio": "Vaporetto",
+          "duracion": "25 min",
+          "costo": 9.5
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "11:00",
+          "de": "Santa Lucia",
+          "a": "Hotel Danieli",
+          "medio": "Taxi acuático privado compartido",
+          "duracion": "25 min",
+          "costo": 40
+        }
+      ],
+      "planB": "Si hay acqua alta o lluvias intensas, utilizar pasarelas habilitadas y visitar museos interiores."
+    },
+    {
+      "dia": 11,
+      "titulo": "Palacios, basílicas y góndolas",
+      "ciudad": "Venecia",
+      "coords": {
+        "lat": 45.4408,
+        "lng": 12.3155
+      },
+      "resumen": "Exploración del patrimonio monumental veneciano y experiencias diferenciadas en sus canales.",
+      "imagenes": [
+        {
+          "url": "italia-14-dias/basilica-de-san-marcos-63c05b.jpg",
+          "alt": "Basílica de San Marcos",
+          "credito": "Martin Falbisoner",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Saint_Mark%27s_Campanile_and_Palazzo_Ducale,_Venice,_September_2017_-2.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "09:00",
+          "nombre": "Palacio Ducal",
+          "descripcion": "Recorrido por los salones institucionales de la antigua República de Venecia.",
+          "duracion": "2 h",
+          "costo": 30,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 45.4337,
+            "lng": 12.3404
+          },
+          "link": "https://palazzoducale.visitmuve.it/"
+        },
+        {
+          "hora": "11:30",
+          "nombre": "Basílica de San Marcos",
+          "descripcion": "Visita al templo famoso por sus mosaicos dorados.",
+          "duracion": "1 h",
+          "costo": 6,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 45.4345,
+            "lng": 12.3397
+          },
+          "link": "https://www.basilicasanmarco.it/"
+        },
+        {
+          "hora": "14:30",
+          "nombre": "Barrio de Dorsoduro",
+          "descripcion": "Paseo por calles tranquilas y canales menos concurridos.",
+          "duracion": "1 h 30 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 45.43,
+            "lng": 12.326
+          }
+        },
+        {
+          "niveles": [
+            "medio",
+            "alto"
+          ],
+          "hora": "16:30",
+          "nombre": "Paseo en góndola",
+          "descripcion": "Recorrido de aproximadamente 30 minutos por canales secundarios. El precio corresponde a la participación individual en una góndola compartida por el grupo.",
+          "duracion": "30 min",
+          "costo": 25,
+          "tipo": "descanso",
+          "coords": {
+            "lat": 45.4348,
+            "lng": 12.3354
+          }
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "16:30",
+          "nombre": "Atardecer desde Ponte dell'Accademia",
+          "descripcion": "Vistas gratuitas del Gran Canal y de Santa Maria della Salute.",
+          "duracion": "45 min",
+          "costo": 0,
+          "tipo": "naturaleza",
+          "coords": {
+            "lat": 45.4316,
+            "lng": 12.3284
+          }
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "07:45",
+            "momento": "desayuno",
+            "lugar": "Anda Venice Hostel",
+            "plato": "Desayuno sencillo",
+            "costo": 9
+          },
+          {
+            "hora": "13:00",
+            "momento": "almuerzo",
+            "lugar": "Bacareto da Lele",
+            "plato": "Panini y cicchetti",
+            "costo": 12
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Al Nono Risorto",
+            "plato": "Pizza y bebida",
+            "costo": 19
+          }
+        ],
+        "medio": [
+          {
+            "hora": "07:45",
+            "momento": "desayuno",
+            "lugar": "Hotel L'Orologio Venezia",
+            "plato": "Desayuno del hotel",
+            "costo": 0
+          },
+          {
+            "hora": "13:00",
+            "momento": "almuerzo",
+            "lugar": "Cantina Do Spade",
+            "plato": "Cicchetti y risotto",
+            "costo": 35
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Osteria Bancogiro",
+            "plato": "Pasta con mariscos",
+            "costo": 48
+          }
+        ],
+        "alto": [
+          {
+            "hora": "07:45",
+            "momento": "desayuno",
+            "lugar": "Hotel Danieli",
+            "plato": "Desayuno del hotel",
+            "costo": 0
+          },
+          {
+            "hora": "13:00",
+            "momento": "almuerzo",
+            "lugar": "Club del Doge",
+            "plato": "Menú de cocina veneciana",
+            "costo": 95
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Terrazza Danieli",
+            "plato": "Cena gourmet con vistas a la laguna",
+            "costo": 140
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "08:00",
+          "de": "Mestre",
+          "a": "Venezia Santa Lucia",
+          "medio": "Tren regional",
+          "duracion": "12 min",
+          "costo": 1.5
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "08:20",
+          "de": "Santa Lucia",
+          "a": "San Marco",
+          "medio": "Vaporetto",
+          "duracion": "35 min",
+          "costo": 9.5
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "08:20",
+          "de": "Rialto",
+          "a": "San Marco",
+          "medio": "Vaporetto",
+          "duracion": "15 min",
+          "costo": 9.5
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "08:20",
+          "de": "Hotel Danieli",
+          "a": "Palacio Ducal",
+          "medio": "Desplazamiento a pie",
+          "duracion": "5 min",
+          "costo": 0
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "21:00",
+          "de": "Venecia",
+          "a": "Mestre",
+          "medio": "Tren regional",
+          "duracion": "12 min",
+          "costo": 1.5
+        }
+      ],
+      "planB": "Si se suspenden los paseos en góndola, visitar el Museo Correr."
+    },
+    {
+      "dia": 12,
+      "titulo": "Murano y Burano: las islas de la laguna",
+      "ciudad": "Venecia",
+      "coords": {
+        "lat": 45.4408,
+        "lng": 12.3155
+      },
+      "resumen": "Excursión a las islas de los artesanos del vidrio y las casas multicolores.",
+      "imagenes": [
+        {
+          "url": "italia-14-dias/canal-de-burano-b0a6b6.jpg",
+          "alt": "Canal de Burano",
+          "credito": "Marc Ryckaert (MJJR)",
+          "licencia": "CC BY 2.5",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Burano_Canal_01.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "09:30",
+          "nombre": "Murano",
+          "descripcion": "Recorrido por la isla famosa por su tradición de vidrio soplado.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 45.4589,
+            "lng": 12.3536
+          }
+        },
+        {
+          "niveles": [
+            "medio",
+            "alto"
+          ],
+          "hora": "10:45",
+          "nombre": "Demostración artesanal de vidrio",
+          "descripcion": "Experiencia organizada en un taller de Murano.",
+          "duracion": "45 min",
+          "costo": 20,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 45.4589,
+            "lng": 12.3536
+          }
+        },
+        {
+          "hora": "13:30",
+          "nombre": "Burano",
+          "descripcion": "Paseo por las calles y canales rodeados de fachadas coloridas.",
+          "duracion": "1 h 30 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 45.4856,
+            "lng": 12.4167
+          }
+        },
+        {
+          "hora": "16:00",
+          "nombre": "Iglesia de San Martino",
+          "descripcion": "Visita exterior al campanario inclinado y su plaza.",
+          "duracion": "45 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 45.4855,
+            "lng": 12.4176
+          }
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "07:30",
+            "momento": "desayuno",
+            "lugar": "Anda Venice Hostel",
+            "plato": "Café y bollería",
+            "costo": 8
+          },
+          {
+            "hora": "12:00",
+            "momento": "almuerzo",
+            "lugar": "Murano, panadería local",
+            "plato": "Focaccia y bebida",
+            "costo": 12
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Al Nono Risorto, Venecia",
+            "plato": "Pizza",
+            "costo": 18
+          }
+        ],
+        "medio": [
+          {
+            "hora": "07:30",
+            "momento": "desayuno",
+            "lugar": "Hotel L'Orologio Venezia",
+            "plato": "Desayuno del hotel",
+            "costo": 0
+          },
+          {
+            "hora": "12:00",
+            "momento": "almuerzo",
+            "lugar": "Osteria al Duomo, Murano",
+            "plato": "Risotto de mariscos",
+            "costo": 38
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Osteria Bancogiro, Venecia",
+            "plato": "Pescado del Adriático",
+            "costo": 48
+          }
+        ],
+        "alto": [
+          {
+            "hora": "07:30",
+            "momento": "desayuno",
+            "lugar": "Hotel Danieli",
+            "plato": "Desayuno del hotel",
+            "costo": 0
+          },
+          {
+            "hora": "12:00",
+            "momento": "almuerzo",
+            "lugar": "Osteria al Duomo, Murano",
+            "plato": "Menú de mariscos",
+            "costo": 75
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Oro Restaurant, Venecia",
+            "plato": "Menú degustación",
+            "costo": 210
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "08:00",
+          "de": "Mestre",
+          "a": "Venezia Santa Lucia",
+          "medio": "Tren regional",
+          "duracion": "12 min",
+          "costo": 1.5
+        },
+        {
+          "niveles": [
+            "economico",
+            "medio"
+          ],
+          "hora": "08:30",
+          "de": "Fondamente Nove",
+          "a": "Murano",
+          "medio": "Vaporetto, pase diario de transporte acuático",
+          "duracion": "20 min",
+          "costo": 25
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "08:30",
+          "de": "Hotel Danieli",
+          "a": "Murano",
+          "medio": "Taxi acuático privado",
+          "duracion": "25 min",
+          "costo": 55
+        },
+        {
+          "niveles": [
+            "economico",
+            "medio"
+          ],
+          "hora": "12:45",
+          "de": "Murano",
+          "a": "Burano",
+          "medio": "Vaporetto incluido en pase diario",
+          "duracion": "40 min",
+          "costo": 0
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "12:45",
+          "de": "Murano",
+          "a": "Burano",
+          "medio": "Taxi acuático privado",
+          "duracion": "30 min",
+          "costo": 65
+        },
+        {
+          "niveles": [
+            "economico",
+            "medio"
+          ],
+          "hora": "17:00",
+          "de": "Burano",
+          "a": "Venecia",
+          "medio": "Vaporetto incluido en pase diario",
+          "duracion": "50 min",
+          "costo": 0
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "17:00",
+          "de": "Burano",
+          "a": "Hotel Danieli",
+          "medio": "Taxi acuático privado",
+          "duracion": "45 min",
+          "costo": 75
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "21:00",
+          "de": "Venecia",
+          "a": "Mestre",
+          "medio": "Tren regional",
+          "duracion": "12 min",
+          "costo": 1.5
+        }
+      ],
+      "planB": "Si hay interrupciones de navegación por mal tiempo, visitar el Museo del Vidrio de Murano si es accesible o permanecer en Venecia y recorrer museos."
+    },
+    {
+      "dia": 13,
+      "titulo": "La Venecia auténtica y última noche italiana",
+      "ciudad": "Venecia",
+      "coords": {
+        "lat": 45.4408,
+        "lng": 12.3155
+      },
+      "resumen": "Último día completo para explorar barrios tradicionales, mercados y despedirse de la gastronomía italiana.",
+      "imagenes": [
+        {
+          "url": "italia-14-dias/canal-de-cannaregio-c5310c.jpg",
+          "alt": "Canal de Cannaregio",
+          "credito": "This Photo was taken by Wolfgang Moroder. Feel free to use my photos, but please",
+          "licencia": "CC BY-SA 3.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Palazzo_Labia_in_Venice_on_Cannaregio_canal.JPG"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "09:00",
+          "nombre": "Mercado de Rialto",
+          "descripcion": "Recorrido por el tradicional mercado veneciano, sujeto a sus días y horarios de funcionamiento.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 45.4385,
+            "lng": 12.3343
+          }
+        },
+        {
+          "hora": "11:00",
+          "nombre": "Barrio de Cannaregio",
+          "descripcion": "Paseo por canales y calles menos turísticas.",
+          "duracion": "1 h 30 min",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 45.4454,
+            "lng": 12.3267
+          }
+        },
+        {
+          "hora": "14:30",
+          "nombre": "Gueto judío de Venecia",
+          "descripcion": "Recorrido respetuoso por uno de los sectores históricos más significativos de la ciudad.",
+          "duracion": "1 h",
+          "costo": 0,
+          "tipo": "cultura",
+          "coords": {
+            "lat": 45.4453,
+            "lng": 12.326
+          }
+        },
+        {
+          "hora": "17:00",
+          "nombre": "Fondamenta della Misericordia",
+          "descripcion": "Paseo de despedida por una zona conocida por sus bares y restaurantes junto al canal.",
+          "duracion": "1 h 30 min",
+          "costo": 0,
+          "tipo": "vida-nocturna",
+          "coords": {
+            "lat": 45.4458,
+            "lng": 12.3332
+          }
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "07:45",
+            "momento": "desayuno",
+            "lugar": "Anda Venice Hostel",
+            "plato": "Café y bollería",
+            "costo": 8
+          },
+          {
+            "hora": "13:00",
+            "momento": "almuerzo",
+            "lugar": "Bacareto da Lele",
+            "plato": "Panini y cicchetti",
+            "costo": 12
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Al Timon",
+            "plato": "Cicchetti variados y bebida",
+            "costo": 22
+          }
+        ],
+        "medio": [
+          {
+            "hora": "07:45",
+            "momento": "desayuno",
+            "lugar": "Hotel L'Orologio Venezia",
+            "plato": "Desayuno del hotel",
+            "costo": 0
+          },
+          {
+            "hora": "13:00",
+            "momento": "almuerzo",
+            "lugar": "Osteria La Zucca",
+            "plato": "Pasta y verduras de temporada",
+            "costo": 35
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Al Timon",
+            "plato": "Carne a la parrilla y antipasti",
+            "costo": 48
+          }
+        ],
+        "alto": [
+          {
+            "hora": "07:45",
+            "momento": "desayuno",
+            "lugar": "Hotel Danieli",
+            "plato": "Desayuno del hotel",
+            "costo": 0
+          },
+          {
+            "hora": "13:00",
+            "momento": "almuerzo",
+            "lugar": "Antiche Carampane",
+            "plato": "Menú de mariscos venecianos",
+            "costo": 95
+          },
+          {
+            "hora": "19:30",
+            "momento": "cena",
+            "lugar": "Glam Enrico Bartolini",
+            "plato": "Cena degustación de despedida",
+            "costo": 240
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "08:15",
+          "de": "Mestre",
+          "a": "Venezia Santa Lucia",
+          "medio": "Tren regional",
+          "duracion": "12 min",
+          "costo": 1.5
+        },
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "20:45",
+          "de": "Venezia Santa Lucia",
+          "a": "Mestre",
+          "medio": "Tren regional",
+          "duracion": "12 min",
+          "costo": 1.5
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "08:15",
+          "de": "Rialto",
+          "a": "Cannaregio",
+          "medio": "Vaporetto",
+          "duracion": "20 min",
+          "costo": 9.5
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "08:15",
+          "de": "Hotel Danieli",
+          "a": "Rialto",
+          "medio": "Taxi acuático privado",
+          "duracion": "15 min",
+          "costo": 35
+        }
+      ],
+      "planB": "En caso de lluvia, visitar Ca' Pesaro o el Museo de Historia Natural de Venecia."
+    },
+    {
+      "dia": 14,
+      "titulo": "Arrivederci, Italia",
+      "ciudad": "Venecia",
+      "coords": {
+        "lat": 45.4408,
+        "lng": 12.3155
+      },
+      "resumen": "Desayuno, últimas compras y traslado al aeropuerto Marco Polo para el vuelo de la tarde.",
+      "imagenes": [
+        {
+          "url": "italia-14-dias/santa-maria-della-salute-2d1289.jpg",
+          "alt": "Santa Maria della Salute",
+          "credito": "This Photo was taken by Wolfgang Moroder. Feel free to use my photos, but please",
+          "licencia": "CC BY-SA 3.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Santa_Maria_della_Salute_from_Hotel_Monaco_nightview.jpg"
+        }
+      ],
+      "actividades": [
+        {
+          "hora": "08:30",
+          "nombre": "Último paseo por Venecia",
+          "descripcion": "Caminata breve por los alrededores del alojamiento antes de salir.",
+          "duracion": "45 min",
+          "costo": 0,
+          "tipo": "descanso",
+          "coords": {
+            "lat": 45.4408,
+            "lng": 12.3155
+          }
+        },
+        {
+          "hora": "09:30",
+          "nombre": "Compras de recuerdos",
+          "descripcion": "Tiempo para comprar pequeños recuerdos o productos gastronómicos.",
+          "duracion": "45 min",
+          "costo": 0,
+          "tipo": "compras",
+          "coords": {
+            "lat": 45.438,
+            "lng": 12.3359
+          }
+        },
+        {
+          "hora": "10:30",
+          "nombre": "Despedida de los canales",
+          "descripcion": "Últimas fotografías junto al Gran Canal.",
+          "duracion": "30 min",
+          "costo": 0,
+          "tipo": "descanso",
+          "coords": {
+            "lat": 45.4375,
+            "lng": 12.335
+          }
+        }
+      ],
+      "comidas": {
+        "economico": [
+          {
+            "hora": "07:30",
+            "momento": "desayuno",
+            "lugar": "Anda Venice Hostel",
+            "plato": "Café y cornetto",
+            "costo": 8
+          },
+          {
+            "hora": "11:15",
+            "momento": "almuerzo",
+            "lugar": "Panadería de Mestre",
+            "plato": "Panino para llevar",
+            "costo": 10
+          }
+        ],
+        "medio": [
+          {
+            "hora": "07:30",
+            "momento": "desayuno",
+            "lugar": "Hotel L'Orologio Venezia",
+            "plato": "Desayuno del hotel",
+            "costo": 0
+          },
+          {
+            "hora": "11:15",
+            "momento": "almuerzo",
+            "lugar": "Cafetería de Venezia Santa Lucia",
+            "plato": "Panino y bebida",
+            "costo": 18
+          }
+        ],
+        "alto": [
+          {
+            "hora": "07:30",
+            "momento": "desayuno",
+            "lugar": "Hotel Danieli",
+            "plato": "Desayuno del hotel",
+            "costo": 0
+          },
+          {
+            "hora": "11:15",
+            "momento": "almuerzo",
+            "lugar": "Hotel Danieli",
+            "plato": "Almuerzo ligero antes del vuelo",
+            "costo": 55
+          }
+        ]
+      },
+      "traslados": [
+        {
+          "niveles": [
+            "economico"
+          ],
+          "hora": "12:00",
+          "de": "Mestre",
+          "a": "Aeropuerto Marco Polo",
+          "medio": "Autobús aeroportuario",
+          "duracion": "25 min",
+          "costo": 10
+        },
+        {
+          "niveles": [
+            "medio"
+          ],
+          "hora": "12:00",
+          "de": "Venecia",
+          "a": "Aeropuerto Marco Polo",
+          "medio": "Alilaguna",
+          "duracion": "1 h 15 min",
+          "costo": 15
+        },
+        {
+          "niveles": [
+            "alto"
+          ],
+          "hora": "12:00",
+          "de": "Hotel Danieli",
+          "a": "Aeropuerto Marco Polo",
+          "medio": "Taxi acuático privado compartido",
+          "duracion": "35 min",
+          "costo": 55
+        }
+      ],
+      "planB": "Si el vuelo sale temprano, cancelar las actividades de la mañana y priorizar el traslado al aeropuerto con al menos tres horas de anticipación."
+    }
+  ],
+  "presupuesto": {
+    "notas": "Por persona, en habitación doble compartida (cama en dormitorio en económico). Vuelos y seguro en dólares; lo demás en euros. Los traslados privados se dividen entre cuatro viajeros. Precios de noviembre de 2026 para mayo de 2028.",
+    "categorias": [
+      {
+        "categoria": "vuelos",
+        "descripcion": "Boleto multidestino Medellín–Roma y Venecia–Medellín en económica.",
+        "moneda": "USD",
+        "economico": 950,
+        "medio": 1250,
+        "alto": 2800
+      },
+      {
+        "categoria": "seguro",
+        "descripcion": "Seguro de asistencia internacional por 14 días, con diferentes coberturas. Se recomienda cobertura médica mínima de 30000 € y repatriación.",
+        "moneda": "USD",
+        "economico": 45,
+        "medio": 85,
+        "alto": 160
+      },
+      {
+        "categoria": "visa",
+        "descripcion": "Colombianos no necesitan visa Schengen; se reservan 20 € para la autorización ETIAS si ya es obligatoria.",
+        "moneda": "local",
+        "economico": 20,
+        "medio": 20,
+        "alto": 20
+      },
+      {
+        "categoria": "conectividad",
+        "descripcion": "eSIM de datos móviles para Italia o Europa durante el viaje.",
+        "moneda": "local",
+        "economico": 20,
+        "medio": 35,
+        "alto": 65
+      },
+      {
+        "categoria": "compras",
+        "descripcion": "Recuerdos, productos italianos y regalos.",
+        "moneda": "local",
+        "economico": 70,
+        "medio": 180,
+        "alto": 650
+      },
+      {
+        "categoria": "extras",
+        "descripcion": "Imprevistos, lavandería, pequeños consumos y la tasa de acceso a Venecia si aplica.",
+        "moneda": "local",
+        "economico": 100,
+        "medio": 220,
+        "alto": 500
+      }
+    ]
+  },
+  "alojamiento": [
+    {
+      "ciudad": "Roma",
+      "noches": [
+        1,
+        2,
+        3
+      ],
+      "economico": {
+        "nombre": "The RomeHello",
+        "zona": "Repubblica y Termini",
+        "tipo": "Hostal",
+        "precioNoche": 48,
+        "incluye": "Cama en dormitorio compartido, wifi y acceso a instalaciones comunes.",
+        "descripcion": "Hostal céntrico con ambiente social y acceso cómodo al transporte público.",
+        "link": "https://www.theromehello.com/"
+      },
+      "medio": {
+        "nombre": "Hotel Artemide",
+        "zona": "Via Nazionale",
+        "tipo": "Hotel de 4 estrellas",
+        "precioNoche": 125,
+        "incluye": "Desayuno.",
+        "descripcion": "Hotel de categoría superior en una ubicación práctica para recorrer Roma.",
+        "link": "https://www.hotelartemide.it/"
+      },
+      "alto": {
+        "nombre": "Hotel de Russie",
+        "zona": "Piazza del Popolo",
+        "tipo": "Hotel de lujo",
+        "precioNoche": 520,
+        "incluye": "Desayuno.",
+        "descripcion": "Hotel exclusivo con jardín interior, instalaciones de bienestar y ubicación privilegiada.",
+        "link": "https://www.roccofortehotels.com/hotels-and-resorts/hotel-de-russie/"
+      }
+    },
+    {
+      "ciudad": "Nápoles",
+      "noches": [
+        4,
+        5,
+        6
+      ],
+      "economico": {
+        "nombre": "Hostel of the Sun",
+        "zona": "Porto",
+        "tipo": "Hostal",
+        "precioNoche": 35,
+        "incluye": "Cama en dormitorio compartido y desayuno sencillo.",
+        "descripcion": "Alojamiento económico cerca del puerto y con ambiente social.",
+        "link": "https://www.hostelofthesun.com/"
+      },
+      "medio": {
+        "nombre": "Hotel Piazza Bellini",
+        "zona": "Centro histórico",
+        "tipo": "Hotel",
+        "precioNoche": 95,
+        "incluye": "Desayuno.",
+        "descripcion": "Hotel con ubicación central para recorrer a pie el casco histórico.",
+        "link": "https://www.hotelpiazzabellini.com/"
+      },
+      "alto": {
+        "nombre": "Grand Hotel Vesuvio",
+        "zona": "Lungomare",
+        "tipo": "Hotel de lujo",
+        "precioNoche": 320,
+        "incluye": "Desayuno.",
+        "descripcion": "Hotel histórico frente al golfo de Nápoles, con vistas hacia el Vesubio.",
+        "link": "https://www.vesuvio.it/"
+      }
+    },
+    {
+      "ciudad": "Florencia",
+      "noches": [
+        7,
+        8,
+        9
+      ],
+      "economico": {
+        "nombre": "PLUS Florence",
+        "zona": "San Lorenzo",
+        "tipo": "Hostal",
+        "precioNoche": 42,
+        "incluye": "Cama en dormitorio compartido, wifi y acceso a instalaciones comunes.",
+        "descripcion": "Hostal grande con instalaciones sociales y buena conexión con la estación ferroviaria.",
+        "link": "https://www.plushostels.com/"
+      },
+      "medio": {
+        "nombre": "Hotel Spadai",
+        "zona": "Duomo",
+        "tipo": "Hotel de 4 estrellas",
+        "precioNoche": 155,
+        "incluye": "Desayuno.",
+        "descripcion": "Hotel céntrico situado a pocos pasos de la catedral de Florencia.",
+        "link": "https://www.hotelspadai.it/"
+      },
+      "alto": {
+        "nombre": "Four Seasons Hotel Firenze",
+        "zona": "Centro de Florencia",
+        "tipo": "Hotel de lujo",
+        "precioNoche": 650,
+        "incluye": "Desayuno.",
+        "descripcion": "Hotel de lujo ubicado en edificios históricos y rodeado de jardines privados.",
+        "link": "https://www.fourseasons.com/florence/"
+      }
+    },
+    {
+      "ciudad": "Venecia",
+      "noches": [
+        10,
+        11,
+        12,
+        13
+      ],
+      "economico": {
+        "nombre": "Anda Venice Hostel",
+        "zona": "Mestre",
+        "tipo": "Hostal",
+        "precioNoche": 38,
+        "incluye": "Cama en dormitorio compartido y wifi.",
+        "descripcion": "Hostal moderno en Mestre, cerca de la estación ferroviaria. Requiere desplazamientos diarios a Venecia.",
+        "link": "https://www.andavenice.com/"
+      },
+      "medio": {
+        "nombre": "Hotel L'Orologio Venezia",
+        "zona": "Rialto",
+        "tipo": "Hotel de 4 estrellas",
+        "precioNoche": 195,
+        "incluye": "Desayuno.",
+        "descripcion": "Hotel elegante en el centro histórico, junto al Gran Canal.",
+        "link": "https://www.hotelorologiovenezia.com/"
+      },
+      "alto": {
+        "nombre": "Hotel Danieli",
+        "zona": "San Marco",
+        "tipo": "Hotel de lujo",
+        "precioNoche": 750,
+        "incluye": "Desayuno.",
+        "descripcion": "Hotel histórico de lujo junto a la laguna y cerca del Palacio Ducal.",
+        "link": "https://www.hoteldanieli.com/"
+      }
+    }
+  ],
+  "comida": {
+    "platosTipicos": [
+      {
+        "nombre": "Pizza napolitana",
+        "descripcion": "Pizza originaria de Nápoles, con masa de fermentación prolongada, bordes aireados, tomate y mozzarella.",
+        "precioAprox": 10
+      },
+      {
+        "nombre": "Pasta alla carbonara",
+        "descripcion": "Especialidad romana preparada tradicionalmente con pasta, huevo, pecorino romano, guanciale y pimienta negra.",
+        "precioAprox": 17
+      },
+      {
+        "nombre": "Bistecca alla fiorentina",
+        "descripcion": "Corte grueso de carne de res típico de Toscana, generalmente preparado a la parrilla y servido poco hecho.",
+        "precioAprox": 55
+      },
+      {
+        "nombre": "Risotto al nero di seppia",
+        "descripcion": "Arroz cremoso preparado con tinta de sepia, característico de la cocina de la región veneciana.",
+        "precioAprox": 24
+      },
+      {
+        "nombre": "Gelato artigianale",
+        "descripcion": "Helado italiano artesanal elaborado con leche, frutas, frutos secos y otros ingredientes según el sabor.",
+        "precioAprox": 4
+      },
+      {
+        "nombre": "Tiramisù",
+        "descripcion": "Postre italiano elaborado con bizcochos remojados en café, mascarpone, huevos y cacao.",
+        "precioAprox": 8
+      }
+    ]
+  },
+  "infoPractica": {
+    "visa": {
+      "requiere": false,
+      "tipo": "Exención de visado Schengen para turismo de corta duración",
+      "detalle": "Los colombianos entran al espacio Schengen sin visa hasta 90 días en 180. El pasaporte debe tener vigencia de al menos tres meses tras la salida, y pueden pedir alojamiento, tiquete de salida, seguro y fondos. ETIAS es una autorización en línea, no una visa.",
+      "link": "https://travel-europe.europa.eu/etias"
+    },
+    "clima": [
+      {
+        "mes": 1,
+        "tempMin": 3,
+        "tempMax": 12,
+        "lluviaMm": 75
+      },
+      {
+        "mes": 2,
+        "tempMin": 4,
+        "tempMax": 13,
+        "lluviaMm": 70
+      },
+      {
+        "mes": 3,
+        "tempMin": 7,
+        "tempMax": 17,
+        "lluviaMm": 65
+      },
+      {
+        "mes": 4,
+        "tempMin": 10,
+        "tempMax": 20,
+        "lluviaMm": 65
+      },
+      {
+        "mes": 5,
+        "tempMin": 14,
+        "tempMax": 24,
+        "lluviaMm": 55
+      },
+      {
+        "mes": 6,
+        "tempMin": 18,
+        "tempMax": 28,
+        "lluviaMm": 40
+      },
+      {
+        "mes": 7,
+        "tempMin": 21,
+        "tempMax": 31,
+        "lluviaMm": 25
+      },
+      {
+        "mes": 8,
+        "tempMin": 21,
+        "tempMax": 31,
+        "lluviaMm": 35
+      },
+      {
+        "mes": 9,
+        "tempMin": 17,
+        "tempMax": 27,
+        "lluviaMm": 65
+      },
+      {
+        "mes": 10,
+        "tempMin": 13,
+        "tempMax": 22,
+        "lluviaMm": 95
+      },
+      {
+        "mes": 11,
+        "tempMin": 8,
+        "tempMax": 16,
+        "lluviaMm": 110
+      },
+      {
+        "mes": 12,
+        "tempMin": 4,
+        "tempMax": 12,
+        "lluviaMm": 90
+      }
+    ],
+    "vacunas": [
+      "No existe un requisito general de vacunación específico para turistas que llegan desde Colombia a Italia en circunstancias ordinarias.",
+      "Mantener actualizado el esquema habitual de vacunación, especialmente sarampión, rubéola y tétanos.",
+      "La vacunación contra hepatitis A puede valorarse según antecedentes y recomendaciones médicas.",
+      "La vacuna contra fiebre amarilla no se exige habitualmente para ingresar a Italia desde Colombia.",
+      "Revisar las recomendaciones sanitarias oficiales antes de viajar, porque los requisitos pueden cambiar."
+    ],
+    "seguridad": "Italia es generalmente un destino turístico seguro. Los principales riesgos para visitantes son hurtos oportunistas, carteristas y estafas en áreas concurridas. Prestar especial atención en Roma Termini, metro de Roma, estaciones ferroviarias, transporte público de Nápoles y zonas turísticas de Venecia. El número europeo de emergencias es 112. Evitar dejar equipaje sin vigilancia y utilizar servicios de transporte autorizados.",
+    "enchufe": {
+      "tipo": "C, F y L",
+      "voltaje": "230 V, 50 Hz",
+      "necesitaAdaptador": true
+    },
+    "propinas": "No son obligatorias. En restaurantes puede existir un cargo por cubierto denominado coperto, que no equivale necesariamente a una propina. Se puede dejar una cantidad pequeña por buen servicio, sin que sea indispensable.",
+    "idioma": "El idioma oficial es el italiano. El inglés se utiliza en numerosos establecimientos turísticos, pero no debe suponerse que todos los empleados lo hablan. Conocer expresiones básicas en italiano facilita las interacciones.",
+    "conectividad": "Italia dispone de redes móviles 4G y 5G y amplia cobertura wifi en alojamientos. Una eSIM europea permite activar datos antes de aterrizar. Es recomendable descargar mapas sin conexión y comprobar que el teléfono sea compatible con eSIM. La cobertura puede variar en zonas montañosas y algunos tramos de la Costa Amalfitana.",
+    "transporteLocal": "Los trenes de Trenitalia e Italo son adecuados para conectar las principales ciudades. En Roma se utiliza metro, autobús y tranvía. En Nápoles funcionan metro, trenes suburbanos y Circumvesuviana. Florencia se recorre principalmente a pie, con tranvía y autobuses. En Venecia el transporte acuático principal es el vaporetto; Mestre está conectado mediante trenes y autobuses. Los boletos de transporte deben validarse cuando corresponda.",
+    "frases": [
+      {
+        "es": "Hola, buenos días",
+        "local": "Buongiorno",
+        "pronunciacion": "Buon-yór-no"
+      },
+      {
+        "es": "Buenas noches",
+        "local": "Buonasera",
+        "pronunciacion": "Buona-sé-ra"
+      },
+      {
+        "es": "Por favor",
+        "local": "Per favore",
+        "pronunciacion": "Per fa-vó-re"
+      },
+      {
+        "es": "Muchas gracias",
+        "local": "Grazie mille",
+        "pronunciacion": "Grát-sie mí-le"
+      },
+      {
+        "es": "¿Cuánto cuesta?",
+        "local": "Quanto costa?",
+        "pronunciacion": "Cuán-to cós-ta"
+      },
+      {
+        "es": "¿Dónde está la estación?",
+        "local": "Dov'è la stazione?",
+        "pronunciacion": "Do-vé la stat-sió-ne"
+      },
+      {
+        "es": "Quisiera una mesa para cuatro",
+        "local": "Vorrei un tavolo per quattro",
+        "pronunciacion": "Vo-rréi un tá-vo-lo per cuát-tro"
+      },
+      {
+        "es": "La cuenta, por favor",
+        "local": "Il conto, per favore",
+        "pronunciacion": "Il cón-to per fa-vó-re"
+      }
+    ],
+    "apps": [
+      {
+        "nombre": "Trenitalia",
+        "para": "Consultar horarios, comprar boletos ferroviarios y gestionar reservas."
+      },
+      {
+        "nombre": "Italo Treno",
+        "para": "Comparar y reservar trenes de alta velocidad."
+      },
+      {
+        "nombre": "Google Maps",
+        "para": "Navegación urbana, rutas peatonales y transporte público."
+      },
+      {
+        "nombre": "Moovit",
+        "para": "Planificar desplazamientos urbanos en transporte público."
+      },
+      {
+        "nombre": "Google Translate",
+        "para": "Traducir italiano y descargar idiomas para uso sin conexión."
+      },
+      {
+        "nombre": "Free Now",
+        "para": "Solicitar taxis donde el servicio esté disponible."
+      }
+    ],
+    "consejos": [
+      "Comprar entradas oficiales para Coliseo, Museos Vaticanos, Uffizi y Academia con anticipación.",
+      "Reservar los trenes de alta velocidad con varios meses de antelación cuando se habilite la venta.",
+      "Viajar con equipaje ligero porque hay escaleras, calles empedradas y puentes en varias ciudades.",
+      "Llevar calzado cómodo para caminar entre 10 y 18 kilómetros diarios.",
+      "Comprobar el calendario de museos, ya que algunos cierran determinados lunes o festivos.",
+      "Llevar una tarjeta internacional con bajas comisiones por cambio de moneda.",
+      "No aceptar conversiones automáticas a pesos colombianos en datáfonos; normalmente conviene pagar en euros.",
+      "Venecia cobra una tasa de acceso a visitantes de un día en fechas punta; los huéspedes alojados están exentos.",
+      "Consultar las condiciones de acceso al Vesubio antes de reservar la excursión.",
+      "Evitar entrar con vehículos alquilados a zonas ZTL de centros históricos sin autorización.",
+      "Confirmar los horarios de los ferris de la Costa Amalfitana, sujetos a temporada y meteorología.",
+      "Consultar si los restaurantes de alta cocina requieren reserva con semanas o meses de anticipación."
+    ],
+    "estafas": [
+      "Personas que ofrecen pulseras o regalos aparentemente gratuitos y después exigen dinero.",
+      "Falsos ayudantes de compra de boletos en estaciones ferroviarias.",
+      "Restaurantes turísticos sin precios claramente expuestos.",
+      "Taxis no autorizados que ofrecen tarifas excesivas.",
+      "Carteristas que aprovechan aglomeraciones en metro, trenes y monumentos.",
+      "Páginas falsas que revenden entradas a monumentos con recargos elevados."
+    ],
+    "checklist": [
+      "Pasaporte colombiano válido y en buen estado.",
+      "Verificación de condiciones Schengen y posible autorización ETIAS para 2028.",
+      "Boletos aéreos de ida y regreso o salida del espacio Schengen.",
+      "Reservas de alojamiento para las 13 noches.",
+      "Seguro de viaje con cobertura médica internacional.",
+      "Tarjetas bancarias habilitadas para compras internacionales.",
+      "Dinero en efectivo en euros para pequeños gastos.",
+      "Adaptador eléctrico compatible con enchufes italianos.",
+      "eSIM o plan de datos internacionales.",
+      "Entradas reservadas para los principales monumentos.",
+      "Boletos ferroviarios interurbanos.",
+      "Calzado cómodo y ropa adecuada para primavera.",
+      "Copias digitales de documentos y reservas.",
+      "Medicamentos personales en sus envases originales y fórmula médica cuando corresponda."
+    ]
+  },
+  "fuentes": [
+    {
+      "titulo": "Italia.it - Portal oficial de turismo de Italia",
+      "url": "https://www.italia.it/"
+    },
+    {
+      "titulo": "Unión Europea - ETIAS y requisitos de viaje",
+      "url": "https://travel-europe.europa.eu/etias"
+    },
+    {
+      "titulo": "Ministerio de Asuntos Exteriores de Italia - Visados",
+      "url": "https://vistoperitalia.esteri.it/"
+    },
+    {
+      "titulo": "Trenitalia - Ferrocarriles italianos",
+      "url": "https://www.trenitalia.com/"
+    },
+    {
+      "titulo": "Parque Arqueológico del Coliseo",
+      "url": "https://colosseo.it/"
+    },
+    {
+      "titulo": "Museos Vaticanos",
+      "url": "https://www.museivaticani.va/"
+    },
+    {
+      "titulo": "Galerías Uffizi",
+      "url": "https://www.uffizi.it/"
+    },
+    {
+      "titulo": "Parque Arqueológico de Pompeya",
+      "url": "https://pompeiisites.org/"
+    }
+  ]
+}
