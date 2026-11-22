@@ -3993,32 +3993,74 @@
       {
         "nombre": "Pato pekinés",
         "descripcion": "Pato asado de piel crujiente servido con tortillas finas, cebollín, pepino y salsa dulce. Especialidad emblemática de Pekín.",
-        "precioAprox": 160
+        "precioAprox": 160,
+        "imagen": {
+          "url": "china-14-dias/pato-pekines-80ae19.jpg",
+          "alt": "Pato pekinés",
+          "credito": "Fumikas Sagisavas",
+          "licencia": "CC0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Peking_duck_slices.jpg"
+        }
       },
       {
         "nombre": "Xiaolongbao",
         "descripcion": "Pequeños dumplings rellenos de carne y caldo caliente, característicos de la gastronomía de Shanghái.",
-        "precioAprox": 45
+        "precioAprox": 45,
+        "imagen": {
+          "url": "china-14-dias/xiaolongbao-6d0ec2.jpg",
+          "alt": "Xiaolongbao",
+          "credito": "Darrylsnow",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Xiaolongbao-breakfast.jpg"
+        }
       },
       {
         "nombre": "Mapo tofu",
         "descripcion": "Tofu suave en salsa picante con pimienta de Sichuan y carne picada, famoso por su combinación de picor y sensación de hormigueo.",
-        "precioAprox": 48
+        "precioAprox": 48,
+        "imagen": {
+          "url": "china-14-dias/mapo-tofu-8455da.jpg",
+          "alt": "Mapo tofu",
+          "credito": "Sichuanfoodlover",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Authentic_Mapo_Tofu.jpg"
+        }
       },
       {
         "nombre": "Hot pot de Sichuan",
         "descripcion": "Caldo caliente y especiado en el que se cocinan carnes, vegetales, hongos y otros ingredientes directamente en la mesa.",
-        "precioAprox": 130
+        "precioAprox": 130,
+        "imagen": {
+          "url": "china-14-dias/hot-pot-de-sichuan-c6e2cc.jpg",
+          "alt": "Hot pot de Sichuan",
+          "credito": "Breaknet2025",
+          "licencia": "CC BY 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Chengdu_Hot_Pot_Yuanyangguo_style_2019.jpg"
+        }
       },
       {
         "nombre": "Roujiamo",
         "descripcion": "Pan plano relleno de carne de cerdo cocinada lentamente con especias. Es una de las comidas callejeras más representativas de Xi'an.",
-        "precioAprox": 20
+        "precioAprox": 20,
+        "imagen": {
+          "url": "china-14-dias/roujiamo-9f1ea1.jpg",
+          "alt": "Roujiamo",
+          "credito": "Gary Soup",
+          "licencia": "CC BY 2.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Roujiamo.jpg"
+        }
       },
       {
         "nombre": "Biangbiang mian",
         "descripcion": "Fideos anchos y artesanales típicos de Shaanxi, acompañados de aceite picante, ajo y condimentos.",
-        "precioAprox": 35
+        "precioAprox": 35,
+        "imagen": {
+          "url": "china-14-dias/fideos-biangbiang-5b916e.jpg",
+          "alt": "Fideos biangbiang",
+          "credito": "N509FZ",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Biang_Biang_Noodles_at_Qintangyizhan,_Tianzhu,_Beijing_(20200412133323).jpg"
+        }
       }
     ]
   },

@@ -1994,7 +1994,14 @@
       {
         "nombre": "Matcha",
         "descripcion": "Té verde en polvo batido, servido con un dulce wagashi. En Kioto lo encuentras también en helado y postres.",
-        "precioAprox": 800
+        "precioAprox": 800,
+        "imagen": {
+          "url": "japon-clasico-10-dias/te-matcha-711725.jpg",
+          "alt": "Té matcha",
+          "credito": "Pinnaclematcha",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Matcha_tea_in_bowl.jpg"
+        }
       }
     ]
   },

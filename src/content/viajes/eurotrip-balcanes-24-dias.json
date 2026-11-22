@@ -5357,32 +5357,74 @@
       {
         "nombre": "Currywurst",
         "descripcion": "Salchicha alemana cortada y servida con salsa de tomate especiada y curry. Muy popular en Berlín.",
-        "precioAprox": 10
+        "precioAprox": 10,
+        "imagen": {
+          "url": "eurotrip-balcanes-24-dias/currywurst-con-papas-b29386.jpg",
+          "alt": "Currywurst con papas",
+          "credito": "Superbass",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Curryking-4612.jpg"
+        }
       },
       {
         "nombre": "Svíčková",
         "descripcion": "Plato tradicional checo de carne con salsa cremosa de vegetales y dumplings de pan.",
-        "precioAprox": 17
+        "precioAprox": 17,
+        "imagen": {
+          "url": "eurotrip-balcanes-24-dias/svickova-918c1f.jpg",
+          "alt": "Svíčková",
+          "credito": "V0lkanic",
+          "licencia": "CC BY 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Sv%C3%AD%C4%8Dkov%C3%A1_2026.jpg"
+        }
       },
       {
         "nombre": "Gulash húngaro",
         "descripcion": "Guiso o sopa de carne condimentado con pimentón, característico de Hungría.",
-        "precioAprox": 16
+        "precioAprox": 16,
+        "imagen": {
+          "url": "eurotrip-balcanes-24-dias/gulash-hungaro-613e69.jpg",
+          "alt": "Gulash húngaro",
+          "credito": "gran",
+          "licencia": "CC BY 3.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Goulash_step_3.jpg"
+        }
       },
       {
         "nombre": "Ćevapi",
         "descripcion": "Pequeñas porciones de carne picada a la parrilla, acompañadas de pan y cebolla. Muy comunes en Bosnia y otros países balcánicos.",
-        "precioAprox": 12
+        "precioAprox": 12,
+        "imagen": {
+          "url": "eurotrip-balcanes-24-dias/cevapi-con-pan-y-cebolla-2c3286.jpg",
+          "alt": "Ćevapi con pan y cebolla",
+          "credito": "amanderson2",
+          "licencia": "CC BY 2.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Cevapcici_Bosnia_(10675837796).jpg"
+        }
       },
       {
         "nombre": "Tavë kosi",
         "descripcion": "Plato albanés preparado tradicionalmente con cordero, arroz y yogur horneado.",
-        "precioAprox": 15
+        "precioAprox": 15,
+        "imagen": {
+          "url": "eurotrip-balcanes-24-dias/tave-kosi-cba227.jpg",
+          "alt": "Tavë kosi",
+          "credito": "E4024",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Elbasan_tava.jpg"
+        }
       },
       {
         "nombre": "Tavče gravče",
         "descripcion": "Especialidad macedonia de frijoles cocinados y horneados en recipiente de barro.",
-        "precioAprox": 13
+        "precioAprox": 13,
+        "imagen": {
+          "url": "eurotrip-balcanes-24-dias/tavce-gravce-e357de.jpg",
+          "alt": "Tavče gravče",
+          "credito": "Oliver Manev",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:%D0%93%D1%80%D0%B0%D0%B2_%D0%B2%D0%BE_%D1%82%D0%B0%D0%B2%D0%B0(%D1%82%D0%B0%D1%84%D1%87%D0%B5_%D0%B3%D1%80%D0%B0%D0%B2%D1%87%D0%B5)_(3).jpg"
+        }
       }
     ]
   },

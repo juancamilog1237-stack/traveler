@@ -43,7 +43,7 @@ export function formato(monto: number, moneda: Moneda, v: Viaje, compacto = fals
   const codigo = moneda === 'local' ? v.moneda.codigo : moneda;
   const decimales = codigo === 'USD' || codigo === 'EUR' || codigo === 'GBP' ? (monto < 100 ? 2 : 0) : 0;
   if (compacto && codigo === 'COP' && monto >= 1_000_000) {
-    return `$${(monto / 1_000_000).toLocaleString('es-CO', { maximumFractionDigits: 1 })} M COP`;
+    return `$${(monto / 1_000_000).toLocaleString('es-CO', { maximumFractionDigits: 1 })} millones`;
   }
   return new Intl.NumberFormat('es-CO', { style: 'currency', currency: codigo, maximumFractionDigits: decimales, minimumFractionDigits: 0, currencyDisplay: codigo === 'USD' ? 'symbol' : 'narrowSymbol' }).format(monto) + (codigo === 'COP' ? ' COP' : '');
 }

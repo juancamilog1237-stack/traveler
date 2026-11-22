@@ -14,7 +14,7 @@ const planes = NIVELES.map(({ id, label }) => {
       <button type="button" class="plan" data-valor={p.id} aria-pressed={p.id === 'medio' ? 'true' : 'false'} data-reveal>
         <span class="nombre">{p.label}</span>
         <span class="total num">{formato(p.total, 'COP', v, true)}</span>
-        <span class="dia num">${Math.round(p.dia / 1000).toLocaleString('es-CO')} mil / día</span>
+        <span class="dia num">Por persona · ${(Math.round(p.dia / 1000) * 1000).toLocaleString('es-CO')} al día</span>
         <span class="tipos">{p.tipos}</span>
       </button>
     ))}

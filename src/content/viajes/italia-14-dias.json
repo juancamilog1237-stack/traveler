@@ -3368,32 +3368,74 @@
       {
         "nombre": "Pizza napolitana",
         "descripcion": "Pizza originaria de Nápoles, con masa de fermentación prolongada, bordes aireados, tomate y mozzarella.",
-        "precioAprox": 10
+        "precioAprox": 10,
+        "imagen": {
+          "url": "italia-14-dias/pizza-napolitana-97bbe3.jpg",
+          "alt": "Pizza napolitana",
+          "credito": "myself",
+          "licencia": "CC0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Pizza_Napoli_Brandi.jpeg"
+        }
       },
       {
         "nombre": "Pasta alla carbonara",
         "descripcion": "Especialidad romana preparada tradicionalmente con pasta, huevo, pecorino romano, guanciale y pimienta negra.",
-        "precioAprox": 17
+        "precioAprox": 17,
+        "imagen": {
+          "url": "italia-14-dias/pasta-a-la-carbonara-7bba46.jpg",
+          "alt": "Pasta a la carbonara",
+          "credito": "Tamorlan",
+          "licencia": "CC BY-SA 3.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Spaghetti_alla_Carbonara_(Madrid).JPG"
+        }
       },
       {
         "nombre": "Bistecca alla fiorentina",
         "descripcion": "Corte grueso de carne de res típico de Toscana, generalmente preparado a la parrilla y servido poco hecho.",
-        "precioAprox": 55
+        "precioAprox": 55,
+        "imagen": {
+          "url": "italia-14-dias/bistecca-alla-fiorentina-c72ef1.jpg",
+          "alt": "Bistecca alla fiorentina",
+          "credito": "Tomascastelazo",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Three-course_meal_including_Bistecca_alla_fiorentina_(Bistec_a_la_fiorentina).jpg"
+        }
       },
       {
         "nombre": "Risotto al nero di seppia",
         "descripcion": "Arroz cremoso preparado con tinta de sepia, característico de la cocina de la región veneciana.",
-        "precioAprox": 24
+        "precioAprox": 24,
+        "imagen": {
+          "url": "italia-14-dias/risotto-al-nero-de-sepia-0e144d.jpg",
+          "alt": "Risotto al nero de sepia",
+          "credito": "Micaela &amp; Massimo",
+          "licencia": "CC BY 2.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Risotto_al_nero_di_seppia.jpg"
+        }
       },
       {
         "nombre": "Gelato artigianale",
         "descripcion": "Helado italiano artesanal elaborado con leche, frutas, frutos secos y otros ingredientes según el sabor.",
-        "precioAprox": 4
+        "precioAprox": 4,
+        "imagen": {
+          "url": "italia-14-dias/gelato-artesanal-376131.jpg",
+          "alt": "Gelato artesanal",
+          "credito": "Basilicofresco",
+          "licencia": "CC BY-SA 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Gelato_artigianale_italiano,_Bertinelli.jpg"
+        }
       },
       {
         "nombre": "Tiramisù",
         "descripcion": "Postre italiano elaborado con bizcochos remojados en café, mascarpone, huevos y cacao.",
-        "precioAprox": 8
+        "precioAprox": 8,
+        "imagen": {
+          "url": "italia-14-dias/tiramisu-373303.jpg",
+          "alt": "Tiramisú",
+          "credito": "Anna.Massini",
+          "licencia": "CC BY 4.0",
+          "fuente": "https://commons.wikimedia.org/wiki/File:Dolce_Tiramis%C3%B9_monoporzione.jpg"
+        }
       }
     ]
   },
